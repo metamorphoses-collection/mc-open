@@ -1,0 +1,511 @@
+{
+  "title": "Le Livre Fractal — Self-Similar Coastline",
+  "target_property": "self_similar_graph",
+  "mechanism": "hierarchical_circulant_C5_x_C10",
+  "description": "Self-similar graph: inter-chapter structure (cycle C5) mirrors intra-chapter structure (circulant C(10,{1,2})). Each chapter is a miniature of the whole book. 5 macro-threads control chapter identity (adjacent chapters share 1 macro). 10 micro-threads control intra-chapter position (sliding window, step 1, width 3). Each page: 2 macro + 3 micro = 5 threads.",
+  "fractal_property": "The graph at PAGE resolution within each chapter has the same circulant topology as the graph at CHAPTER resolution across the whole book. Zoom into any chapter and you see the same structure as the whole.",
+  "literary_conceit": "Mandelbrot meets Nithard. The coastline of France at every scale. Three voices: Nithard (the mapmaker), Pascal (the measurer), the Professor (the fractal theorist).",
+  "macro_threads": [
+    {"id": "COASTLINE", "domain": "Shores, borders, littoral, land-sea boundary, edge measurement"},
+    {"id": "SCALE", "domain": "Resolution, zoom, magnification, detail level, coarse vs fine"},
+    {"id": "FRACTAL", "domain": "Self-similarity, Mandelbrot, recursion, iteration, fractal dimension"},
+    {"id": "CARTOGRAPHY", "domain": "Maps, charts, projection, territory vs representation"},
+    {"id": "TIDE", "domain": "Rhythm, erosion, cycle, ebb and flow, lunar pull"}
+  ],
+  "micro_threads": [
+    {"id": "GRANITE", "index": 0, "domain": "Stone, cliff, bedrock, Breton hardness, permanence"},
+    {"id": "KELP", "index": 1, "domain": "Seaweed, marine biology, underwater forest, biomass"},
+    {"id": "COMPASS", "index": 2, "domain": "Direction, bearing, true north, instrument, orientation"},
+    {"id": "STORM", "index": 3, "domain": "Tempest, chaos, shipwreck, atmospheric fury, turbulence"},
+    {"id": "CHALK", "index": 4, "domain": "White cliff, calcium, Normandy bluffs, erosion, Dover"},
+    {"id": "SALT", "index": 5, "domain": "Ocean mineral, brine, preservation, saline, taste of sea"},
+    {"id": "DUNE", "index": 6, "domain": "Sand hill, wind-shaped, shifting, Arcachon, Pilat"},
+    {"id": "ANCHOR", "index": 7, "domain": "Mooring, harbor, weight, departure, stability"},
+    {"id": "SEXTANT", "index": 8, "domain": "Angle measurement, stellar navigation, precision tool"},
+    {"id": "VESSEL", "index": 9, "domain": "Ship, boat, hull, seafaring craft, voyage"}
+  ],
+  "chapter_macro_assignments": {
+    "Ch1_The_Whole_Coastline": ["COASTLINE", "SCALE"],
+    "Ch2_Brittany": ["SCALE", "FRACTAL"],
+    "Ch3_Normandy": ["FRACTAL", "CARTOGRAPHY"],
+    "Ch4_The_Mediterranean": ["CARTOGRAPHY", "TIDE"],
+    "Ch5_The_Atlantic": ["TIDE", "COASTLINE"]
+  },
+  "micro_offsets": {
+    "Ch1": 0,
+    "Ch2": 8,
+    "Ch3": 6,
+    "Ch4": 4,
+    "Ch5": 2
+  },
+  "micro_formula": "Page at position i (0-indexed) in chapter with offset o gets micro-threads: {micro[(i+o)%10], micro[(i+o+1)%10], micro[(i+o+2)%10]}",
+  "N": 50,
+  "num_macro_threads": 5,
+  "num_micro_threads": 10,
+  "total_threads": 15,
+  "threads_per_page": 5,
+  "edge_criterion": "overlap >= 3 of 5 (cosine sim > 0.78 with E5-large)",
+  "within_chapter_adjacent_overlap": "4 (2 macro + 2 micro)",
+  "within_chapter_dist2_overlap": "3 (2 macro + 1 micro)",
+  "within_chapter_dist3plus_overlap": "2 (2 macro + 0 micro)",
+  "cross_chapter_boundary_overlap": "3 (1 macro + 2 micro)",
+  "cross_nonadjacent_chapter_max": "3 (0 macro + 3 micro, suppressed by writing style)",
+  "recommended_k": 8,
+  "recommended_threshold": 0.78,
+  "voices": {
+    "Nithard": "The mapmaker, the walker of shores, first-person witness",
+    "Pascal": "The measurer, the calculator, the paradox of infinity in the finite",
+    "Professor": "The fractal theorist, Mandelbrot's heir, the one who sees the pattern"
+  },
+  "chapter_structure": {
+    "Ch1": "The whole coastline of France — the view from space, the question: how long is it?",
+    "Ch2": "Brittany — granite headlands, the most fractal coast, rias and aber",
+    "Ch3": "Normandy — chalk cliffs, D-Day beaches, the measured coast",
+    "Ch4": "The Mediterranean — calanques, lavender shore, the tideless sea",
+    "Ch5": "The Atlantic — dunes, Basque country, the ocean-facing edge"
+  },
+  "pages": [
+    {
+      "page": 1, "chapter": 1, "position": 0,
+      "macros": ["COASTLINE", "SCALE"],
+      "micros": ["GRANITE", "KELP", "COMPASS"],
+      "all_threads": ["COASTLINE", "SCALE", "GRANITE", "KELP", "COMPASS"],
+      "voice": "Professor",
+      "title": "How Long Is the Coast of France?"
+    },
+    {
+      "page": 2, "chapter": 1, "position": 1,
+      "macros": ["COASTLINE", "SCALE"],
+      "micros": ["KELP", "COMPASS", "STORM"],
+      "all_threads": ["COASTLINE", "SCALE", "KELP", "COMPASS", "STORM"],
+      "voice": "Nithard",
+      "title": "The First Survey"
+    },
+    {
+      "page": 3, "chapter": 1, "position": 2,
+      "macros": ["COASTLINE", "SCALE"],
+      "micros": ["COMPASS", "STORM", "CHALK"],
+      "all_threads": ["COASTLINE", "SCALE", "COMPASS", "STORM", "CHALK"],
+      "voice": "Pascal",
+      "title": "The Paradox of the Ruler"
+    },
+    {
+      "page": 4, "chapter": 1, "position": 3,
+      "macros": ["COASTLINE", "SCALE"],
+      "micros": ["STORM", "CHALK", "SALT"],
+      "all_threads": ["COASTLINE", "SCALE", "STORM", "CHALK", "SALT"],
+      "voice": "Professor",
+      "title": "Mandelbrot's Question"
+    },
+    {
+      "page": 5, "chapter": 1, "position": 4,
+      "macros": ["COASTLINE", "SCALE"],
+      "micros": ["CHALK", "SALT", "DUNE"],
+      "all_threads": ["COASTLINE", "SCALE", "CHALK", "SALT", "DUNE"],
+      "voice": "Nithard",
+      "title": "Walking the Littoral"
+    },
+    {
+      "page": 6, "chapter": 1, "position": 5,
+      "macros": ["COASTLINE", "SCALE"],
+      "micros": ["SALT", "DUNE", "ANCHOR"],
+      "all_threads": ["COASTLINE", "SCALE", "SALT", "DUNE", "ANCHOR"],
+      "voice": "Pascal",
+      "title": "The Infinite in the Finite Shore"
+    },
+    {
+      "page": 7, "chapter": 1, "position": 6,
+      "macros": ["COASTLINE", "SCALE"],
+      "micros": ["DUNE", "ANCHOR", "SEXTANT"],
+      "all_threads": ["COASTLINE", "SCALE", "DUNE", "ANCHOR", "SEXTANT"],
+      "voice": "Professor",
+      "title": "Dimension 1.25"
+    },
+    {
+      "page": 8, "chapter": 1, "position": 7,
+      "macros": ["COASTLINE", "SCALE"],
+      "micros": ["ANCHOR", "SEXTANT", "VESSEL"],
+      "all_threads": ["COASTLINE", "SCALE", "ANCHOR", "SEXTANT", "VESSEL"],
+      "voice": "Nithard",
+      "title": "The Harbor at Every Scale"
+    },
+    {
+      "page": 9, "chapter": 1, "position": 8,
+      "macros": ["COASTLINE", "SCALE"],
+      "micros": ["SEXTANT", "VESSEL", "GRANITE"],
+      "all_threads": ["COASTLINE", "SCALE", "SEXTANT", "VESSEL", "GRANITE"],
+      "voice": "Pascal",
+      "title": "Measuring What Cannot Be Measured"
+    },
+    {
+      "page": 10, "chapter": 1, "position": 9,
+      "macros": ["COASTLINE", "SCALE"],
+      "micros": ["VESSEL", "GRANITE", "KELP"],
+      "all_threads": ["COASTLINE", "SCALE", "VESSEL", "GRANITE", "KELP"],
+      "voice": "Professor",
+      "title": "The Lesson of the First Chapter"
+    },
+    {
+      "page": 11, "chapter": 2, "position": 0,
+      "macros": ["SCALE", "FRACTAL"],
+      "micros": ["SEXTANT", "VESSEL", "GRANITE"],
+      "all_threads": ["SCALE", "FRACTAL", "SEXTANT", "VESSEL", "GRANITE"],
+      "voice": "Nithard",
+      "title": "Arrival in Brittany"
+    },
+    {
+      "page": 12, "chapter": 2, "position": 1,
+      "macros": ["SCALE", "FRACTAL"],
+      "micros": ["VESSEL", "GRANITE", "KELP"],
+      "all_threads": ["SCALE", "FRACTAL", "VESSEL", "GRANITE", "KELP"],
+      "voice": "Pascal",
+      "title": "The Granite Equation"
+    },
+    {
+      "page": 13, "chapter": 2, "position": 2,
+      "macros": ["SCALE", "FRACTAL"],
+      "micros": ["GRANITE", "KELP", "COMPASS"],
+      "all_threads": ["SCALE", "FRACTAL", "GRANITE", "KELP", "COMPASS"],
+      "voice": "Professor",
+      "title": "Rias and Recursion"
+    },
+    {
+      "page": 14, "chapter": 2, "position": 3,
+      "macros": ["SCALE", "FRACTAL"],
+      "micros": ["KELP", "COMPASS", "STORM"],
+      "all_threads": ["SCALE", "FRACTAL", "KELP", "COMPASS", "STORM"],
+      "voice": "Nithard",
+      "title": "The Storm at Pointe du Raz"
+    },
+    {
+      "page": 15, "chapter": 2, "position": 4,
+      "macros": ["SCALE", "FRACTAL"],
+      "micros": ["COMPASS", "STORM", "CHALK"],
+      "all_threads": ["SCALE", "FRACTAL", "COMPASS", "STORM", "CHALK"],
+      "voice": "Pascal",
+      "title": "Probability of Shipwreck"
+    },
+    {
+      "page": 16, "chapter": 2, "position": 5,
+      "macros": ["SCALE", "FRACTAL"],
+      "micros": ["STORM", "CHALK", "SALT"],
+      "all_threads": ["SCALE", "FRACTAL", "STORM", "CHALK", "SALT"],
+      "voice": "Professor",
+      "title": "Salt and Self-Similarity"
+    },
+    {
+      "page": 17, "chapter": 2, "position": 6,
+      "macros": ["SCALE", "FRACTAL"],
+      "micros": ["CHALK", "SALT", "DUNE"],
+      "all_threads": ["SCALE", "FRACTAL", "CHALK", "SALT", "DUNE"],
+      "voice": "Nithard",
+      "title": "The Dunes of Quiberon"
+    },
+    {
+      "page": 18, "chapter": 2, "position": 7,
+      "macros": ["SCALE", "FRACTAL"],
+      "micros": ["SALT", "DUNE", "ANCHOR"],
+      "all_threads": ["SCALE", "FRACTAL", "SALT", "DUNE", "ANCHOR"],
+      "voice": "Pascal",
+      "title": "Anchoring the Iteration"
+    },
+    {
+      "page": 19, "chapter": 2, "position": 8,
+      "macros": ["SCALE", "FRACTAL"],
+      "micros": ["DUNE", "ANCHOR", "SEXTANT"],
+      "all_threads": ["SCALE", "FRACTAL", "DUNE", "ANCHOR", "SEXTANT"],
+      "voice": "Professor",
+      "title": "The Breton Fractal"
+    },
+    {
+      "page": 20, "chapter": 2, "position": 9,
+      "macros": ["SCALE", "FRACTAL"],
+      "micros": ["ANCHOR", "SEXTANT", "VESSEL"],
+      "all_threads": ["SCALE", "FRACTAL", "ANCHOR", "SEXTANT", "VESSEL"],
+      "voice": "Nithard",
+      "title": "Departure from Brest"
+    },
+    {
+      "page": 21, "chapter": 3, "position": 0,
+      "macros": ["FRACTAL", "CARTOGRAPHY"],
+      "micros": ["DUNE", "ANCHOR", "SEXTANT"],
+      "all_threads": ["FRACTAL", "CARTOGRAPHY", "DUNE", "ANCHOR", "SEXTANT"],
+      "voice": "Pascal",
+      "title": "The Map Is Not the Territory"
+    },
+    {
+      "page": 22, "chapter": 3, "position": 1,
+      "macros": ["FRACTAL", "CARTOGRAPHY"],
+      "micros": ["ANCHOR", "SEXTANT", "VESSEL"],
+      "all_threads": ["FRACTAL", "CARTOGRAPHY", "ANCHOR", "SEXTANT", "VESSEL"],
+      "voice": "Professor",
+      "title": "Normandy from Above"
+    },
+    {
+      "page": 23, "chapter": 3, "position": 2,
+      "macros": ["FRACTAL", "CARTOGRAPHY"],
+      "micros": ["SEXTANT", "VESSEL", "GRANITE"],
+      "all_threads": ["FRACTAL", "CARTOGRAPHY", "SEXTANT", "VESSEL", "GRANITE"],
+      "voice": "Nithard",
+      "title": "The Cliffs at Etretat"
+    },
+    {
+      "page": 24, "chapter": 3, "position": 3,
+      "macros": ["FRACTAL", "CARTOGRAPHY"],
+      "micros": ["VESSEL", "GRANITE", "KELP"],
+      "all_threads": ["FRACTAL", "CARTOGRAPHY", "VESSEL", "GRANITE", "KELP"],
+      "voice": "Pascal",
+      "title": "Charting the Chalk"
+    },
+    {
+      "page": 25, "chapter": 3, "position": 4,
+      "macros": ["FRACTAL", "CARTOGRAPHY"],
+      "micros": ["GRANITE", "KELP", "COMPASS"],
+      "all_threads": ["FRACTAL", "CARTOGRAPHY", "GRANITE", "KELP", "COMPASS"],
+      "voice": "Professor",
+      "title": "D-Day and the Grid"
+    },
+    {
+      "page": 26, "chapter": 3, "position": 5,
+      "macros": ["FRACTAL", "CARTOGRAPHY"],
+      "micros": ["KELP", "COMPASS", "STORM"],
+      "all_threads": ["FRACTAL", "CARTOGRAPHY", "KELP", "COMPASS", "STORM"],
+      "voice": "Nithard",
+      "title": "The Norman Shore in Storm"
+    },
+    {
+      "page": 27, "chapter": 3, "position": 6,
+      "macros": ["FRACTAL", "CARTOGRAPHY"],
+      "micros": ["COMPASS", "STORM", "CHALK"],
+      "all_threads": ["FRACTAL", "CARTOGRAPHY", "COMPASS", "STORM", "CHALK"],
+      "voice": "Pascal",
+      "title": "Erosion as Computation"
+    },
+    {
+      "page": 28, "chapter": 3, "position": 7,
+      "macros": ["FRACTAL", "CARTOGRAPHY"],
+      "micros": ["STORM", "CHALK", "SALT"],
+      "all_threads": ["FRACTAL", "CARTOGRAPHY", "STORM", "CHALK", "SALT"],
+      "voice": "Professor",
+      "title": "The Bayeux Projection"
+    },
+    {
+      "page": 29, "chapter": 3, "position": 8,
+      "macros": ["FRACTAL", "CARTOGRAPHY"],
+      "micros": ["CHALK", "SALT", "DUNE"],
+      "all_threads": ["FRACTAL", "CARTOGRAPHY", "CHALK", "SALT", "DUNE"],
+      "voice": "Nithard",
+      "title": "Sand Beneath the Chalk"
+    },
+    {
+      "page": 30, "chapter": 3, "position": 9,
+      "macros": ["FRACTAL", "CARTOGRAPHY"],
+      "micros": ["SALT", "DUNE", "ANCHOR"],
+      "all_threads": ["FRACTAL", "CARTOGRAPHY", "SALT", "DUNE", "ANCHOR"],
+      "voice": "Pascal",
+      "title": "The Harbour of Honfleur"
+    },
+    {
+      "page": 31, "chapter": 4, "position": 0,
+      "macros": ["CARTOGRAPHY", "TIDE"],
+      "micros": ["CHALK", "SALT", "DUNE"],
+      "all_threads": ["CARTOGRAPHY", "TIDE", "CHALK", "SALT", "DUNE"],
+      "voice": "Professor",
+      "title": "The Tideless Sea"
+    },
+    {
+      "page": 32, "chapter": 4, "position": 1,
+      "macros": ["CARTOGRAPHY", "TIDE"],
+      "micros": ["SALT", "DUNE", "ANCHOR"],
+      "all_threads": ["CARTOGRAPHY", "TIDE", "SALT", "DUNE", "ANCHOR"],
+      "voice": "Nithard",
+      "title": "Mapping the Calanques"
+    },
+    {
+      "page": 33, "chapter": 4, "position": 2,
+      "macros": ["CARTOGRAPHY", "TIDE"],
+      "micros": ["DUNE", "ANCHOR", "SEXTANT"],
+      "all_threads": ["CARTOGRAPHY", "TIDE", "DUNE", "ANCHOR", "SEXTANT"],
+      "voice": "Pascal",
+      "title": "The Rhythm of the Inner Sea"
+    },
+    {
+      "page": 34, "chapter": 4, "position": 3,
+      "macros": ["CARTOGRAPHY", "TIDE"],
+      "micros": ["ANCHOR", "SEXTANT", "VESSEL"],
+      "all_threads": ["CARTOGRAPHY", "TIDE", "ANCHOR", "SEXTANT", "VESSEL"],
+      "voice": "Professor",
+      "title": "Portolan Charts"
+    },
+    {
+      "page": 35, "chapter": 4, "position": 4,
+      "macros": ["CARTOGRAPHY", "TIDE"],
+      "micros": ["SEXTANT", "VESSEL", "GRANITE"],
+      "all_threads": ["CARTOGRAPHY", "TIDE", "SEXTANT", "VESSEL", "GRANITE"],
+      "voice": "Nithard",
+      "title": "The Stone Coast of Provence"
+    },
+    {
+      "page": 36, "chapter": 4, "position": 5,
+      "macros": ["CARTOGRAPHY", "TIDE"],
+      "micros": ["VESSEL", "GRANITE", "KELP"],
+      "all_threads": ["CARTOGRAPHY", "TIDE", "VESSEL", "GRANITE", "KELP"],
+      "voice": "Pascal",
+      "title": "Posidonia and Measurement"
+    },
+    {
+      "page": 37, "chapter": 4, "position": 6,
+      "macros": ["CARTOGRAPHY", "TIDE"],
+      "micros": ["GRANITE", "KELP", "COMPASS"],
+      "all_threads": ["CARTOGRAPHY", "TIDE", "GRANITE", "KELP", "COMPASS"],
+      "voice": "Professor",
+      "title": "The Mediterranean Fractal"
+    },
+    {
+      "page": 38, "chapter": 4, "position": 7,
+      "macros": ["CARTOGRAPHY", "TIDE"],
+      "micros": ["KELP", "COMPASS", "STORM"],
+      "all_threads": ["CARTOGRAPHY", "TIDE", "KELP", "COMPASS", "STORM"],
+      "voice": "Nithard",
+      "title": "The Mistral"
+    },
+    {
+      "page": 39, "chapter": 4, "position": 8,
+      "macros": ["CARTOGRAPHY", "TIDE"],
+      "micros": ["COMPASS", "STORM", "CHALK"],
+      "all_threads": ["CARTOGRAPHY", "TIDE", "COMPASS", "STORM", "CHALK"],
+      "voice": "Pascal",
+      "title": "Limestone and Probability"
+    },
+    {
+      "page": 40, "chapter": 4, "position": 9,
+      "macros": ["CARTOGRAPHY", "TIDE"],
+      "micros": ["STORM", "CHALK", "SALT"],
+      "all_threads": ["CARTOGRAPHY", "TIDE", "STORM", "CHALK", "SALT"],
+      "voice": "Professor",
+      "title": "Leaving the Inner Sea"
+    },
+    {
+      "page": 41, "chapter": 5, "position": 0,
+      "macros": ["TIDE", "COASTLINE"],
+      "micros": ["COMPASS", "STORM", "CHALK"],
+      "all_threads": ["TIDE", "COASTLINE", "COMPASS", "STORM", "CHALK"],
+      "voice": "Nithard",
+      "title": "The Atlantic Opens"
+    },
+    {
+      "page": 42, "chapter": 5, "position": 1,
+      "macros": ["TIDE", "COASTLINE"],
+      "micros": ["STORM", "CHALK", "SALT"],
+      "all_threads": ["TIDE", "COASTLINE", "STORM", "CHALK", "SALT"],
+      "voice": "Pascal",
+      "title": "The Tidal Equation"
+    },
+    {
+      "page": 43, "chapter": 5, "position": 2,
+      "macros": ["TIDE", "COASTLINE"],
+      "micros": ["CHALK", "SALT", "DUNE"],
+      "all_threads": ["TIDE", "COASTLINE", "CHALK", "SALT", "DUNE"],
+      "voice": "Professor",
+      "title": "The Dune of Pilat"
+    },
+    {
+      "page": 44, "chapter": 5, "position": 3,
+      "macros": ["TIDE", "COASTLINE"],
+      "micros": ["SALT", "DUNE", "ANCHOR"],
+      "all_threads": ["TIDE", "COASTLINE", "SALT", "DUNE", "ANCHOR"],
+      "voice": "Nithard",
+      "title": "Arcachon Bay"
+    },
+    {
+      "page": 45, "chapter": 5, "position": 4,
+      "macros": ["TIDE", "COASTLINE"],
+      "micros": ["DUNE", "ANCHOR", "SEXTANT"],
+      "all_threads": ["TIDE", "COASTLINE", "DUNE", "ANCHOR", "SEXTANT"],
+      "voice": "Pascal",
+      "title": "The Basque Measurement"
+    },
+    {
+      "page": 46, "chapter": 5, "position": 5,
+      "macros": ["TIDE", "COASTLINE"],
+      "micros": ["ANCHOR", "SEXTANT", "VESSEL"],
+      "all_threads": ["TIDE", "COASTLINE", "ANCHOR", "SEXTANT", "VESSEL"],
+      "voice": "Professor",
+      "title": "Bayonne and the Limit"
+    },
+    {
+      "page": 47, "chapter": 5, "position": 6,
+      "macros": ["TIDE", "COASTLINE"],
+      "micros": ["SEXTANT", "VESSEL", "GRANITE"],
+      "all_threads": ["TIDE", "COASTLINE", "SEXTANT", "VESSEL", "GRANITE"],
+      "voice": "Nithard",
+      "title": "The Basque Cliffs"
+    },
+    {
+      "page": 48, "chapter": 5, "position": 7,
+      "macros": ["TIDE", "COASTLINE"],
+      "micros": ["VESSEL", "GRANITE", "KELP"],
+      "all_threads": ["TIDE", "COASTLINE", "VESSEL", "GRANITE", "KELP"],
+      "voice": "Pascal",
+      "title": "The Final Calculation"
+    },
+    {
+      "page": 49, "chapter": 5, "position": 8,
+      "macros": ["TIDE", "COASTLINE"],
+      "micros": ["GRANITE", "KELP", "COMPASS"],
+      "all_threads": ["TIDE", "COASTLINE", "GRANITE", "KELP", "COMPASS"],
+      "voice": "Professor",
+      "title": "The Fractal Returns"
+    },
+    {
+      "page": 50, "chapter": 5, "position": 9,
+      "macros": ["TIDE", "COASTLINE"],
+      "micros": ["KELP", "COMPASS", "STORM"],
+      "all_threads": ["TIDE", "COASTLINE", "KELP", "COMPASS", "STORM"],
+      "voice": "Nithard",
+      "title": "The Coast Has No End"
+    }
+  ],
+  "overlap_verification": {
+    "within_chapter_adjacent": {
+      "example": "P01 vs P02: {COASTLINE,SCALE,GRANITE,KELP,COMPASS} vs {COASTLINE,SCALE,KELP,COMPASS,STORM} = 4 shared",
+      "expected": 4,
+      "status": "PASS"
+    },
+    "within_chapter_dist2": {
+      "example": "P01 vs P03: {COASTLINE,SCALE,GRANITE,KELP,COMPASS} vs {COASTLINE,SCALE,COMPASS,STORM,CHALK} = 3 shared",
+      "expected": 3,
+      "status": "PASS"
+    },
+    "within_chapter_dist3": {
+      "example": "P01 vs P04: {COASTLINE,SCALE,GRANITE,KELP,COMPASS} vs {COASTLINE,SCALE,STORM,CHALK,SALT} = 2 shared",
+      "expected": 2,
+      "status": "PASS"
+    },
+    "cross_chapter_boundary_Ch1_Ch2": {
+      "example": "P10 vs P11: {COASTLINE,SCALE,VESSEL,GRANITE,KELP} vs {SCALE,FRACTAL,SEXTANT,VESSEL,GRANITE} = 3 shared (SCALE,VESSEL,GRANITE)",
+      "expected": 3,
+      "status": "PASS"
+    },
+    "cross_chapter_boundary_Ch2_Ch3": {
+      "example": "P20 vs P21: {SCALE,FRACTAL,ANCHOR,SEXTANT,VESSEL} vs {FRACTAL,CARTOGRAPHY,DUNE,ANCHOR,SEXTANT} = 3 shared (FRACTAL,ANCHOR,SEXTANT)",
+      "expected": 3,
+      "status": "PASS"
+    },
+    "cross_chapter_boundary_Ch3_Ch4": {
+      "example": "P30 vs P31: {FRACTAL,CARTOGRAPHY,SALT,DUNE,ANCHOR} vs {CARTOGRAPHY,TIDE,CHALK,SALT,DUNE} = 3 shared (CARTOGRAPHY,SALT,DUNE)",
+      "expected": 3,
+      "status": "PASS"
+    },
+    "cross_chapter_boundary_Ch4_Ch5": {
+      "example": "P40 vs P41: {CARTOGRAPHY,TIDE,STORM,CHALK,SALT} vs {TIDE,COASTLINE,COMPASS,STORM,CHALK} = 3 shared (TIDE,STORM,CHALK)",
+      "expected": 3,
+      "status": "PASS"
+    },
+    "cross_chapter_boundary_Ch5_Ch1": {
+      "example": "P50 vs P01: {TIDE,COASTLINE,KELP,COMPASS,STORM} vs {COASTLINE,SCALE,GRANITE,KELP,COMPASS} = 3 shared (COASTLINE,KELP,COMPASS)",
+      "expected": 3,
+      "status": "PASS — completes cycle C5"
+    }
+  }
+}

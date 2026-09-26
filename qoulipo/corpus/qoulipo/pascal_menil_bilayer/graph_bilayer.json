@@ -1,0 +1,1216 @@
+{
+  "N": 40,
+  "E": 240,
+  "density": 0.3077,
+  "R_b_um": 8.0,
+  "spacing_um": 5.0,
+  "layer_separation_um": 3.0,
+  "geometry": "5x4x2 king bilayer (5 eras, 4 threads, 2 layers)",
+  "source": "Reconstructed from pascal_apocryphe/coords_bilayer.json at R_b=8.0 um (deterministic UDG, identical to compute instance submitted to EMU_MPS).",
+  "nodes": [
+    "k000",
+    "k001",
+    "k010",
+    "k011",
+    "k020",
+    "k021",
+    "k030",
+    "k031",
+    "k100",
+    "k101",
+    "k110",
+    "k111",
+    "k120",
+    "k121",
+    "k130",
+    "k131",
+    "k200",
+    "k201",
+    "k210",
+    "k211",
+    "k220",
+    "k221",
+    "k230",
+    "k231",
+    "k300",
+    "k301",
+    "k310",
+    "k311",
+    "k320",
+    "k321",
+    "k330",
+    "k331",
+    "k400",
+    "k401",
+    "k410",
+    "k411",
+    "k420",
+    "k421",
+    "k430",
+    "k431"
+  ],
+  "coords_3d": {
+    "k000": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "k001": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "k010": [
+      0.0,
+      5.0,
+      0.0
+    ],
+    "k011": [
+      0.0,
+      5.0,
+      3.0
+    ],
+    "k020": [
+      0.0,
+      10.0,
+      0.0
+    ],
+    "k021": [
+      0.0,
+      10.0,
+      3.0
+    ],
+    "k030": [
+      0.0,
+      15.0,
+      0.0
+    ],
+    "k031": [
+      0.0,
+      15.0,
+      3.0
+    ],
+    "k100": [
+      5.0,
+      0.0,
+      0.0
+    ],
+    "k101": [
+      5.0,
+      0.0,
+      3.0
+    ],
+    "k110": [
+      5.0,
+      5.0,
+      0.0
+    ],
+    "k111": [
+      5.0,
+      5.0,
+      3.0
+    ],
+    "k120": [
+      5.0,
+      10.0,
+      0.0
+    ],
+    "k121": [
+      5.0,
+      10.0,
+      3.0
+    ],
+    "k130": [
+      5.0,
+      15.0,
+      0.0
+    ],
+    "k131": [
+      5.0,
+      15.0,
+      3.0
+    ],
+    "k200": [
+      10.0,
+      0.0,
+      0.0
+    ],
+    "k201": [
+      10.0,
+      0.0,
+      3.0
+    ],
+    "k210": [
+      10.0,
+      5.0,
+      0.0
+    ],
+    "k211": [
+      10.0,
+      5.0,
+      3.0
+    ],
+    "k220": [
+      10.0,
+      10.0,
+      0.0
+    ],
+    "k221": [
+      10.0,
+      10.0,
+      3.0
+    ],
+    "k230": [
+      10.0,
+      15.0,
+      0.0
+    ],
+    "k231": [
+      10.0,
+      15.0,
+      3.0
+    ],
+    "k300": [
+      15.0,
+      0.0,
+      0.0
+    ],
+    "k301": [
+      15.0,
+      0.0,
+      3.0
+    ],
+    "k310": [
+      15.0,
+      5.0,
+      0.0
+    ],
+    "k311": [
+      15.0,
+      5.0,
+      3.0
+    ],
+    "k320": [
+      15.0,
+      10.0,
+      0.0
+    ],
+    "k321": [
+      15.0,
+      10.0,
+      3.0
+    ],
+    "k330": [
+      15.0,
+      15.0,
+      0.0
+    ],
+    "k331": [
+      15.0,
+      15.0,
+      3.0
+    ],
+    "k400": [
+      20.0,
+      0.0,
+      0.0
+    ],
+    "k401": [
+      20.0,
+      0.0,
+      3.0
+    ],
+    "k410": [
+      20.0,
+      5.0,
+      0.0
+    ],
+    "k411": [
+      20.0,
+      5.0,
+      3.0
+    ],
+    "k420": [
+      20.0,
+      10.0,
+      0.0
+    ],
+    "k421": [
+      20.0,
+      10.0,
+      3.0
+    ],
+    "k430": [
+      20.0,
+      15.0,
+      0.0
+    ],
+    "k431": [
+      20.0,
+      15.0,
+      3.0
+    ]
+  },
+  "edges": [
+    {
+      "source": "k000",
+      "target": "k001"
+    },
+    {
+      "source": "k000",
+      "target": "k010"
+    },
+    {
+      "source": "k000",
+      "target": "k011"
+    },
+    {
+      "source": "k000",
+      "target": "k100"
+    },
+    {
+      "source": "k000",
+      "target": "k101"
+    },
+    {
+      "source": "k000",
+      "target": "k110"
+    },
+    {
+      "source": "k000",
+      "target": "k111"
+    },
+    {
+      "source": "k001",
+      "target": "k010"
+    },
+    {
+      "source": "k001",
+      "target": "k011"
+    },
+    {
+      "source": "k001",
+      "target": "k100"
+    },
+    {
+      "source": "k001",
+      "target": "k101"
+    },
+    {
+      "source": "k001",
+      "target": "k110"
+    },
+    {
+      "source": "k001",
+      "target": "k111"
+    },
+    {
+      "source": "k010",
+      "target": "k011"
+    },
+    {
+      "source": "k010",
+      "target": "k020"
+    },
+    {
+      "source": "k010",
+      "target": "k021"
+    },
+    {
+      "source": "k010",
+      "target": "k100"
+    },
+    {
+      "source": "k010",
+      "target": "k101"
+    },
+    {
+      "source": "k010",
+      "target": "k110"
+    },
+    {
+      "source": "k010",
+      "target": "k111"
+    },
+    {
+      "source": "k010",
+      "target": "k120"
+    },
+    {
+      "source": "k010",
+      "target": "k121"
+    },
+    {
+      "source": "k011",
+      "target": "k020"
+    },
+    {
+      "source": "k011",
+      "target": "k021"
+    },
+    {
+      "source": "k011",
+      "target": "k100"
+    },
+    {
+      "source": "k011",
+      "target": "k101"
+    },
+    {
+      "source": "k011",
+      "target": "k110"
+    },
+    {
+      "source": "k011",
+      "target": "k111"
+    },
+    {
+      "source": "k011",
+      "target": "k120"
+    },
+    {
+      "source": "k011",
+      "target": "k121"
+    },
+    {
+      "source": "k020",
+      "target": "k021"
+    },
+    {
+      "source": "k020",
+      "target": "k030"
+    },
+    {
+      "source": "k020",
+      "target": "k031"
+    },
+    {
+      "source": "k020",
+      "target": "k110"
+    },
+    {
+      "source": "k020",
+      "target": "k111"
+    },
+    {
+      "source": "k020",
+      "target": "k120"
+    },
+    {
+      "source": "k020",
+      "target": "k121"
+    },
+    {
+      "source": "k020",
+      "target": "k130"
+    },
+    {
+      "source": "k020",
+      "target": "k131"
+    },
+    {
+      "source": "k021",
+      "target": "k030"
+    },
+    {
+      "source": "k021",
+      "target": "k031"
+    },
+    {
+      "source": "k021",
+      "target": "k110"
+    },
+    {
+      "source": "k021",
+      "target": "k111"
+    },
+    {
+      "source": "k021",
+      "target": "k120"
+    },
+    {
+      "source": "k021",
+      "target": "k121"
+    },
+    {
+      "source": "k021",
+      "target": "k130"
+    },
+    {
+      "source": "k021",
+      "target": "k131"
+    },
+    {
+      "source": "k030",
+      "target": "k031"
+    },
+    {
+      "source": "k030",
+      "target": "k120"
+    },
+    {
+      "source": "k030",
+      "target": "k121"
+    },
+    {
+      "source": "k030",
+      "target": "k130"
+    },
+    {
+      "source": "k030",
+      "target": "k131"
+    },
+    {
+      "source": "k031",
+      "target": "k120"
+    },
+    {
+      "source": "k031",
+      "target": "k121"
+    },
+    {
+      "source": "k031",
+      "target": "k130"
+    },
+    {
+      "source": "k031",
+      "target": "k131"
+    },
+    {
+      "source": "k100",
+      "target": "k101"
+    },
+    {
+      "source": "k100",
+      "target": "k110"
+    },
+    {
+      "source": "k100",
+      "target": "k111"
+    },
+    {
+      "source": "k100",
+      "target": "k200"
+    },
+    {
+      "source": "k100",
+      "target": "k201"
+    },
+    {
+      "source": "k100",
+      "target": "k210"
+    },
+    {
+      "source": "k100",
+      "target": "k211"
+    },
+    {
+      "source": "k101",
+      "target": "k110"
+    },
+    {
+      "source": "k101",
+      "target": "k111"
+    },
+    {
+      "source": "k101",
+      "target": "k200"
+    },
+    {
+      "source": "k101",
+      "target": "k201"
+    },
+    {
+      "source": "k101",
+      "target": "k210"
+    },
+    {
+      "source": "k101",
+      "target": "k211"
+    },
+    {
+      "source": "k110",
+      "target": "k111"
+    },
+    {
+      "source": "k110",
+      "target": "k120"
+    },
+    {
+      "source": "k110",
+      "target": "k121"
+    },
+    {
+      "source": "k110",
+      "target": "k200"
+    },
+    {
+      "source": "k110",
+      "target": "k201"
+    },
+    {
+      "source": "k110",
+      "target": "k210"
+    },
+    {
+      "source": "k110",
+      "target": "k211"
+    },
+    {
+      "source": "k110",
+      "target": "k220"
+    },
+    {
+      "source": "k110",
+      "target": "k221"
+    },
+    {
+      "source": "k111",
+      "target": "k120"
+    },
+    {
+      "source": "k111",
+      "target": "k121"
+    },
+    {
+      "source": "k111",
+      "target": "k200"
+    },
+    {
+      "source": "k111",
+      "target": "k201"
+    },
+    {
+      "source": "k111",
+      "target": "k210"
+    },
+    {
+      "source": "k111",
+      "target": "k211"
+    },
+    {
+      "source": "k111",
+      "target": "k220"
+    },
+    {
+      "source": "k111",
+      "target": "k221"
+    },
+    {
+      "source": "k120",
+      "target": "k121"
+    },
+    {
+      "source": "k120",
+      "target": "k130"
+    },
+    {
+      "source": "k120",
+      "target": "k131"
+    },
+    {
+      "source": "k120",
+      "target": "k210"
+    },
+    {
+      "source": "k120",
+      "target": "k211"
+    },
+    {
+      "source": "k120",
+      "target": "k220"
+    },
+    {
+      "source": "k120",
+      "target": "k221"
+    },
+    {
+      "source": "k120",
+      "target": "k230"
+    },
+    {
+      "source": "k120",
+      "target": "k231"
+    },
+    {
+      "source": "k121",
+      "target": "k130"
+    },
+    {
+      "source": "k121",
+      "target": "k131"
+    },
+    {
+      "source": "k121",
+      "target": "k210"
+    },
+    {
+      "source": "k121",
+      "target": "k211"
+    },
+    {
+      "source": "k121",
+      "target": "k220"
+    },
+    {
+      "source": "k121",
+      "target": "k221"
+    },
+    {
+      "source": "k121",
+      "target": "k230"
+    },
+    {
+      "source": "k121",
+      "target": "k231"
+    },
+    {
+      "source": "k130",
+      "target": "k131"
+    },
+    {
+      "source": "k130",
+      "target": "k220"
+    },
+    {
+      "source": "k130",
+      "target": "k221"
+    },
+    {
+      "source": "k130",
+      "target": "k230"
+    },
+    {
+      "source": "k130",
+      "target": "k231"
+    },
+    {
+      "source": "k131",
+      "target": "k220"
+    },
+    {
+      "source": "k131",
+      "target": "k221"
+    },
+    {
+      "source": "k131",
+      "target": "k230"
+    },
+    {
+      "source": "k131",
+      "target": "k231"
+    },
+    {
+      "source": "k200",
+      "target": "k201"
+    },
+    {
+      "source": "k200",
+      "target": "k210"
+    },
+    {
+      "source": "k200",
+      "target": "k211"
+    },
+    {
+      "source": "k200",
+      "target": "k300"
+    },
+    {
+      "source": "k200",
+      "target": "k301"
+    },
+    {
+      "source": "k200",
+      "target": "k310"
+    },
+    {
+      "source": "k200",
+      "target": "k311"
+    },
+    {
+      "source": "k201",
+      "target": "k210"
+    },
+    {
+      "source": "k201",
+      "target": "k211"
+    },
+    {
+      "source": "k201",
+      "target": "k300"
+    },
+    {
+      "source": "k201",
+      "target": "k301"
+    },
+    {
+      "source": "k201",
+      "target": "k310"
+    },
+    {
+      "source": "k201",
+      "target": "k311"
+    },
+    {
+      "source": "k210",
+      "target": "k211"
+    },
+    {
+      "source": "k210",
+      "target": "k220"
+    },
+    {
+      "source": "k210",
+      "target": "k221"
+    },
+    {
+      "source": "k210",
+      "target": "k300"
+    },
+    {
+      "source": "k210",
+      "target": "k301"
+    },
+    {
+      "source": "k210",
+      "target": "k310"
+    },
+    {
+      "source": "k210",
+      "target": "k311"
+    },
+    {
+      "source": "k210",
+      "target": "k320"
+    },
+    {
+      "source": "k210",
+      "target": "k321"
+    },
+    {
+      "source": "k211",
+      "target": "k220"
+    },
+    {
+      "source": "k211",
+      "target": "k221"
+    },
+    {
+      "source": "k211",
+      "target": "k300"
+    },
+    {
+      "source": "k211",
+      "target": "k301"
+    },
+    {
+      "source": "k211",
+      "target": "k310"
+    },
+    {
+      "source": "k211",
+      "target": "k311"
+    },
+    {
+      "source": "k211",
+      "target": "k320"
+    },
+    {
+      "source": "k211",
+      "target": "k321"
+    },
+    {
+      "source": "k220",
+      "target": "k221"
+    },
+    {
+      "source": "k220",
+      "target": "k230"
+    },
+    {
+      "source": "k220",
+      "target": "k231"
+    },
+    {
+      "source": "k220",
+      "target": "k310"
+    },
+    {
+      "source": "k220",
+      "target": "k311"
+    },
+    {
+      "source": "k220",
+      "target": "k320"
+    },
+    {
+      "source": "k220",
+      "target": "k321"
+    },
+    {
+      "source": "k220",
+      "target": "k330"
+    },
+    {
+      "source": "k220",
+      "target": "k331"
+    },
+    {
+      "source": "k221",
+      "target": "k230"
+    },
+    {
+      "source": "k221",
+      "target": "k231"
+    },
+    {
+      "source": "k221",
+      "target": "k310"
+    },
+    {
+      "source": "k221",
+      "target": "k311"
+    },
+    {
+      "source": "k221",
+      "target": "k320"
+    },
+    {
+      "source": "k221",
+      "target": "k321"
+    },
+    {
+      "source": "k221",
+      "target": "k330"
+    },
+    {
+      "source": "k221",
+      "target": "k331"
+    },
+    {
+      "source": "k230",
+      "target": "k231"
+    },
+    {
+      "source": "k230",
+      "target": "k320"
+    },
+    {
+      "source": "k230",
+      "target": "k321"
+    },
+    {
+      "source": "k230",
+      "target": "k330"
+    },
+    {
+      "source": "k230",
+      "target": "k331"
+    },
+    {
+      "source": "k231",
+      "target": "k320"
+    },
+    {
+      "source": "k231",
+      "target": "k321"
+    },
+    {
+      "source": "k231",
+      "target": "k330"
+    },
+    {
+      "source": "k231",
+      "target": "k331"
+    },
+    {
+      "source": "k300",
+      "target": "k301"
+    },
+    {
+      "source": "k300",
+      "target": "k310"
+    },
+    {
+      "source": "k300",
+      "target": "k311"
+    },
+    {
+      "source": "k300",
+      "target": "k400"
+    },
+    {
+      "source": "k300",
+      "target": "k401"
+    },
+    {
+      "source": "k300",
+      "target": "k410"
+    },
+    {
+      "source": "k300",
+      "target": "k411"
+    },
+    {
+      "source": "k301",
+      "target": "k310"
+    },
+    {
+      "source": "k301",
+      "target": "k311"
+    },
+    {
+      "source": "k301",
+      "target": "k400"
+    },
+    {
+      "source": "k301",
+      "target": "k401"
+    },
+    {
+      "source": "k301",
+      "target": "k410"
+    },
+    {
+      "source": "k301",
+      "target": "k411"
+    },
+    {
+      "source": "k310",
+      "target": "k311"
+    },
+    {
+      "source": "k310",
+      "target": "k320"
+    },
+    {
+      "source": "k310",
+      "target": "k321"
+    },
+    {
+      "source": "k310",
+      "target": "k400"
+    },
+    {
+      "source": "k310",
+      "target": "k401"
+    },
+    {
+      "source": "k310",
+      "target": "k410"
+    },
+    {
+      "source": "k310",
+      "target": "k411"
+    },
+    {
+      "source": "k310",
+      "target": "k420"
+    },
+    {
+      "source": "k310",
+      "target": "k421"
+    },
+    {
+      "source": "k311",
+      "target": "k320"
+    },
+    {
+      "source": "k311",
+      "target": "k321"
+    },
+    {
+      "source": "k311",
+      "target": "k400"
+    },
+    {
+      "source": "k311",
+      "target": "k401"
+    },
+    {
+      "source": "k311",
+      "target": "k410"
+    },
+    {
+      "source": "k311",
+      "target": "k411"
+    },
+    {
+      "source": "k311",
+      "target": "k420"
+    },
+    {
+      "source": "k311",
+      "target": "k421"
+    },
+    {
+      "source": "k320",
+      "target": "k321"
+    },
+    {
+      "source": "k320",
+      "target": "k330"
+    },
+    {
+      "source": "k320",
+      "target": "k331"
+    },
+    {
+      "source": "k320",
+      "target": "k410"
+    },
+    {
+      "source": "k320",
+      "target": "k411"
+    },
+    {
+      "source": "k320",
+      "target": "k420"
+    },
+    {
+      "source": "k320",
+      "target": "k421"
+    },
+    {
+      "source": "k320",
+      "target": "k430"
+    },
+    {
+      "source": "k320",
+      "target": "k431"
+    },
+    {
+      "source": "k321",
+      "target": "k330"
+    },
+    {
+      "source": "k321",
+      "target": "k331"
+    },
+    {
+      "source": "k321",
+      "target": "k410"
+    },
+    {
+      "source": "k321",
+      "target": "k411"
+    },
+    {
+      "source": "k321",
+      "target": "k420"
+    },
+    {
+      "source": "k321",
+      "target": "k421"
+    },
+    {
+      "source": "k321",
+      "target": "k430"
+    },
+    {
+      "source": "k321",
+      "target": "k431"
+    },
+    {
+      "source": "k330",
+      "target": "k331"
+    },
+    {
+      "source": "k330",
+      "target": "k420"
+    },
+    {
+      "source": "k330",
+      "target": "k421"
+    },
+    {
+      "source": "k330",
+      "target": "k430"
+    },
+    {
+      "source": "k330",
+      "target": "k431"
+    },
+    {
+      "source": "k331",
+      "target": "k420"
+    },
+    {
+      "source": "k331",
+      "target": "k421"
+    },
+    {
+      "source": "k331",
+      "target": "k430"
+    },
+    {
+      "source": "k331",
+      "target": "k431"
+    },
+    {
+      "source": "k400",
+      "target": "k401"
+    },
+    {
+      "source": "k400",
+      "target": "k410"
+    },
+    {
+      "source": "k400",
+      "target": "k411"
+    },
+    {
+      "source": "k401",
+      "target": "k410"
+    },
+    {
+      "source": "k401",
+      "target": "k411"
+    },
+    {
+      "source": "k410",
+      "target": "k411"
+    },
+    {
+      "source": "k410",
+      "target": "k420"
+    },
+    {
+      "source": "k410",
+      "target": "k421"
+    },
+    {
+      "source": "k411",
+      "target": "k420"
+    },
+    {
+      "source": "k411",
+      "target": "k421"
+    },
+    {
+      "source": "k420",
+      "target": "k421"
+    },
+    {
+      "source": "k420",
+      "target": "k430"
+    },
+    {
+      "source": "k420",
+      "target": "k431"
+    },
+    {
+      "source": "k421",
+      "target": "k430"
+    },
+    {
+      "source": "k421",
+      "target": "k431"
+    },
+    {
+      "source": "k430",
+      "target": "k431"
+    }
+  ]
+}

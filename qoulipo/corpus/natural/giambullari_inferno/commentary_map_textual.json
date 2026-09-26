@@ -1,0 +1,637 @@
+{
+  "method": "regex extraction from OCR text (1544 Florentine orthography)",
+  "graph_commentary": {
+    "023": {
+      "cantos": [
+        2,
+        21
+      ],
+      "evidence": [
+        "\"Cánto II\" → Canto 2",
+        "\"Cánto XXI\" → Canto 21"
+      ]
+    },
+    "024": {
+      "cantos": [
+        12
+      ],
+      "evidence": [
+        "\"Cánto XII\" → Canto 12"
+      ]
+    },
+    "027": {
+      "cantos": [
+        1
+      ],
+      "evidence": [
+        "ordinal \"prim...\" → Canto 1"
+      ]
+    },
+    "043": {
+      "cantos": [
+        4,
+        5
+      ],
+      "evidence": [
+        "ordinal \"quart...\" → Canto 4",
+        "ordinal \"quint...\" → Canto 5"
+      ]
+    },
+    "044": {
+      "cantos": [
+        17
+      ],
+      "evidence": [
+        "\"Cánto XVII\" → Canto 17",
+        "name \"Gerione\" → Canto 17"
+      ]
+    },
+    "048": {
+      "cantos": [
+        6
+      ],
+      "evidence": [
+        "name \"Cerbero\" → Canto 6"
+      ]
+    },
+    "049": {
+      "cantos": [
+        7
+      ],
+      "evidence": [
+        "\"Cánto sèttimo\" → Canto 7",
+        "name \"Pluto\" → Canto 7"
+      ]
+    },
+    "053": {
+      "cantos": [
+        7
+      ],
+      "evidence": [
+        "ordinal \"settim...\" → Canto 7"
+      ]
+    },
+    "057": {
+      "cantos": [
+        7
+      ],
+      "evidence": [
+        "ordinal \"settim...\" → Canto 7"
+      ]
+    },
+    "060": {
+      "cantos": [
+        9,
+        10
+      ],
+      "evidence": [
+        "\"Cánto Nóno\" → Canto 9",
+        "\"Cánto Décimo\" → Canto 10"
+      ]
+    },
+    "066": {
+      "cantos": [
+        12
+      ],
+      "evidence": [
+        "name \"Centauri\" → Canto 12"
+      ]
+    },
+    "067": {
+      "cantos": [
+        12,
+        13
+      ],
+      "evidence": [
+        "\"Cánto XIII\" → Canto 13",
+        "\"Cánto\nTredicèsimo\" → Canto 13",
+        "name \"Centauro\" → Canto 12"
+      ]
+    },
+    "070": {
+      "cantos": [
+        13,
+        15,
+        17
+      ],
+      "evidence": [
+        "\"Cánto XIII\" → Canto 13",
+        "\"Cánto XV\" → Canto 15",
+        "name \"Gerione\" → Canto 17"
+      ]
+    },
+    "074": {
+      "cantos": [
+        17,
+        18
+      ],
+      "evidence": [
+        "\"Cánto XVIII\" → Canto 18",
+        "name \"Gerione\" → Canto 17"
+      ]
+    },
+    "083": {
+      "cantos": [
+        18
+      ],
+      "evidence": [
+        "name \"Malebolge\" → Canto 18"
+      ]
+    },
+    "085": {
+      "cantos": [
+        17,
+        18
+      ],
+      "evidence": [
+        "name \"Gerione\" → Canto 17",
+        "name \"Malebolge\" → Canto 18"
+      ]
+    },
+    "090": {
+      "cantos": [
+        17,
+        18
+      ],
+      "evidence": [
+        "name \"Gerione\" → Canto 17",
+        "name \"Malebolge\" → Canto 18"
+      ]
+    },
+    "092": {
+      "cantos": [
+        18,
+        24
+      ],
+      "evidence": [
+        "\"Cánto XXIIII\" → Canto 24",
+        "name \"Malebolge\" → Canto 18"
+      ]
+    },
+    "093": {
+      "cantos": [
+        18
+      ],
+      "evidence": [
+        "\"Cánto XVIII\" → Canto 18"
+      ]
+    },
+    "095": {
+      "cantos": [
+        19
+      ],
+      "evidence": [
+        "name \"Simoniaci\" → Canto 19",
+        "name \"Simoniac\" → Canto 19"
+      ]
+    },
+    "098": {
+      "cantos": [
+        21
+      ],
+      "evidence": [
+        "\"Cánto XXI\" → Canto 21"
+      ]
+    },
+    "100": {
+      "cantos": [
+        25
+      ],
+      "evidence": [
+        "\"Cánto\nXXIIIII\" → Canto 25"
+      ]
+    },
+    "102": {
+      "cantos": [
+        25
+      ],
+      "evidence": [
+        "\"Cánto XXV\" → Canto 25"
+      ]
+    },
+    "103": {
+      "cantos": [
+        5
+      ],
+      "evidence": [
+        "\"Cánto V\" → Canto 5"
+      ]
+    },
+    "112": {
+      "cantos": [
+        30
+      ],
+      "evidence": [
+        "\"Cánto\nTrentunésimo\" → Canto 30"
+      ]
+    },
+    "114": {
+      "cantos": [
+        34
+      ],
+      "evidence": [
+        "name \"Lucifero\" → Canto 34",
+        "name \"Lucifer\" → Canto 34"
+      ]
+    },
+    "117": {
+      "cantos": [
+        34
+      ],
+      "evidence": [
+        "name \"Lucifero\" → Canto 34",
+        "name \"Lucifer\" → Canto 34"
+      ]
+    },
+    "125": {
+      "cantos": [
+        32
+      ],
+      "evidence": [
+        "name \"Caína\" → Canto 32",
+        "name \"Caina\" → Canto 32",
+        "name \"Antenora\" → Canto 32",
+        "name \"Antenóra\" → Canto 32"
+      ]
+    },
+    "126": {
+      "cantos": [
+        32
+      ],
+      "evidence": [
+        "name \"Antenora\" → Canto 32",
+        "name \"Antenóra\" → Canto 32"
+      ]
+    },
+    "128": {
+      "cantos": [
+        33,
+        34
+      ],
+      "evidence": [
+        "name \"Lucifero\" → Canto 34",
+        "name \"Lucifer\" → Canto 34",
+        "name \"Tolomea\" → Canto 33",
+        "name \"Toloméa\" → Canto 33"
+      ]
+    },
+    "133": {
+      "cantos": [
+        32
+      ],
+      "evidence": [
+        "\"Cánto XXXII\" → Canto 32"
+      ]
+    },
+    "134": {
+      "cantos": [
+        30,
+        34
+      ],
+      "evidence": [
+        "\"Cánto Trentatreßímo\" → Canto 30",
+        "\"Cánto Trentaquattréstimo\" → Canto 30",
+        "name \"Lucifero\" → Canto 34",
+        "name \"Lucifer\" → Canto 34"
+      ]
+    },
+    "135": {
+      "cantos": [
+        32
+      ],
+      "evidence": [
+        "\"Cánto XXXII\" → Canto 32"
+      ]
+    },
+    "136": {
+      "cantos": [
+        30
+      ],
+      "evidence": [
+        "\"Cánto Trentunésímo\" → Canto 30"
+      ]
+    },
+    "138": {
+      "cantos": [
+        31
+      ],
+      "evidence": [
+        "\"Cánto XXXI\" → Canto 31"
+      ]
+    },
+    "139": {
+      "cantos": [
+        18
+      ],
+      "evidence": [
+        "\"Cánto XVIII\" → Canto 18"
+      ]
+    },
+    "141": {
+      "cantos": [
+        32
+      ],
+      "evidence": [
+        "name \"Cocito\" → Canto 32",
+        "name \"Cocíto\" → Canto 32"
+      ]
+    },
+    "144": {
+      "cantos": [
+        34
+      ],
+      "evidence": [
+        "name \"Lucifero\" → Canto 34",
+        "name \"Lucifer\" → Canto 34",
+        "name \"Giudecca\" → Canto 34",
+        "name \"Giudécca\" → Canto 34"
+      ]
+    },
+    "147": {
+      "cantos": [
+        34
+      ],
+      "evidence": [
+        "name \"Lucifero\" → Canto 34",
+        "name \"Lucifer\" → Canto 34",
+        "name \"Giudecca\" → Canto 34",
+        "name \"Giudécca\" → Canto 34"
+      ]
+    },
+    "149": {
+      "cantos": [
+        18
+      ],
+      "evidence": [
+        "name \"Malebolge\" → Canto 18"
+      ]
+    }
+  },
+  "cross_edges": [
+    {
+      "giambullari": "023",
+      "dante": "Canto_II",
+      "canto_num": 2
+    },
+    {
+      "giambullari": "023",
+      "dante": "Canto_XXI",
+      "canto_num": 21
+    },
+    {
+      "giambullari": "024",
+      "dante": "Canto_XII",
+      "canto_num": 12
+    },
+    {
+      "giambullari": "027",
+      "dante": "Canto_I",
+      "canto_num": 1
+    },
+    {
+      "giambullari": "043",
+      "dante": "Canto_IV",
+      "canto_num": 4
+    },
+    {
+      "giambullari": "043",
+      "dante": "Canto_V",
+      "canto_num": 5
+    },
+    {
+      "giambullari": "044",
+      "dante": "Canto_XVII",
+      "canto_num": 17
+    },
+    {
+      "giambullari": "048",
+      "dante": "Canto_VI",
+      "canto_num": 6
+    },
+    {
+      "giambullari": "049",
+      "dante": "Canto_VII",
+      "canto_num": 7
+    },
+    {
+      "giambullari": "053",
+      "dante": "Canto_VII",
+      "canto_num": 7
+    },
+    {
+      "giambullari": "057",
+      "dante": "Canto_VII",
+      "canto_num": 7
+    },
+    {
+      "giambullari": "060",
+      "dante": "Canto_IX",
+      "canto_num": 9
+    },
+    {
+      "giambullari": "060",
+      "dante": "Canto_X",
+      "canto_num": 10
+    },
+    {
+      "giambullari": "066",
+      "dante": "Canto_XII",
+      "canto_num": 12
+    },
+    {
+      "giambullari": "067",
+      "dante": "Canto_XII",
+      "canto_num": 12
+    },
+    {
+      "giambullari": "067",
+      "dante": "Canto_XIII",
+      "canto_num": 13
+    },
+    {
+      "giambullari": "070",
+      "dante": "Canto_XIII",
+      "canto_num": 13
+    },
+    {
+      "giambullari": "070",
+      "dante": "Canto_XV",
+      "canto_num": 15
+    },
+    {
+      "giambullari": "070",
+      "dante": "Canto_XVII",
+      "canto_num": 17
+    },
+    {
+      "giambullari": "074",
+      "dante": "Canto_XVII",
+      "canto_num": 17
+    },
+    {
+      "giambullari": "074",
+      "dante": "Canto_XVIII",
+      "canto_num": 18
+    },
+    {
+      "giambullari": "083",
+      "dante": "Canto_XVIII",
+      "canto_num": 18
+    },
+    {
+      "giambullari": "085",
+      "dante": "Canto_XVII",
+      "canto_num": 17
+    },
+    {
+      "giambullari": "085",
+      "dante": "Canto_XVIII",
+      "canto_num": 18
+    },
+    {
+      "giambullari": "090",
+      "dante": "Canto_XVII",
+      "canto_num": 17
+    },
+    {
+      "giambullari": "090",
+      "dante": "Canto_XVIII",
+      "canto_num": 18
+    },
+    {
+      "giambullari": "092",
+      "dante": "Canto_XVIII",
+      "canto_num": 18
+    },
+    {
+      "giambullari": "092",
+      "dante": "Canto_XXIV",
+      "canto_num": 24
+    },
+    {
+      "giambullari": "093",
+      "dante": "Canto_XVIII",
+      "canto_num": 18
+    },
+    {
+      "giambullari": "095",
+      "dante": "Canto_XIX",
+      "canto_num": 19
+    },
+    {
+      "giambullari": "098",
+      "dante": "Canto_XXI",
+      "canto_num": 21
+    },
+    {
+      "giambullari": "100",
+      "dante": "Canto_XXV",
+      "canto_num": 25
+    },
+    {
+      "giambullari": "102",
+      "dante": "Canto_XXV",
+      "canto_num": 25
+    },
+    {
+      "giambullari": "103",
+      "dante": "Canto_V",
+      "canto_num": 5
+    },
+    {
+      "giambullari": "112",
+      "dante": "Canto_XXX",
+      "canto_num": 30
+    },
+    {
+      "giambullari": "114",
+      "dante": "Canto_XXXIV",
+      "canto_num": 34
+    },
+    {
+      "giambullari": "117",
+      "dante": "Canto_XXXIV",
+      "canto_num": 34
+    },
+    {
+      "giambullari": "125",
+      "dante": "Canto_XXXII",
+      "canto_num": 32
+    },
+    {
+      "giambullari": "126",
+      "dante": "Canto_XXXII",
+      "canto_num": 32
+    },
+    {
+      "giambullari": "128",
+      "dante": "Canto_XXXIII",
+      "canto_num": 33
+    },
+    {
+      "giambullari": "128",
+      "dante": "Canto_XXXIV",
+      "canto_num": 34
+    },
+    {
+      "giambullari": "133",
+      "dante": "Canto_XXXII",
+      "canto_num": 32
+    },
+    {
+      "giambullari": "134",
+      "dante": "Canto_XXX",
+      "canto_num": 30
+    },
+    {
+      "giambullari": "134",
+      "dante": "Canto_XXXIV",
+      "canto_num": 34
+    },
+    {
+      "giambullari": "135",
+      "dante": "Canto_XXXII",
+      "canto_num": 32
+    },
+    {
+      "giambullari": "136",
+      "dante": "Canto_XXX",
+      "canto_num": 30
+    },
+    {
+      "giambullari": "138",
+      "dante": "Canto_XXXI",
+      "canto_num": 31
+    },
+    {
+      "giambullari": "139",
+      "dante": "Canto_XVIII",
+      "canto_num": 18
+    },
+    {
+      "giambullari": "141",
+      "dante": "Canto_XXXII",
+      "canto_num": 32
+    },
+    {
+      "giambullari": "144",
+      "dante": "Canto_XXXIV",
+      "canto_num": 34
+    },
+    {
+      "giambullari": "147",
+      "dante": "Canto_XXXIV",
+      "canto_num": 34
+    },
+    {
+      "giambullari": "149",
+      "dante": "Canto_XVIII",
+      "canto_num": 18
+    }
+  ],
+  "stats": {
+    "pages_with_refs": 40,
+    "total_cross_edges": 52,
+    "cantos_referenced": 22
+  }
+}

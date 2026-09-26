@@ -1,0 +1,18 @@
+{
+  "text": "oulipo_65_hardzone",
+  "n_pages": 65,
+  "mean_word_count": 328.4,
+  "k": 16,
+  "threshold": 0.78,
+  "N": 65,
+  "E": 58,
+  "density": 0.0279,
+  "sim_mean": 0.4988,
+  "sim_median": 0.491,
+  "sim_std": 0.1349,
+  "sim_min": 0.1156,
+  "sim_max": 0.8787,
+  "above_threshold": 58,
+  "top_k": 16,
+  "mis_ilp": 41
+}

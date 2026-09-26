@@ -1,0 +1,134 @@
+{
+  "node_ids": [
+    "stanza_01",
+    "stanza_02",
+    "stanza_03",
+    "stanza_04",
+    "stanza_05",
+    "stanza_06",
+    "stanza_07",
+    "stanza_08",
+    "stanza_09",
+    "stanza_10",
+    "stanza_11",
+    "stanza_12",
+    "stanza_13",
+    "stanza_14",
+    "stanza_15",
+    "stanza_16",
+    "stanza_17",
+    "stanza_18",
+    "stanza_19",
+    "stanza_20",
+    "stanza_21",
+    "stanza_22",
+    "stanza_23",
+    "stanza_24",
+    "stanza_25"
+  ],
+  "coords_2d": {
+    "stanza_01": [
+      0.0,
+      0.0
+    ],
+    "stanza_02": [
+      5.0,
+      0.0
+    ],
+    "stanza_03": [
+      10.0,
+      0.0
+    ],
+    "stanza_04": [
+      15.0,
+      0.0
+    ],
+    "stanza_05": [
+      20.0,
+      0.0
+    ],
+    "stanza_06": [
+      0.0,
+      5.0
+    ],
+    "stanza_07": [
+      5.0,
+      5.0
+    ],
+    "stanza_08": [
+      10.0,
+      5.0
+    ],
+    "stanza_09": [
+      15.0,
+      5.0
+    ],
+    "stanza_10": [
+      20.0,
+      5.0
+    ],
+    "stanza_11": [
+      0.0,
+      10.0
+    ],
+    "stanza_12": [
+      5.0,
+      10.0
+    ],
+    "stanza_13": [
+      10.0,
+      10.0
+    ],
+    "stanza_14": [
+      15.0,
+      10.0
+    ],
+    "stanza_15": [
+      20.0,
+      10.0
+    ],
+    "stanza_16": [
+      0.0,
+      15.0
+    ],
+    "stanza_17": [
+      5.0,
+      15.0
+    ],
+    "stanza_18": [
+      10.0,
+      15.0
+    ],
+    "stanza_19": [
+      15.0,
+      15.0
+    ],
+    "stanza_20": [
+      20.0,
+      15.0
+    ],
+    "stanza_21": [
+      0.0,
+      20.0
+    ],
+    "stanza_22": [
+      5.0,
+      20.0
+    ],
+    "stanza_23": [
+      10.0,
+      20.0
+    ],
+    "stanza_24": [
+      15.0,
+      20.0
+    ],
+    "stanza_25": [
+      20.0,
+      20.0
+    ]
+  },
+  "R_b_um": 9.0,
+  "spacing_um": 5.0,
+  "source": "King 5x5 exact UDG by construction"
+}

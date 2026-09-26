@@ -1,0 +1,21 @@
+# The Reader's Trap — construction note
+
+This text was designed to be adversarial: a hub-and-spoke topology of 50 pages whose
+canonical graph (graph_designed.json) has hub-degree concentrations that mislead any
+reader (or solver) ranking by salience.
+
+Current canonical: N=50, E=72, d=0.059, MIS=24, ρ=0.42, ≥500 enumerated optima.
+
+A maximum-degree-first greedy heuristic on this graph yields approximately 17 of 24
+optimal pages — a ≈29% gap. The deposited version of the text is therefore the structural
+realization of "the obvious path is often the wrong one": pages that look most central
+to a casual eye are not the structural backbone.
+
+The literary surface is a scholar's notebook on forged Carolingian manuscripts. The
+reader who tries to summarize by visible salience misses the true witness pages
+(those with high degree of relational connection but low surface drama). The MIS
+backbone is the deeper count.
+
+Source pages were originally drafted on an earlier graph (MIS=20, greedy=14); after
+graph regeneration to MIS=24 some pages still carry vestigial number language but
+have been rewritten to literary phrasing without committing to specific stale counts.

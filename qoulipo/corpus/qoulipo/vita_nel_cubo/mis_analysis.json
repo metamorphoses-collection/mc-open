@@ -1,0 +1,27 @@
+{
+  "text_id": "vita_nel_cubo",
+  "N": 23,
+  "MIS_size": 7,
+  "rho": 0.5714,
+  "num_optima_capped": 5,
+  "MIS_pages": [
+    "page_003",
+    "page_010",
+    "page_012",
+    "page_014",
+    "page_017",
+    "page_018",
+    "page_021"
+  ],
+  "MIS_atoms": [
+    1,
+    8,
+    10,
+    12,
+    15,
+    16,
+    19
+  ],
+  "graph_file_used": "graph_k8.json",
+  "method": "ILP via PuLP/CBC; MIS_pages match graph node IDs from graph_file_used"
+}

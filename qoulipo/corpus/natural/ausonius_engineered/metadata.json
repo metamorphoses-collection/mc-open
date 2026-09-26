@@ -1,0 +1,21 @@
+{
+  "text_id": "ausonius_engineered",
+  "title": "Technopaegnion + Griphus + Cento Nuptialis (constraint poetry)",
+  "author": "Ausonius",
+  "lang": "LA",
+  "date": "c. 370",
+  "canonical_N": 10,
+  "canonical_graph_file": "graph_k8.json",
+  "canonical_E": 44,
+  "canonical_density": 0.9778,
+  "canonical_MIS": 2,
+  "canonical_rho": 1.0,
+  "canonical_optima": 1,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "NLP_k8",
+  "source_contract": "node_aligned",
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "corpus_role": "natural",
+  "chunking": "rubric section",
+  "sim_threshold": 0.78
+}

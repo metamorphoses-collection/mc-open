@@ -1,0 +1,1286 @@
+{
+  "method": "cross-embedding similarity with e5-large-instruct",
+  "threshold": 0.8,
+  "giambullari_pages": [
+    "006",
+    "008",
+    "017",
+    "019",
+    "020",
+    "023",
+    "024",
+    "027",
+    "029",
+    "032",
+    "033",
+    "034",
+    "036",
+    "037",
+    "038",
+    "042",
+    "043",
+    "044",
+    "047",
+    "048",
+    "049",
+    "053",
+    "054",
+    "057",
+    "060",
+    "061",
+    "063",
+    "064",
+    "066",
+    "067",
+    "070",
+    "071",
+    "074",
+    "077",
+    "083",
+    "085",
+    "090",
+    "092",
+    "093",
+    "095",
+    "098",
+    "099",
+    "100",
+    "102",
+    "103",
+    "106",
+    "112",
+    "114",
+    "117",
+    "119",
+    "125",
+    "126",
+    "128",
+    "133",
+    "134",
+    "135",
+    "136",
+    "138",
+    "139",
+    "140",
+    "141",
+    "144",
+    "147",
+    "149",
+    "150"
+  ],
+  "dante_cantos": [
+    "Canto_I",
+    "Canto_II",
+    "Canto_III",
+    "Canto_IV",
+    "Canto_V",
+    "Canto_VI",
+    "Canto_VII",
+    "Canto_VIII",
+    "Canto_IX",
+    "Canto_X",
+    "Canto_XI",
+    "Canto_XII",
+    "Canto_XIII",
+    "Canto_XIV",
+    "Canto_XV",
+    "Canto_XVI",
+    "Canto_XVII",
+    "Canto_XVIII",
+    "Canto_XIX",
+    "Canto_XX",
+    "Canto_XXI",
+    "Canto_XXII",
+    "Canto_XXIII",
+    "Canto_XXIV",
+    "Canto_XXV",
+    "Canto_XXVI",
+    "Canto_XXVII",
+    "Canto_XXVIII",
+    "Canto_XXIX",
+    "Canto_XXX",
+    "Canto_XXXI",
+    "Canto_XXXII",
+    "Canto_XXXIII",
+    "Canto_XXXIV"
+  ],
+  "cross_edges": [
+    {
+      "giambullari": "006",
+      "dante": "Canto_XI",
+      "dante_graph_node": "Canto_XI",
+      "similarity": 0.856
+    },
+    {
+      "giambullari": "006",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.854
+    },
+    {
+      "giambullari": "006",
+      "dante": "Canto_X",
+      "dante_graph_node": "Canto_X",
+      "similarity": 0.853
+    },
+    {
+      "giambullari": "008",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.862
+    },
+    {
+      "giambullari": "008",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.861
+    },
+    {
+      "giambullari": "008",
+      "dante": "Canto_V",
+      "dante_graph_node": "Canto_V",
+      "similarity": 0.861
+    },
+    {
+      "giambullari": "017",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.905
+    },
+    {
+      "giambullari": "017",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.887
+    },
+    {
+      "giambullari": "017",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.885
+    },
+    {
+      "giambullari": "019",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.876
+    },
+    {
+      "giambullari": "019",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.875
+    },
+    {
+      "giambullari": "019",
+      "dante": "Canto_V",
+      "dante_graph_node": "Canto_V",
+      "similarity": 0.873
+    },
+    {
+      "giambullari": "020",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.869
+    },
+    {
+      "giambullari": "020",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.868
+    },
+    {
+      "giambullari": "020",
+      "dante": "Canto_XXXI",
+      "dante_graph_node": "Canto_XXXI",
+      "similarity": 0.864
+    },
+    {
+      "giambullari": "023",
+      "dante": "Canto_III",
+      "dante_graph_node": "Canto_III",
+      "similarity": 0.891
+    },
+    {
+      "giambullari": "023",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.891
+    },
+    {
+      "giambullari": "023",
+      "dante": "Canto_V",
+      "dante_graph_node": "Canto_V",
+      "similarity": 0.887
+    },
+    {
+      "giambullari": "024",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.885
+    },
+    {
+      "giambullari": "024",
+      "dante": "Canto_XXXIV",
+      "dante_graph_node": "Canto_XXXIV",
+      "similarity": 0.874
+    },
+    {
+      "giambullari": "024",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.873
+    },
+    {
+      "giambullari": "027",
+      "dante": "Canto_VII",
+      "dante_graph_node": "Canto_VII",
+      "similarity": 0.884
+    },
+    {
+      "giambullari": "027",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.883
+    },
+    {
+      "giambullari": "027",
+      "dante": "Canto_V",
+      "dante_graph_node": "Canto_V",
+      "similarity": 0.882
+    },
+    {
+      "giambullari": "029",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.896
+    },
+    {
+      "giambullari": "029",
+      "dante": "Canto_VIII",
+      "dante_graph_node": "Canto_VIII",
+      "similarity": 0.884
+    },
+    {
+      "giambullari": "029",
+      "dante": "Canto_X",
+      "dante_graph_node": "Canto_X",
+      "similarity": 0.881
+    },
+    {
+      "giambullari": "032",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.88
+    },
+    {
+      "giambullari": "032",
+      "dante": "Canto_XXIX",
+      "dante_graph_node": "Canto_XXIX",
+      "similarity": 0.877
+    },
+    {
+      "giambullari": "032",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.876
+    },
+    {
+      "giambullari": "033",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.887
+    },
+    {
+      "giambullari": "033",
+      "dante": "Canto_XXIX",
+      "dante_graph_node": "Canto_XXIX",
+      "similarity": 0.887
+    },
+    {
+      "giambullari": "033",
+      "dante": "Canto_I",
+      "dante_graph_node": "Canto_I",
+      "similarity": 0.886
+    },
+    {
+      "giambullari": "034",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.876
+    },
+    {
+      "giambullari": "034",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.876
+    },
+    {
+      "giambullari": "034",
+      "dante": "Canto_XII",
+      "dante_graph_node": "Canto_XII",
+      "similarity": 0.872
+    },
+    {
+      "giambullari": "036",
+      "dante": "Canto_IV",
+      "dante_graph_node": "Canto_IV",
+      "similarity": 0.911
+    },
+    {
+      "giambullari": "036",
+      "dante": "Canto_VI",
+      "dante_graph_node": "Canto_VI",
+      "similarity": 0.903
+    },
+    {
+      "giambullari": "036",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.902
+    },
+    {
+      "giambullari": "037",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.867
+    },
+    {
+      "giambullari": "037",
+      "dante": "Canto_VI",
+      "dante_graph_node": "Canto_VI",
+      "similarity": 0.863
+    },
+    {
+      "giambullari": "037",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.862
+    },
+    {
+      "giambullari": "038",
+      "dante": "Canto_XI",
+      "dante_graph_node": "Canto_XI",
+      "similarity": 0.845
+    },
+    {
+      "giambullari": "038",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.842
+    },
+    {
+      "giambullari": "038",
+      "dante": "Canto_V",
+      "dante_graph_node": "Canto_V",
+      "similarity": 0.842
+    },
+    {
+      "giambullari": "042",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.869
+    },
+    {
+      "giambullari": "042",
+      "dante": "Canto_XI",
+      "dante_graph_node": "Canto_XI",
+      "similarity": 0.868
+    },
+    {
+      "giambullari": "042",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.867
+    },
+    {
+      "giambullari": "043",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.872
+    },
+    {
+      "giambullari": "043",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.867
+    },
+    {
+      "giambullari": "043",
+      "dante": "Canto_XII",
+      "dante_graph_node": "Canto_XII",
+      "similarity": 0.864
+    },
+    {
+      "giambullari": "044",
+      "dante": "Canto_VII",
+      "dante_graph_node": "Canto_VII",
+      "similarity": 0.886
+    },
+    {
+      "giambullari": "044",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.881
+    },
+    {
+      "giambullari": "044",
+      "dante": "Canto_V",
+      "dante_graph_node": "Canto_V",
+      "similarity": 0.881
+    },
+    {
+      "giambullari": "047",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.857
+    },
+    {
+      "giambullari": "047",
+      "dante": "Canto_VII",
+      "dante_graph_node": "Canto_VII",
+      "similarity": 0.855
+    },
+    {
+      "giambullari": "047",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.854
+    },
+    {
+      "giambullari": "048",
+      "dante": "Canto_VI",
+      "dante_graph_node": "Canto_VI",
+      "similarity": 0.894
+    },
+    {
+      "giambullari": "048",
+      "dante": "Canto_VIII",
+      "dante_graph_node": "Canto_VIII",
+      "similarity": 0.892
+    },
+    {
+      "giambullari": "048",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.889
+    },
+    {
+      "giambullari": "049",
+      "dante": "Canto_VII",
+      "dante_graph_node": "Canto_VII",
+      "similarity": 0.88
+    },
+    {
+      "giambullari": "049",
+      "dante": "Canto_V",
+      "dante_graph_node": "Canto_V",
+      "similarity": 0.864
+    },
+    {
+      "giambullari": "049",
+      "dante": "Canto_XII",
+      "dante_graph_node": "Canto_XII",
+      "similarity": 0.862
+    },
+    {
+      "giambullari": "053",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.881
+    },
+    {
+      "giambullari": "053",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.879
+    },
+    {
+      "giambullari": "053",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.878
+    },
+    {
+      "giambullari": "054",
+      "dante": "Canto_V",
+      "dante_graph_node": "Canto_V",
+      "similarity": 0.855
+    },
+    {
+      "giambullari": "054",
+      "dante": "Canto_VII",
+      "dante_graph_node": "Canto_VII",
+      "similarity": 0.855
+    },
+    {
+      "giambullari": "054",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.851
+    },
+    {
+      "giambullari": "057",
+      "dante": "Canto_VII",
+      "dante_graph_node": "Canto_VII",
+      "similarity": 0.89
+    },
+    {
+      "giambullari": "057",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.882
+    },
+    {
+      "giambullari": "057",
+      "dante": "Canto_VIII",
+      "dante_graph_node": "Canto_VIII",
+      "similarity": 0.881
+    },
+    {
+      "giambullari": "060",
+      "dante": "Canto_VII",
+      "dante_graph_node": "Canto_VII",
+      "similarity": 0.87
+    },
+    {
+      "giambullari": "060",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.866
+    },
+    {
+      "giambullari": "060",
+      "dante": "Canto_XI",
+      "dante_graph_node": "Canto_XI",
+      "similarity": 0.863
+    },
+    {
+      "giambullari": "061",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.89
+    },
+    {
+      "giambullari": "061",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.888
+    },
+    {
+      "giambullari": "061",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.885
+    },
+    {
+      "giambullari": "063",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.895
+    },
+    {
+      "giambullari": "063",
+      "dante": "Canto_XI",
+      "dante_graph_node": "Canto_XI",
+      "similarity": 0.888
+    },
+    {
+      "giambullari": "063",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.886
+    },
+    {
+      "giambullari": "064",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.879
+    },
+    {
+      "giambullari": "064",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.876
+    },
+    {
+      "giambullari": "064",
+      "dante": "Canto_VIII",
+      "dante_graph_node": "Canto_VIII",
+      "similarity": 0.876
+    },
+    {
+      "giambullari": "066",
+      "dante": "Canto_XI",
+      "dante_graph_node": "Canto_XI",
+      "similarity": 0.877
+    },
+    {
+      "giambullari": "066",
+      "dante": "Canto_VII",
+      "dante_graph_node": "Canto_VII",
+      "similarity": 0.877
+    },
+    {
+      "giambullari": "066",
+      "dante": "Canto_VI",
+      "dante_graph_node": "Canto_VI",
+      "similarity": 0.874
+    },
+    {
+      "giambullari": "067",
+      "dante": "Canto_XIII",
+      "dante_graph_node": "Canto_XIII",
+      "similarity": 0.895
+    },
+    {
+      "giambullari": "067",
+      "dante": "Canto_XI",
+      "dante_graph_node": "Canto_XI",
+      "similarity": 0.892
+    },
+    {
+      "giambullari": "067",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.888
+    },
+    {
+      "giambullari": "070",
+      "dante": "Canto_XV",
+      "dante_graph_node": "Canto_XV",
+      "similarity": 0.905
+    },
+    {
+      "giambullari": "070",
+      "dante": "Canto_XVI",
+      "dante_graph_node": "Canto_XVI",
+      "similarity": 0.892
+    },
+    {
+      "giambullari": "070",
+      "dante": "Canto_VIII",
+      "dante_graph_node": "Canto_VIII",
+      "similarity": 0.891
+    },
+    {
+      "giambullari": "071",
+      "dante": "Canto_XV",
+      "dante_graph_node": "Canto_XV",
+      "similarity": 0.894
+    },
+    {
+      "giambullari": "071",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.89
+    },
+    {
+      "giambullari": "071",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.89
+    },
+    {
+      "giambullari": "074",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.887
+    },
+    {
+      "giambullari": "074",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.885
+    },
+    {
+      "giambullari": "074",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.883
+    },
+    {
+      "giambullari": "077",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.869
+    },
+    {
+      "giambullari": "077",
+      "dante": "Canto_VII",
+      "dante_graph_node": "Canto_VII",
+      "similarity": 0.866
+    },
+    {
+      "giambullari": "077",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.863
+    },
+    {
+      "giambullari": "083",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.852
+    },
+    {
+      "giambullari": "083",
+      "dante": "Canto_XXXI",
+      "dante_graph_node": "Canto_XXXI",
+      "similarity": 0.85
+    },
+    {
+      "giambullari": "083",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.847
+    },
+    {
+      "giambullari": "085",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.872
+    },
+    {
+      "giambullari": "085",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.859
+    },
+    {
+      "giambullari": "085",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.855
+    },
+    {
+      "giambullari": "090",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.887
+    },
+    {
+      "giambullari": "090",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.875
+    },
+    {
+      "giambullari": "090",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.873
+    },
+    {
+      "giambullari": "092",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.875
+    },
+    {
+      "giambullari": "092",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.874
+    },
+    {
+      "giambullari": "092",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.874
+    },
+    {
+      "giambullari": "093",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.878
+    },
+    {
+      "giambullari": "093",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.876
+    },
+    {
+      "giambullari": "093",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.874
+    },
+    {
+      "giambullari": "095",
+      "dante": "Canto_V",
+      "dante_graph_node": "Canto_V",
+      "similarity": 0.904
+    },
+    {
+      "giambullari": "095",
+      "dante": "Canto_XIX",
+      "dante_graph_node": "Canto_XIX",
+      "similarity": 0.899
+    },
+    {
+      "giambullari": "095",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.897
+    },
+    {
+      "giambullari": "098",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.893
+    },
+    {
+      "giambullari": "098",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.89
+    },
+    {
+      "giambullari": "098",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.889
+    },
+    {
+      "giambullari": "099",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.901
+    },
+    {
+      "giambullari": "099",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.896
+    },
+    {
+      "giambullari": "099",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.896
+    },
+    {
+      "giambullari": "100",
+      "dante": "Canto_XXIX",
+      "dante_graph_node": "Canto_XXIX",
+      "similarity": 0.89
+    },
+    {
+      "giambullari": "100",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.89
+    },
+    {
+      "giambullari": "100",
+      "dante": "Canto_XXIV",
+      "dante_graph_node": "Canto_XXIV",
+      "similarity": 0.889
+    },
+    {
+      "giambullari": "102",
+      "dante": "Canto_XXIX",
+      "dante_graph_node": "Canto_XXIX",
+      "similarity": 0.899
+    },
+    {
+      "giambullari": "102",
+      "dante": "Canto_VIII",
+      "dante_graph_node": "Canto_VIII",
+      "similarity": 0.898
+    },
+    {
+      "giambullari": "102",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.897
+    },
+    {
+      "giambullari": "103",
+      "dante": "Canto_XXIX",
+      "dante_graph_node": "Canto_XXIX",
+      "similarity": 0.901
+    },
+    {
+      "giambullari": "103",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.893
+    },
+    {
+      "giambullari": "103",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.89
+    },
+    {
+      "giambullari": "106",
+      "dante": "Canto_XXXI",
+      "dante_graph_node": "Canto_XXXI",
+      "similarity": 0.883
+    },
+    {
+      "giambullari": "106",
+      "dante": "Canto_VIII",
+      "dante_graph_node": "Canto_VIII",
+      "similarity": 0.876
+    },
+    {
+      "giambullari": "106",
+      "dante": "Canto_VI",
+      "dante_graph_node": "Canto_VI",
+      "similarity": 0.876
+    },
+    {
+      "giambullari": "112",
+      "dante": "Canto_XII",
+      "dante_graph_node": "Canto_XII",
+      "similarity": 0.872
+    },
+    {
+      "giambullari": "112",
+      "dante": "Canto_XI",
+      "dante_graph_node": "Canto_XI",
+      "similarity": 0.871
+    },
+    {
+      "giambullari": "112",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.869
+    },
+    {
+      "giambullari": "114",
+      "dante": "Canto_XXXI",
+      "dante_graph_node": "Canto_XXXI",
+      "similarity": 0.867
+    },
+    {
+      "giambullari": "114",
+      "dante": "Canto_XXXIV",
+      "dante_graph_node": "Canto_XXXIV",
+      "similarity": 0.866
+    },
+    {
+      "giambullari": "114",
+      "dante": "Canto_XIX",
+      "dante_graph_node": "Canto_XIX",
+      "similarity": 0.865
+    },
+    {
+      "giambullari": "117",
+      "dante": "Canto_XI",
+      "dante_graph_node": "Canto_XI",
+      "similarity": 0.875
+    },
+    {
+      "giambullari": "117",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.87
+    },
+    {
+      "giambullari": "117",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.867
+    },
+    {
+      "giambullari": "119",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.866
+    },
+    {
+      "giambullari": "119",
+      "dante": "Canto_XXXIV",
+      "dante_graph_node": "Canto_XXXIV",
+      "similarity": 0.863
+    },
+    {
+      "giambullari": "119",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.862
+    },
+    {
+      "giambullari": "125",
+      "dante": "Canto_V",
+      "dante_graph_node": "Canto_V",
+      "similarity": 0.909
+    },
+    {
+      "giambullari": "125",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.908
+    },
+    {
+      "giambullari": "125",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.904
+    },
+    {
+      "giambullari": "126",
+      "dante": "Canto_VIII",
+      "dante_graph_node": "Canto_VIII",
+      "similarity": 0.896
+    },
+    {
+      "giambullari": "126",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.892
+    },
+    {
+      "giambullari": "126",
+      "dante": "Canto_X",
+      "dante_graph_node": "Canto_X",
+      "similarity": 0.892
+    },
+    {
+      "giambullari": "128",
+      "dante": "Canto_XXXIV",
+      "dante_graph_node": "Canto_XXXIV",
+      "similarity": 0.89
+    },
+    {
+      "giambullari": "128",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.89
+    },
+    {
+      "giambullari": "128",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.885
+    },
+    {
+      "giambullari": "133",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.89
+    },
+    {
+      "giambullari": "133",
+      "dante": "Canto_VI",
+      "dante_graph_node": "Canto_VI",
+      "similarity": 0.889
+    },
+    {
+      "giambullari": "133",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.883
+    },
+    {
+      "giambullari": "134",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.886
+    },
+    {
+      "giambullari": "134",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.882
+    },
+    {
+      "giambullari": "134",
+      "dante": "Canto_XXXIV",
+      "dante_graph_node": "Canto_XXXIV",
+      "similarity": 0.88
+    },
+    {
+      "giambullari": "135",
+      "dante": "Canto_XXIX",
+      "dante_graph_node": "Canto_XXIX",
+      "similarity": 0.908
+    },
+    {
+      "giambullari": "135",
+      "dante": "Canto_XXXIV",
+      "dante_graph_node": "Canto_XXXIV",
+      "similarity": 0.905
+    },
+    {
+      "giambullari": "135",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.903
+    },
+    {
+      "giambullari": "136",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.865
+    },
+    {
+      "giambullari": "136",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.864
+    },
+    {
+      "giambullari": "136",
+      "dante": "Canto_XII",
+      "dante_graph_node": "Canto_XII",
+      "similarity": 0.864
+    },
+    {
+      "giambullari": "138",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.864
+    },
+    {
+      "giambullari": "138",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.859
+    },
+    {
+      "giambullari": "138",
+      "dante": "Canto_XXXI",
+      "dante_graph_node": "Canto_XXXI",
+      "similarity": 0.859
+    },
+    {
+      "giambullari": "139",
+      "dante": "Canto_XXI",
+      "dante_graph_node": "Canto_XXI",
+      "similarity": 0.873
+    },
+    {
+      "giambullari": "139",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.872
+    },
+    {
+      "giambullari": "139",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.872
+    },
+    {
+      "giambullari": "140",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.883
+    },
+    {
+      "giambullari": "140",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.883
+    },
+    {
+      "giambullari": "140",
+      "dante": "Canto_XXXII",
+      "dante_graph_node": "Canto_XXXII",
+      "similarity": 0.881
+    },
+    {
+      "giambullari": "141",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.874
+    },
+    {
+      "giambullari": "141",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.872
+    },
+    {
+      "giambullari": "141",
+      "dante": "Canto_VIII",
+      "dante_graph_node": "Canto_VIII",
+      "similarity": 0.87
+    },
+    {
+      "giambullari": "144",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.888
+    },
+    {
+      "giambullari": "144",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.886
+    },
+    {
+      "giambullari": "144",
+      "dante": "Canto_IV",
+      "dante_graph_node": "Canto_IV",
+      "similarity": 0.885
+    },
+    {
+      "giambullari": "147",
+      "dante": "Canto_XIV",
+      "dante_graph_node": "Canto_XIV",
+      "similarity": 0.886
+    },
+    {
+      "giambullari": "147",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.883
+    },
+    {
+      "giambullari": "147",
+      "dante": "Canto_V",
+      "dante_graph_node": "Canto_V",
+      "similarity": 0.883
+    },
+    {
+      "giambullari": "149",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.889
+    },
+    {
+      "giambullari": "149",
+      "dante": "Canto_XVIII",
+      "dante_graph_node": "Canto_XVIII",
+      "similarity": 0.887
+    },
+    {
+      "giambullari": "149",
+      "dante": "Canto_XXXIV",
+      "dante_graph_node": "Canto_XXXIV",
+      "similarity": 0.886
+    },
+    {
+      "giambullari": "150",
+      "dante": "Canto_VIII",
+      "dante_graph_node": "Canto_VIII",
+      "similarity": 0.891
+    },
+    {
+      "giambullari": "150",
+      "dante": "Canto_IX",
+      "dante_graph_node": "Canto_IX",
+      "similarity": 0.89
+    },
+    {
+      "giambullari": "150",
+      "dante": "Canto_XX",
+      "dante_graph_node": "Canto_XX",
+      "similarity": 0.888
+    }
+  ],
+  "stats": {
+    "mean_sim": 0.863,
+    "max_sim": 0.911,
+    "n_edges_at_080": 195,
+    "giambullari_pages_linked": 65,
+    "dante_cantos_linked": 24
+  }
+}

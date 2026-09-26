@@ -1,0 +1,22 @@
+### The Constraint
+
+This text obeys a formal rule derived from Maximum Independent Set theory:
+
+> **Each of the 50 pages carries exactly 6 of 12 thematic threads. The assignment follows a double-domination design so that the resulting topic graph has exactly ONE maximum independent set. Every backbone page is irreplaceable: rigidity rho = 1.0.**
+
+The 12 threads are:
+
+| # | Thread | Domain |
+|---|--------|--------|
+| 0 | WAGER | Pascal's probability, risk, decision under uncertainty |
+| 1 | CHRONICLE | Nithard's *Historiae*, Carolingian factual record |
+| 2 | CONSPIRACY | Monks fabricating relics, the *Complot* |
+| 3 | TONGUE | The Strasbourg Oaths, birth of French, language as artifact |
+| 4 | NUMBER | Combinatorics, graphs, the mathematics of structure |
+| 5 | FAITH | Jansenism, monastic doubt, the silence of God |
+| 6 | SWORD | Civil war, fratricidal wars, the Fronde |
+| 7 | PARCHMENT | Manuscripts, copying, forgery, textual transmission |
+| 8 | MALIETTE | Bernard Marechal, the teacher, ZaZiPo, the gift of reading |
+| 9 | GAME | OuLiPo, ludic constraint, the rules that free |
+| 10 | MIRROR | Reflection, doubling, self-reference |
+| 11 | INK | Writing, inscription, the physical act of text |

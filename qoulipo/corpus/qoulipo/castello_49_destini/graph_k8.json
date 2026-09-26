@@ -1,0 +1,913 @@
+{
+  "N": 49,
+  "E": 213,
+  "density": 0.181,
+  "k": 8,
+  "threshold": 0.78,
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "nodes": [
+    "page_01",
+    "page_02",
+    "page_03",
+    "page_04",
+    "page_05",
+    "page_06",
+    "page_07",
+    "page_08",
+    "page_09",
+    "page_10",
+    "page_11",
+    "page_12",
+    "page_13",
+    "page_14",
+    "page_15",
+    "page_16",
+    "page_17",
+    "page_18",
+    "page_19",
+    "page_20",
+    "page_21",
+    "page_22",
+    "page_23",
+    "page_24",
+    "page_25",
+    "page_26",
+    "page_27",
+    "page_28",
+    "page_29",
+    "page_30",
+    "page_31",
+    "page_32",
+    "page_33",
+    "page_34",
+    "page_35",
+    "page_36",
+    "page_37",
+    "page_38",
+    "page_39",
+    "page_40",
+    "page_41",
+    "page_42",
+    "page_43",
+    "page_44",
+    "page_45",
+    "page_46",
+    "page_47",
+    "page_48",
+    "page_49"
+  ],
+  "edges": [
+    {
+      "source": "page_01",
+      "target": "page_02"
+    },
+    {
+      "source": "page_01",
+      "target": "page_03"
+    },
+    {
+      "source": "page_01",
+      "target": "page_15"
+    },
+    {
+      "source": "page_01",
+      "target": "page_08"
+    },
+    {
+      "source": "page_01",
+      "target": "page_44"
+    },
+    {
+      "source": "page_01",
+      "target": "page_36"
+    },
+    {
+      "source": "page_01",
+      "target": "page_09"
+    },
+    {
+      "source": "page_01",
+      "target": "page_42"
+    },
+    {
+      "source": "page_02",
+      "target": "page_03"
+    },
+    {
+      "source": "page_02",
+      "target": "page_09"
+    },
+    {
+      "source": "page_02",
+      "target": "page_15"
+    },
+    {
+      "source": "page_02",
+      "target": "page_10"
+    },
+    {
+      "source": "page_02",
+      "target": "page_16"
+    },
+    {
+      "source": "page_02",
+      "target": "page_43"
+    },
+    {
+      "source": "page_02",
+      "target": "page_18"
+    },
+    {
+      "source": "page_03",
+      "target": "page_10"
+    },
+    {
+      "source": "page_03",
+      "target": "page_04"
+    },
+    {
+      "source": "page_03",
+      "target": "page_17"
+    },
+    {
+      "source": "page_03",
+      "target": "page_18"
+    },
+    {
+      "source": "page_03",
+      "target": "page_11"
+    },
+    {
+      "source": "page_03",
+      "target": "page_09"
+    },
+    {
+      "source": "page_04",
+      "target": "page_11"
+    },
+    {
+      "source": "page_04",
+      "target": "page_05"
+    },
+    {
+      "source": "page_04",
+      "target": "page_10"
+    },
+    {
+      "source": "page_04",
+      "target": "page_12"
+    },
+    {
+      "source": "page_04",
+      "target": "page_06"
+    },
+    {
+      "source": "page_04",
+      "target": "page_18"
+    },
+    {
+      "source": "page_04",
+      "target": "page_25"
+    },
+    {
+      "source": "page_05",
+      "target": "page_12"
+    },
+    {
+      "source": "page_05",
+      "target": "page_11"
+    },
+    {
+      "source": "page_05",
+      "target": "page_06"
+    },
+    {
+      "source": "page_05",
+      "target": "page_20"
+    },
+    {
+      "source": "page_05",
+      "target": "page_26"
+    },
+    {
+      "source": "page_05",
+      "target": "page_13"
+    },
+    {
+      "source": "page_05",
+      "target": "page_33"
+    },
+    {
+      "source": "page_06",
+      "target": "page_13"
+    },
+    {
+      "source": "page_06",
+      "target": "page_20"
+    },
+    {
+      "source": "page_06",
+      "target": "page_34"
+    },
+    {
+      "source": "page_06",
+      "target": "page_07"
+    },
+    {
+      "source": "page_06",
+      "target": "page_27"
+    },
+    {
+      "source": "page_06",
+      "target": "page_40"
+    },
+    {
+      "source": "page_06",
+      "target": "page_14"
+    },
+    {
+      "source": "page_06",
+      "target": "page_21"
+    },
+    {
+      "source": "page_07",
+      "target": "page_21"
+    },
+    {
+      "source": "page_07",
+      "target": "page_14"
+    },
+    {
+      "source": "page_07",
+      "target": "page_13"
+    },
+    {
+      "source": "page_07",
+      "target": "page_49"
+    },
+    {
+      "source": "page_07",
+      "target": "page_28"
+    },
+    {
+      "source": "page_07",
+      "target": "page_35"
+    },
+    {
+      "source": "page_07",
+      "target": "page_20"
+    },
+    {
+      "source": "page_08",
+      "target": "page_09"
+    },
+    {
+      "source": "page_08",
+      "target": "page_15"
+    },
+    {
+      "source": "page_08",
+      "target": "page_22"
+    },
+    {
+      "source": "page_08",
+      "target": "page_48"
+    },
+    {
+      "source": "page_08",
+      "target": "page_44"
+    },
+    {
+      "source": "page_08",
+      "target": "page_16"
+    },
+    {
+      "source": "page_08",
+      "target": "page_43"
+    },
+    {
+      "source": "page_09",
+      "target": "page_16"
+    },
+    {
+      "source": "page_09",
+      "target": "page_23"
+    },
+    {
+      "source": "page_09",
+      "target": "page_15"
+    },
+    {
+      "source": "page_09",
+      "target": "page_10"
+    },
+    {
+      "source": "page_10",
+      "target": "page_17"
+    },
+    {
+      "source": "page_10",
+      "target": "page_11"
+    },
+    {
+      "source": "page_10",
+      "target": "page_18"
+    },
+    {
+      "source": "page_10",
+      "target": "page_15"
+    },
+    {
+      "source": "page_11",
+      "target": "page_12"
+    },
+    {
+      "source": "page_11",
+      "target": "page_18"
+    },
+    {
+      "source": "page_11",
+      "target": "page_13"
+    },
+    {
+      "source": "page_11",
+      "target": "page_25"
+    },
+    {
+      "source": "page_12",
+      "target": "page_13"
+    },
+    {
+      "source": "page_12",
+      "target": "page_26"
+    },
+    {
+      "source": "page_12",
+      "target": "page_20"
+    },
+    {
+      "source": "page_12",
+      "target": "page_19"
+    },
+    {
+      "source": "page_12",
+      "target": "page_27"
+    },
+    {
+      "source": "page_13",
+      "target": "page_20"
+    },
+    {
+      "source": "page_13",
+      "target": "page_27"
+    },
+    {
+      "source": "page_13",
+      "target": "page_14"
+    },
+    {
+      "source": "page_13",
+      "target": "page_19"
+    },
+    {
+      "source": "page_13",
+      "target": "page_21"
+    },
+    {
+      "source": "page_13",
+      "target": "page_28"
+    },
+    {
+      "source": "page_14",
+      "target": "page_21"
+    },
+    {
+      "source": "page_14",
+      "target": "page_28"
+    },
+    {
+      "source": "page_14",
+      "target": "page_35"
+    },
+    {
+      "source": "page_14",
+      "target": "page_20"
+    },
+    {
+      "source": "page_14",
+      "target": "page_49"
+    },
+    {
+      "source": "page_15",
+      "target": "page_16"
+    },
+    {
+      "source": "page_15",
+      "target": "page_22"
+    },
+    {
+      "source": "page_15",
+      "target": "page_29"
+    },
+    {
+      "source": "page_15",
+      "target": "page_17"
+    },
+    {
+      "source": "page_15",
+      "target": "page_23"
+    },
+    {
+      "source": "page_16",
+      "target": "page_17"
+    },
+    {
+      "source": "page_16",
+      "target": "page_23"
+    },
+    {
+      "source": "page_16",
+      "target": "page_29"
+    },
+    {
+      "source": "page_16",
+      "target": "page_24"
+    },
+    {
+      "source": "page_17",
+      "target": "page_31"
+    },
+    {
+      "source": "page_17",
+      "target": "page_24"
+    },
+    {
+      "source": "page_17",
+      "target": "page_23"
+    },
+    {
+      "source": "page_17",
+      "target": "page_18"
+    },
+    {
+      "source": "page_18",
+      "target": "page_25"
+    },
+    {
+      "source": "page_18",
+      "target": "page_19"
+    },
+    {
+      "source": "page_19",
+      "target": "page_20"
+    },
+    {
+      "source": "page_19",
+      "target": "page_27"
+    },
+    {
+      "source": "page_19",
+      "target": "page_26"
+    },
+    {
+      "source": "page_19",
+      "target": "page_34"
+    },
+    {
+      "source": "page_19",
+      "target": "page_33"
+    },
+    {
+      "source": "page_20",
+      "target": "page_27"
+    },
+    {
+      "source": "page_20",
+      "target": "page_26"
+    },
+    {
+      "source": "page_20",
+      "target": "page_28"
+    },
+    {
+      "source": "page_21",
+      "target": "page_28"
+    },
+    {
+      "source": "page_21",
+      "target": "page_35"
+    },
+    {
+      "source": "page_21",
+      "target": "page_49"
+    },
+    {
+      "source": "page_21",
+      "target": "page_42"
+    },
+    {
+      "source": "page_22",
+      "target": "page_23"
+    },
+    {
+      "source": "page_22",
+      "target": "page_29"
+    },
+    {
+      "source": "page_22",
+      "target": "page_24"
+    },
+    {
+      "source": "page_22",
+      "target": "page_30"
+    },
+    {
+      "source": "page_22",
+      "target": "page_36"
+    },
+    {
+      "source": "page_22",
+      "target": "page_31"
+    },
+    {
+      "source": "page_23",
+      "target": "page_30"
+    },
+    {
+      "source": "page_23",
+      "target": "page_24"
+    },
+    {
+      "source": "page_23",
+      "target": "page_31"
+    },
+    {
+      "source": "page_23",
+      "target": "page_29"
+    },
+    {
+      "source": "page_23",
+      "target": "page_37"
+    },
+    {
+      "source": "page_24",
+      "target": "page_31"
+    },
+    {
+      "source": "page_24",
+      "target": "page_38"
+    },
+    {
+      "source": "page_24",
+      "target": "page_25"
+    },
+    {
+      "source": "page_24",
+      "target": "page_30"
+    },
+    {
+      "source": "page_25",
+      "target": "page_32"
+    },
+    {
+      "source": "page_25",
+      "target": "page_39"
+    },
+    {
+      "source": "page_25",
+      "target": "page_26"
+    },
+    {
+      "source": "page_25",
+      "target": "page_34"
+    },
+    {
+      "source": "page_25",
+      "target": "page_31"
+    },
+    {
+      "source": "page_25",
+      "target": "page_45"
+    },
+    {
+      "source": "page_26",
+      "target": "page_27"
+    },
+    {
+      "source": "page_26",
+      "target": "page_33"
+    },
+    {
+      "source": "page_26",
+      "target": "page_34"
+    },
+    {
+      "source": "page_26",
+      "target": "page_32"
+    },
+    {
+      "source": "page_27",
+      "target": "page_34"
+    },
+    {
+      "source": "page_27",
+      "target": "page_33"
+    },
+    {
+      "source": "page_27",
+      "target": "page_28"
+    },
+    {
+      "source": "page_27",
+      "target": "page_35"
+    },
+    {
+      "source": "page_28",
+      "target": "page_35"
+    },
+    {
+      "source": "page_28",
+      "target": "page_34"
+    },
+    {
+      "source": "page_28",
+      "target": "page_42"
+    },
+    {
+      "source": "page_28",
+      "target": "page_49"
+    },
+    {
+      "source": "page_29",
+      "target": "page_30"
+    },
+    {
+      "source": "page_29",
+      "target": "page_43"
+    },
+    {
+      "source": "page_29",
+      "target": "page_36"
+    },
+    {
+      "source": "page_29",
+      "target": "page_44"
+    },
+    {
+      "source": "page_30",
+      "target": "page_31"
+    },
+    {
+      "source": "page_30",
+      "target": "page_43"
+    },
+    {
+      "source": "page_30",
+      "target": "page_37"
+    },
+    {
+      "source": "page_30",
+      "target": "page_38"
+    },
+    {
+      "source": "page_31",
+      "target": "page_38"
+    },
+    {
+      "source": "page_31",
+      "target": "page_45"
+    },
+    {
+      "source": "page_31",
+      "target": "page_37"
+    },
+    {
+      "source": "page_32",
+      "target": "page_33"
+    },
+    {
+      "source": "page_32",
+      "target": "page_39"
+    },
+    {
+      "source": "page_32",
+      "target": "page_34"
+    },
+    {
+      "source": "page_32",
+      "target": "page_47"
+    },
+    {
+      "source": "page_32",
+      "target": "page_46"
+    },
+    {
+      "source": "page_32",
+      "target": "page_48"
+    },
+    {
+      "source": "page_33",
+      "target": "page_34"
+    },
+    {
+      "source": "page_33",
+      "target": "page_47"
+    },
+    {
+      "source": "page_33",
+      "target": "page_48"
+    },
+    {
+      "source": "page_33",
+      "target": "page_39"
+    },
+    {
+      "source": "page_33",
+      "target": "page_40"
+    },
+    {
+      "source": "page_33",
+      "target": "page_41"
+    },
+    {
+      "source": "page_33",
+      "target": "page_46"
+    },
+    {
+      "source": "page_34",
+      "target": "page_35"
+    },
+    {
+      "source": "page_34",
+      "target": "page_40"
+    },
+    {
+      "source": "page_34",
+      "target": "page_41"
+    },
+    {
+      "source": "page_34",
+      "target": "page_46"
+    },
+    {
+      "source": "page_34",
+      "target": "page_47"
+    },
+    {
+      "source": "page_35",
+      "target": "page_42"
+    },
+    {
+      "source": "page_35",
+      "target": "page_49"
+    },
+    {
+      "source": "page_35",
+      "target": "page_45"
+    },
+    {
+      "source": "page_36",
+      "target": "page_43"
+    },
+    {
+      "source": "page_36",
+      "target": "page_44"
+    },
+    {
+      "source": "page_36",
+      "target": "page_37"
+    },
+    {
+      "source": "page_36",
+      "target": "page_38"
+    },
+    {
+      "source": "page_36",
+      "target": "page_45"
+    },
+    {
+      "source": "page_37",
+      "target": "page_44"
+    },
+    {
+      "source": "page_37",
+      "target": "page_38"
+    },
+    {
+      "source": "page_37",
+      "target": "page_43"
+    },
+    {
+      "source": "page_37",
+      "target": "page_45"
+    },
+    {
+      "source": "page_38",
+      "target": "page_45"
+    },
+    {
+      "source": "page_38",
+      "target": "page_44"
+    },
+    {
+      "source": "page_38",
+      "target": "page_39"
+    },
+    {
+      "source": "page_39",
+      "target": "page_40"
+    },
+    {
+      "source": "page_39",
+      "target": "page_47"
+    },
+    {
+      "source": "page_39",
+      "target": "page_46"
+    },
+    {
+      "source": "page_39",
+      "target": "page_48"
+    },
+    {
+      "source": "page_39",
+      "target": "page_41"
+    },
+    {
+      "source": "page_40",
+      "target": "page_41"
+    },
+    {
+      "source": "page_40",
+      "target": "page_48"
+    },
+    {
+      "source": "page_40",
+      "target": "page_47"
+    },
+    {
+      "source": "page_40",
+      "target": "page_46"
+    },
+    {
+      "source": "page_40",
+      "target": "page_42"
+    },
+    {
+      "source": "page_41",
+      "target": "page_48"
+    },
+    {
+      "source": "page_41",
+      "target": "page_47"
+    },
+    {
+      "source": "page_41",
+      "target": "page_42"
+    },
+    {
+      "source": "page_41",
+      "target": "page_46"
+    },
+    {
+      "source": "page_42",
+      "target": "page_49"
+    },
+    {
+      "source": "page_42",
+      "target": "page_48"
+    },
+    {
+      "source": "page_43",
+      "target": "page_44"
+    },
+    {
+      "source": "page_43",
+      "target": "page_45"
+    },
+    {
+      "source": "page_44",
+      "target": "page_45"
+    },
+    {
+      "source": "page_45",
+      "target": "page_49"
+    },
+    {
+      "source": "page_46",
+      "target": "page_47"
+    },
+    {
+      "source": "page_46",
+      "target": "page_48"
+    },
+    {
+      "source": "page_47",
+      "target": "page_48"
+    },
+    {
+      "source": "page_48",
+      "target": "page_49"
+    }
+  ]
+}

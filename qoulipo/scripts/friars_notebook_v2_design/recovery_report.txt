@@ -1,0 +1,10 @@
+Friar's Notebook v2 — embedding recovery report
+  embedder: intfloat/multilingual-e5-large-instruct
+  threshold: 0.78
+  designed (dodecahedron) edges: 30
+  target: MIS=8, ρ=0, density=0.158
+
+  k     E       d   TP   FP   FN   prec    rec  MIS   #opt      ρ
+  3    41   0.216   22   19    8  0.537  0.733    9      2  0.889
+  5    67   0.353   25   42    5  0.373  0.833    7      9  0.429
+  8   105   0.553   29   76    1  0.276  0.967    5      7  0.200

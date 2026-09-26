@@ -1,0 +1,9 @@
+{
+  "batch_id": "c100556b-7fa7-46e5-9213-8ac29d0ea852",
+  "name": "pari_II_b2",
+  "status": "CANCELED",
+  "total_shots": 0,
+  "n_unique_bitstrings": 0,
+  "corpus_text": "qoulipo/pari_de_nithard_II",
+  "counts": {}
+}

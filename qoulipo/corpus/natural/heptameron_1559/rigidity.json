@@ -1,0 +1,24 @@
+{
+  "text": "heptameron_1559",
+  "primary_k": 16,
+  "variants": {
+    "k16": {
+      "k": 16,
+      "N": 72,
+      "E": 845,
+      "density": 0.3306,
+      "MIS": 14,
+      "rho": 0.857,
+      "n_solutions": 6
+    },
+    "k8": {
+      "k": 8,
+      "N": 72,
+      "E": 422,
+      "density": 0.1651,
+      "MIS": 19,
+      "rho": 0.053,
+      "n_solutions": 500
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "text": "lactantius_demort",
+  "primary_k": 16,
+  "variants": {
+    "k16": {
+      "k": 16,
+      "N": 52,
+      "E": 593,
+      "density": 0.4472,
+      "MIS": 9,
+      "rho": 0.556,
+      "n_solutions": 7
+    },
+    "k8": {
+      "k": 8,
+      "N": 52,
+      "E": 308,
+      "density": 0.2323,
+      "MIS": 13,
+      "rho": 0.0,
+      "n_solutions": 84
+    }
+  }
+}

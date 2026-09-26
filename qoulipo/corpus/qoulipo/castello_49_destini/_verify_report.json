@@ -1,0 +1,1217 @@
+{
+  "pages": {
+    "1": {
+      "wc": 370,
+      "status": "OK",
+      "required": [
+        "Donato il fabbro",
+        "Serafina la tessitrice",
+        "il Ruscello di Ferro",
+        "la Radura dei Cervi"
+      ],
+      "found": [
+        "Donato il fabbro",
+        "Serafina la tessitrice",
+        "il Ruscello di Ferro",
+        "la Radura dei Cervi"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "2": {
+      "wc": 382,
+      "status": "OK",
+      "required": [
+        "Donato il fabbro",
+        "Serafina la tessitrice",
+        "il Ruscello di Ferro",
+        "l'ancora spezzata",
+        "la Radura dei Cervi",
+        "la bussola di ottone"
+      ],
+      "found": [
+        "Donato il fabbro",
+        "Serafina la tessitrice",
+        "il Ruscello di Ferro",
+        "l'ancora spezzata",
+        "la Radura dei Cervi",
+        "la bussola di ottone"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "3": {
+      "wc": 389,
+      "status": "OK",
+      "required": [
+        "Donato il fabbro",
+        "Serafina la tessitrice",
+        "il pozzo nero",
+        "l'ancora spezzata",
+        "la bussola di ottone",
+        "la cripta di calce"
+      ],
+      "found": [
+        "Donato il fabbro",
+        "Serafina la tessitrice",
+        "il pozzo nero",
+        "l'ancora spezzata",
+        "la bussola di ottone",
+        "la cripta di calce"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "4": {
+      "wc": 378,
+      "status": "OK",
+      "required": [
+        "Ildegarda la glossatrice",
+        "Teofilo il copista",
+        "il pozzo nero",
+        "l'ancora spezzata",
+        "la bussola di ottone",
+        "la cripta di calce"
+      ],
+      "found": [
+        "Ildegarda la glossatrice",
+        "Teofilo il copista",
+        "il pozzo nero",
+        "l'ancora spezzata",
+        "la bussola di ottone",
+        "la cripta di calce"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "5": {
+      "wc": 373,
+      "status": "OK",
+      "required": [
+        "Ildegarda la glossatrice",
+        "Teofilo il copista",
+        "il corbello di vimini",
+        "il pozzo nero",
+        "la cripta di calce",
+        "la zappa a tre denti"
+      ],
+      "found": [
+        "Ildegarda la glossatrice",
+        "Teofilo il copista",
+        "il corbello di vimini",
+        "il pozzo nero",
+        "la cripta di calce",
+        "la zappa a tre denti"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "6": {
+      "wc": 367,
+      "status": "OK",
+      "required": [
+        "Ildegarda la glossatrice",
+        "Teofilo il copista",
+        "il corbello di vimini",
+        "la campana fessa",
+        "la finestra bifora",
+        "la zappa a tre denti"
+      ],
+      "found": [
+        "Ildegarda la glossatrice",
+        "Teofilo il copista",
+        "il corbello di vimini",
+        "la campana fessa",
+        "la finestra bifora",
+        "la zappa a tre denti"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "7": {
+      "wc": 380,
+      "status": "OK",
+      "required": [
+        "il corbello di vimini",
+        "la campana fessa",
+        "la finestra bifora",
+        "la zappa a tre denti"
+      ],
+      "found": [
+        "il corbello di vimini",
+        "la campana fessa",
+        "la finestra bifora",
+        "la zappa a tre denti"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "8": {
+      "wc": 379,
+      "status": "OK",
+      "required": [
+        "Baldassarre il notaio",
+        "Donato il fabbro",
+        "Serafina la tessitrice",
+        "il Faggio Cavo",
+        "il Ruscello di Ferro",
+        "la Radura dei Cervi"
+      ],
+      "found": [
+        "Baldassarre il notaio",
+        "Donato il fabbro",
+        "Serafina la tessitrice",
+        "il Faggio Cavo",
+        "il Ruscello di Ferro",
+        "la Radura dei Cervi"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "9": {
+      "wc": 372,
+      "status": "OK",
+      "required": [
+        "Baldassarre il notaio",
+        "Donato il fabbro",
+        "Serafina la tessitrice",
+        "il Faggio Cavo",
+        "il Ruscello di Ferro",
+        "l'ancora spezzata",
+        "la Radura dei Cervi",
+        "la bussola di ottone",
+        "la rete di canapa"
+      ],
+      "found": [
+        "Baldassarre il notaio",
+        "Donato il fabbro",
+        "Serafina la tessitrice",
+        "il Faggio Cavo",
+        "il Ruscello di Ferro",
+        "l'ancora spezzata",
+        "la Radura dei Cervi",
+        "la bussola di ottone",
+        "la rete di canapa"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "10": {
+      "wc": 365,
+      "status": "OK",
+      "required": [
+        "Baldassarre il notaio",
+        "Donato il fabbro",
+        "Serafina la tessitrice",
+        "il pozzo nero",
+        "l'ancora spezzata",
+        "la bussola di ottone",
+        "la cripta di calce",
+        "la galleria scavata",
+        "la rete di canapa"
+      ],
+      "found": [
+        "Baldassarre il notaio",
+        "Donato il fabbro",
+        "Serafina la tessitrice",
+        "il pozzo nero",
+        "l'ancora spezzata",
+        "la bussola di ottone",
+        "la cripta di calce",
+        "la galleria scavata",
+        "la rete di canapa"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "11": {
+      "wc": 357,
+      "status": "OK",
+      "required": [
+        "Ildegarda la glossatrice",
+        "Maurilio il bibliotecario",
+        "Teofilo il copista",
+        "il pozzo nero",
+        "l'ancora spezzata",
+        "la bussola di ottone",
+        "la cripta di calce",
+        "la galleria scavata",
+        "la rete di canapa"
+      ],
+      "found": [
+        "Ildegarda la glossatrice",
+        "Maurilio il bibliotecario",
+        "Teofilo il copista",
+        "il pozzo nero",
+        "l'ancora spezzata",
+        "la bussola di ottone",
+        "la cripta di calce",
+        "la galleria scavata",
+        "la rete di canapa"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "12": {
+      "wc": 371,
+      "status": "OK",
+      "required": [
+        "Ildegarda la glossatrice",
+        "Maurilio il bibliotecario",
+        "Teofilo il copista",
+        "il corbello di vimini",
+        "il melograno maturo",
+        "il pozzo nero",
+        "la cripta di calce",
+        "la galleria scavata",
+        "la zappa a tre denti"
+      ],
+      "found": [
+        "Ildegarda la glossatrice",
+        "Maurilio il bibliotecario",
+        "Teofilo il copista",
+        "il corbello di vimini",
+        "il melograno maturo",
+        "il pozzo nero",
+        "la cripta di calce",
+        "la galleria scavata",
+        "la zappa a tre denti"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "13": {
+      "wc": 356,
+      "status": "OK",
+      "required": [
+        "Ildegarda la glossatrice",
+        "Maurilio il bibliotecario",
+        "Teofilo il copista",
+        "il corbello di vimini",
+        "il melograno maturo",
+        "l'orologio senza lancette",
+        "la campana fessa",
+        "la finestra bifora",
+        "la zappa a tre denti"
+      ],
+      "found": [
+        "Ildegarda la glossatrice",
+        "Maurilio il bibliotecario",
+        "Teofilo il copista",
+        "il corbello di vimini",
+        "il melograno maturo",
+        "l'orologio senza lancette",
+        "la campana fessa",
+        "la finestra bifora",
+        "la zappa a tre denti"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "14": {
+      "wc": 363,
+      "status": "OK",
+      "required": [
+        "il corbello di vimini",
+        "il melograno maturo",
+        "l'orologio senza lancette",
+        "la campana fessa",
+        "la finestra bifora",
+        "la zappa a tre denti"
+      ],
+      "found": [
+        "il corbello di vimini",
+        "il melograno maturo",
+        "l'orologio senza lancette",
+        "la campana fessa",
+        "la finestra bifora",
+        "la zappa a tre denti"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "15": {
+      "wc": 381,
+      "status": "OK",
+      "required": [
+        "Baldassarre il notaio",
+        "Cecilia la vedova",
+        "Serafina la tessitrice",
+        "il Faggio Cavo",
+        "il Ruscello di Ferro",
+        "la Fonte dei Lupi"
+      ],
+      "found": [
+        "Baldassarre il notaio",
+        "Cecilia la vedova",
+        "Serafina la tessitrice",
+        "il Faggio Cavo",
+        "il Ruscello di Ferro",
+        "la Fonte dei Lupi"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "16": {
+      "wc": 381,
+      "status": "OK",
+      "required": [
+        "Baldassarre il notaio",
+        "Cecilia la vedova",
+        "Serafina la tessitrice",
+        "il Faggio Cavo",
+        "il Ruscello di Ferro",
+        "il remo intagliato",
+        "la Fonte dei Lupi",
+        "la bussola di ottone",
+        "la rete di canapa"
+      ],
+      "found": [
+        "Baldassarre il notaio",
+        "Cecilia la vedova",
+        "Serafina la tessitrice",
+        "il Faggio Cavo",
+        "il Ruscello di Ferro",
+        "il remo intagliato",
+        "la Fonte dei Lupi",
+        "la bussola di ottone",
+        "la rete di canapa"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "17": {
+      "wc": 380,
+      "status": "OK",
+      "required": [
+        "Baldassarre il notaio",
+        "Cecilia la vedova",
+        "Serafina la tessitrice",
+        "il pozzo nero",
+        "il remo intagliato",
+        "la bussola di ottone",
+        "la cisterna romana",
+        "la galleria scavata",
+        "la rete di canapa"
+      ],
+      "found": [
+        "Baldassarre il notaio",
+        "Cecilia la vedova",
+        "Serafina la tessitrice",
+        "il pozzo nero",
+        "il remo intagliato",
+        "la bussola di ottone",
+        "la cisterna romana",
+        "la galleria scavata",
+        "la rete di canapa"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "18": {
+      "wc": 378,
+      "status": "OK",
+      "required": [
+        "Elisea la miniatrice",
+        "Ildegarda la glossatrice",
+        "Maurilio il bibliotecario",
+        "il pozzo nero",
+        "il remo intagliato",
+        "la bussola di ottone",
+        "la cisterna romana",
+        "la galleria scavata",
+        "la rete di canapa"
+      ],
+      "found": [
+        "Elisea la miniatrice",
+        "Ildegarda la glossatrice",
+        "Maurilio il bibliotecario",
+        "il pozzo nero",
+        "il remo intagliato",
+        "la bussola di ottone",
+        "la cisterna romana",
+        "la galleria scavata",
+        "la rete di canapa"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "19": {
+      "wc": 360,
+      "status": "OK",
+      "required": [
+        "Elisea la miniatrice",
+        "Ildegarda la glossatrice",
+        "Maurilio il bibliotecario",
+        "il corbello di vimini",
+        "il melograno maturo",
+        "il pozzo nero",
+        "la cisterna romana",
+        "la forbice da innesto",
+        "la galleria scavata"
+      ],
+      "found": [
+        "Elisea la miniatrice",
+        "Ildegarda la glossatrice",
+        "Maurilio il bibliotecario",
+        "il corbello di vimini",
+        "il melograno maturo",
+        "il pozzo nero",
+        "la cisterna romana",
+        "la forbice da innesto",
+        "la galleria scavata"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "20": {
+      "wc": 361,
+      "status": "OK",
+      "required": [
+        "Elisea la miniatrice",
+        "Ildegarda la glossatrice",
+        "Maurilio il bibliotecario",
+        "il corbello di vimini",
+        "il melograno maturo",
+        "il parapetto di travertino",
+        "l'orologio senza lancette",
+        "la campana fessa",
+        "la forbice da innesto"
+      ],
+      "found": [
+        "Elisea la miniatrice",
+        "Ildegarda la glossatrice",
+        "Maurilio il bibliotecario",
+        "il corbello di vimini",
+        "il melograno maturo",
+        "il parapetto di travertino",
+        "l'orologio senza lancette",
+        "la campana fessa",
+        "la forbice da innesto"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "21": {
+      "wc": 378,
+      "status": "OK",
+      "required": [
+        "il corbello di vimini",
+        "il melograno maturo",
+        "il parapetto di travertino",
+        "l'orologio senza lancette",
+        "la campana fessa",
+        "la forbice da innesto"
+      ],
+      "found": [
+        "il corbello di vimini",
+        "il melograno maturo",
+        "il parapetto di travertino",
+        "l'orologio senza lancette",
+        "la campana fessa",
+        "la forbice da innesto"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "22": {
+      "wc": 373,
+      "status": "OK",
+      "required": [
+        "Baldassarre il notaio",
+        "Cecilia la vedova",
+        "Remigio il farmacista",
+        "il Faggio Cavo",
+        "il Sentiero dei Cinghiali",
+        "la Fonte dei Lupi"
+      ],
+      "found": [
+        "Baldassarre il notaio",
+        "Cecilia la vedova",
+        "Remigio il farmacista",
+        "il Faggio Cavo",
+        "il Sentiero dei Cinghiali",
+        "la Fonte dei Lupi"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "23": {
+      "wc": 383,
+      "status": "OK",
+      "required": [
+        "Baldassarre il notaio",
+        "Cecilia la vedova",
+        "Remigio il farmacista",
+        "il Faggio Cavo",
+        "il Sentiero dei Cinghiali",
+        "il remo intagliato",
+        "la Fonte dei Lupi",
+        "la lanterna del porto",
+        "la rete di canapa"
+      ],
+      "found": [
+        "Baldassarre il notaio",
+        "Cecilia la vedova",
+        "Remigio il farmacista",
+        "il Faggio Cavo",
+        "il Sentiero dei Cinghiali",
+        "il remo intagliato",
+        "la Fonte dei Lupi",
+        "la lanterna del porto",
+        "la rete di canapa"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "24": {
+      "wc": 361,
+      "status": "OK",
+      "required": [
+        "Baldassarre il notaio",
+        "Cecilia la vedova",
+        "Remigio il farmacista",
+        "il remo intagliato",
+        "la cisterna romana",
+        "la galleria scavata",
+        "la lanterna del porto",
+        "la rete di canapa",
+        "la scala a chiocciola"
+      ],
+      "found": [
+        "Baldassarre il notaio",
+        "Cecilia la vedova",
+        "Remigio il farmacista",
+        "il remo intagliato",
+        "la cisterna romana",
+        "la galleria scavata",
+        "la lanterna del porto",
+        "la rete di canapa",
+        "la scala a chiocciola"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "25": {
+      "wc": 359,
+      "status": "OK",
+      "required": [
+        "Bartolo il lettore",
+        "Elisea la miniatrice",
+        "Maurilio il bibliotecario",
+        "il remo intagliato",
+        "la cisterna romana",
+        "la galleria scavata",
+        "la lanterna del porto",
+        "la rete di canapa",
+        "la scala a chiocciola"
+      ],
+      "found": [
+        "Bartolo il lettore",
+        "Elisea la miniatrice",
+        "Maurilio il bibliotecario",
+        "il remo intagliato",
+        "la cisterna romana",
+        "la galleria scavata",
+        "la lanterna del porto",
+        "la rete di canapa",
+        "la scala a chiocciola"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "26": {
+      "wc": 383,
+      "status": "OK",
+      "required": [
+        "Bartolo il lettore",
+        "Elisea la miniatrice",
+        "Maurilio il bibliotecario",
+        "il melograno maturo",
+        "l'innaffiatoio di rame",
+        "la cisterna romana",
+        "la forbice da innesto",
+        "la galleria scavata",
+        "la scala a chiocciola"
+      ],
+      "found": [
+        "Bartolo il lettore",
+        "Elisea la miniatrice",
+        "Maurilio il bibliotecario",
+        "il melograno maturo",
+        "l'innaffiatoio di rame",
+        "la cisterna romana",
+        "la forbice da innesto",
+        "la galleria scavata",
+        "la scala a chiocciola"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "27": {
+      "wc": 352,
+      "status": "OK",
+      "required": [
+        "Bartolo il lettore",
+        "Elisea la miniatrice",
+        "Maurilio il bibliotecario",
+        "il melograno maturo",
+        "il parapetto di travertino",
+        "l'innaffiatoio di rame",
+        "l'orologio senza lancette",
+        "la forbice da innesto",
+        "la merlatura guelfa"
+      ],
+      "found": [
+        "Bartolo il lettore",
+        "Elisea la miniatrice",
+        "Maurilio il bibliotecario",
+        "il melograno maturo",
+        "il parapetto di travertino",
+        "l'innaffiatoio di rame",
+        "l'orologio senza lancette",
+        "la forbice da innesto",
+        "la merlatura guelfa"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "28": {
+      "wc": 360,
+      "status": "OK",
+      "required": [
+        "il melograno maturo",
+        "il parapetto di travertino",
+        "l'innaffiatoio di rame",
+        "l'orologio senza lancette",
+        "la forbice da innesto",
+        "la merlatura guelfa"
+      ],
+      "found": [
+        "il melograno maturo",
+        "il parapetto di travertino",
+        "l'innaffiatoio di rame",
+        "l'orologio senza lancette",
+        "la forbice da innesto",
+        "la merlatura guelfa"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "29": {
+      "wc": 376,
+      "status": "OK",
+      "required": [
+        "Cecilia la vedova",
+        "Ginevra l'ostessa",
+        "Remigio il farmacista",
+        "il Ceppo Bruciato",
+        "il Sentiero dei Cinghiali",
+        "la Fonte dei Lupi"
+      ],
+      "found": [
+        "Cecilia la vedova",
+        "Ginevra l'ostessa",
+        "Remigio il farmacista",
+        "il Ceppo Bruciato",
+        "il Sentiero dei Cinghiali",
+        "la Fonte dei Lupi"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "30": {
+      "wc": 360,
+      "status": "OK",
+      "required": [
+        "Cecilia la vedova",
+        "Ginevra l'ostessa",
+        "Remigio il farmacista",
+        "il Ceppo Bruciato",
+        "il Sentiero dei Cinghiali",
+        "il remo intagliato",
+        "il timone di quercia",
+        "la Fonte dei Lupi",
+        "la lanterna del porto"
+      ],
+      "found": [
+        "Cecilia la vedova",
+        "Ginevra l'ostessa",
+        "Remigio il farmacista",
+        "il Ceppo Bruciato",
+        "il Sentiero dei Cinghiali",
+        "il remo intagliato",
+        "il timone di quercia",
+        "la Fonte dei Lupi",
+        "la lanterna del porto"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "31": {
+      "wc": 366,
+      "status": "OK",
+      "required": [
+        "Cecilia la vedova",
+        "Ginevra l'ostessa",
+        "Remigio il farmacista",
+        "il remo intagliato",
+        "il timone di quercia",
+        "la cisterna romana",
+        "la lanterna del porto",
+        "la scala a chiocciola",
+        "la volta affrescata"
+      ],
+      "found": [
+        "Cecilia la vedova",
+        "Ginevra l'ostessa",
+        "Remigio il farmacista",
+        "il remo intagliato",
+        "il timone di quercia",
+        "la cisterna romana",
+        "la lanterna del porto",
+        "la scala a chiocciola",
+        "la volta affrescata"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "32": {
+      "wc": 372,
+      "status": "OK",
+      "required": [
+        "Bartolo il lettore",
+        "Elisea la miniatrice",
+        "Fiammetta la censora",
+        "il remo intagliato",
+        "il timone di quercia",
+        "la cisterna romana",
+        "la lanterna del porto",
+        "la scala a chiocciola",
+        "la volta affrescata"
+      ],
+      "found": [
+        "Bartolo il lettore",
+        "Elisea la miniatrice",
+        "Fiammetta la censora",
+        "il remo intagliato",
+        "il timone di quercia",
+        "la cisterna romana",
+        "la lanterna del porto",
+        "la scala a chiocciola",
+        "la volta affrescata"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "33": {
+      "wc": 372,
+      "status": "OK",
+      "required": [
+        "Bartolo il lettore",
+        "Elisea la miniatrice",
+        "Fiammetta la censora",
+        "l'innaffiatoio di rame",
+        "la cisterna romana",
+        "la forbice da innesto",
+        "la pergola di glicine",
+        "la scala a chiocciola",
+        "la volta affrescata"
+      ],
+      "found": [
+        "Bartolo il lettore",
+        "Elisea la miniatrice",
+        "Fiammetta la censora",
+        "l'innaffiatoio di rame",
+        "la cisterna romana",
+        "la forbice da innesto",
+        "la pergola di glicine",
+        "la scala a chiocciola",
+        "la volta affrescata"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "34": {
+      "wc": 366,
+      "status": "OK",
+      "required": [
+        "Bartolo il lettore",
+        "Elisea la miniatrice",
+        "Fiammetta la censora",
+        "il parapetto di travertino",
+        "l'innaffiatoio di rame",
+        "la feritoia cieca",
+        "la forbice da innesto",
+        "la merlatura guelfa",
+        "la pergola di glicine"
+      ],
+      "found": [
+        "Bartolo il lettore",
+        "Elisea la miniatrice",
+        "Fiammetta la censora",
+        "il parapetto di travertino",
+        "l'innaffiatoio di rame",
+        "la feritoia cieca",
+        "la forbice da innesto",
+        "la merlatura guelfa",
+        "la pergola di glicine"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "35": {
+      "wc": 353,
+      "status": "OK",
+      "required": [
+        "il parapetto di travertino",
+        "l'innaffiatoio di rame",
+        "la feritoia cieca",
+        "la forbice da innesto",
+        "la merlatura guelfa",
+        "la pergola di glicine"
+      ],
+      "found": [
+        "il parapetto di travertino",
+        "l'innaffiatoio di rame",
+        "la feritoia cieca",
+        "la forbice da innesto",
+        "la merlatura guelfa",
+        "la pergola di glicine"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "36": {
+      "wc": 385,
+      "status": "OK",
+      "required": [
+        "Anselmo il sindaco",
+        "Ginevra l'ostessa",
+        "Remigio il farmacista",
+        "il Ceppo Bruciato",
+        "il Sentiero dei Cinghiali",
+        "la Radura dei Corvi"
+      ],
+      "found": [
+        "Anselmo il sindaco",
+        "Ginevra l'ostessa",
+        "Remigio il farmacista",
+        "il Ceppo Bruciato",
+        "il Sentiero dei Cinghiali",
+        "la Radura dei Corvi"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "37": {
+      "wc": 363,
+      "status": "OK",
+      "required": [
+        "Anselmo il sindaco",
+        "Ginevra l'ostessa",
+        "Remigio il farmacista",
+        "il Ceppo Bruciato",
+        "il Sentiero dei Cinghiali",
+        "il timone di quercia",
+        "la Radura dei Corvi",
+        "la lanterna del porto",
+        "la vela rattoppata"
+      ],
+      "found": [
+        "Anselmo il sindaco",
+        "Ginevra l'ostessa",
+        "Remigio il farmacista",
+        "il Ceppo Bruciato",
+        "il Sentiero dei Cinghiali",
+        "il timone di quercia",
+        "la Radura dei Corvi",
+        "la lanterna del porto",
+        "la vela rattoppata"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "38": {
+      "wc": 370,
+      "status": "OK",
+      "required": [
+        "Anselmo il sindaco",
+        "Ginevra l'ostessa",
+        "Remigio il farmacista",
+        "il timone di quercia",
+        "la camera murata",
+        "la lanterna del porto",
+        "la scala a chiocciola",
+        "la vela rattoppata",
+        "la volta affrescata"
+      ],
+      "found": [
+        "Anselmo il sindaco",
+        "Ginevra l'ostessa",
+        "Remigio il farmacista",
+        "il timone di quercia",
+        "la camera murata",
+        "la lanterna del porto",
+        "la scala a chiocciola",
+        "la vela rattoppata",
+        "la volta affrescata"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "39": {
+      "wc": 369,
+      "status": "OK",
+      "required": [
+        "Bartolo il lettore",
+        "Fiammetta la censora",
+        "Ottavio il cartografo",
+        "il timone di quercia",
+        "la camera murata",
+        "la lanterna del porto",
+        "la scala a chiocciola",
+        "la vela rattoppata",
+        "la volta affrescata"
+      ],
+      "found": [
+        "Bartolo il lettore",
+        "Fiammetta la censora",
+        "Ottavio il cartografo",
+        "il timone di quercia",
+        "la camera murata",
+        "la lanterna del porto",
+        "la scala a chiocciola",
+        "la vela rattoppata",
+        "la volta affrescata"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "40": {
+      "wc": 352,
+      "status": "OK",
+      "required": [
+        "Bartolo il lettore",
+        "Fiammetta la censora",
+        "Ottavio il cartografo",
+        "l'innaffiatoio di rame",
+        "la camera murata",
+        "la pergola di glicine",
+        "la scala a chiocciola",
+        "la volta affrescata",
+        "lo spaventapasseri muto"
+      ],
+      "found": [
+        "Bartolo il lettore",
+        "Fiammetta la censora",
+        "Ottavio il cartografo",
+        "l'innaffiatoio di rame",
+        "la camera murata",
+        "la pergola di glicine",
+        "la scala a chiocciola",
+        "la volta affrescata",
+        "lo spaventapasseri muto"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "41": {
+      "wc": 366,
+      "status": "OK",
+      "required": [
+        "Bartolo il lettore",
+        "Fiammetta la censora",
+        "Ottavio il cartografo",
+        "l'innaffiatoio di rame",
+        "la banderuola di rame",
+        "la feritoia cieca",
+        "la merlatura guelfa",
+        "la pergola di glicine",
+        "lo spaventapasseri muto"
+      ],
+      "found": [
+        "Bartolo il lettore",
+        "Fiammetta la censora",
+        "Ottavio il cartografo",
+        "l'innaffiatoio di rame",
+        "la banderuola di rame",
+        "la feritoia cieca",
+        "la merlatura guelfa",
+        "la pergola di glicine",
+        "lo spaventapasseri muto"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "42": {
+      "wc": 361,
+      "status": "OK",
+      "required": [
+        "l'innaffiatoio di rame",
+        "la banderuola di rame",
+        "la feritoia cieca",
+        "la merlatura guelfa",
+        "la pergola di glicine",
+        "lo spaventapasseri muto"
+      ],
+      "found": [
+        "l'innaffiatoio di rame",
+        "la banderuola di rame",
+        "la feritoia cieca",
+        "la merlatura guelfa",
+        "la pergola di glicine",
+        "lo spaventapasseri muto"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "43": {
+      "wc": 368,
+      "status": "OK",
+      "required": [
+        "Anselmo il sindaco",
+        "Ginevra l'ostessa",
+        "il Ceppo Bruciato",
+        "la Radura dei Corvi"
+      ],
+      "found": [
+        "Anselmo il sindaco",
+        "Ginevra l'ostessa",
+        "il Ceppo Bruciato",
+        "la Radura dei Corvi"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "44": {
+      "wc": 361,
+      "status": "OK",
+      "required": [
+        "Anselmo il sindaco",
+        "Ginevra l'ostessa",
+        "il Ceppo Bruciato",
+        "il timone di quercia",
+        "la Radura dei Corvi",
+        "la vela rattoppata"
+      ],
+      "found": [
+        "Anselmo il sindaco",
+        "Ginevra l'ostessa",
+        "il Ceppo Bruciato",
+        "il timone di quercia",
+        "la Radura dei Corvi",
+        "la vela rattoppata"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "45": {
+      "wc": 375,
+      "status": "OK",
+      "required": [
+        "Anselmo il sindaco",
+        "Ginevra l'ostessa",
+        "il timone di quercia",
+        "la camera murata",
+        "la vela rattoppata",
+        "la volta affrescata"
+      ],
+      "found": [
+        "Anselmo il sindaco",
+        "Ginevra l'ostessa",
+        "il timone di quercia",
+        "la camera murata",
+        "la vela rattoppata",
+        "la volta affrescata"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "46": {
+      "wc": 372,
+      "status": "OK",
+      "required": [
+        "Fiammetta la censora",
+        "Ottavio il cartografo",
+        "il timone di quercia",
+        "la camera murata",
+        "la vela rattoppata",
+        "la volta affrescata"
+      ],
+      "found": [
+        "Fiammetta la censora",
+        "Ottavio il cartografo",
+        "il timone di quercia",
+        "la camera murata",
+        "la vela rattoppata",
+        "la volta affrescata"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "47": {
+      "wc": 382,
+      "status": "OK",
+      "required": [
+        "Fiammetta la censora",
+        "Ottavio il cartografo",
+        "la camera murata",
+        "la pergola di glicine",
+        "la volta affrescata",
+        "lo spaventapasseri muto"
+      ],
+      "found": [
+        "Fiammetta la censora",
+        "Ottavio il cartografo",
+        "la camera murata",
+        "la pergola di glicine",
+        "la volta affrescata",
+        "lo spaventapasseri muto"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "48": {
+      "wc": 389,
+      "status": "OK",
+      "required": [
+        "Fiammetta la censora",
+        "Ottavio il cartografo",
+        "la banderuola di rame",
+        "la feritoia cieca",
+        "la pergola di glicine",
+        "lo spaventapasseri muto"
+      ],
+      "found": [
+        "Fiammetta la censora",
+        "Ottavio il cartografo",
+        "la banderuola di rame",
+        "la feritoia cieca",
+        "la pergola di glicine",
+        "lo spaventapasseri muto"
+      ],
+      "missing": [],
+      "extra": []
+    },
+    "49": {
+      "wc": 372,
+      "status": "OK",
+      "required": [
+        "la banderuola di rame",
+        "la feritoia cieca",
+        "la pergola di glicine",
+        "lo spaventapasseri muto"
+      ],
+      "found": [
+        "la banderuola di rame",
+        "la feritoia cieca",
+        "la pergola di glicine",
+        "lo spaventapasseri muto"
+      ],
+      "missing": [],
+      "extra": []
+    }
+  },
+  "violations": []
+}

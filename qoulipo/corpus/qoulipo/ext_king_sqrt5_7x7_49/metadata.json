@@ -1,0 +1,16 @@
+{
+  "text_id": "ext_king_sqrt5_7x7_49",
+  "title": "7x7 grid with sqrt(5) cutoff",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 49,
+  "canonical_E": 346,
+  "canonical_density": 0.2942,
+  "canonical_MIS": 9,
+  "canonical_rho": 1.0,
+  "canonical_optima": 1,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.2298,
+  "blockade_um": 11.5
+}

@@ -1,0 +1,54 @@
+### Thread Assignment Table
+
+| Page | Ch | Threads | Voice | Title |
+|------|----|---------|-------|-------|
+| 1 | 1 | COASTLINE, SCALE, GRANITE, KELP, COMPASS | Professor | How Long Is the Coast of France? |
+| 2 | 1 | COASTLINE, SCALE, KELP, COMPASS, STORM | Nithard | The First Survey |
+| 3 | 1 | COASTLINE, SCALE, COMPASS, STORM, CHALK | Pascal | The Paradox of the Ruler |
+| 4 | 1 | COASTLINE, SCALE, STORM, CHALK, SALT | Professor | Mandelbrot's Question |
+| 5 | 1 | COASTLINE, SCALE, CHALK, SALT, DUNE | Nithard | Walking the Littoral |
+| 6 | 1 | COASTLINE, SCALE, SALT, DUNE, ANCHOR | Pascal | The Infinite in the Finite Shore |
+| 7 | 1 | COASTLINE, SCALE, DUNE, ANCHOR, SEXTANT | Professor | Dimension 1.25 |
+| 8 | 1 | COASTLINE, SCALE, ANCHOR, SEXTANT, VESSEL | Nithard | The Harbor at Every Scale |
+| 9 | 1 | COASTLINE, SCALE, SEXTANT, VESSEL, GRANITE | Pascal | Measuring What Cannot Be Measured |
+| 10 | 1 | COASTLINE, SCALE, VESSEL, GRANITE, KELP | Professor | The Lesson of the First Chapter |
+| 11 | 2 | SCALE, FRACTAL, SEXTANT, VESSEL, GRANITE | Nithard | Arrival in Brittany |
+| 12 | 2 | SCALE, FRACTAL, VESSEL, GRANITE, KELP | Pascal | The Granite Equation |
+| 13 | 2 | SCALE, FRACTAL, GRANITE, KELP, COMPASS | Professor | Rias and Recursion |
+| 14 | 2 | SCALE, FRACTAL, KELP, COMPASS, STORM | Nithard | The Storm at Pointe du Raz |
+| 15 | 2 | SCALE, FRACTAL, COMPASS, STORM, CHALK | Pascal | Probability of Shipwreck |
+| 16 | 2 | SCALE, FRACTAL, STORM, CHALK, SALT | Professor | Salt and Self-Similarity |
+| 17 | 2 | SCALE, FRACTAL, CHALK, SALT, DUNE | Nithard | The Dunes of Quiberon |
+| 18 | 2 | SCALE, FRACTAL, SALT, DUNE, ANCHOR | Pascal | Anchoring the Iteration |
+| 19 | 2 | SCALE, FRACTAL, DUNE, ANCHOR, SEXTANT | Professor | The Breton Fractal |
+| 20 | 2 | SCALE, FRACTAL, ANCHOR, SEXTANT, VESSEL | Nithard | Departure from Brest |
+| 21 | 3 | FRACTAL, CARTOGRAPHY, DUNE, ANCHOR, SEXTANT | Pascal | The Map Is Not the Territory |
+| 22 | 3 | FRACTAL, CARTOGRAPHY, ANCHOR, SEXTANT, VESSEL | Professor | Normandy from Above |
+| 23 | 3 | FRACTAL, CARTOGRAPHY, SEXTANT, VESSEL, GRANITE | Nithard | The Cliffs at Etretat |
+| 24 | 3 | FRACTAL, CARTOGRAPHY, VESSEL, GRANITE, KELP | Pascal | Charting the Chalk |
+| 25 | 3 | FRACTAL, CARTOGRAPHY, GRANITE, KELP, COMPASS | Professor | D-Day and the Grid |
+| 26 | 3 | FRACTAL, CARTOGRAPHY, KELP, COMPASS, STORM | Nithard | The Norman Shore in Storm |
+| 27 | 3 | FRACTAL, CARTOGRAPHY, COMPASS, STORM, CHALK | Pascal | Erosion as Computation |
+| 28 | 3 | FRACTAL, CARTOGRAPHY, STORM, CHALK, SALT | Professor | The Bayeux Projection |
+| 29 | 3 | FRACTAL, CARTOGRAPHY, CHALK, SALT, DUNE | Nithard | Sand Beneath the Chalk |
+| 30 | 3 | FRACTAL, CARTOGRAPHY, SALT, DUNE, ANCHOR | Pascal | The Harbour of Honfleur |
+| 31 | 4 | CARTOGRAPHY, TIDE, CHALK, SALT, DUNE | Professor | The Tideless Sea |
+| 32 | 4 | CARTOGRAPHY, TIDE, SALT, DUNE, ANCHOR | Nithard | Mapping the Calanques |
+| 33 | 4 | CARTOGRAPHY, TIDE, DUNE, ANCHOR, SEXTANT | Pascal | The Rhythm of the Inner Sea |
+| 34 | 4 | CARTOGRAPHY, TIDE, ANCHOR, SEXTANT, VESSEL | Professor | Portolan Charts |
+| 35 | 4 | CARTOGRAPHY, TIDE, SEXTANT, VESSEL, GRANITE | Nithard | The Stone Coast of Provence |
+| 36 | 4 | CARTOGRAPHY, TIDE, VESSEL, GRANITE, KELP | Pascal | Posidonia and Measurement |
+| 37 | 4 | CARTOGRAPHY, TIDE, GRANITE, KELP, COMPASS | Professor | The Mediterranean Fractal |
+| 38 | 4 | CARTOGRAPHY, TIDE, KELP, COMPASS, STORM | Nithard | The Mistral |
+| 39 | 4 | CARTOGRAPHY, TIDE, COMPASS, STORM, CHALK | Pascal | Limestone and Probability |
+| 40 | 4 | CARTOGRAPHY, TIDE, STORM, CHALK, SALT | Professor | Leaving the Inner Sea |
+| 41 | 5 | TIDE, COASTLINE, COMPASS, STORM, CHALK | Nithard | The Atlantic Opens |
+| 42 | 5 | TIDE, COASTLINE, STORM, CHALK, SALT | Pascal | The Tidal Equation |
+| 43 | 5 | TIDE, COASTLINE, CHALK, SALT, DUNE | Professor | The Dune of Pilat |
+| 44 | 5 | TIDE, COASTLINE, SALT, DUNE, ANCHOR | Nithard | Arcachon Bay |
+| 45 | 5 | TIDE, COASTLINE, DUNE, ANCHOR, SEXTANT | Pascal | The Basque Measurement |
+| 46 | 5 | TIDE, COASTLINE, ANCHOR, SEXTANT, VESSEL | Professor | Bayonne and the Limit |
+| 47 | 5 | TIDE, COASTLINE, SEXTANT, VESSEL, GRANITE | Nithard | The Basque Cliffs |
+| 48 | 5 | TIDE, COASTLINE, VESSEL, GRANITE, KELP | Pascal | The Final Calculation |
+| 49 | 5 | TIDE, COASTLINE, GRANITE, KELP, COMPASS | Professor | The Fractal Returns |
+| 50 | 5 | TIDE, COASTLINE, KELP, COMPASS, STORM | Nithard | The Coast Has No End |

@@ -1,0 +1,12 @@
+{
+  "text": "carte_du_texte_designed",
+  "graph_type": "5x10_grid_planar",
+  "N": 50,
+  "E": 86,
+  "density": 0.0702,
+  "is_planar": true,
+  "mis_size": 25,
+  "batch_id": "43c529be-f22d-470b-82c1-557c6b38a17b",
+  "emulator": "EMU_MPS",
+  "shots": 1000
+}

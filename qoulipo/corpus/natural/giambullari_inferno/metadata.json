@@ -1,0 +1,21 @@
+{
+  "text_id": "giambullari_inferno",
+  "title": "Del sito, forma, & misure dello Inferno di Dante",
+  "author": "Pierfrancesco Giambullari",
+  "lang": "IT",
+  "date": "1544",
+  "canonical_N": 151,
+  "canonical_graph_file": "graph_k8.json",
+  "canonical_E": 866,
+  "canonical_density": 0.0765,
+  "canonical_MIS": 41,
+  "canonical_rho": 0.878,
+  "canonical_optima": 24,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "NLP_k8",
+  "source_contract": "node_aligned_page",
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "corpus_role": "natural",
+  "chunking": "OCR'd page (top-65 by degree)",
+  "sim_threshold": 0.78
+}

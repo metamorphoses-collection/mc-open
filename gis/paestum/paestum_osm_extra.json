@@ -1,0 +1,397 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-07-20T08:34:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1050502517,
+  "lat": 40.4246332,
+  "lon": 15.0058706,
+  "tags": {
+    "column:shape": "circle",
+    "column:style": "doric",
+    "historic": "ruins",
+    "man_made": "column",
+    "name": "Colonna dorica"
+  }
+},
+{
+  "type": "node",
+  "id": 9077225277,
+  "lat": 40.4194289,
+  "lon": 15.0063229,
+  "tags": {
+    "historic": "archaeological_site",
+    "historic:civilization": "ancient_greece",
+    "historic:period": "magna_graecia",
+    "name": "Orologio ad acqua"
+  }
+},
+{
+  "type": "node",
+  "id": 9079036401,
+  "lat": 40.4201422,
+  "lon": 15.0061838,
+  "tags": {
+    "historic": "archaeological_site",
+    "historic:civilization": "ancient_greece",
+    "historic:period": "magna_graecia",
+    "name": "Casa dei sacerdoti"
+  }
+},
+{
+  "type": "node",
+  "id": 9079036630,
+  "lat": 40.4205722,
+  "lon": 15.0038946,
+  "tags": {
+    "historic": "archaeological_site",
+    "historic:civilization": "ancient_greece",
+    "name": "Piscina ellenistica",
+    "wikidata": "Q56258720"
+  }
+},
+{
+  "type": "node",
+  "id": 9079555338,
+  "lat": 40.4208912,
+  "lon": 15.0063107,
+  "tags": {
+    "archaeological_site": "temple",
+    "historic": "archaeological_site",
+    "historic:civilization": "ancient_greece",
+    "name": "Asklepion"
+  }
+},
+{
+  "type": "node",
+  "id": 9087431218,
+  "lat": 40.4209941,
+  "lon": 15.0055435,
+  "tags": {
+    "alt_name": "Tempio italico",
+    "archaeological_site": "temple",
+    "historic": "archaeological_site",
+    "historic:civilization": "ancient_roman",
+    "name": "Tempio di Mater Matuta"
+  }
+},
+{
+  "type": "node",
+  "id": 9087431219,
+  "lat": 40.4198857,
+  "lon": 15.0059352,
+  "tags": {
+    "archaeological_site": "temple",
+    "historic": "archaeological_site",
+    "historic:civilization": "ancient_greece",
+    "name": "Altare del tempio di Nettuno",
+    "start_date": "C5 BC"
+  }
+},
+{
+  "type": "node",
+  "id": 9087431220,
+  "lat": 40.4198951,
+  "lon": 15.0061243,
+  "tags": {
+    "archaeological_site": "temple",
+    "historic": "archaeological_site",
+    "historic:civilization": "ancient_roman",
+    "name": "Altare romano del tempio di Nettuno",
+    "start_date": "C1 BC"
+  }
+},
+{
+  "type": "node",
+  "id": 9087431221,
+  "lat": 40.4192451,
+  "lon": 15.0061032,
+  "tags": {
+    "archaeological_site": "temple",
+    "historic": "archaeological_site",
+    "historic:civilization": "ancient_greece",
+    "name": "Altare del tempio di Hera",
+    "start_date": "C5 BC"
+  }
+},
+{
+  "type": "node",
+  "id": 9087431222,
+  "lat": 40.4207739,
+  "lon": 15.0049722,
+  "tags": {
+    "archaeological_site": "temple",
+    "historic": "archaeological_site",
+    "name": "Tempio di Magna Mater"
+  }
+},
+{
+  "type": "node",
+  "id": 9087431223,
+  "lat": 40.4205454,
+  "lon": 15.0049684,
+  "tags": {
+    "archaeological_site": "temple",
+    "historic": "archaeological_site",
+    "name": "Tempio di Demetra"
+  }
+},
+{
+  "type": "node",
+  "id": 9091260261,
+  "lat": 40.4215385,
+  "lon": 15.0054065,
+  "tags": {
+    "historic": "archaeological_site",
+    "historic:civilization": "ancient_roman",
+    "name": "Foro",
+    "wikidata": "Q56258478"
+  }
+},
+{
+  "type": "node",
+  "id": 9110515730,
+  "lat": 40.4244764,
+  "lon": 15.0060052,
+  "tags": {
+    "historic": "archaeological_site",
+    "name": "Altare del tempio di Atena"
+  }
+},
+{
+  "type": "node",
+  "id": 9110515731,
+  "lat": 40.4246975,
+  "lon": 15.0060418,
+  "tags": {
+    "historic": "archaeological_site"
+  }
+},
+{
+  "type": "way",
+  "id": 90539691,
+  "bounds": {
+    "minlat": 40.4226762,
+    "minlon": 15.0047009,
+    "maxlat": 40.4239232,
+    "maxlon": 15.0047847
+  },
+  "nodes": [
+    1050421701,
+    9110515429,
+    9110515426,
+    9110515427,
+    1050421670
+  ],
+  "geometry": [
+    { "lat": 40.4239232, "lon": 15.0047009 },
+    { "lat": 40.4239131, "lon": 15.0047016 },
+    { "lat": 40.4226840, "lon": 15.0047842 },
+    { "lat": 40.4226810, "lon": 15.0047844 },
+    { "lat": 40.4226762, "lon": 15.0047847 }
+  ],
+  "tags": {
+    "highway": "pedestrian",
+    "historic": "road",
+    "historic:civilization": "ancient_roman",
+    "name": "Via Sacra",
+    "surface": "stone",
+    "tracktype": "grade1",
+    "wikimedia_commons": "File:Paestum Via-Sacra 20240506 115034.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 90542248,
+  "bounds": {
+    "minlat": 40.4183073,
+    "minlon": 15.0045812,
+    "maxlat": 40.4213099,
+    "maxlon": 15.0048028
+  },
+  "nodes": [
+    1050421651,
+    2245065136,
+    2245092611,
+    2245500706
+  ],
+  "geometry": [
+    { "lat": 40.4213099, "lon": 15.0045812 },
+    { "lat": 40.4212394, "lon": 15.0045844 },
+    { "lat": 40.4187117, "lon": 15.0047494 },
+    { "lat": 40.4183073, "lon": 15.0048028 }
+  ],
+  "tags": {
+    "bicycle": "no",
+    "highway": "pedestrian",
+    "historic": "road",
+    "historic:civilization": "ancient_roman",
+    "lit": "no",
+    "name": "Via Sacra",
+    "surface": "stone",
+    "tracktype": "grade1",
+    "wikimedia_commons": "File:Paestum Via-Sacra 20240506 113015.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 90545232,
+  "bounds": {
+    "minlat": 40.4211941,
+    "minlon": 15.0016197,
+    "maxlat": 40.4213099,
+    "maxlon": 15.0045812
+  },
+  "nodes": [
+    1050421651,
+    1050491177,
+    2245092607,
+    9052685683,
+    2245065141
+  ],
+  "geometry": [
+    { "lat": 40.4213099, "lon": 15.0045812 },
+    { "lat": 40.4212913, "lon": 15.0040907 },
+    { "lat": 40.4212732, "lon": 15.0036147 },
+    { "lat": 40.4212551, "lon": 15.0031384 },
+    { "lat": 40.4211941, "lon": 15.0016197 }
+  ],
+  "tags": {
+    "bicycle": "no",
+    "highway": "pedestrian",
+    "historic": "road",
+    "historic:civilization": "ancient_roman",
+    "name": "Decumano",
+    "surface": "stone",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 215093402,
+  "bounds": {
+    "minlat": 40.4226794,
+    "minlon": 15.0044564,
+    "maxlat": 40.4226840,
+    "maxlon": 15.0047842
+  },
+  "nodes": [
+    9110515426,
+    1050421626
+  ],
+  "geometry": [
+    { "lat": 40.4226840, "lon": 15.0047842 },
+    { "lat": 40.4226794, "lon": 15.0044564 }
+  ],
+  "tags": {
+    "highway": "track",
+    "historic": "road",
+    "historic:civilization": "ancient_roman",
+    "surface": "stone",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 978462777,
+  "bounds": {
+    "minlat": 40.4209936,
+    "minlon": 14.9961994,
+    "maxlat": 40.4209975,
+    "maxlon": 14.9964079
+  },
+  "nodes": [
+    9053840197,
+    9053840198
+  ],
+  "geometry": [
+    { "lat": 40.4209936, "lon": 14.9964079 },
+    { "lat": 40.4209975, "lon": 14.9961994 }
+  ],
+  "tags": {
+    "highway": "track",
+    "historic": "roman_road",
+    "name": "Decumano",
+    "surface": "stone"
+  }
+},
+{
+  "type": "way",
+  "id": 980857117,
+  "bounds": {
+    "minlat": 40.4187492,
+    "minlon": 15.0086849,
+    "maxlat": 40.4188292,
+    "maxlon": 15.0087908
+  },
+  "nodes": [
+    2908165592,
+    9073294172,
+    9073294173,
+    2908167652,
+    1599629460,
+    2908167797,
+    2908165592
+  ],
+  "geometry": [
+    { "lat": 40.4187900, "lon": 15.0086865 },
+    { "lat": 40.4188267, "lon": 15.0086849 },
+    { "lat": 40.4188292, "lon": 15.0087877 },
+    { "lat": 40.4188187, "lon": 15.0087881 },
+    { "lat": 40.4187516, "lon": 15.0087908 },
+    { "lat": 40.4187492, "lon": 15.0086881 },
+    { "lat": 40.4187900, "lon": 15.0086865 }
+  ],
+  "tags": {
+    "alt_name": "Torre 27",
+    "building": "yes",
+    "historic": "tower",
+    "man_made": "tower",
+    "name": "Torre Laura",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 980857118,
+  "bounds": {
+    "minlat": 40.4190345,
+    "minlon": 15.0134765,
+    "maxlat": 40.4191577,
+    "maxlon": 15.0136382
+  },
+  "nodes": [
+    2908167802,
+    2908167689,
+    9073294175,
+    2907853399,
+    9073294174,
+    1599629490,
+    2908167802
+  ],
+  "geometry": [
+    { "lat": 40.4190986, "lon": 15.0136382 },
+    { "lat": 40.4191092, "lon": 15.0136234 },
+    { "lat": 40.4191577, "lon": 15.0135556 },
+    { "lat": 40.4190936, "lon": 15.0134765 },
+    { "lat": 40.4190494, "lon": 15.0135384 },
+    { "lat": 40.4190345, "lon": 15.0135592 },
+    { "lat": 40.4190986, "lon": 15.0136382 }
+  ],
+  "tags": {
+    "building": "yes",
+    "historic": "tower",
+    "man_made": "tower",
+    "name": "Torre 28",
+    "tower:type": "defensive"
+  }
+}
+
+  ]
+}

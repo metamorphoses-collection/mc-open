@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Giambullari 155",
+    "N": 155,
+    "E": 908,
+    "d": 0.0761,
+    "mis": 45,
+    "ratio": 0.29,
+    "sols": 20,
+    "rho": 0.622
+  },
+  {
+    "title": "Dante 120",
+    "N": 120,
+    "E": 714,
+    "d": 0.1,
+    "mis": 36,
+    "ratio": 0.3,
+    "sols": 20,
+    "rho": 0.611
+  },
+  {
+    "title": "Galileo 31",
+    "N": 31,
+    "E": 168,
+    "d": 0.3613,
+    "mis": 7,
+    "ratio": 0.226,
+    "sols": 20,
+    "rho": 0.0
+  },
+  {
+    "title": "Manetti 100",
+    "N": 100,
+    "E": 562,
+    "d": 0.1135,
+    "mis": 25,
+    "ratio": 0.25,
+    "sols": 20,
+    "rho": 0.28
+  },
+  {
+    "title": "Nithard Wager 50",
+    "N": 50,
+    "E": 252,
+    "d": 0.2057,
+    "mis": 11,
+    "ratio": 0.22,
+    "sols": 20,
+    "rho": 0.455
+  },
+  {
+    "title": "Nithard Wager 65",
+    "N": 65,
+    "E": 313,
+    "d": 0.1505,
+    "mis": 12,
+    "ratio": 0.185,
+    "sols": 20,
+    "rho": 0.0
+  },
+  {
+    "title": "Nithard Wager 100",
+    "N": 100,
+    "E": 547,
+    "d": 0.1105,
+    "mis": 26,
+    "ratio": 0.26,
+    "sols": 20,
+    "rho": 0.269
+  },
+  {
+    "title": "Incarnate Graph 50",
+    "N": 50,
+    "E": 258,
+    "d": 0.2106,
+    "mis": 11,
+    "ratio": 0.22,
+    "sols": 20,
+    "rho": 0.0
+  },
+  {
+    "title": "Incarnate Graph 65",
+    "N": 65,
+    "E": 349,
+    "d": 0.1678,
+    "mis": 17,
+    "ratio": 0.262,
+    "sols": 20,
+    "rho": 0.529
+  },
+  {
+    "title": "Irreplaceable 50",
+    "N": 50,
+    "E": 243,
+    "d": 0.1984,
+    "mis": 12,
+    "ratio": 0.24,
+    "sols": 20,
+    "rho": 0.167
+  },
+  {
+    "title": "Kaleidoscope 51",
+    "N": 51,
+    "E": 258,
+    "d": 0.2024,
+    "mis": 11,
+    "ratio": 0.216,
+    "sols": 20,
+    "rho": 0.455
+  },
+  {
+    "title": "Map of Text 50",
+    "N": 50,
+    "E": 254,
+    "d": 0.2073,
+    "mis": 12,
+    "ratio": 0.24,
+    "sols": 20,
+    "rho": 0.0
+  },
+  {
+    "title": "Trial Nithard 50",
+    "N": 50,
+    "E": 285,
+    "d": 0.2327,
+    "mis": 13,
+    "ratio": 0.26,
+    "sols": 20,
+    "rho": 0.231
+  },
+  {
+    "title": "Fractal Book 50",
+    "N": 50,
+    "E": 311,
+    "d": 0.2539,
+    "mis": 14,
+    "ratio": 0.28,
+    "sols": 20,
+    "rho": 0.357
+  },
+  {
+    "title": "Graph Twins 30",
+    "N": 30,
+    "E": 155,
+    "d": 0.3563,
+    "mis": 8,
+    "ratio": 0.267,
+    "sols": 1,
+    "rho": 1.0
+  },
+  {
+    "title": "Reader Trap 50",
+    "N": 50,
+    "E": 254,
+    "d": 0.2073,
+    "mis": 11,
+    "ratio": 0.22,
+    "sols": 20,
+    "rho": 0.0
+  },
+  {
+    "title": "Score Text 50",
+    "N": 50,
+    "E": 239,
+    "d": 0.1951,
+    "mis": 11,
+    "ratio": 0.22,
+    "sols": 20,
+    "rho": 0.0
+  }
+]

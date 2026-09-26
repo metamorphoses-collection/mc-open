@@ -1,0 +1,27 @@
+{
+  "text_id": "kagome_100",
+  "title": "Kagome of Late Summer",
+  "lang": "EN",
+  "literary_status": "drafted (2026-05-05)",
+  "canonical_N": 100,
+  "canonical_E": 180,
+  "canonical_density": 0.0364,
+  "canonical_MIS": 39,
+  "canonical_rho": 0.8462,
+  "canonical_optima": 8,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.3609,
+  "blockade_um": 7.0,
+  "literary_form": "haiku-like tercets; 5-7-5 target with modern free-haiku drift",
+  "page_count": 100,
+  "designed_property": "Kagome (3.6.3.6) Archimedean tiling, exact 2D UDG, spectral gap 1.36\u00d7, \u03c1=0.85 (elliptical-cut symmetry break)",
+  "literary_references": [
+    "Bash\u014d school renku (linked-verse) tradition",
+    "Semeghini et al., Nature 595, 233 (2021) \u2014 219-atom Rydberg kagome quantum spin liquid"
+  ],
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv (QOuLiPo: What a quantum computer sees when it reads a book)",
+  "source_contract": "node_aligned",
+  "canonical_graph_file": "graph_target.json"
+}

@@ -1,0 +1,245 @@
+{
+  "N": 50,
+  "runs": {
+    "threshold=3/e5-large-instruct": {
+      "threshold": 3,
+      "designed_edges": 362,
+      "density": 0.2955,
+      "k_star": 14,
+      "model": "intfloat/multilingual-e5-large-instruct",
+      "k_results": {
+        "k=4": {
+          "recovered": 151,
+          "tp": 79,
+          "fp": 72,
+          "fn": 283,
+          "recall": 0.218,
+          "precision": 0.523,
+          "f1": 0.308,
+          "jaccard": 0.182
+        },
+        "k=8": {
+          "recovered": 291,
+          "tp": 126,
+          "fp": 165,
+          "fn": 236,
+          "recall": 0.348,
+          "precision": 0.433,
+          "f1": 0.386,
+          "jaccard": 0.239
+        },
+        "k=14": {
+          "recovered": 486,
+          "tp": 200,
+          "fp": 286,
+          "fn": 162,
+          "recall": 0.552,
+          "precision": 0.412,
+          "f1": 0.472,
+          "jaccard": 0.309
+        }
+      },
+      "best_f1": 0.472
+    },
+    "threshold=3/e5-large-plain": {
+      "threshold": 3,
+      "designed_edges": 362,
+      "density": 0.2955,
+      "k_star": 14,
+      "model": "intfloat/multilingual-e5-large",
+      "k_results": {
+        "k=4": {
+          "recovered": 150,
+          "tp": 79,
+          "fp": 71,
+          "fn": 283,
+          "recall": 0.218,
+          "precision": 0.527,
+          "f1": 0.309,
+          "jaccard": 0.182
+        },
+        "k=8": {
+          "recovered": 281,
+          "tp": 130,
+          "fp": 151,
+          "fn": 232,
+          "recall": 0.359,
+          "precision": 0.463,
+          "f1": 0.404,
+          "jaccard": 0.253
+        },
+        "k=14": {
+          "recovered": 462,
+          "tp": 201,
+          "fp": 261,
+          "fn": 161,
+          "recall": 0.555,
+          "precision": 0.435,
+          "f1": 0.488,
+          "jaccard": 0.323
+        }
+      },
+      "best_f1": 0.488
+    },
+    "threshold=3/e5-large-oulipo-finetuned": {
+      "threshold": 3,
+      "designed_edges": 362,
+      "density": 0.2955,
+      "k_star": 14,
+      "model": "generation/models/e5-large-oulipo/e5-large-oulipo",
+      "k_results": {
+        "k=4": {
+          "recovered": 130,
+          "tp": 119,
+          "fp": 11,
+          "fn": 243,
+          "recall": 0.329,
+          "precision": 0.915,
+          "f1": 0.484,
+          "jaccard": 0.319
+        },
+        "k=8": {
+          "recovered": 228,
+          "tp": 188,
+          "fp": 40,
+          "fn": 174,
+          "recall": 0.519,
+          "precision": 0.825,
+          "f1": 0.637,
+          "jaccard": 0.468
+        },
+        "k=14": {
+          "recovered": 406,
+          "tp": 281,
+          "fp": 125,
+          "fn": 81,
+          "recall": 0.776,
+          "precision": 0.692,
+          "f1": 0.732,
+          "jaccard": 0.577
+        }
+      },
+      "best_f1": 0.732
+    },
+    "threshold=4/e5-large-instruct": {
+      "threshold": 4,
+      "designed_edges": 37,
+      "density": 0.0302,
+      "k_star": 2,
+      "model": "intfloat/multilingual-e5-large-instruct",
+      "k_results": {
+        "k=2": {
+          "recovered": 77,
+          "tp": 5,
+          "fp": 72,
+          "fn": 32,
+          "recall": 0.135,
+          "precision": 0.065,
+          "f1": 0.088,
+          "jaccard": 0.046
+        },
+        "k=4": {
+          "recovered": 151,
+          "tp": 12,
+          "fp": 139,
+          "fn": 25,
+          "recall": 0.324,
+          "precision": 0.079,
+          "f1": 0.128,
+          "jaccard": 0.068
+        },
+        "k=8": {
+          "recovered": 291,
+          "tp": 15,
+          "fp": 276,
+          "fn": 22,
+          "recall": 0.405,
+          "precision": 0.052,
+          "f1": 0.091,
+          "jaccard": 0.048
+        }
+      },
+      "best_f1": 0.128
+    },
+    "threshold=4/e5-large-plain": {
+      "threshold": 4,
+      "designed_edges": 37,
+      "density": 0.0302,
+      "k_star": 2,
+      "model": "intfloat/multilingual-e5-large",
+      "k_results": {
+        "k=2": {
+          "recovered": 78,
+          "tp": 9,
+          "fp": 69,
+          "fn": 28,
+          "recall": 0.243,
+          "precision": 0.115,
+          "f1": 0.157,
+          "jaccard": 0.085
+        },
+        "k=4": {
+          "recovered": 150,
+          "tp": 12,
+          "fp": 138,
+          "fn": 25,
+          "recall": 0.324,
+          "precision": 0.08,
+          "f1": 0.128,
+          "jaccard": 0.069
+        },
+        "k=8": {
+          "recovered": 281,
+          "tp": 17,
+          "fp": 264,
+          "fn": 20,
+          "recall": 0.459,
+          "precision": 0.06,
+          "f1": 0.107,
+          "jaccard": 0.056
+        }
+      },
+      "best_f1": 0.157
+    },
+    "threshold=4/e5-large-oulipo-finetuned": {
+      "threshold": 4,
+      "designed_edges": 37,
+      "density": 0.0302,
+      "k_star": 2,
+      "model": "generation/models/e5-large-oulipo/e5-large-oulipo",
+      "k_results": {
+        "k=2": {
+          "recovered": 72,
+          "tp": 27,
+          "fp": 45,
+          "fn": 10,
+          "recall": 0.73,
+          "precision": 0.375,
+          "f1": 0.495,
+          "jaccard": 0.329
+        },
+        "k=4": {
+          "recovered": 130,
+          "tp": 31,
+          "fp": 99,
+          "fn": 6,
+          "recall": 0.838,
+          "precision": 0.238,
+          "f1": 0.371,
+          "jaccard": 0.228
+        },
+        "k=8": {
+          "recovered": 228,
+          "tp": 34,
+          "fp": 194,
+          "fn": 3,
+          "recall": 0.919,
+          "precision": 0.149,
+          "f1": 0.257,
+          "jaccard": 0.147
+        }
+      },
+      "best_f1": 0.495
+    }
+  }
+}

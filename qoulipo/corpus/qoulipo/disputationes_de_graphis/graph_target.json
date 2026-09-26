@@ -1,0 +1,1649 @@
+{
+  "title": "Disputationes de Graphis",
+  "subtitle": "Quaestiones triginta de invariantibus, dynamicis, et isomorphismis grapharum",
+  "N": 70,
+  "E": 190,
+  "density": 0.0787,
+  "k": 4,
+  "threshold": 0.78,
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "MIS_size": 25,
+  "nodes": [
+    {
+      "id": 1,
+      "role": "other",
+      "quaestio": null,
+      "side": null,
+      "label": ""
+    },
+    {
+      "id": 2,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum primum."
+    },
+    {
+      "id": 3,
+      "role": "thesis",
+      "quaestio": 1,
+      "side": "Sic",
+      "label": "Quaestio I \u2014 Sic."
+    },
+    {
+      "id": 4,
+      "role": "antithesis",
+      "quaestio": 1,
+      "side": "Non",
+      "label": "Quaestio I \u2014 Non."
+    },
+    {
+      "id": 5,
+      "role": "thesis",
+      "quaestio": 2,
+      "side": "Sic",
+      "label": "Quaestio II \u2014 Sic."
+    },
+    {
+      "id": 6,
+      "role": "antithesis",
+      "quaestio": 2,
+      "side": "Non",
+      "label": "Quaestio II \u2014 Non."
+    },
+    {
+      "id": 7,
+      "role": "thesis",
+      "quaestio": 3,
+      "side": "Sic",
+      "label": "Quaestio III \u2014 Sic."
+    },
+    {
+      "id": 8,
+      "role": "antithesis",
+      "quaestio": 3,
+      "side": "Non",
+      "label": "Quaestio III \u2014 Non."
+    },
+    {
+      "id": 9,
+      "role": "thesis",
+      "quaestio": 4,
+      "side": "Sic",
+      "label": "Quaestio IV \u2014 Sic."
+    },
+    {
+      "id": 10,
+      "role": "antithesis",
+      "quaestio": 4,
+      "side": "Non",
+      "label": "Quaestio IV \u2014 Non."
+    },
+    {
+      "id": 11,
+      "role": "thesis",
+      "quaestio": 5,
+      "side": "Sic",
+      "label": "Quaestio V \u2014 Sic."
+    },
+    {
+      "id": 12,
+      "role": "antithesis",
+      "quaestio": 5,
+      "side": "Non",
+      "label": "Quaestio V \u2014 Non."
+    },
+    {
+      "id": 13,
+      "role": "thesis",
+      "quaestio": 6,
+      "side": "Sic",
+      "label": "Quaestio VI \u2014 Sic."
+    },
+    {
+      "id": 14,
+      "role": "antithesis",
+      "quaestio": 6,
+      "side": "Non",
+      "label": "Quaestio VI \u2014 Non."
+    },
+    {
+      "id": 15,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum secundum."
+    },
+    {
+      "id": 16,
+      "role": "thesis",
+      "quaestio": 7,
+      "side": "Sic",
+      "label": "Quaestio VII \u2014 Sic."
+    },
+    {
+      "id": 17,
+      "role": "antithesis",
+      "quaestio": 7,
+      "side": "Non",
+      "label": "Quaestio VII \u2014 Non."
+    },
+    {
+      "id": 18,
+      "role": "thesis",
+      "quaestio": 8,
+      "side": "Sic",
+      "label": "Quaestio VIII \u2014 Sic."
+    },
+    {
+      "id": 19,
+      "role": "antithesis",
+      "quaestio": 8,
+      "side": "Non",
+      "label": "Quaestio VIII \u2014 Non."
+    },
+    {
+      "id": 20,
+      "role": "thesis",
+      "quaestio": 9,
+      "side": "Sic",
+      "label": "Quaestio IX \u2014 Sic."
+    },
+    {
+      "id": 21,
+      "role": "antithesis",
+      "quaestio": 9,
+      "side": "Non",
+      "label": "Quaestio IX \u2014 Non."
+    },
+    {
+      "id": 22,
+      "role": "thesis",
+      "quaestio": 10,
+      "side": "Sic",
+      "label": "Quaestio X \u2014 Sic."
+    },
+    {
+      "id": 23,
+      "role": "antithesis",
+      "quaestio": 10,
+      "side": "Non",
+      "label": "Quaestio X \u2014 Non."
+    },
+    {
+      "id": 24,
+      "role": "thesis",
+      "quaestio": 11,
+      "side": "Sic",
+      "label": "Quaestio XI \u2014 Sic."
+    },
+    {
+      "id": 25,
+      "role": "antithesis",
+      "quaestio": 11,
+      "side": "Non",
+      "label": "Quaestio XI \u2014 Non."
+    },
+    {
+      "id": 26,
+      "role": "thesis",
+      "quaestio": 12,
+      "side": "Sic",
+      "label": "Quaestio XII \u2014 Sic."
+    },
+    {
+      "id": 27,
+      "role": "antithesis",
+      "quaestio": 12,
+      "side": "Non",
+      "label": "Quaestio XII \u2014 Non."
+    },
+    {
+      "id": 28,
+      "role": "transition",
+      "quaestio": null,
+      "side": null,
+      "label": "Transitio I."
+    },
+    {
+      "id": 29,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum tertium."
+    },
+    {
+      "id": 30,
+      "role": "thesis",
+      "quaestio": 13,
+      "side": "Sic",
+      "label": "Quaestio XIII \u2014 Sic."
+    },
+    {
+      "id": 31,
+      "role": "antithesis",
+      "quaestio": 13,
+      "side": "Non",
+      "label": "Quaestio XIII \u2014 Non."
+    },
+    {
+      "id": 32,
+      "role": "thesis",
+      "quaestio": 14,
+      "side": "Sic",
+      "label": "Quaestio XIV \u2014 Sic."
+    },
+    {
+      "id": 33,
+      "role": "antithesis",
+      "quaestio": 14,
+      "side": "Non",
+      "label": "Quaestio XIV \u2014 Non."
+    },
+    {
+      "id": 34,
+      "role": "thesis",
+      "quaestio": 15,
+      "side": "Sic",
+      "label": "Quaestio XV \u2014 Sic."
+    },
+    {
+      "id": 35,
+      "role": "antithesis",
+      "quaestio": 15,
+      "side": "Non",
+      "label": "Quaestio XV \u2014 Non."
+    },
+    {
+      "id": 36,
+      "role": "thesis",
+      "quaestio": 16,
+      "side": "Sic",
+      "label": "Quaestio XVI \u2014 Sic."
+    },
+    {
+      "id": 37,
+      "role": "antithesis",
+      "quaestio": 16,
+      "side": "Non",
+      "label": "Quaestio XVI \u2014 Non."
+    },
+    {
+      "id": 38,
+      "role": "thesis",
+      "quaestio": 17,
+      "side": "Sic",
+      "label": "Quaestio XVII \u2014 Sic."
+    },
+    {
+      "id": 39,
+      "role": "antithesis",
+      "quaestio": 17,
+      "side": "Non",
+      "label": "Quaestio XVII \u2014 Non."
+    },
+    {
+      "id": 40,
+      "role": "thesis",
+      "quaestio": 18,
+      "side": "Sic",
+      "label": "Quaestio XVIII \u2014 Sic."
+    },
+    {
+      "id": 41,
+      "role": "antithesis",
+      "quaestio": 18,
+      "side": "Non",
+      "label": "Quaestio XVIII \u2014 Non."
+    },
+    {
+      "id": 42,
+      "role": "transition",
+      "quaestio": null,
+      "side": null,
+      "label": "Transitio II."
+    },
+    {
+      "id": 43,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum quartum."
+    },
+    {
+      "id": 44,
+      "role": "thesis",
+      "quaestio": 19,
+      "side": "Sic",
+      "label": "Quaestio XIX \u2014 Sic."
+    },
+    {
+      "id": 45,
+      "role": "antithesis",
+      "quaestio": 19,
+      "side": "Non",
+      "label": "Quaestio XIX \u2014 Non."
+    },
+    {
+      "id": 46,
+      "role": "thesis",
+      "quaestio": 20,
+      "side": "Sic",
+      "label": "Quaestio XX \u2014 Sic."
+    },
+    {
+      "id": 47,
+      "role": "antithesis",
+      "quaestio": 20,
+      "side": "Non",
+      "label": "Quaestio XX \u2014 Non."
+    },
+    {
+      "id": 48,
+      "role": "thesis",
+      "quaestio": 21,
+      "side": "Sic",
+      "label": "Quaestio XXI \u2014 Sic."
+    },
+    {
+      "id": 49,
+      "role": "antithesis",
+      "quaestio": 21,
+      "side": "Non",
+      "label": "Quaestio XXI \u2014 Non."
+    },
+    {
+      "id": 50,
+      "role": "thesis",
+      "quaestio": 22,
+      "side": "Sic",
+      "label": "Quaestio XXII \u2014 Sic."
+    },
+    {
+      "id": 51,
+      "role": "antithesis",
+      "quaestio": 22,
+      "side": "Non",
+      "label": "Quaestio XXII \u2014 Non."
+    },
+    {
+      "id": 52,
+      "role": "thesis",
+      "quaestio": 23,
+      "side": "Sic",
+      "label": "Quaestio XXIII \u2014 Sic."
+    },
+    {
+      "id": 53,
+      "role": "antithesis",
+      "quaestio": 23,
+      "side": "Non",
+      "label": "Quaestio XXIII \u2014 Non."
+    },
+    {
+      "id": 54,
+      "role": "thesis",
+      "quaestio": 24,
+      "side": "Sic",
+      "label": "Quaestio XXIV \u2014 Sic."
+    },
+    {
+      "id": 55,
+      "role": "antithesis",
+      "quaestio": 24,
+      "side": "Non",
+      "label": "Quaestio XXIV \u2014 Non."
+    },
+    {
+      "id": 56,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum quintum."
+    },
+    {
+      "id": 57,
+      "role": "thesis",
+      "quaestio": 25,
+      "side": "Sic",
+      "label": "Quaestio XXV \u2014 Sic."
+    },
+    {
+      "id": 58,
+      "role": "antithesis",
+      "quaestio": 25,
+      "side": "Non",
+      "label": "Quaestio XXV \u2014 Non."
+    },
+    {
+      "id": 59,
+      "role": "thesis",
+      "quaestio": 26,
+      "side": "Sic",
+      "label": "Quaestio XXVI \u2014 Sic."
+    },
+    {
+      "id": 60,
+      "role": "antithesis",
+      "quaestio": 26,
+      "side": "Non",
+      "label": "Quaestio XXVI \u2014 Non."
+    },
+    {
+      "id": 61,
+      "role": "thesis",
+      "quaestio": 27,
+      "side": "Sic",
+      "label": "Quaestio XXVII \u2014 Sic."
+    },
+    {
+      "id": 62,
+      "role": "antithesis",
+      "quaestio": 27,
+      "side": "Non",
+      "label": "Quaestio XXVII \u2014 Non."
+    },
+    {
+      "id": 63,
+      "role": "thesis",
+      "quaestio": 28,
+      "side": "Sic",
+      "label": "Quaestio XXVIII \u2014 Sic."
+    },
+    {
+      "id": 64,
+      "role": "antithesis",
+      "quaestio": 28,
+      "side": "Non",
+      "label": "Quaestio XXVIII \u2014 Non."
+    },
+    {
+      "id": 65,
+      "role": "thesis",
+      "quaestio": 29,
+      "side": "Sic",
+      "label": "Quaestio XXIX \u2014 Sic."
+    },
+    {
+      "id": 66,
+      "role": "antithesis",
+      "quaestio": 29,
+      "side": "Non",
+      "label": "Quaestio XXIX \u2014 Non."
+    },
+    {
+      "id": 67,
+      "role": "thesis",
+      "quaestio": 30,
+      "side": "Sic",
+      "label": "Quaestio XXX \u2014 Sic."
+    },
+    {
+      "id": 68,
+      "role": "antithesis",
+      "quaestio": 30,
+      "side": "Non",
+      "label": "Quaestio XXX \u2014 Non."
+    },
+    {
+      "id": 69,
+      "role": "transition",
+      "quaestio": null,
+      "side": null,
+      "label": "Transitio III."
+    },
+    {
+      "id": 70,
+      "role": "epilogos",
+      "quaestio": null,
+      "side": null,
+      "label": "Epilogos."
+    }
+  ],
+  "edges": [
+    {
+      "source": 1,
+      "target": 2,
+      "weight": 0.89453125,
+      "is_antithesis": false
+    },
+    {
+      "source": 1,
+      "target": 28,
+      "weight": 0.8779296875,
+      "is_antithesis": false
+    },
+    {
+      "source": 1,
+      "target": 29,
+      "weight": 0.87548828125,
+      "is_antithesis": false
+    },
+    {
+      "source": 1,
+      "target": 42,
+      "weight": 0.87255859375,
+      "is_antithesis": false
+    },
+    {
+      "source": 1,
+      "target": 69,
+      "weight": 0.8759765625,
+      "is_antithesis": false
+    },
+    {
+      "source": 1,
+      "target": 70,
+      "weight": 0.86376953125,
+      "is_antithesis": false
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "weight": 0.86669921875,
+      "is_antithesis": false
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "weight": 0.869140625,
+      "is_antithesis": false
+    },
+    {
+      "source": 2,
+      "target": 28,
+      "weight": 0.8994140625,
+      "is_antithesis": false
+    },
+    {
+      "source": 2,
+      "target": 69,
+      "weight": 0.849609375,
+      "is_antithesis": false
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "weight": 0.9599609375,
+      "is_antithesis": true
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "weight": 0.88916015625,
+      "is_antithesis": false
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "weight": 0.86962890625,
+      "is_antithesis": false
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "weight": 0.86474609375,
+      "is_antithesis": false
+    },
+    {
+      "source": 3,
+      "target": 13,
+      "weight": 0.88330078125,
+      "is_antithesis": false
+    },
+    {
+      "source": 3,
+      "target": 59,
+      "weight": 0.91259765625,
+      "is_antithesis": false
+    },
+    {
+      "source": 3,
+      "target": 60,
+      "weight": 0.8896484375,
+      "is_antithesis": false
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "weight": 0.89111328125,
+      "is_antithesis": false
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "weight": 0.8740234375,
+      "is_antithesis": false
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "weight": 0.86669921875,
+      "is_antithesis": false
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "weight": 0.88037109375,
+      "is_antithesis": false
+    },
+    {
+      "source": 4,
+      "target": 14,
+      "weight": 0.876953125,
+      "is_antithesis": false
+    },
+    {
+      "source": 4,
+      "target": 39,
+      "weight": 0.87744140625,
+      "is_antithesis": false
+    },
+    {
+      "source": 4,
+      "target": 49,
+      "weight": 0.8681640625,
+      "is_antithesis": false
+    },
+    {
+      "source": 4,
+      "target": 59,
+      "weight": 0.9033203125,
+      "is_antithesis": false
+    },
+    {
+      "source": 4,
+      "target": 60,
+      "weight": 0.8984375,
+      "is_antithesis": false
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "weight": 0.958984375,
+      "is_antithesis": true
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "weight": 0.89697265625,
+      "is_antithesis": false
+    },
+    {
+      "source": 5,
+      "target": 11,
+      "weight": 0.9091796875,
+      "is_antithesis": false
+    },
+    {
+      "source": 5,
+      "target": 12,
+      "weight": 0.8857421875,
+      "is_antithesis": false
+    },
+    {
+      "source": 5,
+      "target": 30,
+      "weight": 0.88720703125,
+      "is_antithesis": false
+    },
+    {
+      "source": 5,
+      "target": 31,
+      "weight": 0.87646484375,
+      "is_antithesis": false
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "weight": 0.90673828125,
+      "is_antithesis": false
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "weight": 0.88671875,
+      "is_antithesis": false
+    },
+    {
+      "source": 6,
+      "target": 11,
+      "weight": 0.916015625,
+      "is_antithesis": false
+    },
+    {
+      "source": 6,
+      "target": 12,
+      "weight": 0.8984375,
+      "is_antithesis": false
+    },
+    {
+      "source": 6,
+      "target": 30,
+      "weight": 0.89111328125,
+      "is_antithesis": false
+    },
+    {
+      "source": 6,
+      "target": 31,
+      "weight": 0.908203125,
+      "is_antithesis": false
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "weight": 0.95703125,
+      "is_antithesis": true
+    },
+    {
+      "source": 7,
+      "target": 32,
+      "weight": 0.8662109375,
+      "is_antithesis": false
+    },
+    {
+      "source": 7,
+      "target": 70,
+      "weight": 0.86767578125,
+      "is_antithesis": false
+    },
+    {
+      "source": 8,
+      "target": 19,
+      "weight": 0.8671875,
+      "is_antithesis": false
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "weight": 0.96337890625,
+      "is_antithesis": true
+    },
+    {
+      "source": 9,
+      "target": 11,
+      "weight": 0.91845703125,
+      "is_antithesis": false
+    },
+    {
+      "source": 9,
+      "target": 30,
+      "weight": 0.8720703125,
+      "is_antithesis": false
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "weight": 0.8955078125,
+      "is_antithesis": false
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "weight": 0.95703125,
+      "is_antithesis": true
+    },
+    {
+      "source": 11,
+      "target": 31,
+      "weight": 0.88671875,
+      "is_antithesis": false
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "weight": 0.88427734375,
+      "is_antithesis": false
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "weight": 0.95458984375,
+      "is_antithesis": true
+    },
+    {
+      "source": 13,
+      "target": 18,
+      "weight": 0.86962890625,
+      "is_antithesis": false
+    },
+    {
+      "source": 13,
+      "target": 59,
+      "weight": 0.8740234375,
+      "is_antithesis": false
+    },
+    {
+      "source": 14,
+      "target": 60,
+      "weight": 0.88232421875,
+      "is_antithesis": false
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "weight": 0.91162109375,
+      "is_antithesis": false
+    },
+    {
+      "source": 15,
+      "target": 17,
+      "weight": 0.919921875,
+      "is_antithesis": false
+    },
+    {
+      "source": 15,
+      "target": 24,
+      "weight": 0.90576171875,
+      "is_antithesis": false
+    },
+    {
+      "source": 15,
+      "target": 28,
+      "weight": 0.88134765625,
+      "is_antithesis": false
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "weight": 0.953125,
+      "is_antithesis": true
+    },
+    {
+      "source": 16,
+      "target": 19,
+      "weight": 0.89013671875,
+      "is_antithesis": false
+    },
+    {
+      "source": 16,
+      "target": 24,
+      "weight": 0.9052734375,
+      "is_antithesis": false
+    },
+    {
+      "source": 16,
+      "target": 26,
+      "weight": 0.88671875,
+      "is_antithesis": false
+    },
+    {
+      "source": 16,
+      "target": 27,
+      "weight": 0.90087890625,
+      "is_antithesis": false
+    },
+    {
+      "source": 16,
+      "target": 57,
+      "weight": 0.888671875,
+      "is_antithesis": false
+    },
+    {
+      "source": 16,
+      "target": 63,
+      "weight": 0.8974609375,
+      "is_antithesis": false
+    },
+    {
+      "source": 16,
+      "target": 64,
+      "weight": 0.880859375,
+      "is_antithesis": false
+    },
+    {
+      "source": 16,
+      "target": 67,
+      "weight": 0.8955078125,
+      "is_antithesis": false
+    },
+    {
+      "source": 16,
+      "target": 68,
+      "weight": 0.904296875,
+      "is_antithesis": false
+    },
+    {
+      "source": 17,
+      "target": 19,
+      "weight": 0.89794921875,
+      "is_antithesis": false
+    },
+    {
+      "source": 17,
+      "target": 22,
+      "weight": 0.88330078125,
+      "is_antithesis": false
+    },
+    {
+      "source": 17,
+      "target": 23,
+      "weight": 0.89697265625,
+      "is_antithesis": false
+    },
+    {
+      "source": 17,
+      "target": 24,
+      "weight": 0.91162109375,
+      "is_antithesis": false
+    },
+    {
+      "source": 17,
+      "target": 25,
+      "weight": 0.9091796875,
+      "is_antithesis": false
+    },
+    {
+      "source": 17,
+      "target": 26,
+      "weight": 0.8935546875,
+      "is_antithesis": false
+    },
+    {
+      "source": 17,
+      "target": 27,
+      "weight": 0.9150390625,
+      "is_antithesis": false
+    },
+    {
+      "source": 17,
+      "target": 66,
+      "weight": 0.89794921875,
+      "is_antithesis": false
+    },
+    {
+      "source": 17,
+      "target": 67,
+      "weight": 0.86767578125,
+      "is_antithesis": false
+    },
+    {
+      "source": 17,
+      "target": 68,
+      "weight": 0.89501953125,
+      "is_antithesis": false
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "weight": 0.9501953125,
+      "is_antithesis": true
+    },
+    {
+      "source": 18,
+      "target": 20,
+      "weight": 0.91650390625,
+      "is_antithesis": false
+    },
+    {
+      "source": 18,
+      "target": 21,
+      "weight": 0.90087890625,
+      "is_antithesis": false
+    },
+    {
+      "source": 18,
+      "target": 24,
+      "weight": 0.91357421875,
+      "is_antithesis": false
+    },
+    {
+      "source": 18,
+      "target": 25,
+      "weight": 0.89306640625,
+      "is_antithesis": false
+    },
+    {
+      "source": 18,
+      "target": 32,
+      "weight": 0.8701171875,
+      "is_antithesis": false
+    },
+    {
+      "source": 18,
+      "target": 50,
+      "weight": 0.8896484375,
+      "is_antithesis": false
+    },
+    {
+      "source": 18,
+      "target": 54,
+      "weight": 0.89306640625,
+      "is_antithesis": false
+    },
+    {
+      "source": 18,
+      "target": 55,
+      "weight": 0.88330078125,
+      "is_antithesis": false
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "weight": 0.904296875,
+      "is_antithesis": false
+    },
+    {
+      "source": 19,
+      "target": 21,
+      "weight": 0.8896484375,
+      "is_antithesis": false
+    },
+    {
+      "source": 19,
+      "target": 70,
+      "weight": 0.8583984375,
+      "is_antithesis": false
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "weight": 0.94775390625,
+      "is_antithesis": true
+    },
+    {
+      "source": 20,
+      "target": 50,
+      "weight": 0.8798828125,
+      "is_antithesis": false
+    },
+    {
+      "source": 20,
+      "target": 54,
+      "weight": 0.88671875,
+      "is_antithesis": false
+    },
+    {
+      "source": 21,
+      "target": 54,
+      "weight": 0.8857421875,
+      "is_antithesis": false
+    },
+    {
+      "source": 21,
+      "target": 55,
+      "weight": 0.87939453125,
+      "is_antithesis": false
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "weight": 0.92822265625,
+      "is_antithesis": true
+    },
+    {
+      "source": 22,
+      "target": 63,
+      "weight": 0.91748046875,
+      "is_antithesis": false
+    },
+    {
+      "source": 22,
+      "target": 64,
+      "weight": 0.9033203125,
+      "is_antithesis": false
+    },
+    {
+      "source": 22,
+      "target": 67,
+      "weight": 0.86572265625,
+      "is_antithesis": false
+    },
+    {
+      "source": 23,
+      "target": 63,
+      "weight": 0.91552734375,
+      "is_antithesis": false
+    },
+    {
+      "source": 23,
+      "target": 64,
+      "weight": 0.92822265625,
+      "is_antithesis": false
+    },
+    {
+      "source": 23,
+      "target": 66,
+      "weight": 0.88623046875,
+      "is_antithesis": false
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "weight": 0.96630859375,
+      "is_antithesis": true
+    },
+    {
+      "source": 24,
+      "target": 26,
+      "weight": 0.90869140625,
+      "is_antithesis": false
+    },
+    {
+      "source": 24,
+      "target": 27,
+      "weight": 0.8994140625,
+      "is_antithesis": false
+    },
+    {
+      "source": 25,
+      "target": 45,
+      "weight": 0.89599609375,
+      "is_antithesis": false
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "weight": 0.9560546875,
+      "is_antithesis": true
+    },
+    {
+      "source": 26,
+      "target": 65,
+      "weight": 0.86865234375,
+      "is_antithesis": false
+    },
+    {
+      "source": 27,
+      "target": 66,
+      "weight": 0.8857421875,
+      "is_antithesis": false
+    },
+    {
+      "source": 27,
+      "target": 68,
+      "weight": 0.88427734375,
+      "is_antithesis": false
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "weight": 0.88720703125,
+      "is_antithesis": false
+    },
+    {
+      "source": 28,
+      "target": 42,
+      "weight": 0.89306640625,
+      "is_antithesis": false
+    },
+    {
+      "source": 28,
+      "target": 56,
+      "weight": 0.8623046875,
+      "is_antithesis": false
+    },
+    {
+      "source": 28,
+      "target": 69,
+      "weight": 0.84619140625,
+      "is_antithesis": false
+    },
+    {
+      "source": 29,
+      "target": 33,
+      "weight": 0.84765625,
+      "is_antithesis": false
+    },
+    {
+      "source": 29,
+      "target": 42,
+      "weight": 0.87109375,
+      "is_antithesis": false
+    },
+    {
+      "source": 29,
+      "target": 56,
+      "weight": 0.87353515625,
+      "is_antithesis": false
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "weight": 0.953125,
+      "is_antithesis": true
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "weight": 0.94384765625,
+      "is_antithesis": true
+    },
+    {
+      "source": 32,
+      "target": 59,
+      "weight": 0.86279296875,
+      "is_antithesis": false
+    },
+    {
+      "source": 33,
+      "target": 35,
+      "weight": 0.84716796875,
+      "is_antithesis": false
+    },
+    {
+      "source": 33,
+      "target": 39,
+      "weight": 0.8603515625,
+      "is_antithesis": false
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "weight": 0.92822265625,
+      "is_antithesis": true
+    },
+    {
+      "source": 34,
+      "target": 36,
+      "weight": 0.8740234375,
+      "is_antithesis": false
+    },
+    {
+      "source": 34,
+      "target": 38,
+      "weight": 0.87939453125,
+      "is_antithesis": false
+    },
+    {
+      "source": 34,
+      "target": 46,
+      "weight": 0.87451171875,
+      "is_antithesis": false
+    },
+    {
+      "source": 35,
+      "target": 37,
+      "weight": 0.86767578125,
+      "is_antithesis": false
+    },
+    {
+      "source": 35,
+      "target": 39,
+      "weight": 0.86865234375,
+      "is_antithesis": false
+    },
+    {
+      "source": 35,
+      "target": 53,
+      "weight": 0.86474609375,
+      "is_antithesis": false
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "weight": 0.95556640625,
+      "is_antithesis": true
+    },
+    {
+      "source": 36,
+      "target": 40,
+      "weight": 0.87548828125,
+      "is_antithesis": false
+    },
+    {
+      "source": 36,
+      "target": 50,
+      "weight": 0.8701171875,
+      "is_antithesis": false
+    },
+    {
+      "source": 37,
+      "target": 40,
+      "weight": 0.87890625,
+      "is_antithesis": false
+    },
+    {
+      "source": 37,
+      "target": 41,
+      "weight": 0.880859375,
+      "is_antithesis": false
+    },
+    {
+      "source": 37,
+      "target": 44,
+      "weight": 0.8798828125,
+      "is_antithesis": false
+    },
+    {
+      "source": 37,
+      "target": 45,
+      "weight": 0.88232421875,
+      "is_antithesis": false
+    },
+    {
+      "source": 37,
+      "target": 51,
+      "weight": 0.86572265625,
+      "is_antithesis": false
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "weight": 0.9619140625,
+      "is_antithesis": true
+    },
+    {
+      "source": 38,
+      "target": 40,
+      "weight": 0.890625,
+      "is_antithesis": false
+    },
+    {
+      "source": 38,
+      "target": 41,
+      "weight": 0.8779296875,
+      "is_antithesis": false
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "weight": 0.88623046875,
+      "is_antithesis": false
+    },
+    {
+      "source": 39,
+      "target": 41,
+      "weight": 0.89111328125,
+      "is_antithesis": false
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "weight": 0.9658203125,
+      "is_antithesis": true
+    },
+    {
+      "source": 42,
+      "target": 43,
+      "weight": 0.912109375,
+      "is_antithesis": false
+    },
+    {
+      "source": 42,
+      "target": 46,
+      "weight": 0.8828125,
+      "is_antithesis": false
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "weight": 0.87451171875,
+      "is_antithesis": false
+    },
+    {
+      "source": 43,
+      "target": 46,
+      "weight": 0.88232421875,
+      "is_antithesis": false
+    },
+    {
+      "source": 43,
+      "target": 52,
+      "weight": 0.87744140625,
+      "is_antithesis": false
+    },
+    {
+      "source": 43,
+      "target": 56,
+      "weight": 0.86376953125,
+      "is_antithesis": false
+    },
+    {
+      "source": 44,
+      "target": 45,
+      "weight": 0.9404296875,
+      "is_antithesis": true
+    },
+    {
+      "source": 44,
+      "target": 47,
+      "weight": 0.8896484375,
+      "is_antithesis": false
+    },
+    {
+      "source": 44,
+      "target": 48,
+      "weight": 0.87646484375,
+      "is_antithesis": false
+    },
+    {
+      "source": 44,
+      "target": 50,
+      "weight": 0.89501953125,
+      "is_antithesis": false
+    },
+    {
+      "source": 44,
+      "target": 51,
+      "weight": 0.87548828125,
+      "is_antithesis": false
+    },
+    {
+      "source": 44,
+      "target": 52,
+      "weight": 0.8955078125,
+      "is_antithesis": false
+    },
+    {
+      "source": 44,
+      "target": 65,
+      "weight": 0.869140625,
+      "is_antithesis": false
+    },
+    {
+      "source": 45,
+      "target": 47,
+      "weight": 0.89990234375,
+      "is_antithesis": false
+    },
+    {
+      "source": 45,
+      "target": 48,
+      "weight": 0.87353515625,
+      "is_antithesis": false
+    },
+    {
+      "source": 45,
+      "target": 49,
+      "weight": 0.87841796875,
+      "is_antithesis": false
+    },
+    {
+      "source": 45,
+      "target": 53,
+      "weight": 0.89404296875,
+      "is_antithesis": false
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "weight": 0.95458984375,
+      "is_antithesis": true
+    },
+    {
+      "source": 46,
+      "target": 52,
+      "weight": 0.88916015625,
+      "is_antithesis": false
+    },
+    {
+      "source": 47,
+      "target": 53,
+      "weight": 0.8857421875,
+      "is_antithesis": false
+    },
+    {
+      "source": 48,
+      "target": 49,
+      "weight": 0.95751953125,
+      "is_antithesis": true
+    },
+    {
+      "source": 48,
+      "target": 52,
+      "weight": 0.88623046875,
+      "is_antithesis": false
+    },
+    {
+      "source": 49,
+      "target": 53,
+      "weight": 0.8779296875,
+      "is_antithesis": false
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "weight": 0.95703125,
+      "is_antithesis": true
+    },
+    {
+      "source": 50,
+      "target": 65,
+      "weight": 0.869140625,
+      "is_antithesis": false
+    },
+    {
+      "source": 51,
+      "target": 66,
+      "weight": 0.87109375,
+      "is_antithesis": false
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "weight": 0.95361328125,
+      "is_antithesis": true
+    },
+    {
+      "source": 52,
+      "target": 54,
+      "weight": 0.89453125,
+      "is_antithesis": false
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "weight": 0.88720703125,
+      "is_antithesis": false
+    },
+    {
+      "source": 53,
+      "target": 55,
+      "weight": 0.8876953125,
+      "is_antithesis": false
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "weight": 0.953125,
+      "is_antithesis": true
+    },
+    {
+      "source": 56,
+      "target": 67,
+      "weight": 0.86181640625,
+      "is_antithesis": false
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "weight": 0.9599609375,
+      "is_antithesis": true
+    },
+    {
+      "source": 57,
+      "target": 61,
+      "weight": 0.89501953125,
+      "is_antithesis": false
+    },
+    {
+      "source": 57,
+      "target": 62,
+      "weight": 0.896484375,
+      "is_antithesis": false
+    },
+    {
+      "source": 58,
+      "target": 60,
+      "weight": 0.8955078125,
+      "is_antithesis": false
+    },
+    {
+      "source": 58,
+      "target": 61,
+      "weight": 0.9130859375,
+      "is_antithesis": false
+    },
+    {
+      "source": 58,
+      "target": 62,
+      "weight": 0.9189453125,
+      "is_antithesis": false
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "weight": 0.9521484375,
+      "is_antithesis": true
+    },
+    {
+      "source": 59,
+      "target": 61,
+      "weight": 0.9013671875,
+      "is_antithesis": false
+    },
+    {
+      "source": 59,
+      "target": 62,
+      "weight": 0.896484375,
+      "is_antithesis": false
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "weight": 0.90234375,
+      "is_antithesis": false
+    },
+    {
+      "source": 60,
+      "target": 62,
+      "weight": 0.90966796875,
+      "is_antithesis": false
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "weight": 0.978515625,
+      "is_antithesis": true
+    },
+    {
+      "source": 63,
+      "target": 64,
+      "weight": 0.96630859375,
+      "is_antithesis": true
+    },
+    {
+      "source": 65,
+      "target": 66,
+      "weight": 0.9521484375,
+      "is_antithesis": true
+    },
+    {
+      "source": 67,
+      "target": 68,
+      "weight": 0.9345703125,
+      "is_antithesis": true
+    },
+    {
+      "source": 69,
+      "target": 70,
+      "weight": 0.8603515625,
+      "is_antithesis": false
+    }
+  ],
+  "antithesis_pairs_in_graph": 30,
+  "antithesis_pairs_total": 30,
+  "antithesis_sim_mean": 0.9541015625,
+  "other_edge_sim_mean": 0.88623046875
+}

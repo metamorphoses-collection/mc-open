@@ -1,0 +1,86 @@
+{
+  "text": "v1b_50pages_fr",
+  "file": "oulipo_v1b_50pages_fr.md",
+  "n_pages": 50,
+  "mean_word_count": 363.3,
+  "density_by_k": {
+    "8": {
+      "N": 50,
+      "edges": 207,
+      "density": 0.169,
+      "sim_mean": 0.8995,
+      "sim_std": 0.0366,
+      "sim_min": 0.7578,
+      "sim_max": 0.9698,
+      "above_threshold": 1221,
+      "top_k": 8,
+      "threshold": 0.78
+    },
+    "12": {
+      "N": 50,
+      "edges": 315,
+      "density": 0.2571,
+      "sim_mean": 0.8995,
+      "sim_std": 0.0366,
+      "sim_min": 0.7578,
+      "sim_max": 0.9698,
+      "above_threshold": 1221,
+      "top_k": 12,
+      "threshold": 0.78
+    },
+    "16": {
+      "N": 50,
+      "edges": 427,
+      "density": 0.3486,
+      "sim_mean": 0.8995,
+      "sim_std": 0.0366,
+      "sim_min": 0.7578,
+      "sim_max": 0.9698,
+      "above_threshold": 1221,
+      "top_k": 16,
+      "threshold": 0.78
+    }
+  },
+  "sa_embedding": {
+    "text": "v1b_50pages_fr",
+    "N": 50,
+    "target_edges": 427,
+    "udg_edges": 105,
+    "fidelity": 0.7339,
+    "ilp_target": [
+      "p1",
+      "p8",
+      "p12",
+      "p15",
+      "p16",
+      "p17",
+      "p18",
+      "p25",
+      "p35",
+      "p48"
+    ],
+    "ilp_udg": [
+      "p2",
+      "p3",
+      "p10",
+      "p13",
+      "p14",
+      "p16",
+      "p19",
+      "p24",
+      "p25",
+      "p26",
+      "p29",
+      "p37",
+      "p38",
+      "p42",
+      "p45",
+      "p46",
+      "p48",
+      "p49"
+    ],
+    "batch_id": "a5ba3310-bd11-416c-bbe0-430dfd03e3c9",
+    "device": "EMU_MPS",
+    "runs": 1000
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "text_id": "snub_square_49",
+  "title": "Snub-square small patch N=49",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 49,
+  "canonical_E": 102,
+  "canonical_density": 0.0867,
+  "canonical_MIS": 17,
+  "canonical_rho": 0.0588,
+  "canonical_optima": 500,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.3132,
+  "blockade_um": 7.0
+}

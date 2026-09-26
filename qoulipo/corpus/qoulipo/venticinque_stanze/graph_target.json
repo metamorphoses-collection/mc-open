@@ -1,0 +1,427 @@
+{
+  "N": 25,
+  "E": 72,
+  "density": 0.24,
+  "R_b_um": 9.0,
+  "geometry": "5x5 king grid (exact 2D UDG)",
+  "source": "Reconstructed from coords_2d_king5x5.json at R_b=9.0 um.",
+  "nodes": [
+    "stanza_01",
+    "stanza_02",
+    "stanza_03",
+    "stanza_04",
+    "stanza_05",
+    "stanza_06",
+    "stanza_07",
+    "stanza_08",
+    "stanza_09",
+    "stanza_10",
+    "stanza_11",
+    "stanza_12",
+    "stanza_13",
+    "stanza_14",
+    "stanza_15",
+    "stanza_16",
+    "stanza_17",
+    "stanza_18",
+    "stanza_19",
+    "stanza_20",
+    "stanza_21",
+    "stanza_22",
+    "stanza_23",
+    "stanza_24",
+    "stanza_25"
+  ],
+  "coords_2d": {
+    "stanza_01": [
+      0.0,
+      0.0
+    ],
+    "stanza_02": [
+      5.0,
+      0.0
+    ],
+    "stanza_03": [
+      10.0,
+      0.0
+    ],
+    "stanza_04": [
+      15.0,
+      0.0
+    ],
+    "stanza_05": [
+      20.0,
+      0.0
+    ],
+    "stanza_06": [
+      0.0,
+      5.0
+    ],
+    "stanza_07": [
+      5.0,
+      5.0
+    ],
+    "stanza_08": [
+      10.0,
+      5.0
+    ],
+    "stanza_09": [
+      15.0,
+      5.0
+    ],
+    "stanza_10": [
+      20.0,
+      5.0
+    ],
+    "stanza_11": [
+      0.0,
+      10.0
+    ],
+    "stanza_12": [
+      5.0,
+      10.0
+    ],
+    "stanza_13": [
+      10.0,
+      10.0
+    ],
+    "stanza_14": [
+      15.0,
+      10.0
+    ],
+    "stanza_15": [
+      20.0,
+      10.0
+    ],
+    "stanza_16": [
+      0.0,
+      15.0
+    ],
+    "stanza_17": [
+      5.0,
+      15.0
+    ],
+    "stanza_18": [
+      10.0,
+      15.0
+    ],
+    "stanza_19": [
+      15.0,
+      15.0
+    ],
+    "stanza_20": [
+      20.0,
+      15.0
+    ],
+    "stanza_21": [
+      0.0,
+      20.0
+    ],
+    "stanza_22": [
+      5.0,
+      20.0
+    ],
+    "stanza_23": [
+      10.0,
+      20.0
+    ],
+    "stanza_24": [
+      15.0,
+      20.0
+    ],
+    "stanza_25": [
+      20.0,
+      20.0
+    ]
+  },
+  "edges": [
+    {
+      "source": "stanza_01",
+      "target": "stanza_02"
+    },
+    {
+      "source": "stanza_01",
+      "target": "stanza_06"
+    },
+    {
+      "source": "stanza_01",
+      "target": "stanza_07"
+    },
+    {
+      "source": "stanza_02",
+      "target": "stanza_03"
+    },
+    {
+      "source": "stanza_02",
+      "target": "stanza_06"
+    },
+    {
+      "source": "stanza_02",
+      "target": "stanza_07"
+    },
+    {
+      "source": "stanza_02",
+      "target": "stanza_08"
+    },
+    {
+      "source": "stanza_03",
+      "target": "stanza_04"
+    },
+    {
+      "source": "stanza_03",
+      "target": "stanza_07"
+    },
+    {
+      "source": "stanza_03",
+      "target": "stanza_08"
+    },
+    {
+      "source": "stanza_03",
+      "target": "stanza_09"
+    },
+    {
+      "source": "stanza_04",
+      "target": "stanza_05"
+    },
+    {
+      "source": "stanza_04",
+      "target": "stanza_08"
+    },
+    {
+      "source": "stanza_04",
+      "target": "stanza_09"
+    },
+    {
+      "source": "stanza_04",
+      "target": "stanza_10"
+    },
+    {
+      "source": "stanza_05",
+      "target": "stanza_09"
+    },
+    {
+      "source": "stanza_05",
+      "target": "stanza_10"
+    },
+    {
+      "source": "stanza_06",
+      "target": "stanza_07"
+    },
+    {
+      "source": "stanza_06",
+      "target": "stanza_11"
+    },
+    {
+      "source": "stanza_06",
+      "target": "stanza_12"
+    },
+    {
+      "source": "stanza_07",
+      "target": "stanza_08"
+    },
+    {
+      "source": "stanza_07",
+      "target": "stanza_11"
+    },
+    {
+      "source": "stanza_07",
+      "target": "stanza_12"
+    },
+    {
+      "source": "stanza_07",
+      "target": "stanza_13"
+    },
+    {
+      "source": "stanza_08",
+      "target": "stanza_09"
+    },
+    {
+      "source": "stanza_08",
+      "target": "stanza_12"
+    },
+    {
+      "source": "stanza_08",
+      "target": "stanza_13"
+    },
+    {
+      "source": "stanza_08",
+      "target": "stanza_14"
+    },
+    {
+      "source": "stanza_09",
+      "target": "stanza_10"
+    },
+    {
+      "source": "stanza_09",
+      "target": "stanza_13"
+    },
+    {
+      "source": "stanza_09",
+      "target": "stanza_14"
+    },
+    {
+      "source": "stanza_09",
+      "target": "stanza_15"
+    },
+    {
+      "source": "stanza_10",
+      "target": "stanza_14"
+    },
+    {
+      "source": "stanza_10",
+      "target": "stanza_15"
+    },
+    {
+      "source": "stanza_11",
+      "target": "stanza_12"
+    },
+    {
+      "source": "stanza_11",
+      "target": "stanza_16"
+    },
+    {
+      "source": "stanza_11",
+      "target": "stanza_17"
+    },
+    {
+      "source": "stanza_12",
+      "target": "stanza_13"
+    },
+    {
+      "source": "stanza_12",
+      "target": "stanza_16"
+    },
+    {
+      "source": "stanza_12",
+      "target": "stanza_17"
+    },
+    {
+      "source": "stanza_12",
+      "target": "stanza_18"
+    },
+    {
+      "source": "stanza_13",
+      "target": "stanza_14"
+    },
+    {
+      "source": "stanza_13",
+      "target": "stanza_17"
+    },
+    {
+      "source": "stanza_13",
+      "target": "stanza_18"
+    },
+    {
+      "source": "stanza_13",
+      "target": "stanza_19"
+    },
+    {
+      "source": "stanza_14",
+      "target": "stanza_15"
+    },
+    {
+      "source": "stanza_14",
+      "target": "stanza_18"
+    },
+    {
+      "source": "stanza_14",
+      "target": "stanza_19"
+    },
+    {
+      "source": "stanza_14",
+      "target": "stanza_20"
+    },
+    {
+      "source": "stanza_15",
+      "target": "stanza_19"
+    },
+    {
+      "source": "stanza_15",
+      "target": "stanza_20"
+    },
+    {
+      "source": "stanza_16",
+      "target": "stanza_17"
+    },
+    {
+      "source": "stanza_16",
+      "target": "stanza_21"
+    },
+    {
+      "source": "stanza_16",
+      "target": "stanza_22"
+    },
+    {
+      "source": "stanza_17",
+      "target": "stanza_18"
+    },
+    {
+      "source": "stanza_17",
+      "target": "stanza_21"
+    },
+    {
+      "source": "stanza_17",
+      "target": "stanza_22"
+    },
+    {
+      "source": "stanza_17",
+      "target": "stanza_23"
+    },
+    {
+      "source": "stanza_18",
+      "target": "stanza_19"
+    },
+    {
+      "source": "stanza_18",
+      "target": "stanza_22"
+    },
+    {
+      "source": "stanza_18",
+      "target": "stanza_23"
+    },
+    {
+      "source": "stanza_18",
+      "target": "stanza_24"
+    },
+    {
+      "source": "stanza_19",
+      "target": "stanza_20"
+    },
+    {
+      "source": "stanza_19",
+      "target": "stanza_23"
+    },
+    {
+      "source": "stanza_19",
+      "target": "stanza_24"
+    },
+    {
+      "source": "stanza_19",
+      "target": "stanza_25"
+    },
+    {
+      "source": "stanza_20",
+      "target": "stanza_24"
+    },
+    {
+      "source": "stanza_20",
+      "target": "stanza_25"
+    },
+    {
+      "source": "stanza_21",
+      "target": "stanza_22"
+    },
+    {
+      "source": "stanza_22",
+      "target": "stanza_23"
+    },
+    {
+      "source": "stanza_23",
+      "target": "stanza_24"
+    },
+    {
+      "source": "stanza_24",
+      "target": "stanza_25"
+    }
+  ]
+}

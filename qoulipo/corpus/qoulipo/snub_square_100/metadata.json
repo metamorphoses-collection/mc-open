@@ -1,0 +1,28 @@
+{
+  "text_id": "snub_square_100",
+  "title": "The Postman's Songbook",
+  "lang": "EN",
+  "literary_status": "drafted (2026-05-05) \u2014 geometry verified via Wikipedia s=sqrt(2+sqrt(3))/4 formula; FRESNEL submission ee9b7c8e",
+  "canonical_N": 100,
+  "canonical_E": 220,
+  "canonical_density": 0.0444,
+  "canonical_MIS": 36,
+  "canonical_rho": 0.3333,
+  "canonical_optima": 97,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.3132,
+  "blockade_um": 7.0,
+  "subtitle_alt": "Le Canzoniere de Robert Ammann (FR working title, retired)",
+  "literary_form": "alternating tercet/quatrain (per polygon role around vertex)",
+  "page_count": 100,
+  "designed_property": "Snub-square (3.3.4.3.4) Archimedean finite patch; exact 2D UDG; square diagonals remain non-edges (spectral gap factor 1.31\u00d7)",
+  "literary_references": [
+    "Robert Ammann (1946\u20131994) \u2014 postman & autodidact mathematician",
+    "Lu & Steinhardt, Science 315, 1106 (2007) \u2014 quasiperiodic medieval Islamic girih tilings"
+  ],
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv (QOuLiPo: What a quantum computer sees when it reads a book)",
+  "source_contract": "node_aligned",
+  "canonical_graph_file": "graph_target.json"
+}

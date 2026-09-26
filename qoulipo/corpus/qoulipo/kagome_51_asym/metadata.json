@@ -1,0 +1,16 @@
+{
+  "text_id": "kagome_51_asym",
+  "title": "Kagome small patch (elliptical cut)",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 51,
+  "canonical_E": 87,
+  "canonical_density": 0.0682,
+  "canonical_MIS": 21,
+  "canonical_rho": 0.5238,
+  "canonical_optima": 8,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.3609,
+  "blockade_um": 7.0
+}

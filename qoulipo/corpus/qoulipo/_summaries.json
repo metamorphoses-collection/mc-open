@@ -1,0 +1,488 @@
+{
+  "carte_du_texte": {
+    "narrative": "Nithard visits a forge on a mountain summit to understand his sword; the forge-master teaches him that faith means trusting the fire and metal to become what you need them to become. The text includes episodes of silk merchants crossing mountains, of iron's transformation, of the poet's linguistic choices paralleling the smith's choices under fire. The carte is simultaneously a territorial map and a textual architecture where geography and narrative are inseparable.",
+    "themes": [
+      "forge and transformation",
+      "faith in craft",
+      "silk and sword as civilizations",
+      "mountain as sacred space",
+      "maps as constraint"
+    ],
+    "voices": [
+      "Nithard (apprentice to craft)",
+      "Gunthar the ironworker (master voice)",
+      "silk merchants (alternative register)"
+    ],
+    "literary_register": "episodic narrative organized by spatial grid, blending philosophy with medieval setting",
+    "why_interesting": "Fifty pages arranged as a 5×10 planar grid — the simplest possible non-trivial graph and the only QOuLiPo text that is planar by construction. Trivially 2D-embeddable at register fidelity 1.0, its bipartite structure gives MIS = 25 with exactly two equivalent solutions; a pure test of classical-versus-quantum behaviour on a known-easy instance."
+  },
+  "castello_49_destini": {
+    "narrative": "In the Clearing of the Deer (Radura dei Cervi), people arrive having lost their names and their pasts; they sit on a stone that may once have been an altar; they wait for restoration that never comes. Donato the blacksmith arrives with no memory, carrying only a hammer; he meets Serafina the weaver who spins a cloth of fog above his sleeping form; together they forget their origins completely and become new creatures. The clearing itself is a character -- pitiless, merciful, a place where forgetting is not punishment but grace, where the lost find not themselves but a new existence unburdened by memory.",
+    "themes": [
+      "forgetting as liberation",
+      "names and identity",
+      "the clearing as liminal space",
+      "weaving and craft as redemption",
+      "grace through loss"
+    ],
+    "voices": [
+      "omniscient narrator of the clearing",
+      "voices of the forgetful arrivals",
+      "voice of the Iron Stream (personified geography)"
+    ],
+    "literary_register": "Italian lyrical prose, darkly poetic and mythological",
+    "why_interesting": "Forty-nine fates on a 7×7 extended-king grid — a direct Calvino homage realised as an exact 2D UDG at density d = 0.337. Unique MIS = 9 by construction."
+  },
+  "ext_king_sqrt5_9x9_81": {
+    "narrative": "Eighty-one hemistich-balanced couplets, every one of them about a single subject — the pomegranate. The 9×9 grid pairs row (time of day, dawn → midnight) with column (texture: rind, seed, knife, child, shopkeeper, table, Persephone, lamp, linen, stain). Each couplet must speak through pomegranate-imagery, but the texture and time anchors push the variation outward; the whole reads as a Cubist still life of one fruit seen from eighty-one positions, *at dawn the rind is grey as a sleeping eyelid*, *at noon the seeds are columns of red glass*, *the shopkeeper weighs them by the kilo at four*. The dense graph forces every page to acknowledge eight neighbours, so no single image stands free.",
+    "themes": [
+      "pomegranate as still life",
+      "time of day × texture",
+      "Persephone / Demeter underworld",
+      "knife and bowl"
+    ],
+    "voices": [
+      "lyric witness",
+      "external observers (knife, bowl, child, priest, shopkeeper)"
+    ],
+    "literary_register": "Bonnefoy / Reverdy modernist couplet; Persian bahr-e tawīl tradition",
+    "why_interesting": "An 81-vertex extended-king lattice (Chebyshev-√5 reach on a 9×9 grid) realised as an exact 2D UDG. Unique MIS = 13 by construction; the eighty-one quatrains form a Cubist still life of one fruit seen from eighty-one positions."
+  },
+  "friars_notebook": {
+    "narrative": "Twenty loose sketches attributed to a fictional Brother Luca (a stand-in for Luca Pacioli, 1447-1517), each written in a different literary register — confession, ledger entry, sonnet, geometrical demonstration, letter to Leonardo, workshop inventory, dream, tempera recipe, sermon, architectural specification, travel diary, probability wager, Platonic dialogue, prayer, astrological note, epitaph, musical proportion table, library catalogue, vision, and a final unfinished page. dge-specific motifs, distributed so that each page shares one motif with each of its three dodecahedral neighbours, make the designed adjacency recoverable from the prose while each page retains its literary voice. The register diversity is the text's literary point and its engineering challenge: it is what lets the embedder see twenty distinct writers, and what prevents the cosine graph from reducing to a single uniform style.",
+    "themes": [
+      "divine proportion as catechism",
+      "Luca Pacioli between monastery and workshop",
+      "the dodecahedron as literary scaffold",
+      "design by construction vs. recovery by embedding",
+      "register diversity as literary constraint"
+    ],
+    "voices": [
+      "Brother Luca (twenty registers, one hand)"
+    ],
+    "literary_register": "twenty distinct single-page literary registers on a 3D unit-ball graph",
+    "designed_graph": "regular dodecahedron: N=20, E=30, d=0.158, MIS=8, 5 optima, ρ=0 (exact 3D UBG)",
+    "why_interesting": "Twenty-three chapters as rooms of a polyhedral house. The truncated-cube architecture is the literary scaffold; the deposited graph is an NLP k=8 recovery (k=8 nearest neighbours by sentence embedding) over the 23 actual chapters, with the missing twenty-fourth room felt as narrative pressure throughout the text."
+  },
+  "incarnate_graph": {
+    "narrative": "Nithard enumerates a monastic conspiracy through graph-theoretic analysis; monks appear as vertices and their nocturnal meetings as edges; faith becomes a structural property rather than an emotion.",
+    "themes": [
+      "narrative as quantum topology",
+      "enumeration and conspiracy",
+      "faith as graph structure",
+      "literature as physics",
+      "constraint encoded in matter"
+    ],
+    "voices": [
+      "Nithard (graph theorist avant la lettre)",
+      "quantum voice (the processor)",
+      "witness-narrator"
+    ],
+    "literary_register": "speculative fiction blending medieval chronicle with quantum computing metaphor",
+    "why_interesting": "The text IS the register: 65 pages whose two-dimensional coordinates are atom positions on a tweezer-lattice geometry, so the prose physically inhabits a unit-disk graph."
+  },
+  "irreplaceable_book": {
+    "narrative": "A medieval chronicler discovers that the monks of his abbey are running a conspiracy of mirrors: every copy of every manuscript alters what it claims to reproduce. As he investigates, he realises he too has been copying — his own chronicle is no more faithful than theirs. The book's central question is whether faith in a text survives the discovery that the text could not have been transmitted faithfully.",
+    "themes": [
+      "uniqueness and irreplaceability",
+      "the conspiracy of copying",
+      "faith in imperfection",
+      "manuscript as mirror",
+      "textual transmission as loss"
+    ],
+    "voices": [
+      "witness-chronicler",
+      "voice of the parchment",
+      "unnamed conspiracy"
+    ],
+    "literary_register": "philosophical meditation embedded in narrative fragments",
+    "why_interesting": "An engineered ρ = 1.0 text whose single unique MIS of 17 pages is guaranteed by double domination: every non-backbone page is adjacent to at least two backbone pages, making each structurally necessary. Three narrative voices — witness, prover, professor — carry the thematic threads across all 50 pages."
+  },
+  "jumeaux_en": {
+    "narrative": "Nithard at the Battle of Fontenoy witnesses the clash of armies and understands the linguistic wager his chronicle makes by recording events in the vernacular tongue of soldiers alongside Latin. The English version emphasises the soldier's voice — Frankish and the early Romance speech of the battlefield rather than scholastic Latin — and the chronicler's discovery that history written in the people's tongue reads differently from history written in the tongue of empire.",
+    "themes": [
+      "linguistic choice and fate",
+      "isomorphism and equivalence",
+      "chronicle as wager",
+      "Fontenoy as turning point",
+      "form and content independence"
+    ],
+    "voices": [
+      "Nithard (warrior-chronicler)",
+      "voice of battle",
+      "implicit mathematician"
+    ],
+    "literary_register": "English historical narrative structured under graph isomorphism constraint",
+    "why_interesting": "The English half of a cross-lingual pair: 30 pages sharing an identical edge list with its French twin by construction. Two languages on one graph."
+  },
+  "jumeaux_fr": {
+    "narrative": "Pascal's investigation of probability, the binomial distribution, and the nature of chance mirrors Nithard's chronicle of linguistic innovation in structure and philosophical stakes. The French mathematician risks notational systems to express new ideas about chance; the medieval chronicler risks linguistic choice to express political reality. Pascal and Nithard become temporal twins separated by a thousand years: Pascal wagers on the probability of God; Nithard wagers on the political weight of choosing French over Latin.",
+    "themes": [
+      "probability and language",
+      "mathematical notation as risk",
+      "historical isomorphism",
+      "twin structures",
+      "form across languages"
+    ],
+    "voices": [
+      "Pascal (mathematical voice)",
+      "voice of probability",
+      "implicit Nithard"
+    ],
+    "literary_register": "French mathematical narrative under strict isomorphism constraint",
+    "why_interesting": "The French twin: 30 pages sharing an identical edge list with the English. Two languages on one graph."
+  },
+  "kagome_100": {
+    "narrative": "One hundred haiku-like tercets read together as a Bashō-style renku from late summer into early autumn (zansho into shoshū). Each kagome vertex sits at the corner of two triangles and two hexagonal voids, and each haiku carries a four-anchor system drawn from that geometry: two sharp triangle anchors (immediate Japanese kigo — late cicada hum, persimmon, harvest moon, dragonfly, ripening pear) and two slow hexagon anchors (cosmological themes — tides, ancestors, Pleiades, milky river, deep sky). Adjacent haiku always share at least one anchor. The cycle reads as a single late-summer evening drawn out across one hundred small windows: *late cicada hum / one wing on a rusted nail / summer not yet gone*.",
+    "themes": [
+      "late summer kigo",
+      "cosmological time",
+      "linked verse (renku)",
+      "frustrated geometry"
+    ],
+    "voices": [
+      "lyric observer in the Bashō tradition",
+      "occasional kasen-style turn"
+    ],
+    "literary_register": "haiku-like tercets, 5-7-5 target with modern free-haiku drift",
+    "why_interesting": "A 100-vertex kagome (3.6.3.6) Archimedean-tiling patch with elliptical cut, exact 2D UDG with spectral gap 1.36×, ρ ≈ 0.85 (8 optima). Resonates with the Lukin-group 219-atom Rydberg quantum spin liquid on the same lattice."
+  },
+  "kaleidoscope": {
+    "narrative": "An extended meditation on the wager Nithard makes when choosing to write the Strasbourg Oaths in the vernacular rather than Latin, understanding this as a linguistic and existential risk comparable to charging into battle. Multiple voices -- the warrior-chronicler, the scholar, the fire-watcher -- converge on the image of ink as blood, parchment as body, the sword as pen. The text kaleidoscopes between medieval chronicle and modern constraint.",
+    "themes": [
+      "linguistic risk",
+      "ink as blood",
+      "fire and preservation",
+      "wager and battle",
+      "reduction and mystery"
+    ],
+    "voices": [
+      "Nithard (multiple registers)",
+      "the Professor (abstractor)",
+      "the fire (destructive witness)"
+    ],
+    "literary_register": "layered narrative moving between chronicle and philosophical lyric",
+    "why_interesting": "The opposite extreme: ρ = 0.0 by decomposition into 17 disjoint triangles, yielding 3¹⁷ ≈ 129 million equivalent optimal backbones. Each triptych presents the same material from three perspectives (Witness, Analyst, Dreamer), so backbone selection becomes a matter of taste, not structure."
+  },
+  "king_9x9_81": {
+    "narrative": "A Calvino-style cycle of 81 quatrains in which nine personas (Fool, Knight, Hermit, Empress, Hanged Man, Magus, Lover, Death, Star) cross nine situations (Dawn, Road, River, Orchard, Market, Tower, Chapel, Forest, Night). Each quatrain — *The Fool at Dawn*, *The Knight at the River*, *Death in the Orchard* — sits in one cell of the 9×9 board; a silver/copper diagonal-parity anchor marks an alternation visible only at the level of the whole. Read by row, the personas pass through the day's stations; read by column, each station gathers all nine personas in turn. The checkerboard MIS is the anti-castello of mutually independent fates.",
+    "themes": [
+      "Tarot personas as graph columns",
+      "situational rows",
+      "metallic parity",
+      "the interrupted journey"
+    ],
+    "voices": [
+      "nine archetypal personas",
+      "third-person omniscient witness"
+    ],
+    "literary_register": "English quatrains, ABAB intent with frequent slant rhyme, 8-10 syllables/line",
+    "why_interesting": "An 81-vertex king grid (Chebyshev ≤ 1) realising a nine-by-nine card-tarot lineup. Exact 2D UDG by construction; unique MIS = 25 by checkerboard (odd-parity colour class)."
+  },
+  "livre_fractal": {
+    "narrative": "A coastline book. Five chapters, ten pages each: surveyors trying to measure the shoreline of a small island and discovering that the answer depends on the length of the ruler. The same argument plays out at the chapter scale and at the page scale — a book whose paragraphs rhyme with its sections, whose sentences rhyme with its paragraphs. Mandelbrot read by lighthouse keepers.",
+    "themes": [
+      "self-similarity across scales",
+      "coastlines as fractals",
+      "recursive narrative structure",
+      "mapping and measuring",
+      "zoom and perspective"
+    ],
+    "voices": [
+      "omniscient maritime narrator",
+      "voice of the coast",
+      "voice of scale"
+    ],
+    "literary_register": "maritime narrative with embedded fractal geometry",
+    "why_interesting": "A self-similar text built on Sierpinski-triangle hierarchy: three large communities, each containing three sub-communities, each containing smaller clusters. The same structural motif recurs at chapter, section, and paragraph levels — a literary model of scale-invariance that produces a graph with matching multi-scale community structure."
+  },
+  "nithards_wager_en": {
+    "narrative": "A Carolingian chronicler named Nithard witnesses the Battle of Fontenoy and records his chronicle in both Latin and the nascent French vernacular, becoming the first to document a major historical event in the people's tongue. A Professor known as the Porteur de Maliettes introduces seminarians to a textual meditation on wagers, faith, and the precarious survival of manuscripts across centuries, demonstrating how Nithard's linguistic risk parallels Pascal's philosophical gamble on God's existence.",
+    "themes": [
+      "wager and probability",
+      "faith as existential risk",
+      "linguistic innovation and power",
+      "manuscript transmission and survival",
+      "constraint as liberation"
+    ],
+    "voices": [
+      "Nithard (Carolingian chronicler)",
+      "Professor/Porteur de Maliettes (teacher figure)",
+      "institutional voice"
+    ],
+    "literary_register": "meta-historical meditation blending medieval chronicle, philosophical dialogue, and ludic constraint-based composition",
+    "why_interesting": "Fifty pages in English that brace a medieval chronicler — Nithard, witness to the Battle of Fontenoy — against a mathematician of Port-Royal, Pascal."
+  },
+  "nithards_wager_fr": {
+    "narrative": "Nithard, as a grandson of Charlemagne struggling between his warrior heritage and ecclesiastical duty, confesses his chronicle-writing as an act of faith while recording the Strasbourg Oaths in proto-French. The text braids Nithard's testimony of fratricidal war at Fontenoy with echoes of Port-Royal's Jansenist crisis and Pascal's Wager, showing how faith in linguistic transmission becomes indistinguishable from faith in God's silence.",
+    "themes": [
+      "language as mirror of faith",
+      "probability and divine grace",
+      "the cost of bearing witness",
+      "translation as theological act",
+      "silence and invisibility"
+    ],
+    "voices": [
+      "Nithard (warrior-chronicler)",
+      "Pascal (mathematician of Port-Royal)",
+      "Professor (keeper of texts)"
+    ],
+    "literary_register": "layered French historical-philosophical narrative with mystical undertones",
+    "why_interesting": "The French counterpart to Nithard's Wager, translated without loss of thread-keyword density, reaching a slightly denser d = 0.349 at the same k and thereby probing how cross-lingual translation preserves graph topology. Its rigidity reading is the language-paired control for the cross-embedder rigidity comparison."
+  },
+  "pari_de_nithard_II": {
+    "narrative": "The Professor opens his famous leather maliette to reveal that Nithard's ninth-century chronicle and Pascal's seventeenth-century Pensées share a deep mathematical and linguistic structure, proving that the medieval chronicler's wager on the vernacular tongue and the mathematician's wager on faith are structurally identical. Monks conspire to forge relics; scholars conspire to hide truth in archives; the Professor conspires to unveil both conspiracies through textual analysis. The narrative layers monastic scripture-copying with Jansenist casuistry; what stays the same across a thousand years is the act of wagering on a language to carry truth across time.",
+    "themes": [
+      "conspiracy and truth",
+      "the graph as metaphor for faith",
+      "linguistic wagers across time",
+      "hidden structures",
+      "the archive as labyrinth"
+    ],
+    "voices": [
+      "Nithard (witness)",
+      "The Professor (meta-narrator)",
+      "unnamed scholars"
+    ],
+    "literary_register": "hybrid French prose oscillating between historical reconstruction and mathematical demonstration",
+    "why_interesting": "Sixty-five pages at density d = 0.303, deliberately sized to land at a 65-atom register. The Professor's malette opens on Nithard's chronicle and Pascal's Pensées, revealing that the medieval and seventeenth-century wagers share a linguistic-mathematical structure."
+  },
+  "pari_de_nithard_III": {
+    "narrative": "A French-language reformulation of the English Wager text, narrated by the Porteur de Maliettes as he arranges the first maliette's contents -- a folded parchment, a Carolingian sword, marked cards -- each object embodying the wager between faith and reason, constraint and freedom. The narrative spirals through Nithard's witnessing of Fontenoy, monks copying manuscripts under secret rules, Pascal's probability calculations, and the Professor's own act of bearing witness through textual composition.",
+    "themes": [
+      "constraint as paradoxical freedom",
+      "objects as philosophical vessels",
+      "the maliette as archive",
+      "witness and testimony",
+      "faith across centuries"
+    ],
+    "voices": [
+      "Porteur de Maliettes (professor-narrator)",
+      "Nithard (Carolingian voice)",
+      "textual voices within objects"
+    ],
+    "literary_register": "French philosophical meditation disguised as narrative frame",
+    "why_interesting": "A 100-page meditation in which five recurring objects — wager, faith, sword, parchment, game — anchor a procession of voices from Nithard's chronicle to Pascal's *Pensées* and the Professor's archive."
+  },
+  "partition_du_texte": {
+    "narrative": "A narrative written in alexandrine verse (12-syllable French meter) following a 5-syllable + 7-syllable rhythmic partition that mirrors the bipartite structure of a textual graph. Nithard's oath at Strasbourg becomes a rhythmic event; the scribe's parchment becomes a musical staff; the chronicle becomes a score waiting to be read or performed. Faith in language becomes faith in form; the wager becomes audible through meter.",
+    "themes": [
+      "verse as constraint",
+      "rhythm as meaning",
+      "the score as architecture",
+      "oral transmission",
+      "faith in form"
+    ],
+    "voices": [
+      "verse narrator (Nithard reimagined as poet)",
+      "alexandrine meter itself",
+      "singing voice"
+    ],
+    "literary_register": "French alexandrine verse narrative",
+    "why_interesting": "Forty-six reader-clean pages distributed across five classical poetic forms — sonnet, villanelle, rondeau, ballade, haiku sequence — whose formal affinities determine the graph's community structure. Form becomes topology: pages in the same metrical scheme cluster together, letting the MIS backbone select across poetic registers rather than within them.",
+    "designed_graph": "NLP k=8 over 46 reader-clean pages: N=46, E=244, d=0.236, MIS=11, ρ=0.091"
+  },
+  "pascal_apocryphe": {
+    "narrative": "A fictionalized childhood of Blaise Pascal in which the young genius spontaneously rediscovers the first thirty-two propositions of Euclid's Elements by drawing figures in charcoal on the floor of his unheated room, before his father Etienne opens the forbidden book from the armoire and recognizes his son has reconstructed the entire architecture of ancient reason. Etienne then makes his own wager: he will abandon his legal career and dedicate his remaining years to educating this prodigious child, staking everything on Blaise's future. The narrative interweaves mathematical discovery with familial faith and the Pascalian bet.",
+    "themes": [
+      "mathematical revelation",
+      "solitary genius and discovery",
+      "paternal faith",
+      "the power of forbidden knowledge",
+      "constraint and freedom in thought"
+    ],
+    "voices": [
+      "omniscient narrator",
+      "Blaise (interior monologue)",
+      "Etienne (moments of decision)"
+    ],
+    "literary_register": "apocryphal historical fiction in French, pseudo-biographical",
+    "why_interesting": "An apocryphal French novel about Blaise Pascal's philosophical life, 20 pages on a 5×4 king lattice whose axes are the eras of his life and four thematic threads (reason, wager, vacuum, mystic). The first half of the Pascal-Ménil bilayer and a deliberate self-reference: Pascal is being read on Pasqal."
+  },
+  "pascal_apocryphe_scholia": {
+    "narrative": "A paleographer's scholarly annotations exposing the historical fabrications in the preceding apocryphal account, proving through manuscript analysis that the Euclid passage cited in the fictional narrative contains errors, anachronisms, and textual corruptions that can only be the work of a modern forger. The scholia meticulously destroy the romantic legend of Pascal's solitary discovery by invoking actual documentation, Latin textual history, and archival evidence. The critic concludes that the preceding chapter is a deliberate historical hoax, inviting readers to distrust all narrative authority.",
+    "themes": [
+      "textual authenticity",
+      "scholarly skepticism",
+      "the unreliability of narrative",
+      "paleographic evidence as proof",
+      "the archive as arbiter"
+    ],
+    "voices": [
+      "paleographer (pedantic, authoritative)",
+      "implied accused author",
+      "scholarly tradition"
+    ],
+    "literary_register": "French academic critique and philological refutation",
+    "why_interesting": "The second layer of the Pascal-Ménil bilayer: 20 pages of fictional 19th-century scholarly annotation by Adolphe Ménil, archivist at the Bibliothèque Nationale de France (BnF) in 1878. Its columns are four editorial concerns; stacked on Les Aventures de Pascal it realises the 5×4×2 king bilayer, designed for a future bilayer-capable neutral-atom device."
+  },
+  "pascal_menil_bilayer": {
+    "narrative": "An aggregate compute instance: the canonical 40-atom bilayer graph that combines Les Aventures de Pascal (20 pages, layer z=0) with Scholia de Ménil (20 pages, layer z=h), realised on a 5×4×2 king lattice. The aggregate is registered for graph/MIS computation; the literary content lives in the two component folders pascal_apocryphe and pascal_apocryphe_scholia.",
+    "themes": [
+      "bilayer king lattice",
+      "text + commentary aggregation",
+      "exact 2D-extended UDG"
+    ],
+    "voices": [
+      "—"
+    ],
+    "literary_register": "computation aggregate (no standalone prose; combines pascal_apocryphe and pascal_apocryphe_scholia)",
+    "why_interesting": "First QOuLiPo bilayer aggregate with exact-UBG fidelity 1.0: a canonical 40-atom 5×4×2 king bilayer register with MIS = 6 by checkerboard parity. The engineered anchor for the natural-text bilayer studies in this corpus.",
+    "title": "Les Aventures de Pascal / Scholia de Ménil (bilayer aggregate)"
+  },
+  "piege_du_lecteur": {
+    "narrative": "A novel about a reader who keeps choosing the wrong pages. Three voices alternate: the bait — pages that read beautifully on their own and tempt every casual reader — the spine, which carries the actual argument and is harder to love, and a third narrator who watches both and keeps score. The wager the book makes is that the reader who reads for local pleasure will miss the book's real shape.",
+    "themes": [
+      "the greedy trap",
+      "hidden structure vs. surface",
+      "truth as difficulty",
+      "narrative manipulation",
+      "reading as optimization"
+    ],
+    "voices": [
+      "Bait voice (seductive, self-contained)",
+      "Backbone voice (harder, structurally necessary)",
+      "Narrator (makes the adversarial design visible)"
+    ],
+    "literary_register": "adversarial narrative designed to mislead",
+    "why_interesting": "Adversarial by design: the canonical graph (N=50, E=72, MIS=24, ρ=0.42, ≥500 enumerated optima) is engineered so that a degree-greedy procedure recovers ≈17 of 24 optimal pages — an ≈29% gap. Locally-attractive pages are systematically not in the optimum. A stress test for any solver — or any reader — that picks by local salience rather than global structure."
+  },
+  "proces_de_nithard": {
+    "narrative": "A trial text in which a Prosecutor (archaeologist) argues that Nithard's bones discovered in 1989 are modern forgeries, citing carbon-14 evidence and paleographic inconsistencies, while a Defender (church historian) argues the bones are genuine relics bearing witness to an unbroken tradition of faith. The two voices never agree but continually address the same evidence -- bones, ink, parchment -- from opposite epistemological positions. sides obsess over identical material. The text proves that faith and skepticism are structurally isomorphic.",
+    "themes": [
+      "faith vs. skepticism",
+      "material evidence and interpretation",
+      "the relic as contested object",
+      "forensic analysis vs. tradition",
+      "the trial as constraint"
+    ],
+    "voices": [
+      "Prosecutor (scientific, skeptical)",
+      "Defender (reverential, faithful)",
+      "implicit judge"
+    ],
+    "literary_register": "courtroom drama structured as bipartite graph",
+    "why_interesting": "A bipartite text splitting into 25 prosecution and 25 defense pages, with edges only between opposing sides. Its K₂₅,₂₅-like structure gives two equally-optimal MIS backbones — the entire prosecution, or the entire defense — making the quantum processor's output a legal verdict rather than a summary."
+  },
+  "snub_square_100": {
+    "narrative": "An apocryphal songbook in 100 hybrid 7-line poems, framed as the secret writing of Robert Ammann (1946–1994), the postman by trade and autodidact mathematician who independently discovered several aperiodic tilings. Every poem is split between two registers: three lines of triangle-register (girih architectural anchors — muqarnas, mihrab, zellige, sebka, squinch, tracery, voussoir) and four lines of square-register (postman anchors — postmark, Carlisle, Route 19, parcel, twine, dead letter). The two voices cross at every vertex: a Persian shrine-tile vocabulary meets American postal everyday life — *cells of muqarnas dripping— / the cupola at first light says nothing. // Inside the square, ordinary— / the postmark from Boston* — and the snub-square geometry guarantees that every poem touches five neighbours from across the two registers.",
+    "themes": [
+      "Ammann's apocryphal canzoniere",
+      "girih architecture",
+      "American postal everyday",
+      "Carlisle to Isfahan"
+    ],
+    "voices": [
+      "Ammann in retrospect",
+      "the postman-mathematician dual"
+    ],
+    "literary_register": "hybrid form: 3-line tercet + 4-line quatrain per vertex; lyric, image-rich",
+    "why_interesting": "A 100-vertex snub-square (3.3.4.3.4) Archimedean-tiling patch realised as an exact 2D UDG. Reference: Lu & Steinhardt (Science 315, 1106, 2007) on quasiperiodic medieval Islamic girih tilings."
+  },
+  "sonetti_dal_tesseratto": {
+    "narrative": "Sixteen Italian Petrarchan sonnets, written under a binary-coordinate conceit (terra/cielo, diurno/notturno, solitudine/incontro, memoria/profezia) that maps each sonnet to one corner of a 4-dimensional cube of themes.",
+    "themes": [
+      "binary opposition and harmony",
+      "memory and prophecy",
+      "earth and sky",
+      "solitude and encounter",
+      "poetic geometry"
+    ],
+    "voices": [
+      "the farmer (primary voice)",
+      "prophetic voices (surrounding vertices)",
+      "poetic enumeration"
+    ],
+    "literary_register": "Italian Petrarchan sonnets arranged in hypercube topology",
+    "why_interesting": "Sixteen Italian sonnets composed at the 16 corners of a thematic 4-cube. The poetic conceit (Q4 hypercube; sonnets-as-vertices) is acknowledged as aspirational; the deposited graph is an NLP k=8 recovery over the actual texts. The mismatch between conceit and recovered graph is itself the literary point.",
+    "designed_graph": "NLP k=8 over the 16 sonnets (e5-large-instruct): N=16, E=79, d=0.658, MIS=4, ρ=1.0"
+  },
+  "triangular_hex_37": {
+    "narrative": "An elegiac French récit-prose memoir in 37 fragments — 13 numbered theses (I–XIII) and 24 interstitial pages — written under Roubaudian constraint by a mathematician-narrator. The opening dedication, *pour O. — qui a lu ε avant moi*, shapes a buried arc through cells V and VIII: a copy of Roubaud's ε open at coup 73 on a student's table at the rue Saint-Jacques, then thirty years later the same marked move read side by side. Around this arc the narrator traces six recurring concerns — sea, memory, walking, death, house, mathematics — through a country chamber no one occupies after the death of an aïeule, a Bretagne coast in March, a formula found young that stayed true without serving any purpose, and a present moment of writing at the centre of the figure.",
+    "themes": [
+      "Roubaudian récit-prose memory architecture",
+      "centered hexagonal lattice (R=3, N=37)",
+      "tense rings",
+      "six M-wedges",
+      "unique MIS spine",
+      "ε / coup 73 Olivier arc (cells V and VIII)",
+      "OLIVIER acrostic on opening MIS thèses I–VII",
+      "strict edge-level lexical exclusion (90/90 edges discharged)"
+    ],
+    "voices": [
+      "first-person récitant (mathematician-poet, slightly elegiac)"
+    ],
+    "literary_register": "French Roubaudian récit-prose; short-cell memory architecture (~2,800 words across 37 cells; 95–135 words for thèses, 50–80 for interstices)",
+    "why_interesting": "First QOuLiPo corpus instance with strict edge-level lexical disjointness verified (100% of 90 edges; independent audit confirmed). Compact 37-vertex exact 2D UDG with spectral gap 1.62× and a unique 13-page Star-of-David MIS. Five machine-readable reading orders provided.",
+    "dedication": "pour O. — qui a lu ε avant moi.",
+    "title": "Treize sur trente-sept"
+  },
+  "triangular_hex_91": {
+    "narrative": "A Books-of-Hours liturgy in 91 unrhymed tercets, one for each vertex of a hexagonal patch. The sequence runs from a still point at midnight in the centre — sleep, the bell-tower's last brass, silence beyond dusk — outward through pre-dawn hush, the threshold of dawn, morning labour, the noon zenith, and the dispersal toward dusk in the outermost ring. Adjacent tercets share an anchor by graph construction, so the cycle reads continuously around any starting point: each hour borrows from its neighbours, the day itself becomes a closed liturgical figure rather than a line.",
+    "themes": [
+      "canonical hours",
+      "concentric rings",
+      "labour and rest",
+      "dawn and dusk",
+      "the still point"
+    ],
+    "voices": [
+      "liturgical observer",
+      "third-person witness"
+    ],
+    "literary_register": "Dantean tercet without rhyme; Books of Hours echoes",
+    "why_interesting": "A 91-vertex centered-hexagonal triangular-lattice patch (R=5) realised as an exact 2D UDG with spectral gap factor 1.62× and a unique MIS = 31 along the bipartite ring-alternation of the canonical hours."
+  },
+  "twenty_five_rooms": {
+    "narrative": "A prehistoric coastal clan watches for whales, gathers from tide pools, and crafts tools from obsidian near a smoking volcano at the margin of a glacier. The clan's shaman reads the ocean currents as prophecy and the volcanic field as mirror-image of the glacier -- one melting, one burning -- both forces that shape life. Narratives spiral around ochre pigment, flint technology, and the encounter between ice and fire. Later chapters describe the volcano's eruption, the discovery of obsidian, the use of volcanic heat as shelter. The clan navigates a landscape of elemental forces before human language had names for them.",
+    "themes": [
+      "prehistoric survival and creativity",
+      "elemental oppositions (ice/fire)",
+      "the shaman's interpretation",
+      "tool-making as knowledge",
+      "migration and seasonal rhythm"
+    ],
+    "voices": [
+      "omniscient narrator of prehistory",
+      "shaman (prophetic voice)",
+      "voice of the environment"
+    ],
+    "literary_register": "speculative prehistoric fiction with poetic, sensory language",
+    "why_interesting": "The English companion to *Le venticinque stanze*: 25 prehistoric coastal-clan rooms on the 5×5 king grid, retold from a different register and culture."
+  },
+  "venticinque_stanze": {
+    "narrative": "You enter an Italian palazzo that exists and does not exist simultaneously, confronting a 5x5 grid of twenty-five rooms, each a story-cell housing a woman, a manuscript, a number. A woman named Lidia (or her ghost) inhabits the eastern room with a crib and a sealed letter; the northern room contains only numbers and mirrors. You navigate the palace reading fragments of interconnected stories that share characters, objects, and obsessions; the grid is both a literal map and a metaphorical labyrinth where every room touches four others and narrative branches splinter with each crossing. The constraint is architectural: the stories must fit the palace, and the palace must fit the page.",
+    "themes": [
+      "spatial narrativity",
+      "rooms as thematic nodes",
+      "doubling and reflection",
+      "the palace as character",
+      "choice and determinism"
+    ],
+    "voices": [
+      "second-person reader-protagonist",
+      "voices of the rooms (each a distinct register)",
+      "unnamed archivist"
+    ],
+    "literary_register": "Italian postmodern hypertext in prose, influenced by Calvino",
+    "why_interesting": "A Calvino-style Italian novella in which 25 rooms of a real-and-unreal palazzo sit on the 25 vertices of the 5×5 king graph — an exact 2D unit-disk graph by construction. Every room touches its 8 neighbours; the reader navigating the palace performs a graph walk that the quantum processor can solve in parallel."
+  },
+  "vita_nel_cubo": {
+    "narrative": "A Renaissance humanist Giacomo di Tommaso dies; his assistants inventory the rooms of his house — twenty-three chapters in source/ (the original conceit imagined twenty-four rooms on a truncated-cube graph, but only twenty-three were written; the missing twenty-fourth room \"camera più alta\" remains a ghost).",
+    "themes": [
+      "architectural narrative",
+      "the humanist archive",
+      "objects as meaning",
+      "death and inventory",
+      "Renaissance geometry"
+    ],
+    "voices": [
+      "omniscient curator of the palazzo",
+      "inhabitants (multiple registers)",
+      "master Giacomo's ghost"
+    ],
+    "literary_register": "Italian ekphrastic narrative following Perec's La Vie mode d'emploi",
+    "why_interesting": "Twenty-three chapters as rooms of a polyhedral house. The canonical graph is what the embedder recovers from the prose (N=23, NLP k=8); the truncated-cube architecture is a literary scaffold whose missing twenty-fourth room is felt as narrative pressure throughout the text.",
+    "designed_graph": "NLP k=8 over the 23 chapters (e5-large-instruct): N=23, E=128, d=0.506, MIS=7, ρ=0.571"
+  }
+}

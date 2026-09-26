@@ -1,0 +1,30 @@
+{
+  "campaign": "Castello dei 49 destini \u2014 FRESNEL_CAN1 QPU (king-7\u00d77 approximation)",
+  "batch_id": "2d401cff-8314-4bb0-a685-7f8e47e80942",
+  "status": "DONE",
+  "device": "FRESNEL_CAN1",
+  "graph_realised_on_QPU": {
+    "type": "king-7x7",
+    "N": 49,
+    "E": 156,
+    "MIS": 16
+  },
+  "submitted": "2026-04-27",
+  "completed": "2026-04-28",
+  "shots_requested": 250,
+  "total_shots_returned": 250,
+  "valid_count": 43,
+  "valid_frac": 0.172,
+  "best_IS": 15,
+  "approx_ratio": 0.9375,
+  "mean_HW": 12.76,
+  "is_size_distribution": {
+    "12": 13,
+    "14": 6,
+    "11": 4,
+    "13": 13,
+    "10": 4,
+    "9": 2,
+    "15": 1
+  }
+}

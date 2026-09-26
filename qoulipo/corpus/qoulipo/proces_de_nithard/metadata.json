@@ -1,0 +1,20 @@
+{
+  "text_id": "proces_de_nithard",
+  "title": "The Trial of Nithard",
+  "lang": "EN",
+  "canonical_N": 50,
+  "canonical_graph_file": "graph_target.json",
+  "canonical_E": 625,
+  "canonical_density": 0.5102,
+  "canonical_MIS": 25,
+  "canonical_rho": 0.0,
+  "canonical_optima": 2,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "designed_bipartite_K25_25",
+  "type": "qoulipo_engineered",
+  "designed_property": "Complete bipartite K_{25,25} (prosecution vs defense)",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv",
+  "register_target": "2D embedding requires SA (not exact UDG)",
+  "source_contract": "node_aligned"
+}

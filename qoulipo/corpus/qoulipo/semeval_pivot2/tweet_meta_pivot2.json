@@ -1,0 +1,637 @@
+{
+  "target": "abortion",
+  "atom_meta": [
+    {
+      "atom_idx": 0,
+      "tweet_idx": 699,
+      "stance": 1,
+      "cos_to_favor": 0.9382559061050415,
+      "cos_to_against": 0.9314272999763489,
+      "text_preview": "@user these poor souls won't be anything in the future @user encouraged women to murder babies. #BlackLivesMatter"
+    },
+    {
+      "atom_idx": 1,
+      "tweet_idx": 206,
+      "stance": 0,
+      "cos_to_favor": 0.914704442024231,
+      "cos_to_against": 0.923434853553772,
+      "text_preview": "@user Pressure? It's their job and they are failing miserably at keeping the promises they made.  #GOP #PJNET #Amnesty #"
+    },
+    {
+      "atom_idx": 2,
+      "tweet_idx": 432,
+      "stance": 0,
+      "cos_to_favor": 0.9353076815605164,
+      "cos_to_against": 0.9400333762168884,
+      "text_preview": "@user just a reminder that you are awful in every way and do not represent me. #prolove #proeducation #prohealthcare"
+    },
+    {
+      "atom_idx": 3,
+      "tweet_idx": 118,
+      "stance": 0,
+      "cos_to_favor": 0.9127126336097717,
+      "cos_to_against": 0.9265409708023071,
+      "text_preview": "@user Keep up the good work! They are nutters"
+    },
+    {
+      "atom_idx": 4,
+      "tweet_idx": 698,
+      "stance": 0,
+      "cos_to_favor": 0.9256490468978882,
+      "cos_to_against": 0.9277180433273315,
+      "text_preview": "Being a Democrat is never having to say you're sorry... #Slavery #Segregation #KKK"
+    },
+    {
+      "atom_idx": 5,
+      "tweet_idx": 735,
+      "stance": 1,
+      "cos_to_favor": 0.9444011449813843,
+      "cos_to_against": 0.9252442121505737,
+      "text_preview": "@user And the unborn ARE human lives completely human & alive from conception. Abortion KILLS"
+    },
+    {
+      "atom_idx": 6,
+      "tweet_idx": 500,
+      "stance": 1,
+      "cos_to_favor": 0.9430335164070129,
+      "cos_to_against": 0.9317116141319275,
+      "text_preview": "@user You can say that again! #AbortionIsMurder #AllLivesMatter #ProLifeYouth"
+    },
+    {
+      "atom_idx": 7,
+      "tweet_idx": 320,
+      "stance": 1,
+      "cos_to_favor": 0.9364553689956665,
+      "cos_to_against": 0.9225054979324341,
+      "text_preview": "Equal rights for those 'born that way', no rights for those not yet born. #LiberalLogic #liberalism #life"
+    },
+    {
+      "atom_idx": 8,
+      "tweet_idx": 257,
+      "stance": 1,
+      "cos_to_favor": 0.9392443895339966,
+      "cos_to_against": 0.926559567451477,
+      "text_preview": "RT @user Im Prolife and Abortion has and will always be taking a life!  #ChooseLife #Christians #Prolife..."
+    },
+    {
+      "atom_idx": 9,
+      "tweet_idx": 150,
+      "stance": 0,
+      "cos_to_favor": 0.9244570136070251,
+      "cos_to_against": 0.9253273010253906,
+      "text_preview": "Woe to those who call evil good & good evil. Isaiah 5:20 #SCOTUSMarriage"
+    },
+    {
+      "atom_idx": 10,
+      "tweet_idx": 99,
+      "stance": 0,
+      "cos_to_favor": 0.9153689742088318,
+      "cos_to_against": 0.9218013286590576,
+      "text_preview": "@user that much more oppressive for women"
+    },
+    {
+      "atom_idx": 11,
+      "tweet_idx": 302,
+      "stance": 0,
+      "cos_to_favor": 0.9261108040809631,
+      "cos_to_against": 0.9227066040039062,
+      "text_preview": "Our spirits Live on - thru the FAMILY BLOODLINE  - ONCE YOUR Bloodline is Destroyed  - U WILL NEVER REINCARNATE AGAIN   "
+    },
+    {
+      "atom_idx": 12,
+      "tweet_idx": 755,
+      "stance": 1,
+      "cos_to_favor": 0.9398050904273987,
+      "cos_to_against": 0.9333029389381409,
+      "text_preview": "@user ...about the millions of aborted children? Lets fix this too #LoveWins"
+    },
+    {
+      "atom_idx": 13,
+      "tweet_idx": 250,
+      "stance": 0,
+      "cos_to_favor": 0.9023097157478333,
+      "cos_to_against": 0.9229259490966797,
+      "text_preview": "@user every time @user pops up I think its you posting. #dyslexic #oneinthesame"
+    },
+    {
+      "atom_idx": 14,
+      "tweet_idx": 508,
+      "stance": 1,
+      "cos_to_favor": 0.9402995109558105,
+      "cos_to_against": 0.9308741092681885,
+      "text_preview": "Meanwhile, @user wants to waste your money to kill innocent children in the womb. #dangerous #hypocrite #noChoice"
+    },
+    {
+      "atom_idx": 15,
+      "tweet_idx": 764,
+      "stance": 1,
+      "cos_to_favor": 0.9408659338951111,
+      "cos_to_against": 0.9297971129417419,
+      "text_preview": "@user - I guess this means you're happy for me to be pro-life as I never aborted any of my own children? #hypocrisy"
+    },
+    {
+      "atom_idx": 16,
+      "tweet_idx": 763,
+      "stance": 1,
+      "cos_to_favor": 0.9420003890991211,
+      "cos_to_against": 0.9297547936439514,
+      "text_preview": "It's time to be a #voice for the #voiceless. Stand up for the #unborn! #AllLivesMatter #ProLifeYouth #chooselife"
+    },
+    {
+      "atom_idx": 17,
+      "tweet_idx": 608,
+      "stance": 0,
+      "cos_to_favor": 0.9264427423477173,
+      "cos_to_against": 0.9292771816253662,
+      "text_preview": "@user @user @user @user @user Yes, an occasional hypocrite. I support #MarriageEquaility & abhor"
+    },
+    {
+      "atom_idx": 18,
+      "tweet_idx": 339,
+      "stance": 1,
+      "cos_to_favor": 0.9447858333587646,
+      "cos_to_against": 0.9319214820861816,
+      "text_preview": "@user #Americans have the right to #life #liberty and the #pursuitofhappiness, so why dont #unborn Americans?"
+    },
+    {
+      "atom_idx": 19,
+      "tweet_idx": 203,
+      "stance": 1,
+      "cos_to_favor": 0.9380379915237427,
+      "cos_to_against": 0.920962929725647,
+      "text_preview": "I'm a woman who cannot conceive, and I proudly beg you to reconsider killing what I'd die for.               #ProLifeYou"
+    },
+    {
+      "atom_idx": 20,
+      "tweet_idx": 328,
+      "stance": 1,
+      "cos_to_favor": 0.9374173283576965,
+      "cos_to_against": 0.9227554798126221,
+      "text_preview": "The answer to a #crisis #pregnancy is to eliminate the crisis not the #child.youthgen"
+    },
+    {
+      "atom_idx": 21,
+      "tweet_idx": 389,
+      "stance": 0,
+      "cos_to_favor": 0.9232164621353149,
+      "cos_to_against": 0.9245731830596924,
+      "text_preview": "remember the gates of Hell will not prevail. #GayMarriage"
+    },
+    {
+      "atom_idx": 22,
+      "tweet_idx": 107,
+      "stance": 1,
+      "cos_to_favor": 0.9419311285018921,
+      "cos_to_against": 0.9322239756584167,
+      "text_preview": "Let's agree that it's not ok to kill a 7lbs baby in the uterus @user #DNC #Clinton2016 @user #ProCompromise"
+    },
+    {
+      "atom_idx": 23,
+      "tweet_idx": 463,
+      "stance": 1,
+      "cos_to_favor": 0.9408220052719116,
+      "cos_to_against": 0.9327640533447266,
+      "text_preview": "Call me an #extremist, but I think #dismembering babies is wrong.youthgen"
+    },
+    {
+      "atom_idx": 24,
+      "tweet_idx": 609,
+      "stance": 0,
+      "cos_to_favor": 0.9134670495986938,
+      "cos_to_against": 0.9208152890205383,
+      "text_preview": "Watch out for censorship in your news and media! #politicalrevolution #immigration #RedNationRising #Constitution #Corru"
+    },
+    {
+      "atom_idx": 25,
+      "tweet_idx": 379,
+      "stance": 0,
+      "cos_to_favor": 0.9231789112091064,
+      "cos_to_against": 0.9263142347335815,
+      "text_preview": "Undergirding every important issue today is this:  what is truth?  #marriage #racism #gender"
+    },
+    {
+      "atom_idx": 26,
+      "tweet_idx": 287,
+      "stance": 1,
+      "cos_to_favor": 0.9405157566070557,
+      "cos_to_against": 0.9197542667388916,
+      "text_preview": "We should not deny the basic human right to life for unborn babies. #LifeWins #EndTheDiscrimination"
+    },
+    {
+      "atom_idx": 27,
+      "tweet_idx": 603,
+      "stance": 0,
+      "cos_to_favor": 0.9352649450302124,
+      "cos_to_against": 0.9407907128334045,
+      "text_preview": "Just been having rather horrible discussion with @user - reminder that we have a long way to go. #HumanRights #healthcar"
+    },
+    {
+      "atom_idx": 28,
+      "tweet_idx": 362,
+      "stance": 1,
+      "cos_to_favor": 0.9445761442184448,
+      "cos_to_against": 0.9252497553825378,
+      "text_preview": "The causes & circumstances of pregnancies vary, but one thing is unwavering: a human with a right to life. #ProLifeYouth"
+    },
+    {
+      "atom_idx": 29,
+      "tweet_idx": 301,
+      "stance": 1,
+      "cos_to_favor": 0.9453395009040833,
+      "cos_to_against": 0.9325127005577087,
+      "text_preview": "RT @user RT @user Adopting a child shouldn't cost more than aborting one.   #adoptionclini..."
+    },
+    {
+      "atom_idx": 30,
+      "tweet_idx": 53,
+      "stance": 0,
+      "cos_to_favor": 0.9126782417297363,
+      "cos_to_against": 0.9231234788894653,
+      "text_preview": "@user @user Being #Gay is a #Choice Just like"
+    },
+    {
+      "atom_idx": 31,
+      "tweet_idx": 260,
+      "stance": 0,
+      "cos_to_favor": 0.9126967787742615,
+      "cos_to_against": 0.9207891821861267,
+      "text_preview": "@user so because #SCOTUS ruled fors you think everyone just threw their hands up and supported #LoveWins"
+    },
+    {
+      "atom_idx": 32,
+      "tweet_idx": 58,
+      "stance": 1,
+      "cos_to_favor": 0.9392076730728149,
+      "cos_to_against": 0.9209535121917725,
+      "text_preview": "#ProLifeYouth know that human life in the womb is as valuable as human life outside the womb."
+    },
+    {
+      "atom_idx": 33,
+      "tweet_idx": 158,
+      "stance": 1,
+      "cos_to_favor": 0.9395771026611328,
+      "cos_to_against": 0.9224258065223694,
+      "text_preview": "During an abortion, something alive must become dead to be considered a successful abortion...  #p2 #tcot #ChooseLife #C"
+    },
+    {
+      "atom_idx": 34,
+      "tweet_idx": 335,
+      "stance": 1,
+      "cos_to_favor": 0.9464734196662903,
+      "cos_to_against": 0.9334805011749268,
+      "text_preview": "We are the #prolifegen and we will abolish abortion in our lifetime! #prolifefuture #tcot"
+    },
+    {
+      "atom_idx": 35,
+      "tweet_idx": 19,
+      "stance": 1,
+      "cos_to_favor": 0.9434494972229004,
+      "cos_to_against": 0.9318393468856812,
+      "text_preview": "How dare you say my sexual preference is a choice, how dare you say dismembering my preborn isn't. #liberalism"
+    },
+    {
+      "atom_idx": 36,
+      "tweet_idx": 174,
+      "stance": 1,
+      "cos_to_favor": 0.9394561052322388,
+      "cos_to_against": 0.9224082231521606,
+      "text_preview": "We are people who believe every child is entitled to life and liberty.... -@BarackObama  Yet abortion is still legal."
+    },
+    {
+      "atom_idx": 37,
+      "tweet_idx": 348,
+      "stance": 1,
+      "cos_to_favor": 0.9386703968048096,
+      "cos_to_against": 0.9207808375358582,
+      "text_preview": "#ProLifeYouth know that human life = human life, inside the womb or out."
+    },
+    {
+      "atom_idx": 38,
+      "tweet_idx": 626,
+      "stance": 0,
+      "cos_to_favor": 0.9333556890487671,
+      "cos_to_against": 0.9369058609008789,
+      "text_preview": "@user lol.  I don't know about that.  #schoolprayer #GovtEndorsementOfHeterosexualMarriage"
+    },
+    {
+      "atom_idx": 39,
+      "tweet_idx": 376,
+      "stance": 0,
+      "cos_to_favor": 0.9141570329666138,
+      "cos_to_against": 0.9284855127334595,
+      "text_preview": "@user same but I got hated for it. #progod #progun"
+    },
+    {
+      "atom_idx": 40,
+      "tweet_idx": 3,
+      "stance": 0,
+      "cos_to_favor": 0.9107153415679932,
+      "cos_to_against": 0.9252196550369263,
+      "text_preview": "@user too many people are taking this to seriously"
+    },
+    {
+      "atom_idx": 41,
+      "tweet_idx": 396,
+      "stance": 0,
+      "cos_to_favor": 0.9142556190490723,
+      "cos_to_against": 0.9218693971633911,
+      "text_preview": "@user He said he would do it if he weren't a Christian. So he's also a coward.#RepKevinCalvey #p2 #LibCrib #UniteBlue"
+    },
+    {
+      "atom_idx": 42,
+      "tweet_idx": 538,
+      "stance": 1,
+      "cos_to_favor": 0.9410050511360168,
+      "cos_to_against": 0.9270296692848206,
+      "text_preview": "Dear to who it may concern;\"YOU stand up for my right to live.   #Baby #murder #RightToLife #unborn #womensrights #legal"
+    },
+    {
+      "atom_idx": 43,
+      "tweet_idx": 599,
+      "stance": 1,
+      "cos_to_favor": 0.9371429681777954,
+      "cos_to_against": 0.925751805305481,
+      "text_preview": "@user Right, where are the pre-born women's rights? #allLivesMatter #equalRights"
+    },
+    {
+      "atom_idx": 44,
+      "tweet_idx": 143,
+      "stance": 1,
+      "cos_to_favor": 0.9388485550880432,
+      "cos_to_against": 0.9266130328178406,
+      "text_preview": "@user Typo - I meant to say \"dies\" - With every abortion @ least one human dies."
+    },
+    {
+      "atom_idx": 45,
+      "tweet_idx": 82,
+      "stance": 0,
+      "cos_to_favor": 0.9221146106719971,
+      "cos_to_against": 0.9229860305786133,
+      "text_preview": "(3/3) So when @user tells you MLK was #prolife, they're lying. (Their gullible followers r likely just misinformed). #Un"
+    },
+    {
+      "atom_idx": 46,
+      "tweet_idx": 208,
+      "stance": 1,
+      "cos_to_favor": 0.9422106146812439,
+      "cos_to_against": 0.9309028387069702,
+      "text_preview": "@user Precisely! In God's eyes, ALL life is precious. Let's make this generation the one who ends abortion! #ProLifeYout"
+    },
+    {
+      "atom_idx": 47,
+      "tweet_idx": 134,
+      "stance": 0,
+      "cos_to_favor": 0.9275159239768982,
+      "cos_to_against": 0.9314279556274414,
+      "text_preview": "@user No, it shows that liberals should start thinking about the consequences of their actions #polygamy #gaymarriage"
+    },
+    {
+      "atom_idx": 48,
+      "tweet_idx": 23,
+      "stance": 0,
+      "cos_to_favor": 0.9207673072814941,
+      "cos_to_against": 0.9239445924758911,
+      "text_preview": "@user second out of wedlock pregnancy and you don't want a lecture, you just want to give them? STUNNNG."
+    },
+    {
+      "atom_idx": 49,
+      "tweet_idx": 10,
+      "stance": 0,
+      "cos_to_favor": 0.9084599018096924,
+      "cos_to_against": 0.9235755205154419,
+      "text_preview": "@user @user @user Yup. One of the MANY reasons I changed parties."
+    },
+    {
+      "atom_idx": 50,
+      "tweet_idx": 462,
+      "stance": 0,
+      "cos_to_favor": 0.921711802482605,
+      "cos_to_against": 0.924911379814148,
+      "text_preview": "@user @user duh.... Planned pregnancy around election date, new fad. Get with the times."
+    },
+    {
+      "atom_idx": 51,
+      "tweet_idx": 375,
+      "stance": 0,
+      "cos_to_favor": 0.9183669090270996,
+      "cos_to_against": 0.9309073686599731,
+      "text_preview": "@user I am all for focusing on things that matter. #ISIS #Racism #Immigration #ChiefsKingdom"
+    },
+    {
+      "atom_idx": 52,
+      "tweet_idx": 623,
+      "stance": 0,
+      "cos_to_favor": 0.9108160734176636,
+      "cos_to_against": 0.9256540536880493,
+      "text_preview": "@user Get out of my city. #ygk"
+    },
+    {
+      "atom_idx": 53,
+      "tweet_idx": 613,
+      "stance": 1,
+      "cos_to_favor": 0.9412248134613037,
+      "cos_to_against": 0.9268597364425659,
+      "text_preview": "Abortion is genocide - I don't think you know what genocide means.  #ygk"
+    },
+    {
+      "atom_idx": 54,
+      "tweet_idx": 109,
+      "stance": 1,
+      "cos_to_favor": 0.9413301944732666,
+      "cos_to_against": 0.9313320517539978,
+      "text_preview": "I am 1 in 3... I have had an abortion #AbortionOnDemand #MenstruationMatters"
+    },
+    {
+      "atom_idx": 55,
+      "tweet_idx": 453,
+      "stance": 1,
+      "cos_to_favor": 0.9433120489120483,
+      "cos_to_against": 0.9349898099899292,
+      "text_preview": "@user As a former fetus I oppose #ProlifeYouth"
+    },
+    {
+      "atom_idx": 56,
+      "tweet_idx": 166,
+      "stance": 0,
+      "cos_to_favor": 0.9254004955291748,
+      "cos_to_against": 0.9269908666610718,
+      "text_preview": "I'm so glad this is Not My Home! #NMH #SCOTUSMarriage #ACA"
+    },
+    {
+      "atom_idx": 57,
+      "tweet_idx": 27,
+      "stance": 0,
+      "cos_to_favor": 0.9223098754882812,
+      "cos_to_against": 0.9311567544937134,
+      "text_preview": "@user make their own decisions doesn't mean you need to harass me . Goodbye now. #freedom"
+    },
+    {
+      "atom_idx": 58,
+      "tweet_idx": 734,
+      "stance": 1,
+      "cos_to_favor": 0.937221884727478,
+      "cos_to_against": 0.9326713681221008,
+      "text_preview": "Thanks @user  Kudos to @user for caring about the safety of unborn children #auspol"
+    },
+    {
+      "atom_idx": 59,
+      "tweet_idx": 456,
+      "stance": 1,
+      "cos_to_favor": 0.9435865879058838,
+      "cos_to_against": 0.9271713495254517,
+      "text_preview": "#ProLifeYouth if you are truly a feminist you would be fighting for the woman's life that is in the womb. #AllLivesMatte"
+    },
+    {
+      "atom_idx": 60,
+      "tweet_idx": 474,
+      "stance": 0,
+      "cos_to_favor": 0.9187796711921692,
+      "cos_to_against": 0.9255067110061646,
+      "text_preview": "@user The Gods #Law, the #Truth, is being #supressed! They thing they are eternal! #gaymarriage #LoveWins"
+    },
+    {
+      "atom_idx": 61,
+      "tweet_idx": 601,
+      "stance": 0,
+      "cos_to_favor": 0.9189294576644897,
+      "cos_to_against": 0.9235848188400269,
+      "text_preview": "@user sad this is what has to be done for women in need"
+    },
+    {
+      "atom_idx": 62,
+      "tweet_idx": 255,
+      "stance": 1,
+      "cos_to_favor": 0.9412000179290771,
+      "cos_to_against": 0.9234208464622498,
+      "text_preview": "The right to #choose? Thats a #lie! #babies don't choose to #die! Prolifeyouthgen"
+    },
+    {
+      "atom_idx": 63,
+      "tweet_idx": 308,
+      "stance": 0,
+      "cos_to_favor": 0.920379638671875,
+      "cos_to_against": 0.9207898378372192,
+      "text_preview": "Dear Nuns, your advocacy of tax paying is weird. #war #Iraq #deathpenalty #taxespayforthistoo #TaxpayerPride"
+    },
+    {
+      "atom_idx": 64,
+      "tweet_idx": 443,
+      "stance": 0,
+      "cos_to_favor": 0.9207393527030945,
+      "cos_to_against": 0.9234557747840881,
+      "text_preview": "@user @user @user @user @user Hypocrisy: saying #LoveWins while supporting #QuitKillingGirls"
+    },
+    {
+      "atom_idx": 65,
+      "tweet_idx": 110,
+      "stance": 0,
+      "cos_to_favor": 0.9203863143920898,
+      "cos_to_against": 0.9243744015693665,
+      "text_preview": "@user When we #PrayTheRosary lest we forget to #Prayforpersecutedchurch #PrayForIsrael #PrayForUkraine"
+    },
+    {
+      "atom_idx": 66,
+      "tweet_idx": 294,
+      "stance": 1,
+      "cos_to_favor": 0.9374191164970398,
+      "cos_to_against": 0.9292700290679932,
+      "text_preview": "@user -there should be a \"stigma\" to butchering pre-born children - its a horrendous crime against humanity.  #murder"
+    },
+    {
+      "atom_idx": 67,
+      "tweet_idx": 138,
+      "stance": 0,
+      "cos_to_favor": 0.9263615608215332,
+      "cos_to_against": 0.9295600652694702,
+      "text_preview": "The only solution I see against the #POTUS #SCOTUS #Tyranny is #ArticleV #FederalistPapers #SCOTUScare #GayMarriage #wtf"
+    },
+    {
+      "atom_idx": 68,
+      "tweet_idx": 697,
+      "stance": 0,
+      "cos_to_favor": 0.9068933725357056,
+      "cos_to_against": 0.9237345457077026,
+      "text_preview": "@user You're truly unwelcome here. Please leave.  #ygk"
+    },
+    {
+      "atom_idx": 69,
+      "tweet_idx": 381,
+      "stance": 1,
+      "cos_to_favor": 0.9365004301071167,
+      "cos_to_against": 0.9308453798294067,
+      "text_preview": "Equal rights for all @user Except for the unborn?? #ycot #overturnRoe"
+    }
+  ],
+  "selected_tweet_indices": [
+    335,
+    301,
+    339,
+    362,
+    735,
+    456,
+    19,
+    453,
+    500,
+    208,
+    763,
+    107,
+    109,
+    613,
+    255,
+    538,
+    764,
+    463,
+    287,
+    508,
+    755,
+    158,
+    174,
+    257,
+    58,
+    143,
+    348,
+    699,
+    203,
+    294,
+    328,
+    734,
+    599,
+    381,
+    320,
+    603,
+    432,
+    626,
+    134,
+    27,
+    375,
+    138,
+    608,
+    376,
+    698,
+    166,
+    118,
+    379,
+    623,
+    474,
+    150,
+    3,
+    462,
+    389,
+    110,
+    23,
+    697,
+    601,
+    10,
+    443,
+    206,
+    53,
+    82,
+    250,
+    302,
+    396,
+    99,
+    609,
+    308,
+    260
+  ]
+}

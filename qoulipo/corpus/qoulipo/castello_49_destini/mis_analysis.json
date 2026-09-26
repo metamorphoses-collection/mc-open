@@ -1,0 +1,31 @@
+{
+  "text_id": "castello_49_destini",
+  "N": 49,
+  "MIS_size": 9,
+  "rho": 1.0,
+  "num_optima_capped": 1,
+  "MIS_pages": [
+    "0",
+    "3",
+    "6",
+    "21",
+    "24",
+    "27",
+    "42",
+    "45",
+    "48"
+  ],
+  "MIS_atoms": [
+    0,
+    3,
+    6,
+    21,
+    24,
+    27,
+    42,
+    45,
+    48
+  ],
+  "graph_file_used": "graph.json",
+  "method": "ILP via PuLP/CBC; MIS_pages match graph node IDs from graph_file_used"
+}

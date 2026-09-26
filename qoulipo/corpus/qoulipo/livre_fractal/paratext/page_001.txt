@@ -1,0 +1,5 @@
+# Le Livre Fractal
+## An OuLiPo Text Under Self-Similar Constraint
+
+**Hommage to Bernard Marechal**, who taught that constraint liberates.
+**Hommage to Benoit Mandelbrot**, who taught that coastlines have no length.

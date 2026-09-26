@@ -1,0 +1,141 @@
+{
+  "book_id": "ausonius_mosella",
+  "title": "ausonius_mosella",
+  "lang": "LA",
+  "N": 8,
+  "E": 28,
+  "density": 1.0,
+  "k": 8,
+  "sim_threshold": 0.78,
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "mis_size": 1,
+  "mis_set": [
+    "mosella_01_prologue"
+  ],
+  "rigidity": 0.0,
+  "n_solutions": 8,
+  "nodes": [
+    "mosella_01_prologue",
+    "mosella_02_landscape",
+    "mosella_03_fish_catalogue_I",
+    "mosella_04_fish_catalogue_II",
+    "mosella_05_fishing_scenes",
+    "mosella_06_vineyards",
+    "mosella_07_villas",
+    "mosella_08_rivers_epilogue"
+  ],
+  "edges": [
+    [
+      "mosella_01_prologue",
+      "mosella_02_landscape"
+    ],
+    [
+      "mosella_01_prologue",
+      "mosella_03_fish_catalogue_I"
+    ],
+    [
+      "mosella_01_prologue",
+      "mosella_04_fish_catalogue_II"
+    ],
+    [
+      "mosella_01_prologue",
+      "mosella_05_fishing_scenes"
+    ],
+    [
+      "mosella_01_prologue",
+      "mosella_06_vineyards"
+    ],
+    [
+      "mosella_01_prologue",
+      "mosella_07_villas"
+    ],
+    [
+      "mosella_01_prologue",
+      "mosella_08_rivers_epilogue"
+    ],
+    [
+      "mosella_02_landscape",
+      "mosella_03_fish_catalogue_I"
+    ],
+    [
+      "mosella_02_landscape",
+      "mosella_04_fish_catalogue_II"
+    ],
+    [
+      "mosella_02_landscape",
+      "mosella_05_fishing_scenes"
+    ],
+    [
+      "mosella_02_landscape",
+      "mosella_06_vineyards"
+    ],
+    [
+      "mosella_02_landscape",
+      "mosella_07_villas"
+    ],
+    [
+      "mosella_02_landscape",
+      "mosella_08_rivers_epilogue"
+    ],
+    [
+      "mosella_03_fish_catalogue_I",
+      "mosella_04_fish_catalogue_II"
+    ],
+    [
+      "mosella_03_fish_catalogue_I",
+      "mosella_05_fishing_scenes"
+    ],
+    [
+      "mosella_03_fish_catalogue_I",
+      "mosella_06_vineyards"
+    ],
+    [
+      "mosella_03_fish_catalogue_I",
+      "mosella_07_villas"
+    ],
+    [
+      "mosella_03_fish_catalogue_I",
+      "mosella_08_rivers_epilogue"
+    ],
+    [
+      "mosella_04_fish_catalogue_II",
+      "mosella_05_fishing_scenes"
+    ],
+    [
+      "mosella_04_fish_catalogue_II",
+      "mosella_06_vineyards"
+    ],
+    [
+      "mosella_04_fish_catalogue_II",
+      "mosella_07_villas"
+    ],
+    [
+      "mosella_04_fish_catalogue_II",
+      "mosella_08_rivers_epilogue"
+    ],
+    [
+      "mosella_05_fishing_scenes",
+      "mosella_06_vineyards"
+    ],
+    [
+      "mosella_05_fishing_scenes",
+      "mosella_07_villas"
+    ],
+    [
+      "mosella_05_fishing_scenes",
+      "mosella_08_rivers_epilogue"
+    ],
+    [
+      "mosella_06_vineyards",
+      "mosella_07_villas"
+    ],
+    [
+      "mosella_06_vineyards",
+      "mosella_08_rivers_epilogue"
+    ],
+    [
+      "mosella_07_villas",
+      "mosella_08_rivers_epilogue"
+    ]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "text_id": "ext_king_sqrt5_8x8_64",
+  "title": "8x8 grid with sqrt(5) cutoff",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 64,
+  "canonical_E": 474,
+  "canonical_density": 0.2351,
+  "canonical_MIS": 10,
+  "canonical_rho": 0.0,
+  "canonical_optima": 82,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.2298,
+  "blockade_um": 11.5
+}

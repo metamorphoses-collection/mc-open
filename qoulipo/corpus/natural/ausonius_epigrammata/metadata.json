@@ -1,0 +1,21 @@
+{
+  "text_id": "ausonius_epigrammata",
+  "title": "Epigrammata",
+  "author": "Ausonius",
+  "lang": "LA",
+  "date": "c. 370",
+  "canonical_N": 27,
+  "canonical_graph_file": "graph_k8.json",
+  "canonical_E": 163,
+  "canonical_density": 0.4644,
+  "canonical_MIS": 8,
+  "canonical_rho": 0.75,
+  "canonical_optima": 4,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "NLP_k8",
+  "source_contract": "node_aligned",
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "corpus_role": "natural",
+  "chunking": "scan page",
+  "sim_threshold": 0.78
+}

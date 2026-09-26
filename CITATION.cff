@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these texts, data or code, please cite them as below."
+title: "Metamorphoses of Civilization — open texts, data and code"
+authors:
+  - name: "Metamorphoses of Civilization"
+url: "https://metamorphoses-collection.org"
+repository-code: "https://github.com/metamorphoses-collection/mc-open"
+license: CC-BY-4.0
+date-released: 2026-09-26

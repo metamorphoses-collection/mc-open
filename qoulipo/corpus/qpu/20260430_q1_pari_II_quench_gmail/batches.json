@@ -1,0 +1,61 @@
+{
+  "campaign": "Pari II quench (Q1, multi-text figure)",
+  "device": "FRESNEL_CAN1",
+  "account": "gmail",
+  "graph": "corpus/qoulipo/pari_de_nithard_II/graph_designed.json",
+  "N": 65,
+  "E": 631,
+  "d": 0.3034,
+  "sa_fidelity": 0.7615384615384615,
+  "Omega_rad_per_us": 3.302471160888672,
+  "Delta_quench_rad_per_us": -9.907413482666016,
+  "total_shots_requested": 3748,
+  "total_shots_succeeded": 3748,
+  "batches": {
+    "quench_t0_5us": {
+      "batch_id": "00909487-5eb7-496b-978f-002f8326d2eb",
+      "T_ns": 500,
+      "shots": 937,
+      "protocol": "quench",
+      "N": 65,
+      "device": "FRESNEL_CAN1",
+      "account": "gmail",
+      "n_layout_traps": 144,
+      "submitted_at": "2026-04-30 08:50:39"
+    },
+    "quench_t1us": {
+      "batch_id": "e3ebee73-3bb7-48fc-b1b8-743b2f726227",
+      "T_ns": 1000,
+      "shots": 937,
+      "protocol": "quench",
+      "N": 65,
+      "device": "FRESNEL_CAN1",
+      "account": "gmail",
+      "n_layout_traps": 144,
+      "submitted_at": "2026-04-30 08:50:41"
+    },
+    "quench_t2us": {
+      "batch_id": "f5c5231a-f0c8-4941-ae4a-e5543c3d5342",
+      "T_ns": 2000,
+      "shots": 937,
+      "protocol": "quench",
+      "N": 65,
+      "device": "FRESNEL_CAN1",
+      "account": "gmail",
+      "n_layout_traps": 144,
+      "submitted_at": "2026-04-30 08:50:43"
+    },
+    "quench_t4us": {
+      "batch_id": "7a84f970-ebff-4295-b3ca-6d96bd7f2fb3",
+      "T_ns": 4000,
+      "shots": 937,
+      "protocol": "quench",
+      "N": 65,
+      "device": "FRESNEL_CAN1",
+      "account": "gmail",
+      "n_layout_traps": 144,
+      "submitted_at": "2026-04-30 08:50:44"
+    }
+  },
+  "submitted_at": "2026-04-30 08:50:45"
+}

@@ -1,0 +1,21 @@
+{
+  "text_id": "augustine_conf13",
+  "title": "Confessiones, Book XIII",
+  "author": "Augustine of Hippo",
+  "lang": "LA",
+  "date": "c. 400",
+  "canonical_N": 38,
+  "canonical_graph_file": "graph_k8.json",
+  "canonical_E": 206,
+  "canonical_density": 0.293,
+  "canonical_MIS": 9,
+  "canonical_rho": 0.3333,
+  "canonical_optima": 5,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "NLP_k8",
+  "source_contract": "node_aligned",
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "corpus_role": "natural",
+  "chunking": "chapter",
+  "sim_threshold": 0.78
+}

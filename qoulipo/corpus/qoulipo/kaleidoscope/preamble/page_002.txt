@@ -1,0 +1,56 @@
+### The Constraint
+
+This text obeys a formal rule derived from Maximum Independent Set theory:
+
+> **51 pages are organized into 17 groups of 3. Each group forms a triangle (K_3 clique): the three pages share identical thread sets, making them interchangeable in any MIS solution. The MIS picks exactly 1 page from each triangle, yielding 3^17 = 129,140,163 valid backbones. Rigidity rho = 0.000: no page is essential.**
+
+The 15 threads are:
+
+| # | Thread | Domain |
+|---|--------|--------|
+| 0 | WAGER | Probability, risk, decision under uncertainty |
+| 1 | CHRONICLE | Historical record, witnessed events |
+| 2 | CONSPIRACY | Fabrication, forgery, hidden agendas |
+| 3 | TONGUE | Language, translation, the birth of vernacular |
+| 4 | NUMBER | Mathematics, combinatorics, counting |
+| 5 | FAITH | Belief, doubt, the silence of God |
+| 6 | SWORD | War, conflict, fratricidal violence |
+| 7 | PARCHMENT | Manuscripts, textual transmission |
+| 8 | MALIETTE | The teacher, ZaZiPo, the gift of reading |
+| 9 | GAME | OuLiPo, ludic constraint, rules that free |
+| 10 | MIRROR | Reflection, doubling, self-reference |
+| 11 | INK | Writing, inscription, the physical act of text |
+| 12 | SHADOW | Hidden meaning, the unsaid |
+| 13 | FIRE | Destruction, purification, passion |
+| 14 | STONE | Permanence, architecture, foundation |
+
+### Structure
+
+17 triptychs. Each triptych presents the same thematic material through three lenses:
+- **Version A**: the WITNESS (first person, sensory, immediate)
+- **Version B**: the ANALYST (third person, critical, distant)
+- **Version C**: the DREAMER (second person, speculative, counterfactual)
+
+Three voices -- Nithard, Pascal, the Professor -- rotate across groups. The reader chooses one page per triptych. Any combination is a complete reading. 129 million valid paths.
+
+### Thread Assignment Table
+
+| Group | Pages | Threads |
+|-------|-------|---------|
+| G00 | P01-P03 | WAGER, TONGUE, INK, FIRE, STONE |
+| G01 | P04-P06 | TONGUE, FAITH, SWORD, MIRROR, SHADOW |
+| G02 | P07-P09 | FAITH, PARCHMENT, INK, SHADOW, FIRE |
+| G03 | P10-P12 | CHRONICLE, NUMBER, PARCHMENT, MALIETTE, MIRROR |
+| G04 | P13-P15 | MALIETTE, GAME, SHADOW, FIRE, STONE |
+| G05 | P16-P18 | WAGER, CONSPIRACY, TONGUE, NUMBER, GAME |
+| G06 | P19-P21 | WAGER, CHRONICLE, NUMBER, SWORD, FIRE |
+| G07 | P22-P24 | CONSPIRACY, FAITH, MALIETTE, INK, STONE |
+| G08 | P25-P27 | CHRONICLE, NUMBER, FAITH, GAME, STONE |
+| G09 | P28-P30 | CONSPIRACY, SWORD, PARCHMENT, GAME, MIRROR |
+| G10 | P31-P33 | WAGER, CHRONICLE, MALIETTE, INK, SHADOW |
+| G11 | P34-P36 | WAGER, CONSPIRACY, PARCHMENT, SHADOW, STONE |
+| G12 | P37-P39 | CHRONICLE, SWORD, PARCHMENT, INK, STONE |
+| G13 | P40-P42 | CONSPIRACY, TONGUE, PARCHMENT, MALIETTE, FIRE |
+| G14 | P43-P45 | CHRONICLE, CONSPIRACY, MIRROR, FIRE, STONE |
+| G15 | P46-P48 | TONGUE, MALIETTE, GAME, MIRROR, INK |
+| G16 | P49-P51 | NUMBER, SWORD, GAME, INK, SHADOW |

@@ -1,0 +1,21 @@
+{
+  "campaign": "Castello dei 49 destini \u2014 FRESNEL_CAN1 QPU (king-7\u00d77 approximation)",
+  "N": 49,
+  "E": 156,
+  "density": 0.1327,
+  "graph_realised": "king-7\u00d77 (Chebyshev-1 only); FRESNEL \u03a9-floor caps R_b \u2264 12 \u00b5m at a=5 \u00b5m so canonical Chebyshev-\u22642 (R_b > 14.14) unreachable",
+  "a_um": 5.0,
+  "r_b_um": 8.0,
+  "omega_rad_per_us": 3.3025,
+  "T_ns": 4000,
+  "submitted": "2026-04-27",
+  "shots": 250,
+  "device": "FRESNEL_CAN1",
+  "batches": {
+    "castello_49_king7x7": {
+      "batch_id": "2d401cff-8314-4bb0-a685-7f8e47e80942",
+      "status_at_session_close": "PENDING",
+      "note": "Result expected 2026-04-28; decode against king-7\u00d77 graph (MIS=16 by checkerboard)"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "text_id": "livre_fractal",
+  "title": "The Fractal Book",
+  "lang": "EN",
+  "canonical_N": 50,
+  "canonical_graph_file": "graph_target.json",
+  "canonical_E": 102,
+  "canonical_density": 0.0833,
+  "canonical_MIS": 19,
+  "canonical_rho": 0.3158,
+  "canonical_optima": 267,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "designed_UDG_from_coords",
+  "type": "qoulipo_engineered",
+  "designed_property": "Self-similar (Sierpinski)",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv (QOuLiPo: What a quantum computer sees when it reads a book)",
+  "source_contract": "node_aligned"
+}

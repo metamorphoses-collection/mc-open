@@ -1,0 +1,1001 @@
+{
+  "title": "Le Kaleidoscope — rho=0.0",
+  "target_property": "rigidity_0.0",
+  "mechanism": "disjoint_K3_cliques",
+  "threads": [
+    "WAGER",
+    "CHRONICLE",
+    "CONSPIRACY",
+    "TONGUE",
+    "NUMBER",
+    "FAITH",
+    "SWORD",
+    "PARCHMENT",
+    "MALIETTE",
+    "GAME",
+    "MIRROR",
+    "INK",
+    "SHADOW",
+    "FIRE",
+    "STONE"
+  ],
+  "N": 51,
+  "threads_per_page": 5,
+  "num_threads": 15,
+  "num_groups": 17,
+  "pages_per_group": 3,
+  "edge_criterion": "overlap >= 3 (identical within group)",
+  "target_mis": 17,
+  "mis_solutions": "3^17 = 129140163",
+  "assignments": {
+    "0": {
+      "threads": [
+        "WAGER",
+        "TONGUE",
+        "INK",
+        "FIRE",
+        "STONE"
+      ],
+      "indices": [
+        0,
+        3,
+        11,
+        13,
+        14
+      ],
+      "group": 0,
+      "variant": 0,
+      "role": "G00.0"
+    },
+    "1": {
+      "threads": [
+        "WAGER",
+        "TONGUE",
+        "INK",
+        "FIRE",
+        "STONE"
+      ],
+      "indices": [
+        0,
+        3,
+        11,
+        13,
+        14
+      ],
+      "group": 0,
+      "variant": 1,
+      "role": "G00.1"
+    },
+    "2": {
+      "threads": [
+        "WAGER",
+        "TONGUE",
+        "INK",
+        "FIRE",
+        "STONE"
+      ],
+      "indices": [
+        0,
+        3,
+        11,
+        13,
+        14
+      ],
+      "group": 0,
+      "variant": 2,
+      "role": "G00.2"
+    },
+    "3": {
+      "threads": [
+        "TONGUE",
+        "FAITH",
+        "SWORD",
+        "MIRROR",
+        "SHADOW"
+      ],
+      "indices": [
+        3,
+        5,
+        6,
+        10,
+        12
+      ],
+      "group": 1,
+      "variant": 0,
+      "role": "G01.0"
+    },
+    "4": {
+      "threads": [
+        "TONGUE",
+        "FAITH",
+        "SWORD",
+        "MIRROR",
+        "SHADOW"
+      ],
+      "indices": [
+        3,
+        5,
+        6,
+        10,
+        12
+      ],
+      "group": 1,
+      "variant": 1,
+      "role": "G01.1"
+    },
+    "5": {
+      "threads": [
+        "TONGUE",
+        "FAITH",
+        "SWORD",
+        "MIRROR",
+        "SHADOW"
+      ],
+      "indices": [
+        3,
+        5,
+        6,
+        10,
+        12
+      ],
+      "group": 1,
+      "variant": 2,
+      "role": "G01.2"
+    },
+    "6": {
+      "threads": [
+        "FAITH",
+        "PARCHMENT",
+        "INK",
+        "SHADOW",
+        "FIRE"
+      ],
+      "indices": [
+        5,
+        7,
+        11,
+        12,
+        13
+      ],
+      "group": 2,
+      "variant": 0,
+      "role": "G02.0"
+    },
+    "7": {
+      "threads": [
+        "FAITH",
+        "PARCHMENT",
+        "INK",
+        "SHADOW",
+        "FIRE"
+      ],
+      "indices": [
+        5,
+        7,
+        11,
+        12,
+        13
+      ],
+      "group": 2,
+      "variant": 1,
+      "role": "G02.1"
+    },
+    "8": {
+      "threads": [
+        "FAITH",
+        "PARCHMENT",
+        "INK",
+        "SHADOW",
+        "FIRE"
+      ],
+      "indices": [
+        5,
+        7,
+        11,
+        12,
+        13
+      ],
+      "group": 2,
+      "variant": 2,
+      "role": "G02.2"
+    },
+    "9": {
+      "threads": [
+        "CHRONICLE",
+        "NUMBER",
+        "PARCHMENT",
+        "MALIETTE",
+        "MIRROR"
+      ],
+      "indices": [
+        1,
+        4,
+        7,
+        8,
+        10
+      ],
+      "group": 3,
+      "variant": 0,
+      "role": "G03.0"
+    },
+    "10": {
+      "threads": [
+        "CHRONICLE",
+        "NUMBER",
+        "PARCHMENT",
+        "MALIETTE",
+        "MIRROR"
+      ],
+      "indices": [
+        1,
+        4,
+        7,
+        8,
+        10
+      ],
+      "group": 3,
+      "variant": 1,
+      "role": "G03.1"
+    },
+    "11": {
+      "threads": [
+        "CHRONICLE",
+        "NUMBER",
+        "PARCHMENT",
+        "MALIETTE",
+        "MIRROR"
+      ],
+      "indices": [
+        1,
+        4,
+        7,
+        8,
+        10
+      ],
+      "group": 3,
+      "variant": 2,
+      "role": "G03.2"
+    },
+    "12": {
+      "threads": [
+        "MALIETTE",
+        "GAME",
+        "SHADOW",
+        "FIRE",
+        "STONE"
+      ],
+      "indices": [
+        8,
+        9,
+        12,
+        13,
+        14
+      ],
+      "group": 4,
+      "variant": 0,
+      "role": "G04.0"
+    },
+    "13": {
+      "threads": [
+        "MALIETTE",
+        "GAME",
+        "SHADOW",
+        "FIRE",
+        "STONE"
+      ],
+      "indices": [
+        8,
+        9,
+        12,
+        13,
+        14
+      ],
+      "group": 4,
+      "variant": 1,
+      "role": "G04.1"
+    },
+    "14": {
+      "threads": [
+        "MALIETTE",
+        "GAME",
+        "SHADOW",
+        "FIRE",
+        "STONE"
+      ],
+      "indices": [
+        8,
+        9,
+        12,
+        13,
+        14
+      ],
+      "group": 4,
+      "variant": 2,
+      "role": "G04.2"
+    },
+    "15": {
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "TONGUE",
+        "NUMBER",
+        "GAME"
+      ],
+      "indices": [
+        0,
+        2,
+        3,
+        4,
+        9
+      ],
+      "group": 5,
+      "variant": 0,
+      "role": "G05.0"
+    },
+    "16": {
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "TONGUE",
+        "NUMBER",
+        "GAME"
+      ],
+      "indices": [
+        0,
+        2,
+        3,
+        4,
+        9
+      ],
+      "group": 5,
+      "variant": 1,
+      "role": "G05.1"
+    },
+    "17": {
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "TONGUE",
+        "NUMBER",
+        "GAME"
+      ],
+      "indices": [
+        0,
+        2,
+        3,
+        4,
+        9
+      ],
+      "group": 5,
+      "variant": 2,
+      "role": "G05.2"
+    },
+    "18": {
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "NUMBER",
+        "SWORD",
+        "FIRE"
+      ],
+      "indices": [
+        0,
+        1,
+        4,
+        6,
+        13
+      ],
+      "group": 6,
+      "variant": 0,
+      "role": "G06.0"
+    },
+    "19": {
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "NUMBER",
+        "SWORD",
+        "FIRE"
+      ],
+      "indices": [
+        0,
+        1,
+        4,
+        6,
+        13
+      ],
+      "group": 6,
+      "variant": 1,
+      "role": "G06.1"
+    },
+    "20": {
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "NUMBER",
+        "SWORD",
+        "FIRE"
+      ],
+      "indices": [
+        0,
+        1,
+        4,
+        6,
+        13
+      ],
+      "group": 6,
+      "variant": 2,
+      "role": "G06.2"
+    },
+    "21": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "MALIETTE",
+        "INK",
+        "STONE"
+      ],
+      "indices": [
+        2,
+        5,
+        8,
+        11,
+        14
+      ],
+      "group": 7,
+      "variant": 0,
+      "role": "G07.0"
+    },
+    "22": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "MALIETTE",
+        "INK",
+        "STONE"
+      ],
+      "indices": [
+        2,
+        5,
+        8,
+        11,
+        14
+      ],
+      "group": 7,
+      "variant": 1,
+      "role": "G07.1"
+    },
+    "23": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "MALIETTE",
+        "INK",
+        "STONE"
+      ],
+      "indices": [
+        2,
+        5,
+        8,
+        11,
+        14
+      ],
+      "group": 7,
+      "variant": 2,
+      "role": "G07.2"
+    },
+    "24": {
+      "threads": [
+        "CHRONICLE",
+        "NUMBER",
+        "FAITH",
+        "GAME",
+        "STONE"
+      ],
+      "indices": [
+        1,
+        4,
+        5,
+        9,
+        14
+      ],
+      "group": 8,
+      "variant": 0,
+      "role": "G08.0"
+    },
+    "25": {
+      "threads": [
+        "CHRONICLE",
+        "NUMBER",
+        "FAITH",
+        "GAME",
+        "STONE"
+      ],
+      "indices": [
+        1,
+        4,
+        5,
+        9,
+        14
+      ],
+      "group": 8,
+      "variant": 1,
+      "role": "G08.1"
+    },
+    "26": {
+      "threads": [
+        "CHRONICLE",
+        "NUMBER",
+        "FAITH",
+        "GAME",
+        "STONE"
+      ],
+      "indices": [
+        1,
+        4,
+        5,
+        9,
+        14
+      ],
+      "group": 8,
+      "variant": 2,
+      "role": "G08.2"
+    },
+    "27": {
+      "threads": [
+        "CONSPIRACY",
+        "SWORD",
+        "PARCHMENT",
+        "GAME",
+        "MIRROR"
+      ],
+      "indices": [
+        2,
+        6,
+        7,
+        9,
+        10
+      ],
+      "group": 9,
+      "variant": 0,
+      "role": "G09.0"
+    },
+    "28": {
+      "threads": [
+        "CONSPIRACY",
+        "SWORD",
+        "PARCHMENT",
+        "GAME",
+        "MIRROR"
+      ],
+      "indices": [
+        2,
+        6,
+        7,
+        9,
+        10
+      ],
+      "group": 9,
+      "variant": 1,
+      "role": "G09.1"
+    },
+    "29": {
+      "threads": [
+        "CONSPIRACY",
+        "SWORD",
+        "PARCHMENT",
+        "GAME",
+        "MIRROR"
+      ],
+      "indices": [
+        2,
+        6,
+        7,
+        9,
+        10
+      ],
+      "group": 9,
+      "variant": 2,
+      "role": "G09.2"
+    },
+    "30": {
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "MALIETTE",
+        "INK",
+        "SHADOW"
+      ],
+      "indices": [
+        0,
+        1,
+        8,
+        11,
+        12
+      ],
+      "group": 10,
+      "variant": 0,
+      "role": "G10.0"
+    },
+    "31": {
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "MALIETTE",
+        "INK",
+        "SHADOW"
+      ],
+      "indices": [
+        0,
+        1,
+        8,
+        11,
+        12
+      ],
+      "group": 10,
+      "variant": 1,
+      "role": "G10.1"
+    },
+    "32": {
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "MALIETTE",
+        "INK",
+        "SHADOW"
+      ],
+      "indices": [
+        0,
+        1,
+        8,
+        11,
+        12
+      ],
+      "group": 10,
+      "variant": 2,
+      "role": "G10.2"
+    },
+    "33": {
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "PARCHMENT",
+        "SHADOW",
+        "STONE"
+      ],
+      "indices": [
+        0,
+        2,
+        7,
+        12,
+        14
+      ],
+      "group": 11,
+      "variant": 0,
+      "role": "G11.0"
+    },
+    "34": {
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "PARCHMENT",
+        "SHADOW",
+        "STONE"
+      ],
+      "indices": [
+        0,
+        2,
+        7,
+        12,
+        14
+      ],
+      "group": 11,
+      "variant": 1,
+      "role": "G11.1"
+    },
+    "35": {
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "PARCHMENT",
+        "SHADOW",
+        "STONE"
+      ],
+      "indices": [
+        0,
+        2,
+        7,
+        12,
+        14
+      ],
+      "group": 11,
+      "variant": 2,
+      "role": "G11.2"
+    },
+    "36": {
+      "threads": [
+        "CHRONICLE",
+        "SWORD",
+        "PARCHMENT",
+        "INK",
+        "STONE"
+      ],
+      "indices": [
+        1,
+        6,
+        7,
+        11,
+        14
+      ],
+      "group": 12,
+      "variant": 0,
+      "role": "G12.0"
+    },
+    "37": {
+      "threads": [
+        "CHRONICLE",
+        "SWORD",
+        "PARCHMENT",
+        "INK",
+        "STONE"
+      ],
+      "indices": [
+        1,
+        6,
+        7,
+        11,
+        14
+      ],
+      "group": 12,
+      "variant": 1,
+      "role": "G12.1"
+    },
+    "38": {
+      "threads": [
+        "CHRONICLE",
+        "SWORD",
+        "PARCHMENT",
+        "INK",
+        "STONE"
+      ],
+      "indices": [
+        1,
+        6,
+        7,
+        11,
+        14
+      ],
+      "group": 12,
+      "variant": 2,
+      "role": "G12.2"
+    },
+    "39": {
+      "threads": [
+        "CONSPIRACY",
+        "TONGUE",
+        "PARCHMENT",
+        "MALIETTE",
+        "FIRE"
+      ],
+      "indices": [
+        2,
+        3,
+        7,
+        8,
+        13
+      ],
+      "group": 13,
+      "variant": 0,
+      "role": "G13.0"
+    },
+    "40": {
+      "threads": [
+        "CONSPIRACY",
+        "TONGUE",
+        "PARCHMENT",
+        "MALIETTE",
+        "FIRE"
+      ],
+      "indices": [
+        2,
+        3,
+        7,
+        8,
+        13
+      ],
+      "group": 13,
+      "variant": 1,
+      "role": "G13.1"
+    },
+    "41": {
+      "threads": [
+        "CONSPIRACY",
+        "TONGUE",
+        "PARCHMENT",
+        "MALIETTE",
+        "FIRE"
+      ],
+      "indices": [
+        2,
+        3,
+        7,
+        8,
+        13
+      ],
+      "group": 13,
+      "variant": 2,
+      "role": "G13.2"
+    },
+    "42": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "MIRROR",
+        "FIRE",
+        "STONE"
+      ],
+      "indices": [
+        1,
+        2,
+        10,
+        13,
+        14
+      ],
+      "group": 14,
+      "variant": 0,
+      "role": "G14.0"
+    },
+    "43": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "MIRROR",
+        "FIRE",
+        "STONE"
+      ],
+      "indices": [
+        1,
+        2,
+        10,
+        13,
+        14
+      ],
+      "group": 14,
+      "variant": 1,
+      "role": "G14.1"
+    },
+    "44": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "MIRROR",
+        "FIRE",
+        "STONE"
+      ],
+      "indices": [
+        1,
+        2,
+        10,
+        13,
+        14
+      ],
+      "group": 14,
+      "variant": 2,
+      "role": "G14.2"
+    },
+    "45": {
+      "threads": [
+        "TONGUE",
+        "MALIETTE",
+        "GAME",
+        "MIRROR",
+        "INK"
+      ],
+      "indices": [
+        3,
+        8,
+        9,
+        10,
+        11
+      ],
+      "group": 15,
+      "variant": 0,
+      "role": "G15.0"
+    },
+    "46": {
+      "threads": [
+        "TONGUE",
+        "MALIETTE",
+        "GAME",
+        "MIRROR",
+        "INK"
+      ],
+      "indices": [
+        3,
+        8,
+        9,
+        10,
+        11
+      ],
+      "group": 15,
+      "variant": 1,
+      "role": "G15.1"
+    },
+    "47": {
+      "threads": [
+        "TONGUE",
+        "MALIETTE",
+        "GAME",
+        "MIRROR",
+        "INK"
+      ],
+      "indices": [
+        3,
+        8,
+        9,
+        10,
+        11
+      ],
+      "group": 15,
+      "variant": 2,
+      "role": "G15.2"
+    },
+    "48": {
+      "threads": [
+        "NUMBER",
+        "SWORD",
+        "GAME",
+        "INK",
+        "SHADOW"
+      ],
+      "indices": [
+        4,
+        6,
+        9,
+        11,
+        12
+      ],
+      "group": 16,
+      "variant": 0,
+      "role": "G16.0"
+    },
+    "49": {
+      "threads": [
+        "NUMBER",
+        "SWORD",
+        "GAME",
+        "INK",
+        "SHADOW"
+      ],
+      "indices": [
+        4,
+        6,
+        9,
+        11,
+        12
+      ],
+      "group": 16,
+      "variant": 1,
+      "role": "G16.1"
+    },
+    "50": {
+      "threads": [
+        "NUMBER",
+        "SWORD",
+        "GAME",
+        "INK",
+        "SHADOW"
+      ],
+      "indices": [
+        4,
+        6,
+        9,
+        11,
+        12
+      ],
+      "group": 16,
+      "variant": 2,
+      "role": "G16.2"
+    }
+  }
+}

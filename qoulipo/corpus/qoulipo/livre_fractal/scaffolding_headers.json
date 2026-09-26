@@ -1,0 +1,207 @@
+{
+  "page_006": [
+    "#### PAGE 1 — How Long Is the Coast of France?",
+    "*Threads: COASTLINE, SCALE, GRANITE, KELP, COMPASS*",
+    "*Voice: The Professor*"
+  ],
+  "page_007": [
+    "#### PAGE 2 — The First Survey",
+    "*Threads: COASTLINE, SCALE, KELP, COMPASS, STORM*",
+    "*Voice: Nithard*"
+  ],
+  "page_008": [
+    "#### PAGE 3 — The Paradox of the Ruler",
+    "*Threads: COASTLINE, SCALE, COMPASS, STORM, CHALK*",
+    "*Voice: Pascal*"
+  ],
+  "page_009": [
+    "#### PAGE 4 — Mandelbrot's Question",
+    "*Threads: COASTLINE, SCALE, STORM, CHALK, SALT*",
+    "*Voice: The Professor*"
+  ],
+  "page_010": [
+    "#### PAGE 5 — Walking the Littoral",
+    "*Threads: COASTLINE, SCALE, CHALK, SALT, DUNE*",
+    "*Voice: Nithard*"
+  ],
+  "page_011": [
+    "#### PAGE 6 — The Infinite in the Finite Shore",
+    "*Threads: COASTLINE, SCALE, SALT, DUNE, ANCHOR*",
+    "*Voice: Pascal*"
+  ],
+  "page_012": [
+    "#### PAGE 7 — Dimension 1.25",
+    "*Threads: COASTLINE, SCALE, DUNE, ANCHOR, SEXTANT*",
+    "*Voice: The Professor*"
+  ],
+  "page_013": [
+    "#### PAGE 8 — The Harbor at Every Scale",
+    "*Threads: COASTLINE, SCALE, ANCHOR, SEXTANT, VESSEL*",
+    "*Voice: Nithard*"
+  ],
+  "page_014": [
+    "#### PAGE 9 — Measuring What Cannot Be Measured",
+    "*Threads: COASTLINE, SCALE, SEXTANT, VESSEL, GRANITE*",
+    "*Voice: Pascal*"
+  ],
+  "page_015": [
+    "#### PAGE 10 — The Lesson of the First Chapter",
+    "*Threads: COASTLINE, SCALE, VESSEL, GRANITE, KELP*",
+    "*Voice: The Professor*"
+  ],
+  "page_017": [
+    "#### PAGE 11 — Arrival in Brittany",
+    "*Threads: SCALE, FRACTAL, SEXTANT, VESSEL, GRANITE*",
+    "*Voice: Nithard*"
+  ],
+  "page_018": [
+    "#### PAGE 12 — The Granite Equation",
+    "*Threads: SCALE, FRACTAL, VESSEL, GRANITE, KELP*",
+    "*Voice: Pascal*"
+  ],
+  "page_019": [
+    "#### PAGE 13 — Rias and Recursion",
+    "*Threads: SCALE, FRACTAL, GRANITE, KELP, COMPASS*",
+    "*Voice: The Professor*"
+  ],
+  "page_020": [
+    "#### PAGE 14 — The Storm at Pointe du Raz",
+    "*Threads: SCALE, FRACTAL, KELP, COMPASS, STORM*",
+    "*Voice: Nithard*"
+  ],
+  "page_021": [
+    "#### PAGE 15 — Probability of Shipwreck",
+    "*Threads: SCALE, FRACTAL, COMPASS, STORM, CHALK*",
+    "*Voice: Pascal*"
+  ],
+  "page_022": [
+    "#### PAGE 16 — Salt and Self-Similarity",
+    "*Threads: SCALE, FRACTAL, STORM, CHALK, SALT*",
+    "*Voice: The Professor*"
+  ],
+  "page_023": [
+    "#### PAGE 17 — The Dunes of Quiberon",
+    "*Threads: SCALE, FRACTAL, CHALK, SALT, DUNE*",
+    "*Voice: Nithard*"
+  ],
+  "page_024": [
+    "#### PAGE 18 — Anchoring the Iteration",
+    "*Threads: SCALE, FRACTAL, SALT, DUNE, ANCHOR*",
+    "*Voice: Pascal*"
+  ],
+  "page_025": [
+    "#### PAGE 19 — The Breton Fractal",
+    "*Threads: SCALE, FRACTAL, DUNE, ANCHOR, SEXTANT*",
+    "*Voice: The Professor*"
+  ],
+  "page_026": [
+    "#### PAGE 20 — Departure from Brest",
+    "*Threads: SCALE, FRACTAL, ANCHOR, SEXTANT, VESSEL*",
+    "*Voice: Nithard*"
+  ],
+  "page_028": [
+    "#### PAGE 21 — The Map Is Not the Territory",
+    "*Threads: FRACTAL, CARTOGRAPHY, DUNE, ANCHOR, SEXTANT*",
+    "*Voice: Pascal*"
+  ],
+  "page_029": [
+    "#### PAGE 22 — Normandy from Above",
+    "*Threads: FRACTAL, CARTOGRAPHY, ANCHOR, SEXTANT, VESSEL*",
+    "*Voice: The Professor*"
+  ],
+  "page_030": [
+    "#### PAGE 23 — The Cliffs at Etretat",
+    "*Threads: FRACTAL, CARTOGRAPHY, SEXTANT, VESSEL, GRANITE*",
+    "*Voice: Nithard*"
+  ],
+  "page_031": [
+    "#### PAGE 24 — Charting the Chalk",
+    "*Threads: FRACTAL, CARTOGRAPHY, VESSEL, GRANITE, KELP*",
+    "*Voice: Pascal*"
+  ],
+  "page_032": [
+    "#### PAGE 25 — D-Day and the Grid",
+    "*Threads: FRACTAL, CARTOGRAPHY, GRANITE, KELP, COMPASS*",
+    "*Voice: The Professor*"
+  ],
+  "page_033": [
+    "#### PAGE 26 — The Norman Shore in Storm",
+    "*Threads: FRACTAL, CARTOGRAPHY, KELP, COMPASS, STORM*",
+    "*Voice: Nithard*"
+  ],
+  "page_034": [
+    "#### PAGE 27 — Erosion as Computation",
+    "*Threads: FRACTAL, CARTOGRAPHY, COMPASS, STORM, CHALK*",
+    "*Voice: Pascal*"
+  ],
+  "page_035": [
+    "#### PAGE 28 — The Bayeux Projection",
+    "*Threads: FRACTAL, CARTOGRAPHY, STORM, CHALK, SALT*",
+    "*Voice: The Professor*"
+  ],
+  "page_036": [
+    "#### PAGE 29 — Sand Beneath the Chalk",
+    "*Threads: FRACTAL, CARTOGRAPHY, CHALK, SALT, DUNE*",
+    "*Voice: Nithard*"
+  ],
+  "page_037": [
+    "#### PAGE 30 — The Harbour of Honfleur",
+    "*Threads: FRACTAL, CARTOGRAPHY, SALT, DUNE, ANCHOR*",
+    "*Voice: Pascal*"
+  ],
+  "page_039": [
+    "#### PAGE 31 — The Tideless Sea",
+    "*Threads: CARTOGRAPHY, TIDE, CHALK, SALT, DUNE*",
+    "*Voice: The Professor*"
+  ],
+  "page_040": [
+    "#### PAGE 32 — Mapping the Calanques",
+    "*Threads: CARTOGRAPHY, TIDE, SALT, DUNE, ANCHOR*",
+    "*Voice: Nithard*"
+  ],
+  "page_041": [
+    "#### PAGE 33 — The Rhythm of the Inner Sea",
+    "*Threads: CARTOGRAPHY, TIDE, DUNE, ANCHOR, SEXTANT*",
+    "*Voice: Pascal*"
+  ],
+  "page_042": [
+    "#### PAGE 34 — Portolan Charts",
+    "*Threads: CARTOGRAPHY, TIDE, ANCHOR, SEXTANT, VESSEL*",
+    "*Voice: The Professor*"
+  ],
+  "page_043": [
+    "#### PAGE 35 — The Stone Coast of Provence",
+    "*Threads: CARTOGRAPHY, TIDE, SEXTANT, VESSEL, GRANITE*",
+    "*Voice: Nithard*"
+  ],
+  "page_044": [
+    "#### PAGE 36 — Posidonia and Measurement",
+    "*Threads: CARTOGRAPHY, TIDE, VESSEL, GRANITE, KELP*",
+    "*Voice: Pascal*"
+  ],
+  "page_045": [
+    "#### PAGE 37 — The Mediterranean Fractal",
+    "*Threads: CARTOGRAPHY, TIDE, GRANITE, KELP, COMPASS*",
+    "*Voice: The Professor*"
+  ],
+  "page_046": [
+    "#### PAGE 38 — The Mistral",
+    "*Threads: CARTOGRAPHY, TIDE, KELP, COMPASS, STORM*",
+    "*Voice: Nithard*"
+  ],
+  "page_047": [
+    "#### PAGE 39 — Limestone and Probability",
+    "*Threads: CARTOGRAPHY, TIDE, COMPASS, STORM, CHALK*",
+    "*Voice: Pascal*"
+  ],
+  "page_048": [
+    "#### PAGE 40 — Leaving the Inner Sea",
+    "*Threads: CARTOGRAPHY, TIDE, STORM, CHALK, SALT*",
+    "*Voice: The Professor*"
+  ],
+  "page_050": [
+    "#### PAGE 41 — The Atlantic Opens",
+    "*Threads: TIDE, COASTLINE, COMPASS, STORM, CHALK*",
+    "*Voice: Nithard*"
+  ]
+}

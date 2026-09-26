@@ -1,0 +1,1580 @@
+{
+  "nodes": [
+    {
+      "id": "v00",
+      "subset": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "v01",
+      "subset": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "v02",
+      "subset": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "v03",
+      "subset": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "v04",
+      "subset": [
+        0,
+        1,
+        6
+      ]
+    },
+    {
+      "id": "v05",
+      "subset": [
+        0,
+        1,
+        7
+      ]
+    },
+    {
+      "id": "v06",
+      "subset": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "v07",
+      "subset": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "v08",
+      "subset": [
+        0,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "v09",
+      "subset": [
+        0,
+        2,
+        6
+      ]
+    },
+    {
+      "id": "v10",
+      "subset": [
+        0,
+        2,
+        7
+      ]
+    },
+    {
+      "id": "v11",
+      "subset": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "v12",
+      "subset": [
+        0,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "v13",
+      "subset": [
+        0,
+        3,
+        6
+      ]
+    },
+    {
+      "id": "v14",
+      "subset": [
+        0,
+        3,
+        7
+      ]
+    },
+    {
+      "id": "v15",
+      "subset": [
+        0,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "v16",
+      "subset": [
+        0,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "v17",
+      "subset": [
+        0,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "v18",
+      "subset": [
+        0,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "v19",
+      "subset": [
+        0,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "v20",
+      "subset": [
+        0,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "v21",
+      "subset": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "v22",
+      "subset": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "v23",
+      "subset": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "v24",
+      "subset": [
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "id": "v25",
+      "subset": [
+        1,
+        2,
+        7
+      ]
+    },
+    {
+      "id": "v26",
+      "subset": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "v27",
+      "subset": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "v28",
+      "subset": [
+        1,
+        3,
+        6
+      ]
+    },
+    {
+      "id": "v29",
+      "subset": [
+        1,
+        3,
+        7
+      ]
+    },
+    {
+      "id": "v30",
+      "subset": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "v31",
+      "subset": [
+        1,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "v32",
+      "subset": [
+        1,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "v33",
+      "subset": [
+        1,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "v34",
+      "subset": [
+        1,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "v35",
+      "subset": [
+        1,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "v36",
+      "subset": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "v37",
+      "subset": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "v38",
+      "subset": [
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "id": "v39",
+      "subset": [
+        2,
+        3,
+        7
+      ]
+    },
+    {
+      "id": "v40",
+      "subset": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "v41",
+      "subset": [
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "v42",
+      "subset": [
+        2,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "v43",
+      "subset": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "v44",
+      "subset": [
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "v45",
+      "subset": [
+        2,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "v46",
+      "subset": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "v47",
+      "subset": [
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "v48",
+      "subset": [
+        3,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "v49",
+      "subset": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "v50",
+      "subset": [
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "v51",
+      "subset": [
+        3,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "v52",
+      "subset": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "v53",
+      "subset": [
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "v54",
+      "subset": [
+        4,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "v55",
+      "subset": [
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "v00",
+      "target": "v46"
+    },
+    {
+      "source": "v00",
+      "target": "v47"
+    },
+    {
+      "source": "v00",
+      "target": "v48"
+    },
+    {
+      "source": "v00",
+      "target": "v49"
+    },
+    {
+      "source": "v00",
+      "target": "v50"
+    },
+    {
+      "source": "v00",
+      "target": "v51"
+    },
+    {
+      "source": "v00",
+      "target": "v52"
+    },
+    {
+      "source": "v00",
+      "target": "v53"
+    },
+    {
+      "source": "v00",
+      "target": "v54"
+    },
+    {
+      "source": "v00",
+      "target": "v55"
+    },
+    {
+      "source": "v01",
+      "target": "v40"
+    },
+    {
+      "source": "v01",
+      "target": "v41"
+    },
+    {
+      "source": "v01",
+      "target": "v42"
+    },
+    {
+      "source": "v01",
+      "target": "v43"
+    },
+    {
+      "source": "v01",
+      "target": "v44"
+    },
+    {
+      "source": "v01",
+      "target": "v45"
+    },
+    {
+      "source": "v01",
+      "target": "v52"
+    },
+    {
+      "source": "v01",
+      "target": "v53"
+    },
+    {
+      "source": "v01",
+      "target": "v54"
+    },
+    {
+      "source": "v01",
+      "target": "v55"
+    },
+    {
+      "source": "v02",
+      "target": "v37"
+    },
+    {
+      "source": "v02",
+      "target": "v38"
+    },
+    {
+      "source": "v02",
+      "target": "v39"
+    },
+    {
+      "source": "v02",
+      "target": "v43"
+    },
+    {
+      "source": "v02",
+      "target": "v44"
+    },
+    {
+      "source": "v02",
+      "target": "v45"
+    },
+    {
+      "source": "v02",
+      "target": "v49"
+    },
+    {
+      "source": "v02",
+      "target": "v50"
+    },
+    {
+      "source": "v02",
+      "target": "v51"
+    },
+    {
+      "source": "v02",
+      "target": "v55"
+    },
+    {
+      "source": "v03",
+      "target": "v36"
+    },
+    {
+      "source": "v03",
+      "target": "v38"
+    },
+    {
+      "source": "v03",
+      "target": "v39"
+    },
+    {
+      "source": "v03",
+      "target": "v41"
+    },
+    {
+      "source": "v03",
+      "target": "v42"
+    },
+    {
+      "source": "v03",
+      "target": "v45"
+    },
+    {
+      "source": "v03",
+      "target": "v47"
+    },
+    {
+      "source": "v03",
+      "target": "v48"
+    },
+    {
+      "source": "v03",
+      "target": "v51"
+    },
+    {
+      "source": "v03",
+      "target": "v54"
+    },
+    {
+      "source": "v04",
+      "target": "v36"
+    },
+    {
+      "source": "v04",
+      "target": "v37"
+    },
+    {
+      "source": "v04",
+      "target": "v39"
+    },
+    {
+      "source": "v04",
+      "target": "v40"
+    },
+    {
+      "source": "v04",
+      "target": "v42"
+    },
+    {
+      "source": "v04",
+      "target": "v44"
+    },
+    {
+      "source": "v04",
+      "target": "v46"
+    },
+    {
+      "source": "v04",
+      "target": "v48"
+    },
+    {
+      "source": "v04",
+      "target": "v50"
+    },
+    {
+      "source": "v04",
+      "target": "v53"
+    },
+    {
+      "source": "v05",
+      "target": "v36"
+    },
+    {
+      "source": "v05",
+      "target": "v37"
+    },
+    {
+      "source": "v05",
+      "target": "v38"
+    },
+    {
+      "source": "v05",
+      "target": "v40"
+    },
+    {
+      "source": "v05",
+      "target": "v41"
+    },
+    {
+      "source": "v05",
+      "target": "v43"
+    },
+    {
+      "source": "v05",
+      "target": "v46"
+    },
+    {
+      "source": "v05",
+      "target": "v47"
+    },
+    {
+      "source": "v05",
+      "target": "v49"
+    },
+    {
+      "source": "v05",
+      "target": "v52"
+    },
+    {
+      "source": "v06",
+      "target": "v30"
+    },
+    {
+      "source": "v06",
+      "target": "v31"
+    },
+    {
+      "source": "v06",
+      "target": "v32"
+    },
+    {
+      "source": "v06",
+      "target": "v33"
+    },
+    {
+      "source": "v06",
+      "target": "v34"
+    },
+    {
+      "source": "v06",
+      "target": "v35"
+    },
+    {
+      "source": "v06",
+      "target": "v52"
+    },
+    {
+      "source": "v06",
+      "target": "v53"
+    },
+    {
+      "source": "v06",
+      "target": "v54"
+    },
+    {
+      "source": "v06",
+      "target": "v55"
+    },
+    {
+      "source": "v07",
+      "target": "v27"
+    },
+    {
+      "source": "v07",
+      "target": "v28"
+    },
+    {
+      "source": "v07",
+      "target": "v29"
+    },
+    {
+      "source": "v07",
+      "target": "v33"
+    },
+    {
+      "source": "v07",
+      "target": "v34"
+    },
+    {
+      "source": "v07",
+      "target": "v35"
+    },
+    {
+      "source": "v07",
+      "target": "v49"
+    },
+    {
+      "source": "v07",
+      "target": "v50"
+    },
+    {
+      "source": "v07",
+      "target": "v51"
+    },
+    {
+      "source": "v07",
+      "target": "v55"
+    },
+    {
+      "source": "v08",
+      "target": "v26"
+    },
+    {
+      "source": "v08",
+      "target": "v28"
+    },
+    {
+      "source": "v08",
+      "target": "v29"
+    },
+    {
+      "source": "v08",
+      "target": "v31"
+    },
+    {
+      "source": "v08",
+      "target": "v32"
+    },
+    {
+      "source": "v08",
+      "target": "v35"
+    },
+    {
+      "source": "v08",
+      "target": "v47"
+    },
+    {
+      "source": "v08",
+      "target": "v48"
+    },
+    {
+      "source": "v08",
+      "target": "v51"
+    },
+    {
+      "source": "v08",
+      "target": "v54"
+    },
+    {
+      "source": "v09",
+      "target": "v26"
+    },
+    {
+      "source": "v09",
+      "target": "v27"
+    },
+    {
+      "source": "v09",
+      "target": "v29"
+    },
+    {
+      "source": "v09",
+      "target": "v30"
+    },
+    {
+      "source": "v09",
+      "target": "v32"
+    },
+    {
+      "source": "v09",
+      "target": "v34"
+    },
+    {
+      "source": "v09",
+      "target": "v46"
+    },
+    {
+      "source": "v09",
+      "target": "v48"
+    },
+    {
+      "source": "v09",
+      "target": "v50"
+    },
+    {
+      "source": "v09",
+      "target": "v53"
+    },
+    {
+      "source": "v10",
+      "target": "v26"
+    },
+    {
+      "source": "v10",
+      "target": "v27"
+    },
+    {
+      "source": "v10",
+      "target": "v28"
+    },
+    {
+      "source": "v10",
+      "target": "v30"
+    },
+    {
+      "source": "v10",
+      "target": "v31"
+    },
+    {
+      "source": "v10",
+      "target": "v33"
+    },
+    {
+      "source": "v10",
+      "target": "v46"
+    },
+    {
+      "source": "v10",
+      "target": "v47"
+    },
+    {
+      "source": "v10",
+      "target": "v49"
+    },
+    {
+      "source": "v10",
+      "target": "v52"
+    },
+    {
+      "source": "v11",
+      "target": "v23"
+    },
+    {
+      "source": "v11",
+      "target": "v24"
+    },
+    {
+      "source": "v11",
+      "target": "v25"
+    },
+    {
+      "source": "v11",
+      "target": "v33"
+    },
+    {
+      "source": "v11",
+      "target": "v34"
+    },
+    {
+      "source": "v11",
+      "target": "v35"
+    },
+    {
+      "source": "v11",
+      "target": "v43"
+    },
+    {
+      "source": "v11",
+      "target": "v44"
+    },
+    {
+      "source": "v11",
+      "target": "v45"
+    },
+    {
+      "source": "v11",
+      "target": "v55"
+    },
+    {
+      "source": "v12",
+      "target": "v22"
+    },
+    {
+      "source": "v12",
+      "target": "v24"
+    },
+    {
+      "source": "v12",
+      "target": "v25"
+    },
+    {
+      "source": "v12",
+      "target": "v31"
+    },
+    {
+      "source": "v12",
+      "target": "v32"
+    },
+    {
+      "source": "v12",
+      "target": "v35"
+    },
+    {
+      "source": "v12",
+      "target": "v41"
+    },
+    {
+      "source": "v12",
+      "target": "v42"
+    },
+    {
+      "source": "v12",
+      "target": "v45"
+    },
+    {
+      "source": "v12",
+      "target": "v54"
+    },
+    {
+      "source": "v13",
+      "target": "v22"
+    },
+    {
+      "source": "v13",
+      "target": "v23"
+    },
+    {
+      "source": "v13",
+      "target": "v25"
+    },
+    {
+      "source": "v13",
+      "target": "v30"
+    },
+    {
+      "source": "v13",
+      "target": "v32"
+    },
+    {
+      "source": "v13",
+      "target": "v34"
+    },
+    {
+      "source": "v13",
+      "target": "v40"
+    },
+    {
+      "source": "v13",
+      "target": "v42"
+    },
+    {
+      "source": "v13",
+      "target": "v44"
+    },
+    {
+      "source": "v13",
+      "target": "v53"
+    },
+    {
+      "source": "v14",
+      "target": "v22"
+    },
+    {
+      "source": "v14",
+      "target": "v23"
+    },
+    {
+      "source": "v14",
+      "target": "v24"
+    },
+    {
+      "source": "v14",
+      "target": "v30"
+    },
+    {
+      "source": "v14",
+      "target": "v31"
+    },
+    {
+      "source": "v14",
+      "target": "v33"
+    },
+    {
+      "source": "v14",
+      "target": "v40"
+    },
+    {
+      "source": "v14",
+      "target": "v41"
+    },
+    {
+      "source": "v14",
+      "target": "v43"
+    },
+    {
+      "source": "v14",
+      "target": "v52"
+    },
+    {
+      "source": "v15",
+      "target": "v21"
+    },
+    {
+      "source": "v15",
+      "target": "v24"
+    },
+    {
+      "source": "v15",
+      "target": "v25"
+    },
+    {
+      "source": "v15",
+      "target": "v28"
+    },
+    {
+      "source": "v15",
+      "target": "v29"
+    },
+    {
+      "source": "v15",
+      "target": "v35"
+    },
+    {
+      "source": "v15",
+      "target": "v38"
+    },
+    {
+      "source": "v15",
+      "target": "v39"
+    },
+    {
+      "source": "v15",
+      "target": "v45"
+    },
+    {
+      "source": "v15",
+      "target": "v51"
+    },
+    {
+      "source": "v16",
+      "target": "v21"
+    },
+    {
+      "source": "v16",
+      "target": "v23"
+    },
+    {
+      "source": "v16",
+      "target": "v25"
+    },
+    {
+      "source": "v16",
+      "target": "v27"
+    },
+    {
+      "source": "v16",
+      "target": "v29"
+    },
+    {
+      "source": "v16",
+      "target": "v34"
+    },
+    {
+      "source": "v16",
+      "target": "v37"
+    },
+    {
+      "source": "v16",
+      "target": "v39"
+    },
+    {
+      "source": "v16",
+      "target": "v44"
+    },
+    {
+      "source": "v16",
+      "target": "v50"
+    },
+    {
+      "source": "v17",
+      "target": "v21"
+    },
+    {
+      "source": "v17",
+      "target": "v23"
+    },
+    {
+      "source": "v17",
+      "target": "v24"
+    },
+    {
+      "source": "v17",
+      "target": "v27"
+    },
+    {
+      "source": "v17",
+      "target": "v28"
+    },
+    {
+      "source": "v17",
+      "target": "v33"
+    },
+    {
+      "source": "v17",
+      "target": "v37"
+    },
+    {
+      "source": "v17",
+      "target": "v38"
+    },
+    {
+      "source": "v17",
+      "target": "v43"
+    },
+    {
+      "source": "v17",
+      "target": "v49"
+    },
+    {
+      "source": "v18",
+      "target": "v21"
+    },
+    {
+      "source": "v18",
+      "target": "v22"
+    },
+    {
+      "source": "v18",
+      "target": "v25"
+    },
+    {
+      "source": "v18",
+      "target": "v26"
+    },
+    {
+      "source": "v18",
+      "target": "v29"
+    },
+    {
+      "source": "v18",
+      "target": "v32"
+    },
+    {
+      "source": "v18",
+      "target": "v36"
+    },
+    {
+      "source": "v18",
+      "target": "v39"
+    },
+    {
+      "source": "v18",
+      "target": "v42"
+    },
+    {
+      "source": "v18",
+      "target": "v48"
+    },
+    {
+      "source": "v19",
+      "target": "v21"
+    },
+    {
+      "source": "v19",
+      "target": "v22"
+    },
+    {
+      "source": "v19",
+      "target": "v24"
+    },
+    {
+      "source": "v19",
+      "target": "v26"
+    },
+    {
+      "source": "v19",
+      "target": "v28"
+    },
+    {
+      "source": "v19",
+      "target": "v31"
+    },
+    {
+      "source": "v19",
+      "target": "v36"
+    },
+    {
+      "source": "v19",
+      "target": "v38"
+    },
+    {
+      "source": "v19",
+      "target": "v41"
+    },
+    {
+      "source": "v19",
+      "target": "v47"
+    },
+    {
+      "source": "v20",
+      "target": "v21"
+    },
+    {
+      "source": "v20",
+      "target": "v22"
+    },
+    {
+      "source": "v20",
+      "target": "v23"
+    },
+    {
+      "source": "v20",
+      "target": "v26"
+    },
+    {
+      "source": "v20",
+      "target": "v27"
+    },
+    {
+      "source": "v20",
+      "target": "v30"
+    },
+    {
+      "source": "v20",
+      "target": "v36"
+    },
+    {
+      "source": "v20",
+      "target": "v37"
+    },
+    {
+      "source": "v20",
+      "target": "v40"
+    },
+    {
+      "source": "v20",
+      "target": "v46"
+    },
+    {
+      "source": "v21",
+      "target": "v52"
+    },
+    {
+      "source": "v21",
+      "target": "v53"
+    },
+    {
+      "source": "v21",
+      "target": "v54"
+    },
+    {
+      "source": "v21",
+      "target": "v55"
+    },
+    {
+      "source": "v22",
+      "target": "v49"
+    },
+    {
+      "source": "v22",
+      "target": "v50"
+    },
+    {
+      "source": "v22",
+      "target": "v51"
+    },
+    {
+      "source": "v22",
+      "target": "v55"
+    },
+    {
+      "source": "v23",
+      "target": "v47"
+    },
+    {
+      "source": "v23",
+      "target": "v48"
+    },
+    {
+      "source": "v23",
+      "target": "v51"
+    },
+    {
+      "source": "v23",
+      "target": "v54"
+    },
+    {
+      "source": "v24",
+      "target": "v46"
+    },
+    {
+      "source": "v24",
+      "target": "v48"
+    },
+    {
+      "source": "v24",
+      "target": "v50"
+    },
+    {
+      "source": "v24",
+      "target": "v53"
+    },
+    {
+      "source": "v25",
+      "target": "v46"
+    },
+    {
+      "source": "v25",
+      "target": "v47"
+    },
+    {
+      "source": "v25",
+      "target": "v49"
+    },
+    {
+      "source": "v25",
+      "target": "v52"
+    },
+    {
+      "source": "v26",
+      "target": "v43"
+    },
+    {
+      "source": "v26",
+      "target": "v44"
+    },
+    {
+      "source": "v26",
+      "target": "v45"
+    },
+    {
+      "source": "v26",
+      "target": "v55"
+    },
+    {
+      "source": "v27",
+      "target": "v41"
+    },
+    {
+      "source": "v27",
+      "target": "v42"
+    },
+    {
+      "source": "v27",
+      "target": "v45"
+    },
+    {
+      "source": "v27",
+      "target": "v54"
+    },
+    {
+      "source": "v28",
+      "target": "v40"
+    },
+    {
+      "source": "v28",
+      "target": "v42"
+    },
+    {
+      "source": "v28",
+      "target": "v44"
+    },
+    {
+      "source": "v28",
+      "target": "v53"
+    },
+    {
+      "source": "v29",
+      "target": "v40"
+    },
+    {
+      "source": "v29",
+      "target": "v41"
+    },
+    {
+      "source": "v29",
+      "target": "v43"
+    },
+    {
+      "source": "v29",
+      "target": "v52"
+    },
+    {
+      "source": "v30",
+      "target": "v38"
+    },
+    {
+      "source": "v30",
+      "target": "v39"
+    },
+    {
+      "source": "v30",
+      "target": "v45"
+    },
+    {
+      "source": "v30",
+      "target": "v51"
+    },
+    {
+      "source": "v31",
+      "target": "v37"
+    },
+    {
+      "source": "v31",
+      "target": "v39"
+    },
+    {
+      "source": "v31",
+      "target": "v44"
+    },
+    {
+      "source": "v31",
+      "target": "v50"
+    },
+    {
+      "source": "v32",
+      "target": "v37"
+    },
+    {
+      "source": "v32",
+      "target": "v38"
+    },
+    {
+      "source": "v32",
+      "target": "v43"
+    },
+    {
+      "source": "v32",
+      "target": "v49"
+    },
+    {
+      "source": "v33",
+      "target": "v36"
+    },
+    {
+      "source": "v33",
+      "target": "v39"
+    },
+    {
+      "source": "v33",
+      "target": "v42"
+    },
+    {
+      "source": "v33",
+      "target": "v48"
+    },
+    {
+      "source": "v34",
+      "target": "v36"
+    },
+    {
+      "source": "v34",
+      "target": "v38"
+    },
+    {
+      "source": "v34",
+      "target": "v41"
+    },
+    {
+      "source": "v34",
+      "target": "v47"
+    },
+    {
+      "source": "v35",
+      "target": "v36"
+    },
+    {
+      "source": "v35",
+      "target": "v37"
+    },
+    {
+      "source": "v35",
+      "target": "v40"
+    },
+    {
+      "source": "v35",
+      "target": "v46"
+    },
+    {
+      "source": "v36",
+      "target": "v55"
+    },
+    {
+      "source": "v37",
+      "target": "v54"
+    },
+    {
+      "source": "v38",
+      "target": "v53"
+    },
+    {
+      "source": "v39",
+      "target": "v52"
+    },
+    {
+      "source": "v40",
+      "target": "v51"
+    },
+    {
+      "source": "v41",
+      "target": "v50"
+    },
+    {
+      "source": "v42",
+      "target": "v49"
+    },
+    {
+      "source": "v43",
+      "target": "v48"
+    },
+    {
+      "source": "v44",
+      "target": "v47"
+    },
+    {
+      "source": "v45",
+      "target": "v46"
+    }
+  ],
+  "description": "Kneser graph K(8,3) \u2014 vertices are 3-subsets of {0..7}, edges iff disjoint",
+  "N": 56,
+  "E": 280,
+  "density": 0.1818,
+  "max_degree": 10,
+  "regular": true
+}

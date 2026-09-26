@@ -1,0 +1,42 @@
+{
+  "device": "FRESNEL_CAN1",
+  "account": "gmail",
+  "graph": "corpus/qoulipo/pari_de_nithard_II/graph_designed.json",
+  "N": 65,
+  "E": 631,
+  "d": 0.3034,
+  "sa_fidelity": 0.7615384615384615,
+  "geometry": {
+    "n_atoms": 65,
+    "max_radial_um": 38.204,
+    "min_atom_distance_um": 5.5,
+    "fits_min_atom_distance": true,
+    "fits_max_radial": true,
+    "fits_max_atoms": true
+  },
+  "pulses": [
+    {
+      "name": "quench_t0_5us",
+      "T_ns": 500,
+      "shots": 937
+    },
+    {
+      "name": "quench_t1us",
+      "T_ns": 1000,
+      "shots": 937
+    },
+    {
+      "name": "quench_t2us",
+      "T_ns": 2000,
+      "shots": 937
+    },
+    {
+      "name": "quench_t4us",
+      "T_ns": 4000,
+      "shots": 937
+    }
+  ],
+  "total_shots": 3748,
+  "Omega_rad_per_us": 3.302471160888672,
+  "Delta_quench_rad_per_us": -9.907413482666016
+}

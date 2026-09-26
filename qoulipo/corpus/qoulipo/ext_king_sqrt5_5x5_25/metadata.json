@@ -1,0 +1,16 @@
+{
+  "text_id": "ext_king_sqrt5_5x5_25",
+  "title": "ext-king-\u221a5 5\u00d75 (a=5 Rb=11.5)",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 25,
+  "canonical_E": 150,
+  "canonical_density": 0.5,
+  "canonical_MIS": 5,
+  "canonical_rho": 1.0,
+  "canonical_optima": 1,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.2298,
+  "blockade_um": 11.5
+}

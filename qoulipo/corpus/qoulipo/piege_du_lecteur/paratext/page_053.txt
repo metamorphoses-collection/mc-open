@@ -1,0 +1,28 @@
+### Verification Summary (canonical graph)
+
+| Property | Value |
+|----------|-------|
+| Pages | 50 |
+| Edges | 72 |
+| Density | 0.0588 |
+| Optimal MIS (ILP) | 24 |
+| Representative greedy MIS | ≈17 |
+| Approximate gap | ≈29% degradation |
+| Rigidity ρ | 0.4167 |
+| Enumerated optima (cap) | ≥ 500 |
+
+### Why Greedy Fails
+
+The graph is engineered so that the locally-attractive choices (low-degree, self-contained pages) are systematically not in the optimum. A degree-ordered greedy procedure is drawn to those pages; each of them blocks several pages that *are* in the optimum. Recovering the optimum requires looking at the global structure rather than picking the most accessible page next.
+
+A representative greedy procedure on the canonical graph returns ≈17 pages; the ILP optimum is 24. The gap is ≈29% — measurable, reproducible, and exactly the design point of this text.
+
+### Literary Interpretation
+
+The text is a metaphor for the difference between surface reading and structural reading. The seductive pages are self-contained, clear, accessible, requiring no context — and almost none of them are part of the maximum independent set. The harder pages — more connected, requiring the context of others — are what the optimum recovers. The "narrator" pages connect everything and make the trick visible.
+
+This is Marechal's lesson in graph-theoretic form: the obvious path is the wrong path. The easy page is the trap. The essential is always harder to reach than the accessible, and the gap between surface reading and deep reading is measurable, computable, and demonstrably real on this text.
+
+### Historical note
+
+An earlier draft of this text was built on a smaller, more rigid graph (N=50, E=197, MIS=20, greedy=14, gap=6 pages). That graph was retired and the text was rewritten on the current canonical graph above. The earlier graph is not part of this deposit; only the current canonical graph is.

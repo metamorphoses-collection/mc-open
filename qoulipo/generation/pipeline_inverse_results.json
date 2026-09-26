@@ -1,0 +1,182 @@
+{
+  "il_quadrato_dei_re": {
+    "text_file": "generation/texts/il_quadrato_dei_re.md",
+    "N": 16,
+    "designed_edges": 42,
+    "model": "intfloat/multilingual-e5-large-instruct",
+    "k_values": [
+      3,
+      8,
+      16,
+      24
+    ],
+    "results": {
+      "k=3": {
+        "N": 16,
+        "designed_edges": 42,
+        "recovered_edges": 35,
+        "true_positive": 14,
+        "false_positive": 21,
+        "false_negative": 28,
+        "recall": 0.333,
+        "precision": 0.4,
+        "f1": 0.364,
+        "jaccard": 0.222
+      },
+      "k=8": {
+        "N": 16,
+        "designed_edges": 42,
+        "recovered_edges": 77,
+        "true_positive": 32,
+        "false_positive": 45,
+        "false_negative": 10,
+        "recall": 0.762,
+        "precision": 0.416,
+        "f1": 0.538,
+        "jaccard": 0.368
+      },
+      "k=16": {
+        "N": 16,
+        "designed_edges": 42,
+        "recovered_edges": 136,
+        "true_positive": 42,
+        "false_positive": 94,
+        "false_negative": 0,
+        "recall": 1.0,
+        "precision": 0.309,
+        "f1": 0.472,
+        "jaccard": 0.309
+      },
+      "k=24": {
+        "N": 16,
+        "designed_edges": 42,
+        "recovered_edges": 136,
+        "true_positive": 42,
+        "false_positive": 94,
+        "false_negative": 0,
+        "recall": 1.0,
+        "precision": 0.309,
+        "f1": 0.472,
+        "jaccard": 0.309
+      }
+    },
+    "chapter_titles": [
+      "(0,0) \u2014 Il re bianco d'angolo",
+      "(0,1) \u2014 La torre del nord",
+      "(0,2) \u2014 L'alfiere di sud-ovest",
+      "(0,3) \u2014 Il pedone del sud-ovest",
+      "(1,0) \u2014 Il pedone del nord",
+      "(1,1) \u2014 Il cavallo del nord-ovest",
+      "(1,2) \u2014 L'alfiere di centro-ovest",
+      "(1,3) \u2014 Il re del centro-sud",
+      "(2,0) \u2014 Il re del centro-nord",
+      "(2,1) \u2014 L'alfiere di centro-est",
+      "(2,2) \u2014 Il cavallo di sud-est",
+      "(2,3) \u2014 L'alfiere di sud-est",
+      "(3,0) \u2014 Il pedone del sud-est",
+      "(3,1) \u2014 Il cavallo del bordo sud",
+      "(3,2) \u2014 L'alfiere del bordo sud",
+      "(3,3) \u2014 Il re nero d'angolo"
+    ],
+    "chapter_labels": [
+      "v000",
+      "v010",
+      "v020",
+      "v030",
+      "v100",
+      "v110",
+      "v120",
+      "v130",
+      "v200",
+      "v210",
+      "v220",
+      "v230",
+      "v300",
+      "v310",
+      "v320",
+      "v330"
+    ]
+  },
+  "le_otto_dimore": {
+    "text_file": "generation/texts/le_otto_dimore.md",
+    "N": 8,
+    "designed_edges": 12,
+    "model": "intfloat/multilingual-e5-large-instruct",
+    "k_values": [
+      3,
+      8,
+      16,
+      24
+    ],
+    "results": {
+      "k=3": {
+        "N": 8,
+        "designed_edges": 12,
+        "recovered_edges": 14,
+        "true_positive": 9,
+        "false_positive": 5,
+        "false_negative": 3,
+        "recall": 0.75,
+        "precision": 0.643,
+        "f1": 0.692,
+        "jaccard": 0.529
+      },
+      "k=8": {
+        "N": 8,
+        "designed_edges": 12,
+        "recovered_edges": 36,
+        "true_positive": 12,
+        "false_positive": 24,
+        "false_negative": 0,
+        "recall": 1.0,
+        "precision": 0.333,
+        "f1": 0.5,
+        "jaccard": 0.333
+      },
+      "k=16": {
+        "N": 8,
+        "designed_edges": 12,
+        "recovered_edges": 36,
+        "true_positive": 12,
+        "false_positive": 24,
+        "false_negative": 0,
+        "recall": 1.0,
+        "precision": 0.333,
+        "f1": 0.5,
+        "jaccard": 0.333
+      },
+      "k=24": {
+        "N": 8,
+        "designed_edges": 12,
+        "recovered_edges": 36,
+        "true_positive": 12,
+        "false_positive": 24,
+        "false_negative": 0,
+        "recall": 1.0,
+        "precision": 0.333,
+        "f1": 0.5,
+        "jaccard": 0.333
+      }
+    },
+    "chapter_titles": [
+      "`000` \u2014 La cella dell'eremita",
+      "`001` \u2014 Il refettorio contiguo",
+      "`010` \u2014 La cappellina del piano",
+      "`011` \u2014 La loggia del coro",
+      "`100` \u2014 Lo studiolo del tetto",
+      "`101` \u2014 La sala di ricevimento del piano nobile",
+      "`110` \u2014 La mansarda astronomica",
+      "`111` \u2014 Il salone delle udienze"
+    ],
+    "chapter_labels": [
+      "000",
+      "001",
+      "010",
+      "011",
+      "100",
+      "101",
+      "110",
+      "111"
+    ]
+  }
+}

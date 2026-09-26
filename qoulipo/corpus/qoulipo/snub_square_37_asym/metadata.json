@@ -1,0 +1,16 @@
+{
+  "text_id": "snub_square_37_asym",
+  "title": "snub-square N=37 asymmetric cut",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 37,
+  "canonical_E": 74,
+  "canonical_density": 0.1111,
+  "canonical_MIS": 14,
+  "canonical_rho": 0.7143,
+  "canonical_optima": 4,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.3132,
+  "blockade_um": 7.0
+}

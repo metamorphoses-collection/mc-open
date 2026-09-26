@@ -1,0 +1,21 @@
+{
+  "text_id": "dante_inferno",
+  "title": "Inferno (Commedia I)",
+  "author": "Dante Alighieri",
+  "lang": "IT",
+  "date": "c. 1320",
+  "canonical_N": 34,
+  "canonical_graph_file": "graph_k8.json",
+  "canonical_E": 185,
+  "canonical_density": 0.3298,
+  "canonical_MIS": 9,
+  "canonical_rho": 0.4444,
+  "canonical_optima": 17,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "NLP_k8",
+  "source_contract": "chunked_canto_split",
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "corpus_role": "natural",
+  "chunking": "canto",
+  "sim_threshold": 0.78
+}

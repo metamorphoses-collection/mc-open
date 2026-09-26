@@ -1,0 +1,87 @@
+{
+  "asterisk_fixes": {
+    "account": "gmail",
+    "batches": {
+      "galileo_dialogo_k16": {
+        "batch_id": "eb5da03a-45e9-47e9-bee9-7dd30d083351",
+        "status": "DONE",
+        "total_shots": 1000,
+        "n_unique": 1000,
+        "file": "quantum/runs/20260430_asterisk_fixes_gmail/bitstrings/galileo_dialogo_k16.json"
+      },
+      "venticinque_stanze_topup": {
+        "batch_id": "b4826e23-ad2e-42bc-a908-6bca6703843f",
+        "status": "DONE",
+        "total_shots": 500,
+        "n_unique": 426,
+        "file": "quantum/runs/20260430_asterisk_fixes_gmail/bitstrings/venticinque_stanze_topup.json"
+      },
+      "castello_49_king7x7_topup": {
+        "batch_id": "318bd166-d6ef-4c17-8ca0-378559a19a8f",
+        "status": "DONE",
+        "total_shots": 750,
+        "n_unique": 750,
+        "file": "quantum/runs/20260430_asterisk_fixes_gmail/bitstrings/castello_49_king7x7_topup.json"
+      }
+    }
+  },
+  "q1_pari_II_quench": {
+    "account": "gmail",
+    "batches": {
+      "quench_t0_5us": {
+        "batch_id": "00909487-5eb7-496b-978f-002f8326d2eb",
+        "status": "DONE",
+        "total_shots": 937,
+        "n_unique": 304,
+        "file": "quantum/runs/20260430_q1_pari_II_quench_gmail/bitstrings/quench_t0_5us.json"
+      },
+      "quench_t1us": {
+        "batch_id": "e3ebee73-3bb7-48fc-b1b8-743b2f726227",
+        "status": "DONE",
+        "total_shots": 937,
+        "n_unique": 440,
+        "file": "quantum/runs/20260430_q1_pari_II_quench_gmail/bitstrings/quench_t1us.json"
+      },
+      "quench_t2us": {
+        "batch_id": "f5c5231a-f0c8-4941-ae4a-e5543c3d5342",
+        "status": "DONE",
+        "total_shots": 937,
+        "n_unique": 638,
+        "file": "quantum/runs/20260430_q1_pari_II_quench_gmail/bitstrings/quench_t2us.json"
+      },
+      "quench_t4us": {
+        "batch_id": "7a84f970-ebff-4295-b3ca-6d96bd7f2fb3",
+        "status": "DONE",
+        "total_shots": 937,
+        "n_unique": 730,
+        "file": "quantum/runs/20260430_q1_pari_II_quench_gmail/bitstrings/quench_t4us.json"
+      }
+    }
+  },
+  "q2_pari_III_step": {
+    "account": "investiqo",
+    "batches": {
+      "quench_t2us_step1": {
+        "batch_id": "8ed17431-69a1-4439-8712-d120f81774d2",
+        "status": "DONE",
+        "total_shots": 500,
+        "n_unique": 493,
+        "file": "quantum/runs/20260430_q2_pari_III_step_investiqo/bitstrings/quench_t2us_step1.json"
+      },
+      "quench_t1us_step2": {
+        "batch_id": "30ffe560-3058-4ca3-bdef-833866b01bb0",
+        "status": "DONE",
+        "total_shots": 500,
+        "n_unique": 422,
+        "file": "quantum/runs/20260430_q2_pari_III_step_investiqo/bitstrings/quench_t1us_step2.json"
+      },
+      "quench_t4us_step3": {
+        "batch_id": "5be7cad2-eef4-42e0-8393-3e938fac4418",
+        "status": "DONE",
+        "total_shots": 500,
+        "n_unique": 497,
+        "file": "quantum/runs/20260430_q2_pari_III_step_investiqo/bitstrings/quench_t4us_step3.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+# LaTeX build artefacts — Overleaf builds these from sources
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.toc
+*.lof
+*.lot
+*.idx
+*.ind
+*.ilg
+*.nav
+*.snm
+
+# Local PDF (Overleaf generates its own)
+main.pdf
+
+# Editor / OS
+.DS_Store
+*.swp
+*~

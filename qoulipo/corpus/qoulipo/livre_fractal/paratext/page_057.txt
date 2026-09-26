@@ -1,0 +1,17 @@
+#### PAGE 48 — The Final Calculation
+*Threads: TIDE, COASTLINE, VESSEL, GRANITE, KELP*
+*Voice: Pascal*
+
+Let me attempt the calculation one last time. How long is the coast of France?
+
+At the scale of the vessel — let us say, a resolution of one kilometer — the coast is approximately five thousand five hundred kilometers. This includes the Channel, the Atlantic, the Mediterranean, the islands of Corsica, Noirmoutier, Re, and Oleron. The granite of Brittany contributes more to this total than the chalk of Normandy, because its higher fractal dimension means more indentation per linear kilometer. The kelp-covered rocks at the base of the Breton cliffs add their perimeters at scales below one kilometer.
+
+At the scale of one hundred meters, the coast is approximately eight thousand kilometers. The tidal variation becomes significant: the coast at high tide is shorter than the coast at low tide, and the hundred-meter resolution captures the tidal pools, the rocky platforms, the kelp beds that the one-kilometer resolution missed. The granite headlands have sprouted subsidiary promontories. The chalk cliffs have revealed their fissures.
+
+At the scale of ten meters, the coast is approximately twelve thousand kilometers. The individual boulders in the boulder fields of Brittany contribute their perimeters. The kelp fronds, each one a boundary between water and biomass, begin to register. The tide's twice-daily rewriting of the coastline creates a temporal uncertainty of several hundred meters in the position of the waterline.
+
+At the scale of one meter — the scale at which I, Pascal, might walk the coast with a surveyor's rod — the coast is approximately twenty thousand kilometers. The granite crystals are visible. The kelp holdfasts grip the rock with fractal attachment. The vessel that carried me here is too large to navigate these details; only the walker can measure at this scale.
+
+The calculation has no limit. At the scale of one centimeter, the coast is longer still. At one millimeter, longer. At the scale of the kelp cell wall, the granite grain boundary, the salt crystal face — at every scale, the coast grows. The tidal cycle adds and subtracts kilometers with each ebb and flow, but the fractal dimension remains constant. The coastline of France has no length. It has a dimension. And that dimension is not an integer.
+
+I, Pascal, who invented the calculating machine, declare this calculation impossible.

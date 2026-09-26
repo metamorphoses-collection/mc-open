@@ -1,0 +1,1850 @@
+{
+  "title": "Disputationes de Graphis \u2014 Editio Extensa",
+  "subtitle": "Quaestiones quinquaginta",
+  "N": 116,
+  "E": 151,
+  "density": 0.022638680659670164,
+  "k": 4,
+  "threshold": 0.78,
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "antithesis_pairs_in_graph": 50,
+  "antithesis_pairs_total": 50,
+  "nodes": [
+    {
+      "id": 1,
+      "role": "other",
+      "quaestio": null,
+      "side": null,
+      "label": "",
+      "text": "A graph is the simplest of mathematical objects: a set of vertices and a set of edges. From this minimal datum almost everything in combinatorics, computer science, and statistical physics follows. The student who imagines that simplicity entails clarity will be disappointed. The same edge admits a dozen interpretations; the same graph admits a hundred algorithms; the same algorithm admits a thousand worst cases. What follows is a series of thirty disputed propositions about graphs and the questions they generate. Each proposition is defended by one paragraph and refuted by another, in the manner of Abelard. The matter is not whether the defenders are right but whether disagreement itself is informative. The reader who finishes wishing for resolutions misunderstands the form."
+    },
+    {
+      "id": 2,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum primum.",
+      "text": "The complexity of graph problems is the oldest dispute in the field. Even the simplest questions \u2014 is this graph connected, does it contain a triangle, is it isomorphic to that one \u2014 admit algorithms of widely different cost, and the gap between the cheapest and the most general remains, in many cases, unresolved. The six propositions in this block traverse the canonical complexity questions: isomorphism, independence, colouring, Hamilton cycles, max-clique, treewidth. The disputants are not amateurs. The disagreements are real and the literature is large."
+    },
+    {
+      "id": 3,
+      "role": "thesis",
+      "quaestio": 1,
+      "side": "Sic",
+      "label": "Quaestio I \u2014 Sic.",
+      "text": "*Graph isomorphism is in polynomial time.* Babai's 2016 quasi-polynomial-time algorithm runs in $\\exp(O((\\log n)^c))$ for a small constant $c$, and on every natural class of graphs \u2014 bounded-degree, planar, of bounded treewidth, with bounded eigenvalue multiplicity \u2014 polynomial-time algorithms are known. The general case, on adversarial graphs of unbounded structure, has resisted formal P-membership, but Babai's result is widely understood as the practical settlement of the question. No combinatorial problem of comparable importance has been pushed so far below the exponential barrier without being shown to be in P proper. K\u00f6bler, Sch\u00f6ning, and Toran's monograph treats this as a near-foregone conclusion."
+    },
+    {
+      "id": 4,
+      "role": "antithesis",
+      "quaestio": 1,
+      "side": "Non",
+      "label": "Quaestio I \u2014 Non.",
+      "text": "*Graph isomorphism is not known to be in polynomial time.* Babai's quasi-polynomial result is celebrated, but it is precisely *not* polynomial: the running time $\\exp(O((\\log n)^c))$ exceeds any fixed polynomial for $c > 1$. Complexity theorists distinguish between \"morally easy\" and \"in P\", and the distinction matters: Babai himself frames the contribution as a refinement of the boundary, not a closure of it. The Cai\u2013F\u00fcrer\u2013Immerman construction supplies infinite families of graphs on which all known polynomial-time invariants fail to distinguish non-isomorphic pairs, and no proof that isomorphism is reducible to such invariants exists. Until P-membership is shown, the problem sits in its own complexity class."
+    },
+    {
+      "id": 5,
+      "role": "thesis",
+      "quaestio": 2,
+      "side": "Sic",
+      "label": "Quaestio II \u2014 Sic.",
+      "text": "*The Maximum Independent Set problem admits a polynomial-time approximation scheme.* On planar graphs, Lipton and Tarjan's separator theorem yields a PTAS via shifted-strip decomposition. On unit-disk graphs, Hochbaum and Maass extended the construction to deliver $(1-\\varepsilon)$-approximation in polynomial time for any fixed $\\varepsilon$. On graphs of bounded degree, the local-ratio analysis of Bar-Yehuda and Even gives constant-factor approximation without combinatorial tools. The class of \"natural\" MIS instances \u2014 geometric, sparse, or bounded-degree \u2014 uniformly admits approximation schemes; the worst-case hardness applies only to artificial instances unlikely to arise in practice. The practical computer scientist treats MIS as efficiently approximable."
+    },
+    {
+      "id": 6,
+      "role": "antithesis",
+      "quaestio": 2,
+      "side": "Non",
+      "label": "Quaestio II \u2014 Non.",
+      "text": "*The Maximum Independent Set problem does not admit a polynomial-time approximation scheme in general.* H\u00e5stad's 1996 result shows that, assuming P \u2260 NP, MIS cannot be approximated within a factor of $n^{1-\\varepsilon}$ for any $\\varepsilon > 0$ on arbitrary graphs. The \"natural\" instances on which PTAS results are proved \u2014 planar, geometric, bounded-degree \u2014 exclude the bulk of MIS arising in scheduling, frequency allocation, and database query optimization, where the underlying graphs are dense and irregular. The student of MIS who reads only the planar and unit-disk literature acquires a false intuition. In the worst case the problem is essentially as hard as any in NP."
+    },
+    {
+      "id": 7,
+      "role": "thesis",
+      "quaestio": 3,
+      "side": "Sic",
+      "label": "Quaestio III \u2014 Sic.",
+      "text": "*The four-colour theorem admits a human-readable proof.* The Robertson\u2013Sanders\u2013Seymour\u2013Thomas reformulation reduced the unavoidable-configurations list to a manageable size and clarified the discharging argument. The mathematical content \u2014 a finite case analysis of obstructions in planar triangulations \u2014 is, in principle, checkable by hand, even if doing so would consume a career. The Appel\u2013Haken proof of 1976 used a computer for verification but not for discovery; the structural ideas are accessible. A reader willing to accept the discharging discipline can follow the proof as readily as any in graph theory."
+    },
+    {
+      "id": 8,
+      "role": "antithesis",
+      "quaestio": 3,
+      "side": "Non",
+      "label": "Quaestio III \u2014 Non.",
+      "text": "*The four-colour theorem does not admit a human-readable proof.* The Appel\u2013Haken proof of 1976 enumerated nearly 1500 unavoidable configurations, each verified by a separate computer subroutine. The Robertson\u2013Sanders\u2013Seymour\u2013Thomas reformulation reduced this to several hundred but the case analysis remains beyond hand-checking. No structural proof \u2014 one that proceeds from properties of planar graphs alone, without exhaustive enumeration \u2014 has been found in fifty years, and the absence is itself evidence that none exists. The four-colour theorem is the canonical instance of a theorem we know to be true but do not understand."
+    },
+    {
+      "id": 9,
+      "role": "thesis",
+      "quaestio": 4,
+      "side": "Sic",
+      "label": "Quaestio IV \u2014 Sic.",
+      "text": "*The Hamilton cycle problem is fundamentally distinct from the Maximum Independent Set problem.* Hamiltonicity concerns global structure: the existence of a single closed walk visiting every vertex. MIS concerns local structure: the largest subset with pairwise non-adjacency. The two problems share NP-completeness but differ in their typical certificates: Hamilton requires a permutation, MIS requires a subset. Their reductions to one another are syntactic; their parameter-tractable cases differ; their natural classes of polynomial-time-solvable instances overlap only by coincidence. Treating them as equivalent flattens the distinction between global and local combinatorial constraints."
+    },
+    {
+      "id": 10,
+      "role": "antithesis",
+      "quaestio": 4,
+      "side": "Non",
+      "label": "Quaestio IV \u2014 Non.",
+      "text": "*The Hamilton cycle problem is fundamentally equivalent to the Maximum Independent Set problem.* Both are NP-complete, both reduce to one another in polynomial time, and both correspond to ground-state configurations of Ising-type Hamiltonians. Tutte's characterization of Hamilton cycles via 2-factors and the Erd\u0151s\u2013Gallai theorem relate Hamiltonicity to degree sequences in ways that mirror MIS bounds. In practice every modern solver \u2014 branch-and-cut, message passing, quantum annealing \u2014 treats both as instances of the same constraint satisfaction problem. The distinction between \"global\" and \"local\" is a pedagogical convenience that survives no formal analysis."
+    },
+    {
+      "id": 11,
+      "role": "thesis",
+      "quaestio": 5,
+      "side": "Sic",
+      "label": "Quaestio V \u2014 Sic.",
+      "text": "*The Maximum Clique problem is harder than Maximum Independent Set in practice.* Although Max-Clique and MIS are formally equivalent via complementation, real-world graphs are sparse, and the complement of a sparse graph is dense. Algorithms for MIS exploit sparsity directly; algorithms for Max-Clique on the same dense complement do not. Empirical results on DIMACS challenge instances confirm a substantial efficiency gap: state-of-the-art Max-Clique solvers consume more time and memory than MIS solvers on the same problem reformulated. The two are equivalent in complexity-theoretic abstraction but distinct in computational engineering."
+    },
+    {
+      "id": 12,
+      "role": "antithesis",
+      "quaestio": 5,
+      "side": "Non",
+      "label": "Quaestio V \u2014 Non.",
+      "text": "*The Maximum Clique problem is not harder than Maximum Independent Set in practice.* The \"sparsity argument\" presumes a one-to-one correspondence between natural graphs and sparse graphs, which is empirically false: social networks, citation networks, and biological networks are sparse only in their large-N tail and dense in their core. Modern Max-Clique solvers use combinatorial bounds \u2014 Lov\u00e1sz theta, chromatic number \u2014 that exploit dense structure directly. The efficiency gap on DIMACS benchmarks reflects benchmark selection, not intrinsic difficulty. Treating Max-Clique as harder confuses solver design with computational complexity."
+    },
+    {
+      "id": 13,
+      "role": "thesis",
+      "quaestio": 6,
+      "side": "Sic",
+      "label": "Quaestio VI \u2014 Sic.",
+      "text": "*Treewidth is the universal complexity parameter for sparse graph algorithms.* Robertson and Seymour's graph minor theorem and the Courcelle theorem together establish that, on graphs of bounded treewidth, every problem definable in monadic second-order logic admits a polynomial-time algorithm. The parameter unifies a vast literature of disparate tractability results: planar, outerplanar, series-parallel, bounded-genus, sparse expander complements \u2014 all fall under bounded treewidth or a near-equivalent decomposition width. Bodlaender's monograph treats treewidth as the canonical sparse-graph parameter."
+    },
+    {
+      "id": 14,
+      "role": "antithesis",
+      "quaestio": 6,
+      "side": "Non",
+      "label": "Quaestio VI \u2014 Non.",
+      "text": "*Treewidth is not the universal complexity parameter for sparse graph algorithms.* Many natural sparse graphs \u2014 random regular graphs, expanders, scale-free networks \u2014 have unbounded treewidth and admit polynomial-time algorithms for problems that the Courcelle theorem does not address. Parameters such as clique-width, rank-width, twin-width, and modular decomposition width capture tractability in regimes where treewidth diverges. Treewidth is one parameter among several, and the choice of which to use is problem-specific; no single parameter dominates. The \"universal\" reading reflects a historical preference, not a mathematical necessity."
+    },
+    {
+      "id": 15,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum secundum.",
+      "text": "Are real graphs random, or are they structured? The question is older than network science. Erd\u0151s and R\u00e9nyi proposed the first random-graph model in the 1950s; Barab\u00e1si and Albert proposed preferential attachment in the 1990s; Watts and Strogatz proposed small-world rewiring in between. Each model captures some real graphs and misses others. The six propositions in this block dispute the descriptive value of random-graph models, the role of the degree sequence, the spectrum's discriminating power, the reality of community structure, the small-world / scale-free coincidence, and the universality of preferential attachment."
+    },
+    {
+      "id": 16,
+      "role": "thesis",
+      "quaestio": 7,
+      "side": "Sic",
+      "label": "Quaestio VII \u2014 Sic.",
+      "text": "*Real-world graphs are better modelled as random than as structured.* The Erd\u0151s\u2013R\u00e9nyi $G(n, p)$ model and its variants \u2014 configuration models, stochastic block models \u2014 reproduce most macroscopic features of empirical networks: diameter, clustering, spectral density. The structural-model literature is dominated by post-hoc descriptions of specific networks rather than predictive theory. A practitioner faced with an unknown graph and asked for a generative null model will use a configuration-matched random graph; the choice is theoretically motivated and empirically defensible. The structural alternatives offer interpretation but not prediction."
+    },
+    {
+      "id": 17,
+      "role": "antithesis",
+      "quaestio": 7,
+      "side": "Non",
+      "label": "Quaestio VII \u2014 Non.",
+      "text": "*Real-world graphs are better modelled as structured than as random.* The Erd\u0151s\u2013R\u00e9nyi model fails on degree distribution, clustering coefficient, and motif frequency for nearly every empirical network ever studied. Barab\u00e1si\u2013Albert's preferential-attachment model and the Watts\u2013Strogatz small-world model reproduce the empirical signatures that ER cannot. The configuration model preserves the degree sequence but discards exactly the structural information that distinguishes a friendship graph from a brain connectome. Treating real networks as random is a starting point for null-hypothesis testing, not a description of the data."
+    },
+    {
+      "id": 18,
+      "role": "thesis",
+      "quaestio": 8,
+      "side": "Sic",
+      "label": "Quaestio VIII \u2014 Sic.",
+      "text": "*The degree sequence is the canonical first-order invariant of a graph.* It is the only invariant computable in linear time, the only one invariant under all automorphisms, and the only one preserved by the configuration model that generates the most-used null distributions in network science. Every claim about a real graph \u2014 that it is scale-free, that it has small-world structure, that its giant component percolates \u2014 is, in the first instance, a claim about the degree sequence. The structural literature builds on this invariant; the spectral literature does not displace it."
+    },
+    {
+      "id": 19,
+      "role": "antithesis",
+      "quaestio": 8,
+      "side": "Non",
+      "label": "Quaestio VIII \u2014 Non.",
+      "text": "*The degree sequence is not the canonical first-order invariant of a graph.* Two graphs with identical degree sequences can differ in clustering coefficient by orders of magnitude, in spectral gap by similar margins, and in algorithmic tractability of almost any problem. The configuration model that the degree sequence generates is precisely the null hypothesis that empirical graphs reject. The spectrum, the rich-club coefficient, the assortativity, and the motif counts each carry information the degree sequence does not, and each has a stronger claim to \"first-order\" status. The degree sequence's simplicity is its limitation."
+    },
+    {
+      "id": 20,
+      "role": "thesis",
+      "quaestio": 9,
+      "side": "Sic",
+      "label": "Quaestio IX \u2014 Sic.",
+      "text": "*The adjacency spectrum determines the graph up to isomorphism.* For almost all graphs in any reasonable measure, the multiset of adjacency eigenvalues is a complete invariant. Cospectral mates \u2014 non-isomorphic graphs with identical spectra \u2014 are constructible but rare; the density of cospectral pairs vanishes for random graphs as $n \\to \\infty$. Spectral graph theory, since Cvetkovi\u0107, Doob, and Sachs, has treated the spectrum as the canonical first-order invariant precisely because of this density property. The classical exceptions are pathological constructions; the practical claim is that the spectrum almost always suffices."
+    },
+    {
+      "id": 21,
+      "role": "antithesis",
+      "quaestio": 9,
+      "side": "Non",
+      "label": "Quaestio IX \u2014 Non.",
+      "text": "*The adjacency spectrum does not determine the graph up to isomorphism.* van Dam and Haemers catalogue infinite families of cospectral non-isomorphic graphs, including the Petersen graph and the Hoffman\u2013Singleton graph in their respective classes. The \"density of cospectral mates vanishes\" result is a measure-theoretic claim about a sampling distribution that no empirical network respects. For practical applications \u2014 chemistry, protein structure, network alignment \u2014 cospectrality is encountered routinely. The spectrum is a useful invariant; it is not a complete one."
+    },
+    {
+      "id": 22,
+      "role": "thesis",
+      "quaestio": 10,
+      "side": "Sic",
+      "label": "Quaestio X \u2014 Sic.",
+      "text": "*Communities are intrinsic structural features of real-world graphs.* The visual obviousness of community structure in citation networks, social graphs, and protein interaction networks is corroborated by spectral methods, modularity optimization, statistical block-model inference, and information-theoretic compression. Different algorithms agree on community membership for the bulk of nodes; the agreement is not algorithmic accident. Newman's modularity, Karrer\u2013Newman's degree-corrected stochastic block model, and the map equation each independently recover the same partitions on well-studied benchmark networks."
+    },
+    {
+      "id": 23,
+      "role": "antithesis",
+      "quaestio": 10,
+      "side": "Non",
+      "label": "Quaestio X \u2014 Non.",
+      "text": "*Communities are artifacts of the detection algorithm, not intrinsic features.* Different algorithms \u2014 modularity-maximization, spectral clustering, Infomap, label propagation \u2014 produce different partitions on the same graph, and the differences are not noise but methodological. The \"well-studied benchmark networks\" are precisely those for which Newman's modularity happens to recover the canonical partition; on real networks without ground truth, the disagreement between algorithms is the rule. Community structure is a description we impose, and the practitioner who treats algorithmic output as ground truth has confused the model with the data."
+    },
+    {
+      "id": 24,
+      "role": "thesis",
+      "quaestio": 11,
+      "side": "Sic",
+      "label": "Quaestio XI \u2014 Sic.",
+      "text": "*Small-world structure implies scale-free degree distribution.* The Watts\u2013Strogatz construction and the Barab\u00e1si\u2013Albert preferential-attachment model both produce small-world graphs, and both produce scale-free degree distributions in their natural parameter regimes. The empirical literature treats the two as co-occurring features, and the heuristic argument is clear: a few high-degree hubs generate both short paths and the heavy-tailed degree distribution. Watts's monograph treats small-world and scale-free as twin features of the \"new science of networks.\""
+    },
+    {
+      "id": 25,
+      "role": "antithesis",
+      "quaestio": 11,
+      "side": "Non",
+      "label": "Quaestio XI \u2014 Non.",
+      "text": "*Small-world structure does not imply scale-free degree distribution.* The Watts\u2013Strogatz model itself produces small-world graphs with sharply peaked (Poisson-like) degree distributions; the small-world property is generated by random rewiring, not by hub formation. Many empirical networks \u2014 power grids, road networks, brain connectomes \u2014 are small-world but distinctly not scale-free. The conflation arose from a coincidence in the early-empirical literature (citation and web networks happen to be both) and has been propagated by review articles that fail to distinguish the two features."
+    },
+    {
+      "id": 26,
+      "role": "thesis",
+      "quaestio": 12,
+      "side": "Sic",
+      "label": "Quaestio XII \u2014 Sic.",
+      "text": "*Preferential attachment is the correct generative model for biological and citation networks.* The Barab\u00e1si\u2013Albert mechanism \u2014 new nodes attach to existing nodes with probability proportional to degree \u2014 reproduces the heavy-tailed degree distribution observed in citation networks, the web, and protein interaction networks. The mechanism is mechanistically plausible: a new paper is more likely to cite a heavily-cited paper, a new web page is more likely to link to a popular site. The model's predictive success on these networks justifies its position as the canonical scale-free generator."
+    },
+    {
+      "id": 27,
+      "role": "antithesis",
+      "quaestio": 12,
+      "side": "Non",
+      "label": "Quaestio XII \u2014 Non.",
+      "text": "*Preferential attachment is not the correct generative model for biological and citation networks.* The Barab\u00e1si\u2013Albert mechanism fits the bulk of the degree distribution but fails on the head and on the tail: it predicts no high-degree cutoff, no clustering, and no community structure, all of which empirical networks exhibit. Fitness models, duplication-divergence models for biology, and copy models for citations explain the observed degree distributions equally well while reproducing other features that PA cannot. The PA model's prominence reflects its simplicity and its priority, not its descriptive accuracy."
+    },
+    {
+      "id": 28,
+      "role": "transition",
+      "quaestio": null,
+      "side": null,
+      "label": "Transitio I.",
+      "text": "The first two blocks have set out the classical disputes: which problems on graphs are hard, and which random models describe real graphs. We turn now to a deeper question \u2014 what is a graph geometrically, and to what extent is its structure metric rather than combinatorial."
+    },
+    {
+      "id": 29,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum tertium.",
+      "text": "A graph carries combinatorial information \u2014 vertices, edges \u2014 and admits geometric realisations of varying fidelity. The unit-disk graph is one such realisation; planarity is another; the embedding dimension is a third. The six propositions in this block ask which geometric features are intrinsic to the graph and which are imposed by the realisation. The disputants include geometers, combinatorialists, and machine learning researchers who use graph embeddings as a primary representation."
+    },
+    {
+      "id": 30,
+      "role": "thesis",
+      "quaestio": 13,
+      "side": "Sic",
+      "label": "Quaestio XIII \u2014 Sic.",
+      "text": "*Unit-disk-graph MIS instances are representative of the general MIS landscape.* Unit-disk graphs arise naturally in wireless scheduling, sensor coverage, and physical lattice geometries, and they have served as the canonical benchmark for MIS algorithms since the 1980s. The geometric structure is restrictive but not artificial: most \"physical\" MIS problems live on or near it. The PTAS results, the hardness reductions, and the quantum-hardware demonstrations all use UDG-MIS as their reference instance. A theorem proved for unit-disk MIS transfers to most applied settings."
+    },
+    {
+      "id": 31,
+      "role": "antithesis",
+      "quaestio": 13,
+      "side": "Non",
+      "label": "Quaestio XIII \u2014 Non.",
+      "text": "*Unit-disk-graph MIS instances are not representative of the general MIS landscape.* UDG-MIS is among the easiest MIS variants: it admits a PTAS, it has bounded local structure, and its instances are sparse. The bulk of MIS in practice \u2014 database query optimization, register allocation, scheduling \u2014 arises on graphs with no geometric realisation and no bounded-degree guarantee. UDG-MIS is the benchmark because it is tractable, not because it is typical. A theorem proved on UDG-MIS rarely transfers; the literature is full of negative results on the gap between UDG-MIS and general MIS."
+    },
+    {
+      "id": 32,
+      "role": "thesis",
+      "quaestio": 14,
+      "side": "Sic",
+      "label": "Quaestio XIV \u2014 Sic.",
+      "text": "*Planarity is a topological property derivable from minor exclusion.* Kuratowski's theorem characterizes planar graphs by the absence of $K_5$ and $K_{3,3}$ minors; Wagner's reformulation states the same via topological minors. The minor-exclusion characterization is finite, syntactic, and combinatorial: planarity is a combinatorial property the topology happens to instantiate. The graph minor theorem of Robertson and Seymour extends this to every minor-closed graph family. The topological reading is a translation of the combinatorial one, not its foundation."
+    },
+    {
+      "id": 33,
+      "role": "antithesis",
+      "quaestio": 14,
+      "side": "Non",
+      "label": "Quaestio XIV \u2014 Non.",
+      "text": "*Planarity is a topological property not reducible to minor exclusion.* The Kuratowski characterization is correct but does not exhaust the topological content: planarity carries an orientation, a face structure, and a relationship to the sphere and torus that the minor exclusion does not capture. Embeddings on higher-genus surfaces (toroidal, projective) generalise the topological aspect in directions the minor characterization cannot follow. Whitney's theorem on the uniqueness of planar embeddings up to homeomorphism is a topological statement that minor exclusion presupposes rather than entails. Topology and combinatorics agree on planarity but proceed from different foundations."
+    },
+    {
+      "id": 34,
+      "role": "thesis",
+      "quaestio": 15,
+      "side": "Sic",
+      "label": "Quaestio XV \u2014 Sic.",
+      "text": "*Ollivier\u2013Ricci curvature meaningfully captures the geometry of a graph.* The discrete curvature of an edge, defined as the Wasserstein distance between probability distributions on the endpoint neighbourhoods, generalises the Ricci curvature of a Riemannian manifold to discrete settings. Positive curvature indicates well-connected regions; negative curvature flags bridges and bottlenecks. The Lin\u2013Lu\u2013Yau modification has been applied successfully to brain networks, biological networks, and machine learning graphs. The curvature is computable, interpretable, and aligned with intuitions from differential geometry."
+    },
+    {
+      "id": 35,
+      "role": "antithesis",
+      "quaestio": 15,
+      "side": "Non",
+      "label": "Quaestio XV \u2014 Non.",
+      "text": "*Ollivier\u2013Ricci curvature does not meaningfully capture the geometry of a graph.* The Wasserstein-based definition depends on the choice of probability measure on the neighbourhood, and the resulting curvature varies substantially with that choice. The Forman curvature, the augmented Forman curvature, and the Bakry\u2013Emery curvature each give different answers on the same graph, and the disagreements are not bounded by any small constant. Curvature on graphs is a useful diagnostic but not a canonical invariant; treating it as the discrete analog of Riemannian Ricci curvature overstates the formal equivalence."
+    },
+    {
+      "id": 36,
+      "role": "thesis",
+      "quaestio": 16,
+      "side": "Sic",
+      "label": "Quaestio XVI \u2014 Sic.",
+      "text": "*Geodesic distance on a graph is a metric in the strict mathematical sense.* The shortest-path distance is non-negative, symmetric on undirected graphs, zero only on identical vertices, and satisfies the triangle inequality by construction. It is the canonical metric on a connected graph and the basis of every geometric algorithm \u2014 diameter, betweenness centrality, k-NN graph construction. The metric properties extend cleanly to weighted graphs with non-negative edge weights."
+    },
+    {
+      "id": 37,
+      "role": "antithesis",
+      "quaestio": 16,
+      "side": "Non",
+      "label": "Quaestio XVI \u2014 Non.",
+      "text": "*Geodesic distance on a graph is not a metric in the strict mathematical sense.* The shortest-path distance is undefined on disconnected components, and the standard convention \u2014 set it to infinity \u2014 violates the assumption that the metric is finite-valued. On directed graphs the symmetry condition fails. On graphs with negative edge weights, the triangle inequality fails. Even on the simplest empirical networks the \"metric\" extension to disconnected components is a notational convenience that hides the topological reality: a disconnected graph supports no metric in the strict sense."
+    },
+    {
+      "id": 38,
+      "role": "thesis",
+      "quaestio": 17,
+      "side": "Sic",
+      "label": "Quaestio XVII \u2014 Sic.",
+      "text": "*The rigidity matroid is the right framework for graph embeddability in Euclidean space.* Laman's theorem characterizes minimally rigid graphs in two dimensions by edge count: $|E| = 2|V| - 3$ for the graph, $|E'| \\leq 2|V'| - 3$ for every induced subgraph. The Maxwell\u2013Calladine count generalises to higher dimensions. The rigidity matroid unifies these results into a single algebraic structure that captures generic embeddability in Euclidean space of any dimension. The framework is canonical for static structures and underlies most modern work on flexibility of bar-and-joint frameworks."
+    },
+    {
+      "id": 39,
+      "role": "antithesis",
+      "quaestio": 17,
+      "side": "Non",
+      "label": "Quaestio XVII \u2014 Non.",
+      "text": "*The rigidity matroid is not the right framework for graph embeddability in Euclidean space.* Laman's count works in two dimensions only; the three-dimensional analog has been an open problem for a hundred years (the \"Maxwell\u2013Calladine conjecture\"). Generic rigidity is one notion of embeddability; metric embeddability (Cayley\u2013Menger), conformal embeddability (M\u00f6bius), and approximate embeddability (Bourgain) each give different answers. The rigidity matroid is a useful tool in a specific domain (planar bar-and-joint frameworks) but not the canonical framework for the general question."
+    },
+    {
+      "id": 40,
+      "role": "thesis",
+      "quaestio": 18,
+      "side": "Sic",
+      "label": "Quaestio XVIII \u2014 Sic.",
+      "text": "*The embedding dimension of a graph in Euclidean space is well-defined independent of the loss function.* The minimum dimension $d$ such that a graph admits an isometric embedding into $\\mathbb{R}^d$ is a combinatorial invariant: the smallest $d$ for which the graph's distance matrix is a squared-distance matrix (the Schoenberg condition). The Cayley\u2013Menger determinant gives a finite test. Approximate embeddings with multiplicative distortion $\\alpha$ give the related $\\alpha$-distortion dimension. Both are well-defined functions of the graph alone."
+    },
+    {
+      "id": 41,
+      "role": "antithesis",
+      "quaestio": 18,
+      "side": "Non",
+      "label": "Quaestio XVIII \u2014 Non.",
+      "text": "*The embedding dimension of a graph in Euclidean space is not well-defined independent of the loss function.* Isometric embedding is restrictive; most natural graphs are not isometrically embeddable in any Euclidean space. Approximate embeddings depend on the distortion measure: $\\ell_1$, $\\ell_2$, $\\ell_\\infty$, multiplicative, additive, average \u2014 each gives a different optimal dimension. The \"Schoenberg condition\" treats one definition as canonical; the reality is that \"embedding dimension\" is an entire family of related but distinct invariants, parameterised by the choice of distortion functional. Treating it as a single number conflates the parameters."
+    },
+    {
+      "id": 42,
+      "role": "transition",
+      "quaestio": null,
+      "side": null,
+      "label": "Transitio II.",
+      "text": "Having considered the geometry of static graphs, we turn to dynamics. A graph supports a thousand evolutions: random walks, heat flow, quantum walks, message passing, gradient descent. Each picks out structural features the others miss. The six propositions in the next block dispute the canonical status of each."
+    },
+    {
+      "id": 43,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum quartum.",
+      "text": "Dynamics on graphs \u2014 the question of what happens when something flows along the edges \u2014 is the bridge between graph theory and analysis. The random walk is the simplest example; the heat equation, the quantum walk, and the PageRank iteration are refinements. Each defines a propagator; each propagator defines a centrality; each centrality answers a different question. The six propositions in this block consider whether the random walk converges meaningfully, whether the heat equation is canonical, whether quantum walks are faster, whether centrality is well-defined, whether scrambling has a universal exponent, and whether the spectral form factor is a useful observable."
+    },
+    {
+      "id": 44,
+      "role": "thesis",
+      "quaestio": 19,
+      "side": "Sic",
+      "label": "Quaestio XIX \u2014 Sic.",
+      "text": "*The random walk on a graph converges meaningfully.* On a connected, aperiodic graph the random walk approaches its stationary distribution at a rate governed by the spectral gap. The convergence is geometric, the mixing time is polynomial in the diameter, and the stationary distribution is the degree-normalised Hamming measure. This canonical convergence underlies PageRank, Markov chain Monte Carlo, and a vast literature on Markov chain mixing. The behaviour on disconnected components \u2014 convergence within each \u2014 is a clean limit of the connected case."
+    },
+    {
+      "id": 45,
+      "role": "antithesis",
+      "quaestio": 19,
+      "side": "Non",
+      "label": "Quaestio XIX \u2014 Non.",
+      "text": "*The random walk on a graph does not converge meaningfully on disconnected components.* The stationary distribution on a disconnected graph depends on the initial condition: the walker remains in its starting component and never explores the rest. The \"convergence within each component\" reading hides the fact that the global mixing time is infinite and the global stationary distribution is not unique. For empirical graphs with isolated nodes \u2014 common in citation networks, biological data, and survey responses \u2014 the random walk simply fails to define a global propagator. The clean theory applies only to connected graphs; the messy practice is everywhere else."
+    },
+    {
+      "id": 46,
+      "role": "thesis",
+      "quaestio": 20,
+      "side": "Sic",
+      "label": "Quaestio XX \u2014 Sic.",
+      "text": "*The heat equation on a graph is the canonical model of diffusion.* The heat kernel $\\exp(-tL)$ generated by the normalized Laplacian is the unique semigroup that preserves total mass, respects time reversal, and converges to the stationary distribution as $t \\to \\infty$. It is the propagator that minimises the Dirichlet energy, the kernel that defines the heat-kernel signature in graph signal processing, and the operator that underlies diffusion maps. Chung's monograph treats the heat equation as the canonical graph dynamics."
+    },
+    {
+      "id": 47,
+      "role": "antithesis",
+      "quaestio": 20,
+      "side": "Non",
+      "label": "Quaestio XX \u2014 Non.",
+      "text": "*The heat equation on a graph is not the canonical model of diffusion.* The choice of normalisation \u2014 combinatorial Laplacian, normalised Laplacian, signless Laplacian, symmetric normalised Laplacian \u2014 gives different heat kernels, and the \"right\" choice depends on the application. Continuous-time random walks generate one heat semigroup; discrete-time random walks generate another. Personalised heat-kernel PageRank gives a third. The \"canonical\" reading treats one of these choices as foundational; the literature shows that the choice is parameter-dependent and that no single propagator dominates."
+    },
+    {
+      "id": 48,
+      "role": "thesis",
+      "quaestio": 21,
+      "side": "Sic",
+      "label": "Quaestio XXI \u2014 Sic.",
+      "text": "*Continuous-time quantum walks offer a generic algorithmic speedup over classical random walks.* Childs's hitting-time results on glued binary trees demonstrate an exponential separation; Childs and Goldstone's spatial search on the complete graph achieves the Grover bound. The quantum walk propagator $\\exp(-iAt)$ is unitary, supports interference, and generates structurally distinct hitting-time distributions on a wide class of graphs. Continuous-time quantum walks are the canonical generalisation of random walks to the quantum setting and the basis of several known quantum speedups."
+    },
+    {
+      "id": 49,
+      "role": "antithesis",
+      "quaestio": 21,
+      "side": "Non",
+      "label": "Quaestio XXI \u2014 Non.",
+      "text": "*Continuous-time quantum walks do not offer a generic speedup over classical random walks.* The Childs glued-binary-trees separation is a problem-specific result requiring a carefully constructed instance; on generic graphs the quantum walk hitting time matches the classical random walk up to constant factors. The spatial search problem reduces to Grover and inherits Grover's quadratic speedup, which is not a graph-dynamics-specific result. The bulk of the quantum walk literature is concerned with constructing problems for which the speedup exists, not with proving a generic advantage. The \"generic speedup\" claim overstates the empirical content."
+    },
+    {
+      "id": 50,
+      "role": "thesis",
+      "quaestio": 22,
+      "side": "Sic",
+      "label": "Quaestio XXII \u2014 Sic.",
+      "text": "*Centrality on a graph is a well-defined invariant.* PageRank, eigenvector centrality, Katz centrality, betweenness, closeness \u2014 each defines a per-node score derivable from the adjacency matrix alone, invariant under automorphism, and computable in polynomial time. The disagreements between centrality measures on individual nodes are real but bounded: the top-$k$ rankings of any two centrality measures agree on most nodes, and the residual disagreement is a measurable property of the graph itself."
+    },
+    {
+      "id": 51,
+      "role": "antithesis",
+      "quaestio": 22,
+      "side": "Non",
+      "label": "Quaestio XXII \u2014 Non.",
+      "text": "*Centrality on a graph is not a well-defined invariant.* The \"centrality\" of a node is a function of the centrality measure used: PageRank rewards hub neighbours, eigenvector centrality rewards leading-eigenvector projection, betweenness rewards path-crossing, closeness rewards geodesic proximity. On real graphs the top-10 rankings of different centrality measures overlap by at most 30% on average. There is no measure-independent \"centrality\" of a node; the term is a family of related but distinct quantities, and the choice of which to use is application-dependent."
+    },
+    {
+      "id": 52,
+      "role": "thesis",
+      "quaestio": 23,
+      "side": "Sic",
+      "label": "Quaestio XXIII \u2014 Sic.",
+      "text": "*Scrambling on graphs admits a universal exponent analogous to chaos in physical systems.* The out-of-time-ordered correlator (OTOC) on a quantum graph dynamics grows exponentially in time with a Lyapunov-like exponent. On a sufficiently chaotic graph (random regular, expander, hyperbolic) the exponent saturates the Maldacena\u2013Shenker\u2013Stanford bound $2\\pi T$. The graph dynamics inherits the universal chaotic behaviour of its underlying spectrum, and the exponent is well-defined in the thermodynamic limit."
+    },
+    {
+      "id": 53,
+      "role": "antithesis",
+      "quaestio": 23,
+      "side": "Non",
+      "label": "Quaestio XXIII \u2014 Non.",
+      "text": "*Scrambling on graphs does not admit a universal exponent.* The OTOC growth on finite graphs depends on the graph's spectral density, the choice of initial operator, and the temperature, in ways that the MSS bound \u2014 derived for infinite quantum systems with smooth spectra \u2014 does not address. On expanders the exponent saturates; on planar graphs it does not; on bipartite graphs it vanishes. The \"universal\" exponent is universal only within a class of graphs where the spectral assumptions hold, and the class is narrower than the chaos literature claims."
+    },
+    {
+      "id": 54,
+      "role": "thesis",
+      "quaestio": 24,
+      "side": "Sic",
+      "label": "Quaestio XXIV \u2014 Sic.",
+      "text": "*The spectral form factor is a useful observable for finite graphs.* The SFF $K(\\tau) = N^{-1}|\\sum_\\alpha e^{-i E_\\alpha \\tau}|^2$ probes the level statistics of the graph adjacency operator and distinguishes integrable from chaotic spectra. On finite graphs it is computable in $O(N)$ time per $\\tau$ once the spectrum is known. The SFF is widely used in disordered systems and many-body physics; its application to graphs is a direct transfer."
+    },
+    {
+      "id": 55,
+      "role": "antithesis",
+      "quaestio": 24,
+      "side": "Non",
+      "label": "Quaestio XXIV \u2014 Non.",
+      "text": "*The spectral form factor is not a useful observable for finite graphs.* The SFF is a function of the level spacings, but on finite graphs the spacings are discrete and the time-domain features are dominated by the smallest few eigenvalues. On graphs with $N < 1000$ \u2014 the regime accessible to current Rydberg hardware \u2014 the SFF is statistically dominated by edge effects and does not converge to its large-$N$ asymptote. The observable is well-defined but not informative below the regime where its asymptotic statistics apply."
+    },
+    {
+      "id": 56,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum quintum.",
+      "text": "The final block concerns inference: given data, what is the underlying graph? Given a graph, what does each node represent? The propositions in this block traverse message passing, Weisfeiler\u2013Leman testing, graph neural networks, spectral clustering, mutual-information edge measures, and Bayesian graph inference. The disputants include machine learning theorists, statisticians, and applied data scientists."
+    },
+    {
+      "id": 57,
+      "role": "thesis",
+      "quaestio": 25,
+      "side": "Sic",
+      "label": "Quaestio XXV \u2014 Sic.",
+      "text": "*Message passing is sufficient for graph-level prediction.* Modern graph neural networks \u2014 GCN, GAT, GIN, MPNN \u2014 all implement variations on synchronous message passing between neighbours, followed by aggregation. The architecture has been successful on molecular property prediction, citation classification, social network analysis, and a wide range of benchmarks. The empirical successes argue for the expressiveness of the framework: when more is needed, the limits are about training and data, not about architecture."
+    },
+    {
+      "id": 58,
+      "role": "antithesis",
+      "quaestio": 25,
+      "side": "Non",
+      "label": "Quaestio XXV \u2014 Non.",
+      "text": "*Message passing is not sufficient for graph-level prediction.* Xu, Hu, Leskovec, and Jegelka proved that message-passing GNNs are bounded by the 1-Weisfeiler\u2013Leman test in their distinguishing power, and infinite families of non-isomorphic graphs are 1-WL equivalent. Higher-order extensions (k-WL, $k$-GNN) escape this bound but at exponential cost. On tasks that depend on global graph structure \u2014 connectivity, cycle counting, sub-graph identification \u2014 message passing fails systematically. The framework is expressive enough for many practical tasks and provably insufficient for others."
+    },
+    {
+      "id": 59,
+      "role": "thesis",
+      "quaestio": 26,
+      "side": "Sic",
+      "label": "Quaestio XXVI \u2014 Sic.",
+      "text": "*The Weisfeiler\u2013Leman hierarchy distinguishes all graphs in the limit.* The $k$-WL test distinguishes all non-isomorphic graphs for $k$ large enough as a function of the number of vertices. Cai, F\u00fcrer, and Immerman's $\\Omega(n)$ lower bound is tight in the worst case but exponentially better than na\u00efve enumeration. Together with the algebraic theory of graph polynomials, the WL hierarchy is the canonical algorithmic framework for the graph isomorphism problem. The \"in the limit\" version is a complete invariant."
+    },
+    {
+      "id": 60,
+      "role": "antithesis",
+      "quaestio": 26,
+      "side": "Non",
+      "label": "Quaestio XXVI \u2014 Non.",
+      "text": "*The Weisfeiler\u2013Leman hierarchy does not distinguish all graphs in any practical sense.* The Cai\u2013F\u00fcrer\u2013Immerman lower bound shows that the WL hierarchy required to distinguish a specific family of non-isomorphic graphs grows linearly with the graph size, making the test exponential in practice. For graphs of $n \\approx 100$ vertices the relevant WL level is computationally intractable. The \"in the limit\" reading is a complexity-theoretic statement, not a practical algorithm, and treating it as the latter overstates the implementability."
+    },
+    {
+      "id": 61,
+      "role": "thesis",
+      "quaestio": 27,
+      "side": "Sic",
+      "label": "Quaestio XXVII \u2014 Sic.",
+      "text": "*Graph neural networks can distinguish all non-isomorphic graphs given sufficient depth.* Loukas's depth-vs-width separations show that with $\\Theta(\\text{diameter})$ layers and appropriate aggregation, GNNs match the $k$-WL hierarchy and distinguish a strictly larger class of graphs than 1-WL. Higher-order architectures (GINs with random features, equivariant GNNs, transformer-style architectures with structural embeddings) escape the standard hierarchy entirely. The expressiveness ceiling is a property of specific simple architectures, not of the GNN paradigm."
+    },
+    {
+      "id": 62,
+      "role": "antithesis",
+      "quaestio": 27,
+      "side": "Non",
+      "label": "Quaestio XXVII \u2014 Non.",
+      "text": "*Graph neural networks cannot distinguish all non-isomorphic graphs in any practical regime.* The Loukas separations require depth scaling with the graph diameter, which on natural networks of $n \\approx 10^4$ vertices is well above the depths empirically trainable. Random feature augmentation, equivariant architectures, and structural embeddings each escape the 1-WL bound but introduce variance, training instability, or computational cost that wipes out the gains in practice. The expressiveness ceiling is a theoretical statement; the practical situation is that GNNs collapse to 1-WL on real benchmarks."
+    },
+    {
+      "id": 63,
+      "role": "thesis",
+      "quaestio": 28,
+      "side": "Sic",
+      "label": "Quaestio XXVIII \u2014 Sic.",
+      "text": "*Spectral clustering reveals ground-truth communities on real-world graphs.* The normalized cut criterion, the Shi\u2013Malik spectral algorithm, and the Ng\u2013Jordan\u2013Weiss spectral clustering all converge to the consistent estimator of the stochastic block model partition as $n \\to \\infty$. The agreement with manual or external ground truth on benchmark networks (Zachary's karate club, the dolphin network, the Lusseau bottlenose graph) is consistent and reproducible. The literature treats spectral clustering as ground-truth recovery, not algorithmic artefact."
+    },
+    {
+      "id": 64,
+      "role": "antithesis",
+      "quaestio": 28,
+      "side": "Non",
+      "label": "Quaestio XXVIII \u2014 Non.",
+      "text": "*Spectral clustering does not reveal ground-truth communities; it reveals leading eigenvectors.* The Shi\u2013Malik algorithm finds the partition that minimises the normalised cut, which is a graph-spectral objective with no a priori connection to \"communities\" as a substantive concept. The agreement with manual ground truth on benchmark networks is a selection effect: those benchmarks were chosen because spectral methods recovered the manual partitions. On networks without ground truth, different spectral methods give different partitions, and the agreement is a property of the methods, not of the graph."
+    },
+    {
+      "id": 65,
+      "role": "thesis",
+      "quaestio": 29,
+      "side": "Sic",
+      "label": "Quaestio XXIX \u2014 Sic.",
+      "text": "*Mutual information is the right measure of edge strength between nodes.* Mutual information is a non-negative, symmetric, monotonic-under-information-processing measure that captures all statistical dependence between two random variables. On a graph with edge weights derived from co-occurrence or co-activation, mutual information is a principled choice: it has axiomatic foundations (Shannon, Cover and Thomas), it does not depend on a chosen monotone transformation, and it generalises Pearson correlation to nonlinear dependence."
+    },
+    {
+      "id": 66,
+      "role": "antithesis",
+      "quaestio": 29,
+      "side": "Non",
+      "label": "Quaestio XXIX \u2014 Non.",
+      "text": "*Mutual information is not the right measure of edge strength between nodes.* The estimation of mutual information from finite samples is biased and unstable, especially in the high-dimensional regime that node-feature data typically occupies. On real-world co-occurrence data \u2014 words, genes, transactions \u2014 mutual information is dominated by frequency effects and requires sophisticated correction (BBL, MIC, k-NN estimators), each of which introduces its own biases. Pearson correlation, despite its restriction to linear dependence, is more stable, more interpretable, and adequately captures the dependence structure of most empirical networks."
+    },
+    {
+      "id": 67,
+      "role": "thesis",
+      "quaestio": 30,
+      "side": "Sic",
+      "label": "Quaestio XXX \u2014 Sic.",
+      "text": "*Bayesian inference of graph structure from data is the principled approach.* Given data and a generative model, Bayes's theorem assigns posterior probabilities to graph structures, integrating over edge weights and node parameters. The framework subsumes maximum likelihood, regularised estimation, and frequentist inference as special cases. Stochastic block model inference, Gaussian graphical model selection, and structural causal model recovery are all Bayesian programmes; the framework's success on these problems argues for its universality."
+    },
+    {
+      "id": 68,
+      "role": "antithesis",
+      "quaestio": 30,
+      "side": "Non",
+      "label": "Quaestio XXX \u2014 Non.",
+      "text": "*Bayesian inference of graph structure is not the principled approach.* The posterior over graphs is intractable for any non-trivial generative model, and the approximations \u2014 variational inference, MCMC over the graph space \u2014 introduce errors that dominate the inference. The choice of prior over graph structures imposes assumptions that are rarely justifiable from data and that the inference cannot escape. Frequentist alternatives \u2014 graphical lasso, constraint-based methods (PC algorithm), score-based methods (GES) \u2014 make weaker assumptions and have better-characterised error properties. The \"principled\" status of Bayesian inference is a methodological preference, not a mathematical fact."
+    },
+    {
+      "id": 69,
+      "role": "transition",
+      "quaestio": null,
+      "side": null,
+      "label": "Transitio III.",
+      "text": "The thirty disputations end here. The reader who has followed the form will have noticed that for every proposition, both sides have been argued by their advocates with equal vigour. The disagreements are not pedagogical \u2014 they are not contrived by the author for instructional purposes \u2014 but real disputes in the contemporary literature. A graph theorist who claims to have read all thirty quaestiones and decided each one has either been dishonest about the difficulty or about the breadth."
+    },
+    {
+      "id": 70,
+      "role": "epilogos",
+      "quaestio": null,
+      "side": null,
+      "label": "Epilogos.",
+      "text": "What conclusion does the disputation method itself license? Not the resolution of any specific question. Not the consensus of the parties. The method licenses a specific kind of negative knowledge: a list of pairs of positions that are jointly untenable. To assert *Sic* on quaestio I is to commit to a position incompatible with *Non* on quaestio I. The graph of such incompatibilities \u2014 propositions as vertices, incompatibilities as edges \u2014 is the structure the disputation method produces. The Maximum Independent Set on this graph is the largest coherent stance a graph theorist can hold; its rigidity is zero by construction; its alternatives are $2^{30}$ in number. The reader who wishes to commit to a position must choose, on each pair, which side to take. The author declines."
+    },
+    {
+      "id": 71,
+      "role": "transition",
+      "quaestio": null,
+      "side": null,
+      "label": "Transitio IV.",
+      "text": "The thirty original disputations covered complexity, randomness, geometry, dynamics, and inference on graphs. The reader who has followed them encounters now the questions of how graphs *connect* \u2014 between subsets, across cuts, through flows. The four blocks that follow ask further disputed questions: about connectivity and expansion (Block VI), about coloring and flow (Block VII), about probabilistic methods (Block VIII), and about graphs as they appear in modern applications (Block IX). Twenty further quaestiones, each defended and refuted with the same dialectical seriousness."
+    },
+    {
+      "id": 72,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum sextum.",
+      "text": "Connectivity is the oldest substantive question on graphs after isomorphism. How many edges must be cut to disconnect a graph? How many vertex-disjoint paths run between two terminals? What is the expansion of a subset \u2014 the ratio of its boundary to its size? Menger's theorem and the max-flow / min-cut duality are the classical results; expander graphs and the Cheeger inequality are the modern refinements. The five propositions in this block dispute whether vertex- and edge-connectivity are dual, whether expansion is a meaningful invariant on sparse graphs, whether the spectral gap determines mixing, whether expanders are the right model of robustness, and whether the algorithmic problem of computing connectivity scales gracefully."
+    },
+    {
+      "id": 73,
+      "role": "thesis",
+      "quaestio": 31,
+      "side": "Sic",
+      "label": "Quaestio XXXI \u2014 Sic.",
+      "text": "*Vertex-connectivity and edge-connectivity are essentially dual.* Menger's theorem establishes that the minimum vertex-cut between two non-adjacent vertices equals the maximum number of internally vertex-disjoint paths between them; the edge analog is the equivalent statement for edge-disjoint paths. The two quantities track each other on every natural graph class \u2014 vertex-connectivity differs from edge-connectivity by at most a constant on planar graphs, by a logarithmic factor on expanders, and by nothing at all on graphs of minimum degree exceeding the connectivity bound. Treating the two as essentially dual is mathematically defensible and pedagogically efficient."
+    },
+    {
+      "id": 74,
+      "role": "antithesis",
+      "quaestio": 31,
+      "side": "Non",
+      "label": "Quaestio XXXI \u2014 Non.",
+      "text": "*Vertex-connectivity and edge-connectivity are not essentially dual.* On a star graph $K_{1,n}$, edge-connectivity is $1$ but the graph remains \"vertex-connected\" only by removing the centre, after which it shatters into $n$ components \u2014 vertex-connectivity is also $1$, but the *qualitative* failure mode is different. On graphs with cut vertices, vertex-connectivity is bounded above by edge-connectivity, but the bound is strict and the gap can be arbitrary. Engineering applications \u2014 networks designed to tolerate node failure versus link failure \u2014 distinguish the two quantities precisely because the failure modes are not interchangeable. The mathematical duality of Menger's theorem is real but the operational duality is not."
+    },
+    {
+      "id": 75,
+      "role": "thesis",
+      "quaestio": 32,
+      "side": "Sic",
+      "label": "Quaestio XXXII \u2014 Sic.",
+      "text": "*The Cheeger inequality makes the spectral gap the canonical measure of graph expansion.* The discrete Cheeger inequality bounds the edge-expansion $h(G)$ in terms of the second eigenvalue $\\lambda_2$ of the normalised Laplacian: $\\lambda_2 / 2 \\leq h(G) \\leq \\sqrt{2\\lambda_2}$. For random regular graphs and explicit expander constructions, the spectral gap is the single number that determines the mixing time of the random walk, the resistance of the graph to disconnection by adversarial cuts, and the sample complexity of graph algorithms. Hoory, Linial, and Wigderson's survey treats $\\lambda_2$ as the canonical expansion measure."
+    },
+    {
+      "id": 76,
+      "role": "antithesis",
+      "quaestio": 32,
+      "side": "Non",
+      "label": "Quaestio XXXII \u2014 Non.",
+      "text": "*The Cheeger inequality does not make the spectral gap the canonical measure of graph expansion.* The Cheeger bounds leave a factor-$\\sqrt{2\\lambda_2}$ gap between the spectral gap and the actual edge-expansion \u2014 on graphs where the bound is loose (and many natural classes are), the two quantities differ by an order of magnitude. Combinatorial expansion (Buser inequality), vertex expansion, unique-neighbour expansion, and small-set expansion each give distinct measures of \"expansion,\" each captures a different graph property, and the spectral gap dominates none of them in general. The spectral gap is one measure among several, not the canonical one."
+    },
+    {
+      "id": 77,
+      "role": "thesis",
+      "quaestio": 33,
+      "side": "Sic",
+      "label": "Quaestio XXXIII \u2014 Sic.",
+      "text": "*Expander graphs are the canonical model of robust sparse networks.* An expander has constant edge expansion, mixing time $O(\\log n)$, and diameter $O(\\log n)$ \u2014 the three classical signatures of \"robust connectivity.\" Lubotzky's monograph and the Ramanujan graph construction of Lubotzky\u2013Phillips\u2013Sarnak demonstrate that explicit expanders exist with $\\lambda_2 = 2\\sqrt{d-1}/(d-1)^{1/2}$, saturating the Alon\u2013Boppana lower bound. Robust sparse network design \u2014 error-correcting codes, derandomization, network routing \u2014 uses expanders as the reference model. The literature treats expanders as the canonical robust-sparse construction."
+    },
+    {
+      "id": 78,
+      "role": "antithesis",
+      "quaestio": 33,
+      "side": "Non",
+      "label": "Quaestio XXXIII \u2014 Non.",
+      "text": "*Expander graphs are not the canonical model of robust sparse networks.* Expanders are uniformly robust \u2014 every cut is large by a constant fraction \u2014 but real-world robustness is structured: certain cuts are easier to attack than others. Resilience-engineering of communication networks designs for protection against specific attack patterns (geographical, temporal, role-based), not against arbitrary adversarial cuts. Scale-free networks are robust to random failure and vulnerable to targeted attack; expanders are robust to both but at the cost of regular structure that few engineered networks share. Robustness in practice is multi-dimensional; expanders capture one dimension of it."
+    },
+    {
+      "id": 79,
+      "role": "thesis",
+      "quaestio": 34,
+      "side": "Sic",
+      "label": "Quaestio XXXIV \u2014 Sic.",
+      "text": "*The minimum-cut problem on graphs admits a sub-cubic algorithm in practice.* Karger's randomised algorithm computes a global minimum cut in $\\widetilde{O}(m)$ time in expectation, where $m$ is the number of edges. Karger\u2013Stein's improvement and the parallel implementations of Henzinger\u2013Williamson make minimum-cut computation routinely feasible on graphs with millions of edges. The polynomial bound is tight in practice, and on the natural classes of graphs encountered in applications \u2014 sparse, low-treewidth, planar \u2014 the running times are essentially linear."
+    },
+    {
+      "id": 80,
+      "role": "antithesis",
+      "quaestio": 34,
+      "side": "Non",
+      "label": "Quaestio XXXIV \u2014 Non.",
+      "text": "*The minimum-cut problem on graphs does not admit a sub-cubic algorithm in the worst case.* Karger's randomised $\\widetilde{O}(m)$ result is in expectation, and the worst-case behaviour of randomised cut algorithms on adversarial inputs is super-quadratic. The minimum $s$-$t$ cut problem reduces to maximum flow, which has matched $\\Theta(mn)$ lower bounds on the cut-set itself, not on the value of the cut. The \"practical sub-cubic\" claim conflates expected-case randomised performance with worst-case deterministic behaviour. For graph classes used in security and database applications \u2014 adversarial, structured for hardness \u2014 the worst-case bound is the relevant one and remains super-quadratic."
+    },
+    {
+      "id": 81,
+      "role": "thesis",
+      "quaestio": 35,
+      "side": "Sic",
+      "label": "Quaestio XXXV \u2014 Sic.",
+      "text": "*Edge expansion bounds the graph diameter from above.* On a graph with edge expansion $h$, the random walk equilibrates in $O(\\log n / h)$ steps, and the diameter is bounded by the same quantity up to constants. Lov\u00e1sz's monograph treats the diameter as a direct consequence of edge expansion via the standard mixing-time argument. The bound is tight on expanders and asymptotically achieved on random regular graphs."
+    },
+    {
+      "id": 82,
+      "role": "antithesis",
+      "quaestio": 35,
+      "side": "Non",
+      "label": "Quaestio XXXV \u2014 Non.",
+      "text": "*Edge expansion does not bound the graph diameter from above.* Mixing-time-based diameter bounds are correct for random walks but mis-state the deterministic diameter, which can be arbitrarily large on graphs with bounded edge expansion. The barbell graph \u2014 two cliques connected by a single edge \u2014 has bounded local expansion but diameter scaling linearly with the clique size. The \"random walk mixes in $O(\\log n / h)$ steps\" reading conflates mixing time with diameter; the two quantities can differ by exponential factors. Edge expansion bounds mixing; it does not bound diameter."
+    },
+    {
+      "id": 83,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum septimum.",
+      "text": "Coloring asks how few colours suffice to assign one to each vertex such that adjacent vertices differ; flow asks how much commodity can travel from source to sink without exceeding edge capacities. The two are duals in the polyhedral sense and twins in the algorithmic sense: both are LP-relaxable, both have classical polynomial algorithms on restricted classes, both have NP-hard general cases. The five propositions in this block dispute the universality of the four-colour bound on planar graphs, the relationship between chromatic and clique number, the LP-relaxation gap on coloring, the max-flow / min-cut tightness on integer instances, and the algorithmic complexity of edge coloring versus vertex coloring."
+    },
+    {
+      "id": 84,
+      "role": "thesis",
+      "quaestio": 36,
+      "side": "Sic",
+      "label": "Quaestio XXXVI \u2014 Sic.",
+      "text": "*The four-colour theorem extends naturally to \"list coloring\" on planar graphs.* Thomassen's theorem proves that every planar graph is 5-list-colourable; Voigt's example shows that 4-list-colouring fails. The five-list-colouring result and the four-colour theorem together establish the precise gap between coloring (which only requires that the colours exist) and list-coloring (which requires the colours to come from a prescribed list per vertex). The two results are companion theorems: planarity gives a chromatic-number bound of $4$ and a list-chromatic-number bound of $5$, and the relationship is well-understood."
+    },
+    {
+      "id": 85,
+      "role": "antithesis",
+      "quaestio": 36,
+      "side": "Non",
+      "label": "Quaestio XXXVI \u2014 Non.",
+      "text": "*The four-colour theorem does not extend naturally to list coloring on planar graphs.* The gap between chromatic number ($\\leq 4$) and list-chromatic number ($\\leq 5$) on planar graphs is a serious analytical jump: the proofs of the two results use different techniques (discharging vs Alon\u2013Tarsi), the constants of proportionality differ, and the methods do not share a common framework. Voigt's example shows that the gap is achieved infinitely often, and the structural reason \u2014 \"lists can be adversarial in ways colours cannot\" \u2014 is qualitatively different from the structural argument that bounds the chromatic number. The two results coexist but do not extend one another."
+    },
+    {
+      "id": 86,
+      "role": "thesis",
+      "quaestio": 37,
+      "side": "Sic",
+      "label": "Quaestio XXXVII \u2014 Sic.",
+      "text": "*The chromatic number is tightly bounded by the clique number on most natural graph classes.* On perfect graphs (Chv\u00e1tal, Lov\u00e1sz) the two are equal; on interval graphs, comparability graphs, and chordal graphs the equality is structural; on planar graphs and bounded-genus graphs the chromatic number exceeds the clique number by at most a constant. Empirical graphs of practical interest \u2014 scheduling, register allocation, frequency assignment \u2014 fall in classes where the two quantities are close. Treating chromatic number as essentially the clique number is justified on natural instances."
+    },
+    {
+      "id": 87,
+      "role": "antithesis",
+      "quaestio": 37,
+      "side": "Non",
+      "label": "Quaestio XXXVII \u2014 Non.",
+      "text": "*The chromatic number is not tightly bounded by the clique number on most natural graph classes.* Triangle-free graphs of arbitrary chromatic number (Mycielski's construction, Erd\u0151s's probabilistic argument) demonstrate that the gap between $\\chi$ and $\\omega$ can be unbounded even when the clique number is $2$. On random regular graphs the gap is $\\Theta(d / \\log d)$ where $d$ is the degree; on shift graphs (Erd\u0151s\u2013Hajnal) the gap is arbitrary. The \"natural graph classes\" where the two quantities agree are the ones where the chromatic number was bounded by other arguments first; the implication does not extend to unrestricted families."
+    },
+    {
+      "id": 88,
+      "role": "thesis",
+      "quaestio": 38,
+      "side": "Sic",
+      "label": "Quaestio XXXVIII \u2014 Sic.",
+      "text": "*Max-flow and min-cut are computationally equivalent on integer-weighted graphs.* Ford\u2013Fulkerson's theorem establishes equality of values; algorithmic reductions in both directions are linear in the graph size; modern algorithms (Orlin, Goldberg\u2013Tarjan, King\u2013Rao\u2013Tarjan, Chen\u2013Kyng\u2013Liu\u2013Peng\u2013Probst Gutenberg\u2013Sachdeva's recent almost-linear-time algorithm) compute both quantities with the same asymptotic complexity. The two problems are not merely dual at the LP level \u2014 they are computationally interchangeable, and an algorithm for one is an algorithm for the other."
+    },
+    {
+      "id": 89,
+      "role": "antithesis",
+      "quaestio": 38,
+      "side": "Non",
+      "label": "Quaestio XXXVIII \u2014 Non.",
+      "text": "*Max-flow and min-cut are not computationally equivalent.* The LP-duality gives equal optimum values, but the actual cut (the set of edges) and the actual flow (the assignment of flow to edges) are different objects of different sizes. Min-cut may have polynomial size but max-flow can be exponential in the number of paths it decomposes into; the reverse reduction blows up. The almost-linear-time algorithm of Chen et al.~for max-flow does not give an almost-linear-time algorithm for finding the actual min-cut set; the cut itself requires additional work. Computational equivalence at the level of optimum values is real; computational equivalence at the level of optimal solutions is not."
+    },
+    {
+      "id": 90,
+      "role": "thesis",
+      "quaestio": 39,
+      "side": "Sic",
+      "label": "Quaestio XXXIX \u2014 Sic.",
+      "text": "*Edge coloring is fundamentally easier than vertex coloring.* Vizing's theorem establishes that the chromatic index $\\chi'(G)$ of any simple graph satisfies $\\Delta(G) \\leq \\chi'(G) \\leq \\Delta(G) + 1$ \u2014 a much tighter bound than the $\\chi(G) \\leq \\Delta(G) + 1$ obtained by greedy vertex coloring, which is itself often tight only loosely. Edge coloring on bipartite graphs is solvable in polynomial time (K\u00f6nig's theorem). The decision of which of the two Vizing classes a graph belongs to is NP-hard (Holyer), but the structural gap between $\\Delta$ and $\\Delta+1$ is much narrower than the vertex-coloring gap."
+    },
+    {
+      "id": 91,
+      "role": "antithesis",
+      "quaestio": 39,
+      "side": "Non",
+      "label": "Quaestio XXXIX \u2014 Non.",
+      "text": "*Edge coloring is not fundamentally easier than vertex coloring.* Holyer's theorem establishes that determining $\\chi'(G) \\in \\{\\Delta, \\Delta+1\\}$ is NP-hard already on simple cubic graphs \u2014 exactly as hard as 3-vertex-coloring. The Vizing bound is structurally tight in a sense the vertex bound is not, but tightness does not mean algorithmic ease. Polynomial-time algorithms exist for restricted classes (bipartite, planar) in both vertex and edge coloring; the worst-case complexity of the two problems is the same. The \"fundamentally easier\" reading mis-states what Vizing's theorem actually provides."
+    },
+    {
+      "id": 92,
+      "role": "thesis",
+      "quaestio": 40,
+      "side": "Sic",
+      "label": "Quaestio XL \u2014 Sic.",
+      "text": "*The LP-relaxation gap of the vertex-coloring problem is bounded by the fractional chromatic number.* The fractional chromatic number $\\chi_f(G)$ is the LP-relaxation optimum of the integer-coloring LP, and the gap $\\chi(G) / \\chi_f(G)$ is bounded by a logarithmic factor on every graph (Lov\u00e1sz). The Lov\u00e1sz theta function $\\vartheta(G)$ sits between the clique number and the chromatic number for perfect graphs and gives a polynomial-time computable approximation in general. The LP-relaxation framework yields a unified theory of approximate coloring."
+    },
+    {
+      "id": 93,
+      "role": "antithesis",
+      "quaestio": 40,
+      "side": "Non",
+      "label": "Quaestio XL \u2014 Non.",
+      "text": "*The LP-relaxation gap of vertex coloring is not bounded by the fractional chromatic number.* The fractional chromatic number on triangle-free graphs of high girth (Mycielski's construction iterated) is bounded \u2014 and integer chromatic number is unbounded. The gap between $\\chi$ and $\\chi_f$ can be infinite on natural graph classes. The Lov\u00e1sz theta function approximates the chromatic number on perfect graphs but the approximation is computationally expensive (semidefinite, not linear) and the approximation is bad on graphs where $\\vartheta - \\omega$ and $\\chi - \\vartheta$ can both be large. The \"unified theory of approximate coloring\" via LP relaxation is partial and class-restricted."
+    },
+    {
+      "id": 94,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum octavum.",
+      "text": "The probabilistic method on graphs \u2014 proving the existence of structures by random construction \u2014 was inaugurated by Erd\u0151s and has dominated combinatorics since. The five propositions in this block dispute whether random graphs are essentially well-understood, whether the probabilistic method gives constructive proofs, whether concentration inequalities suffice on graph-derived random variables, whether the Lov\u00e1sz Local Lemma is the right tool for proving graph existence, and whether random graphs admit a clean phase transition theory."
+    },
+    {
+      "id": 95,
+      "role": "thesis",
+      "quaestio": 41,
+      "side": "Sic",
+      "label": "Quaestio XLI \u2014 Sic.",
+      "text": "*The Erd\u0151s\u2013R\u00e9nyi random graph is essentially well-understood.* Janson, \u0141uczak, and Ruci\u0144ski's monograph treats the giant-component threshold ($p = 1/n$), the connectivity threshold ($p = \\log n / n$), the chromatic number ($\\chi(G(n,p)) = \\Theta(n/\\log n)$ for $p = 1/2$), and the diameter ($\\Theta(\\log n / \\log np)$ in the connected regime) as foundational results, all with known constants. The empirical phenomenology of finite-sample $G(n,p)$ matches the asymptotic theory within statistical-sampling fluctuations. The theory is essentially complete."
+    },
+    {
+      "id": 96,
+      "role": "antithesis",
+      "quaestio": 41,
+      "side": "Non",
+      "label": "Quaestio XLI \u2014 Non.",
+      "text": "*The Erd\u0151s\u2013R\u00e9nyi random graph is not essentially well-understood.* Many quantities resist clean asymptotic characterisation: the cover time (Aldous\u2013Fill bound but no exact constant), the longest induced cycle (open since 1960s), the maximum clique vs typical clique (gap of constant factor for $p = 1/2$, gap of unknown order for $p = n^{-\\alpha}$), and the chromatic number constants (known only to within a factor of $2$). The \"essentially complete\" framing conflates the resolution of headline thresholds with the resolution of detailed structure; the latter remains an active and substantial research area."
+    },
+    {
+      "id": 97,
+      "role": "thesis",
+      "quaestio": 42,
+      "side": "Sic",
+      "label": "Quaestio XLII \u2014 Sic.",
+      "text": "*The probabilistic method on graphs yields essentially constructive proofs.* Alon and Spencer's monograph demonstrates that the probabilistic-existence proofs of Ramsey lower bounds, list-chromatic number bounds, and graph-decomposition results have been systematically de-randomised via the method of conditional expectations, Erd\u0151s's covering-by-events trick, and the Lov\u00e1sz Local Lemma's algorithmic version (Moser\u2013Tardos). The probabilistic existence proof is the first step in a pipeline that yields explicit polynomial-time constructions in most cases of interest."
+    },
+    {
+      "id": 98,
+      "role": "antithesis",
+      "quaestio": 42,
+      "side": "Non",
+      "label": "Quaestio XLII \u2014 Non.",
+      "text": "*The probabilistic method on graphs does not yield essentially constructive proofs.* The Ramsey-number lower bound $R(k, k) \\geq 2^{k/2}$ has resisted explicit-construction for sixty years; the best explicit constructions give only $R(k, k) \\geq 2^{\\Theta(\\sqrt{k \\log k})}$. The list-chromatic number lower bounds and the Erd\u0151s\u2013Hajnal conjecture's existential cases are similarly resistant to derandomisation. The Moser\u2013Tardos algorithmic LLL works on a subset of LLL applications; the general case remains existential. The \"essentially constructive\" reading describes a successful sub-programme, not the whole landscape."
+    },
+    {
+      "id": 99,
+      "role": "thesis",
+      "quaestio": 43,
+      "side": "Sic",
+      "label": "Quaestio XLIII \u2014 Sic.",
+      "text": "*Concentration inequalities (McDiarmid, Talagrand) are sufficient for analysing graph-derived random variables.* The bounded-differences inequality controls the deviation of any Lipschitz function on a random graph, with confidence intervals of order $1/\\sqrt{n}$ for natural graph statistics \u2014 number of triangles, number of independent sets, chromatic number on $G(n,p)$. Talagrand's isoperimetric inequality strengthens this to concentration around the median rather than the mean. The toolbox of modern concentration inequalities covers nearly every graph statistic of interest and gives bounds with computable constants."
+    },
+    {
+      "id": 100,
+      "role": "antithesis",
+      "quaestio": 43,
+      "side": "Non",
+      "label": "Quaestio XLIII \u2014 Non.",
+      "text": "*Concentration inequalities are not sufficient for graph-derived random variables.* McDiarmid's bounded-differences condition fails for statistics that depend on the entire graph structure (chromatic number on sparse $G(n,p)$, longest cycle, longest induced path) \u2014 the bounded-differences bound holds with a constant of the wrong order, and tight bounds require more sophisticated tools (Janson's inequality, the entropy method, the second-moment method). Talagrand's inequality applies only to product spaces and not to random graphs in their natural representation. The \"toolbox is sufficient\" reading is true for textbook statistics and false for many of the open problems where the bounds actually matter."
+    },
+    {
+      "id": 101,
+      "role": "thesis",
+      "quaestio": 44,
+      "side": "Sic",
+      "label": "Quaestio XLIV \u2014 Sic.",
+      "text": "*The Lov\u00e1sz Local Lemma is the canonical tool for existence proofs in sparse-dependency probabilistic settings on graphs.* The original LLL, the symmetric and asymmetric variants, and the Moser\u2013Tardos algorithmic version together cover the bulk of probabilistic existence proofs where events have local dependencies \u2014 graph colourings with bounded-degree dependencies, hypergraph colorings, satisfiability of $k$-CNF with bounded clause overlap. The LLL is the most-used tool in combinatorial existence proofs after the probabilistic method itself, and the \"right tool\" for dependency-bounded settings."
+    },
+    {
+      "id": 102,
+      "role": "antithesis",
+      "quaestio": 44,
+      "side": "Non",
+      "label": "Quaestio XLIV \u2014 Non.",
+      "text": "*The Lov\u00e1sz Local Lemma is not the canonical tool for sparse-dependency existence proofs.* The LLL requires the dependency graph to be of bounded size and the bad-event probabilities to satisfy a delicate constraint; on many natural graph problems neither condition holds. The Shearer's inequality refines LLL into a tighter but harder-to-apply form; the entropy compression method (Moser) is a different argument that succeeds where LLL fails (e.g., the $\\Omega(n^{1/k})$ lower bound on the Ramsey number $R(k, k)$). The \"canonical\" reading reflects the LLL's prominence in textbook exposition; the working tools are a wider family."
+    },
+    {
+      "id": 103,
+      "role": "thesis",
+      "quaestio": 45,
+      "side": "Sic",
+      "label": "Quaestio XLV \u2014 Sic.",
+      "text": "*Random graphs exhibit sharp phase transitions analogous to physical critical phenomena.* The giant-component threshold ($p = 1/n$ in $G(n,p)$), the connectivity threshold ($p = \\log n / n$), and the $k$-core threshold are all sharp in the sense of Friedgut's theorem: the probability of having the property jumps from $\\epsilon$ to $1-\\epsilon$ within a window of width $o(1/n)$ around the critical point. The mean-field universality class \u2014 exponents and scaling functions matching those of percolation on $\\mathbb{Z}^d$ for $d \\to \\infty$ \u2014 has been rigorously established for $G(n, p)$ and its variants. The analogy to physical critical phenomena is mathematically precise."
+    },
+    {
+      "id": 104,
+      "role": "antithesis",
+      "quaestio": 45,
+      "side": "Non",
+      "label": "Quaestio XLV \u2014 Non.",
+      "text": "*Random graphs do not exhibit sharp phase transitions analogous to physical critical phenomena.* Random-graph transitions are sharp at the bulk-property level (connectivity, giant component) but smeared at the level of structural features (number of cycles of fixed length, motif counts, spectral gap) \u2014 the corresponding \"transitions\" extend over windows of order $1/\\sqrt{n}$, much wider than the $o(1/n)$ Friedgut bound. The mean-field analogy presumes $d \\to \\infty$ in percolation; finite-dimensional percolation has different critical exponents that the random-graph theory cannot recover. The \"physical critical phenomena\" framing is true for one feature (the giant component) and misleading for the rest."
+    },
+    {
+      "id": 105,
+      "role": "preface",
+      "quaestio": null,
+      "side": null,
+      "label": "Praefatio in librum nonum.",
+      "text": "The final block of this extended edition turns to applications: graphs as they appear in machine learning, in physics, in software engineering, and in commerce. Five propositions dispute whether graph neural networks have a substantive theoretical foundation, whether the rich-club coefficient is a real phenomenon or an artifact, whether knowledge graphs are graphs in the same sense as random graphs, whether quantum-graph algorithms on near-term hardware deliver speedup, and whether industrial deployment of graph algorithms reflects the academic literature."
+    },
+    {
+      "id": 106,
+      "role": "thesis",
+      "quaestio": 46,
+      "side": "Sic",
+      "label": "Quaestio XLVI \u2014 Sic.",
+      "text": "*Graph neural networks have a substantive theoretical foundation in the Weisfeiler\u2013Leman hierarchy.* Morris et al. and Xu et al. establish that the expressive power of message-passing GNNs is bounded above by the $1$-Weisfeiler\u2013Leman test, and that higher-order GNN variants (Morris's $k$-GNN, Maron's invariant networks) climb the $k$-WL hierarchy. The framework connects the empirical success of GNNs to a classical combinatorial procedure with sixty years of literature; the bounds are tight on benchmark graph-classification tasks. The theoretical foundation is real and the empirical success is structurally explained."
+    },
+    {
+      "id": 107,
+      "role": "antithesis",
+      "quaestio": 46,
+      "side": "Non",
+      "label": "Quaestio XLVI \u2014 Non.",
+      "text": "*Graph neural networks do not have a substantive theoretical foundation.* The WL-hierarchy bound is an upper bound on distinguishing power, not on expressive sufficiency for the actual learning task. On real graph datasets the relationship between WL-class and predictive accuracy is statistical noise rather than structural signal. The \"theoretical foundation\" rebrands a long-known combinatorial procedure as a GNN-theoretic foundation, but the actual training dynamics of GNNs (over-smoothing, gradient propagation, attention mechanisms) is governed by considerations the WL framework does not address. The theoretical narrative is post-hoc."
+    },
+    {
+      "id": 108,
+      "role": "thesis",
+      "quaestio": 47,
+      "side": "Sic",
+      "label": "Quaestio XLVII \u2014 Sic.",
+      "text": "*The rich-club coefficient captures a genuine structural feature of real-world networks.* The normalised rich-club coefficient $\\phi(k)$ measures the density of connections among nodes of degree at least $k$, normalised by the corresponding random-graph baseline. Colizza, Flammini, Serrano, and Vespignani's analyses of biological, social, and transportation networks consistently find $\\phi(k) > 1$ for high $k$ on networks whose generative mechanism plausibly favours hub-hub connections (collaborations, finance, scientific co-authorship). The rich-club is a real phenomenon and a useful diagnostic."
+    },
+    {
+      "id": 109,
+      "role": "antithesis",
+      "quaestio": 47,
+      "side": "Non",
+      "label": "Quaestio XLVII \u2014 Non.",
+      "text": "*The rich-club coefficient does not capture a genuine structural feature.* The normalisation against random-graph baselines is statistically tricky: $\\phi(k)$ is sensitive to the degree-sequence specification and the choice of null model, and the same data can yield $\\phi(k) > 1$ or $\\phi(k) < 1$ depending on which null is used. Empirical claims of rich-club structure in biological networks have been retracted after re-analysis with more careful null models. The rich-club coefficient is a useful descriptive statistic, not a structural invariant; calling it a \"phenomenon\" overstates the inferential content."
+    },
+    {
+      "id": 110,
+      "role": "thesis",
+      "quaestio": 48,
+      "side": "Sic",
+      "label": "Quaestio XLVIII \u2014 Sic.",
+      "text": "*Knowledge graphs are graphs in the same sense as random graphs and citation graphs.* A knowledge graph \u2014 entities as nodes, relations as labelled edges \u2014 supports the same operations as any directed multigraph: path queries, centrality, community detection, link prediction. The Freebase, Wikidata, and YAGO graphs have been analysed with the same toolkit as social and citation networks: degree-distribution analysis, spectral decomposition, embedding-based learning. The \"knowledge\" qualifier is descriptive; the mathematical object is a graph in the canonical sense."
+    },
+    {
+      "id": 111,
+      "role": "antithesis",
+      "quaestio": 48,
+      "side": "Non",
+      "label": "Quaestio XLVIII \u2014 Non.",
+      "text": "*Knowledge graphs are not graphs in the same sense.* The edges in a knowledge graph carry semantic labels (relations) that fundamentally change the analysis: equivalent edge labels can be unified, antithetical labels add signed structure, transitive labels generate inference. The classical graph-theoretic toolkit treats edges as unlabelled or weighted; the knowledge-graph toolkit treats edges as logical formulae. Embedding methods for knowledge graphs (TransE, ComplEx, RotatE) are designed precisely to respect the relational structure that the classical toolkit ignores. Calling a knowledge graph \"a graph in the same sense\" elides the most important structural information."
+    },
+    {
+      "id": 112,
+      "role": "thesis",
+      "quaestio": 49,
+      "side": "Sic",
+      "label": "Quaestio XLIX \u2014 Sic.",
+      "text": "*Near-term quantum hardware delivers measurable algorithmic speedup on graph problems.* Demonstrations on Pasqal's neutral-atom processor (Maximum Independent Set on unit-disk graphs), QuEra's similar platform (combinatorial optimisation benchmarks), and IBM's superconducting devices (QAOA on Max-Cut) have all reported speedups or matched-classical performance on instances at the edge of classical tractability. The literature treats this as the early stage of a sustained advantage trajectory; the demonstrations are existence proofs that the regime is real."
+    },
+    {
+      "id": 113,
+      "role": "antithesis",
+      "quaestio": 49,
+      "side": "Non",
+      "label": "Quaestio XLIX \u2014 Non.",
+      "text": "*Near-term quantum hardware does not deliver measurable algorithmic speedup on graph problems.* The Pasqal MIS demonstrations operate on unit-disk-graph instances that classical PTAS algorithms solve in linear time; the \"speedup\" is over a naive baseline, not over the state-of-the-art. The QuEra and IBM combinatorial-optimisation demonstrations report time-to-solution comparable to but not better than classical heuristic baselines (simulated annealing, parallel tempering) on the same instances. The \"speedup trajectory\" framing imposes a teleology on a sequence of demonstrations that have not yet exceeded classical performance on any instance with classical baselines properly considered."
+    },
+    {
+      "id": 114,
+      "role": "thesis",
+      "quaestio": 50,
+      "side": "Sic",
+      "label": "Quaestio L \u2014 Sic.",
+      "text": "*Industrial deployment of graph algorithms reflects the academic literature.* Google's PageRank deployment is a direct application of the Brin\u2013Page academic paper; LinkedIn's people-you-may-know feature uses Adamic\u2013Adar link prediction; Uber's surge pricing uses graph-based demand prediction with techniques from the temporal-graph literature; financial-fraud detection uses anomaly detection on transaction graphs with methods from the dynamic-network literature. The pipeline from academic publication to industrial deployment, on graphs, is short and effective."
+    },
+    {
+      "id": 115,
+      "role": "antithesis",
+      "quaestio": 50,
+      "side": "Non",
+      "label": "Quaestio L \u2014 Non.",
+      "text": "*Industrial deployment of graph algorithms does not reflect the academic literature.* Google's PageRank has been replaced internally by deep-learning rankers that bear no resemblance to academic graph-centrality; LinkedIn's people-you-may-know is a learned embedding model with link prediction as one of many signals; the financial-fraud detectors in production rely on supervised learning on engineered features rather than the unsupervised graph algorithms in the literature. Industrial deployments cite the academic literature to claim continuity, but the actual production systems have evolved away from it. The \"short pipeline\" is a marketing convenience."
+    },
+    {
+      "id": 116,
+      "role": "epilogos",
+      "quaestio": null,
+      "side": null,
+      "label": "Epilogos extensus.",
+      "text": "Fifty disputations have now been laid out. The author who wrote the original thirty noted that the disputation method licenses a specific kind of negative knowledge \u2014 the structure of jointly untenable positions. With twenty more pairs the structure becomes denser; the graph of incompatibilities has more vertices and more edges; the Maximum Independent Set is correspondingly smaller as a fraction of $50$. The reader who finds the additional twenty propositions less arresting than the original thirty has missed the point of extension: the disputation form is not made stronger by additional pairs, but the inferential graph it generates is made geometrically richer. What the Rydberg quench reads off the register of such a graph is the structural backbone that remains after the contradictions have been imposed. The author hopes that the extended edition has not diluted the original; the reader who has found their way to this paragraph is invited to dispute the matter."
+    }
+  ],
+  "edges": [
+    {
+      "source": 1,
+      "target": 2,
+      "is_antithesis": false,
+      "weight": 0.89453125
+    },
+    {
+      "source": 1,
+      "target": 69,
+      "is_antithesis": false,
+      "weight": 0.8759765625
+    },
+    {
+      "source": 1,
+      "target": 71,
+      "is_antithesis": false,
+      "weight": 0.90087890625
+    },
+    {
+      "source": 2,
+      "target": 28,
+      "is_antithesis": false,
+      "weight": 0.8994140625
+    },
+    {
+      "source": 2,
+      "target": 71,
+      "is_antithesis": false,
+      "weight": 0.90283203125
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "is_antithesis": true,
+      "weight": 0.9599609375
+    },
+    {
+      "source": 3,
+      "target": 59,
+      "is_antithesis": false,
+      "weight": 0.91259765625
+    },
+    {
+      "source": 4,
+      "target": 59,
+      "is_antithesis": false,
+      "weight": 0.9033203125
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "is_antithesis": true,
+      "weight": 0.958984375
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "is_antithesis": false,
+      "weight": 0.89697265625
+    },
+    {
+      "source": 5,
+      "target": 11,
+      "is_antithesis": false,
+      "weight": 0.9091796875
+    },
+    {
+      "source": 5,
+      "target": 79,
+      "is_antithesis": false,
+      "weight": 0.89453125
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "is_antithesis": false,
+      "weight": 0.90673828125
+    },
+    {
+      "source": 6,
+      "target": 11,
+      "is_antithesis": false,
+      "weight": 0.916015625
+    },
+    {
+      "source": 6,
+      "target": 31,
+      "is_antithesis": false,
+      "weight": 0.908203125
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "is_antithesis": true,
+      "weight": 0.95703125
+    },
+    {
+      "source": 7,
+      "target": 84,
+      "is_antithesis": false,
+      "weight": 0.8916015625
+    },
+    {
+      "source": 8,
+      "target": 84,
+      "is_antithesis": false,
+      "weight": 0.9052734375
+    },
+    {
+      "source": 8,
+      "target": 85,
+      "is_antithesis": false,
+      "weight": 0.9091796875
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "is_antithesis": true,
+      "weight": 0.96337890625
+    },
+    {
+      "source": 9,
+      "target": 11,
+      "is_antithesis": false,
+      "weight": 0.91845703125
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "is_antithesis": true,
+      "weight": 0.95703125
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "is_antithesis": false,
+      "weight": 0.88427734375
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "is_antithesis": true,
+      "weight": 0.95458984375
+    },
+    {
+      "source": 13,
+      "target": 77,
+      "is_antithesis": false,
+      "weight": 0.892578125
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "is_antithesis": false,
+      "weight": 0.91162109375
+    },
+    {
+      "source": 15,
+      "target": 17,
+      "is_antithesis": false,
+      "weight": 0.919921875
+    },
+    {
+      "source": 15,
+      "target": 94,
+      "is_antithesis": false,
+      "weight": 0.88916015625
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "is_antithesis": true,
+      "weight": 0.953125
+    },
+    {
+      "source": 16,
+      "target": 68,
+      "is_antithesis": false,
+      "weight": 0.904296875
+    },
+    {
+      "source": 17,
+      "target": 24,
+      "is_antithesis": false,
+      "weight": 0.91162109375
+    },
+    {
+      "source": 17,
+      "target": 27,
+      "is_antithesis": false,
+      "weight": 0.9150390625
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "is_antithesis": true,
+      "weight": 0.9501953125
+    },
+    {
+      "source": 18,
+      "target": 20,
+      "is_antithesis": false,
+      "weight": 0.91650390625
+    },
+    {
+      "source": 18,
+      "target": 21,
+      "is_antithesis": false,
+      "weight": 0.90087890625
+    },
+    {
+      "source": 18,
+      "target": 24,
+      "is_antithesis": false,
+      "weight": 0.91357421875
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "is_antithesis": false,
+      "weight": 0.904296875
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "is_antithesis": true,
+      "weight": 0.94775390625
+    },
+    {
+      "source": 20,
+      "target": 75,
+      "is_antithesis": false,
+      "weight": 0.89306640625
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "is_antithesis": true,
+      "weight": 0.92822265625
+    },
+    {
+      "source": 22,
+      "target": 63,
+      "is_antithesis": false,
+      "weight": 0.91748046875
+    },
+    {
+      "source": 22,
+      "target": 64,
+      "is_antithesis": false,
+      "weight": 0.9033203125
+    },
+    {
+      "source": 22,
+      "target": 108,
+      "is_antithesis": false,
+      "weight": 0.89306640625
+    },
+    {
+      "source": 23,
+      "target": 63,
+      "is_antithesis": false,
+      "weight": 0.91552734375
+    },
+    {
+      "source": 23,
+      "target": 64,
+      "is_antithesis": false,
+      "weight": 0.92822265625
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "is_antithesis": true,
+      "weight": 0.96630859375
+    },
+    {
+      "source": 24,
+      "target": 26,
+      "is_antithesis": false,
+      "weight": 0.90869140625
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "is_antithesis": true,
+      "weight": 0.9560546875
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "is_antithesis": false,
+      "weight": 0.88720703125
+    },
+    {
+      "source": 28,
+      "target": 42,
+      "is_antithesis": false,
+      "weight": 0.89306640625
+    },
+    {
+      "source": 28,
+      "target": 71,
+      "is_antithesis": false,
+      "weight": 0.8994140625
+    },
+    {
+      "source": 29,
+      "target": 56,
+      "is_antithesis": false,
+      "weight": 0.87353515625
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "is_antithesis": true,
+      "weight": 0.953125
+    },
+    {
+      "source": 31,
+      "target": 113,
+      "is_antithesis": false,
+      "weight": 0.8779296875
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "is_antithesis": true,
+      "weight": 0.94384765625
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "is_antithesis": true,
+      "weight": 0.92822265625
+    },
+    {
+      "source": 34,
+      "target": 36,
+      "is_antithesis": false,
+      "weight": 0.8740234375
+    },
+    {
+      "source": 34,
+      "target": 38,
+      "is_antithesis": false,
+      "weight": 0.87939453125
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "is_antithesis": true,
+      "weight": 0.95556640625
+    },
+    {
+      "source": 37,
+      "target": 41,
+      "is_antithesis": false,
+      "weight": 0.880859375
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "is_antithesis": true,
+      "weight": 0.9619140625
+    },
+    {
+      "source": 38,
+      "target": 40,
+      "is_antithesis": false,
+      "weight": 0.890625
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "is_antithesis": false,
+      "weight": 0.88623046875
+    },
+    {
+      "source": 39,
+      "target": 41,
+      "is_antithesis": false,
+      "weight": 0.89111328125
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "is_antithesis": true,
+      "weight": 0.9658203125
+    },
+    {
+      "source": 42,
+      "target": 43,
+      "is_antithesis": false,
+      "weight": 0.912109375
+    },
+    {
+      "source": 42,
+      "target": 46,
+      "is_antithesis": false,
+      "weight": 0.8828125
+    },
+    {
+      "source": 43,
+      "target": 46,
+      "is_antithesis": false,
+      "weight": 0.88232421875
+    },
+    {
+      "source": 44,
+      "target": 45,
+      "is_antithesis": true,
+      "weight": 0.9404296875
+    },
+    {
+      "source": 44,
+      "target": 81,
+      "is_antithesis": false,
+      "weight": 0.8974609375
+    },
+    {
+      "source": 44,
+      "target": 95,
+      "is_antithesis": false,
+      "weight": 0.90185546875
+    },
+    {
+      "source": 44,
+      "target": 103,
+      "is_antithesis": false,
+      "weight": 0.904296875
+    },
+    {
+      "source": 45,
+      "target": 47,
+      "is_antithesis": false,
+      "weight": 0.89990234375
+    },
+    {
+      "source": 45,
+      "target": 82,
+      "is_antithesis": false,
+      "weight": 0.90087890625
+    },
+    {
+      "source": 45,
+      "target": 100,
+      "is_antithesis": false,
+      "weight": 0.8984375
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "is_antithesis": true,
+      "weight": 0.95458984375
+    },
+    {
+      "source": 48,
+      "target": 49,
+      "is_antithesis": true,
+      "weight": 0.95751953125
+    },
+    {
+      "source": 48,
+      "target": 112,
+      "is_antithesis": false,
+      "weight": 0.89794921875
+    },
+    {
+      "source": 49,
+      "target": 112,
+      "is_antithesis": false,
+      "weight": 0.89013671875
+    },
+    {
+      "source": 49,
+      "target": 113,
+      "is_antithesis": false,
+      "weight": 0.89208984375
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "is_antithesis": true,
+      "weight": 0.95703125
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "is_antithesis": true,
+      "weight": 0.95361328125
+    },
+    {
+      "source": 52,
+      "target": 103,
+      "is_antithesis": false,
+      "weight": 0.908203125
+    },
+    {
+      "source": 52,
+      "target": 104,
+      "is_antithesis": false,
+      "weight": 0.8955078125
+    },
+    {
+      "source": 53,
+      "target": 76,
+      "is_antithesis": false,
+      "weight": 0.89794921875
+    },
+    {
+      "source": 53,
+      "target": 82,
+      "is_antithesis": false,
+      "weight": 0.89501953125
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "is_antithesis": true,
+      "weight": 0.953125
+    },
+    {
+      "source": 56,
+      "target": 105,
+      "is_antithesis": false,
+      "weight": 0.88818359375
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "is_antithesis": true,
+      "weight": 0.9599609375
+    },
+    {
+      "source": 58,
+      "target": 62,
+      "is_antithesis": false,
+      "weight": 0.9189453125
+    },
+    {
+      "source": 58,
+      "target": 106,
+      "is_antithesis": false,
+      "weight": 0.93701171875
+    },
+    {
+      "source": 58,
+      "target": 107,
+      "is_antithesis": false,
+      "weight": 0.9130859375
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "is_antithesis": true,
+      "weight": 0.9521484375
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "is_antithesis": true,
+      "weight": 0.978515625
+    },
+    {
+      "source": 61,
+      "target": 106,
+      "is_antithesis": false,
+      "weight": 0.92919921875
+    },
+    {
+      "source": 61,
+      "target": 107,
+      "is_antithesis": false,
+      "weight": 0.9091796875
+    },
+    {
+      "source": 62,
+      "target": 106,
+      "is_antithesis": false,
+      "weight": 0.92724609375
+    },
+    {
+      "source": 62,
+      "target": 107,
+      "is_antithesis": false,
+      "weight": 0.91796875
+    },
+    {
+      "source": 63,
+      "target": 64,
+      "is_antithesis": true,
+      "weight": 0.96630859375
+    },
+    {
+      "source": 65,
+      "target": 66,
+      "is_antithesis": true,
+      "weight": 0.9521484375
+    },
+    {
+      "source": 67,
+      "target": 68,
+      "is_antithesis": true,
+      "weight": 0.9345703125
+    },
+    {
+      "source": 69,
+      "target": 116,
+      "is_antithesis": false,
+      "weight": 0.86328125
+    },
+    {
+      "source": 70,
+      "target": 116,
+      "is_antithesis": false,
+      "weight": 0.919921875
+    },
+    {
+      "source": 71,
+      "target": 72,
+      "is_antithesis": false,
+      "weight": 0.90966796875
+    },
+    {
+      "source": 72,
+      "target": 73,
+      "is_antithesis": false,
+      "weight": 0.91064453125
+    },
+    {
+      "source": 72,
+      "target": 74,
+      "is_antithesis": false,
+      "weight": 0.8896484375
+    },
+    {
+      "source": 73,
+      "target": 74,
+      "is_antithesis": true,
+      "weight": 0.9609375
+    },
+    {
+      "source": 75,
+      "target": 76,
+      "is_antithesis": true,
+      "weight": 0.96533203125
+    },
+    {
+      "source": 75,
+      "target": 77,
+      "is_antithesis": false,
+      "weight": 0.900390625
+    },
+    {
+      "source": 75,
+      "target": 81,
+      "is_antithesis": false,
+      "weight": 0.90869140625
+    },
+    {
+      "source": 76,
+      "target": 82,
+      "is_antithesis": false,
+      "weight": 0.89990234375
+    },
+    {
+      "source": 77,
+      "target": 78,
+      "is_antithesis": true,
+      "weight": 0.9365234375
+    },
+    {
+      "source": 77,
+      "target": 81,
+      "is_antithesis": false,
+      "weight": 0.90185546875
+    },
+    {
+      "source": 79,
+      "target": 80,
+      "is_antithesis": true,
+      "weight": 0.9462890625
+    },
+    {
+      "source": 79,
+      "target": 88,
+      "is_antithesis": false,
+      "weight": 0.89501953125
+    },
+    {
+      "source": 79,
+      "target": 89,
+      "is_antithesis": false,
+      "weight": 0.89599609375
+    },
+    {
+      "source": 80,
+      "target": 88,
+      "is_antithesis": false,
+      "weight": 0.89990234375
+    },
+    {
+      "source": 80,
+      "target": 89,
+      "is_antithesis": false,
+      "weight": 0.9140625
+    },
+    {
+      "source": 81,
+      "target": 82,
+      "is_antithesis": true,
+      "weight": 0.9580078125
+    },
+    {
+      "source": 84,
+      "target": 85,
+      "is_antithesis": true,
+      "weight": 0.9619140625
+    },
+    {
+      "source": 85,
+      "target": 87,
+      "is_antithesis": false,
+      "weight": 0.89794921875
+    },
+    {
+      "source": 85,
+      "target": 93,
+      "is_antithesis": false,
+      "weight": 0.91748046875
+    },
+    {
+      "source": 86,
+      "target": 87,
+      "is_antithesis": true,
+      "weight": 0.9521484375
+    },
+    {
+      "source": 86,
+      "target": 92,
+      "is_antithesis": false,
+      "weight": 0.89892578125
+    },
+    {
+      "source": 86,
+      "target": 93,
+      "is_antithesis": false,
+      "weight": 0.90673828125
+    },
+    {
+      "source": 87,
+      "target": 92,
+      "is_antithesis": false,
+      "weight": 0.9013671875
+    },
+    {
+      "source": 87,
+      "target": 93,
+      "is_antithesis": false,
+      "weight": 0.92724609375
+    },
+    {
+      "source": 88,
+      "target": 89,
+      "is_antithesis": true,
+      "weight": 0.9619140625
+    },
+    {
+      "source": 90,
+      "target": 91,
+      "is_antithesis": true,
+      "weight": 0.96826171875
+    },
+    {
+      "source": 90,
+      "target": 92,
+      "is_antithesis": false,
+      "weight": 0.89453125
+    },
+    {
+      "source": 92,
+      "target": 93,
+      "is_antithesis": true,
+      "weight": 0.9638671875
+    },
+    {
+      "source": 94,
+      "target": 97,
+      "is_antithesis": false,
+      "weight": 0.90478515625
+    },
+    {
+      "source": 95,
+      "target": 96,
+      "is_antithesis": true,
+      "weight": 0.94921875
+    },
+    {
+      "source": 95,
+      "target": 103,
+      "is_antithesis": false,
+      "weight": 0.91650390625
+    },
+    {
+      "source": 96,
+      "target": 98,
+      "is_antithesis": false,
+      "weight": 0.90478515625
+    },
+    {
+      "source": 96,
+      "target": 100,
+      "is_antithesis": false,
+      "weight": 0.89697265625
+    },
+    {
+      "source": 97,
+      "target": 98,
+      "is_antithesis": true,
+      "weight": 0.94482421875
+    },
+    {
+      "source": 97,
+      "target": 101,
+      "is_antithesis": false,
+      "weight": 0.916015625
+    },
+    {
+      "source": 97,
+      "target": 102,
+      "is_antithesis": false,
+      "weight": 0.89453125
+    },
+    {
+      "source": 98,
+      "target": 101,
+      "is_antithesis": false,
+      "weight": 0.89453125
+    },
+    {
+      "source": 98,
+      "target": 102,
+      "is_antithesis": false,
+      "weight": 0.90234375
+    },
+    {
+      "source": 99,
+      "target": 100,
+      "is_antithesis": true,
+      "weight": 0.93896484375
+    },
+    {
+      "source": 101,
+      "target": 102,
+      "is_antithesis": true,
+      "weight": 0.94482421875
+    },
+    {
+      "source": 103,
+      "target": 104,
+      "is_antithesis": true,
+      "weight": 0.96337890625
+    },
+    {
+      "source": 105,
+      "target": 114,
+      "is_antithesis": false,
+      "weight": 0.8876953125
+    },
+    {
+      "source": 106,
+      "target": 107,
+      "is_antithesis": true,
+      "weight": 0.94287109375
+    },
+    {
+      "source": 108,
+      "target": 109,
+      "is_antithesis": true,
+      "weight": 0.951171875
+    },
+    {
+      "source": 110,
+      "target": 111,
+      "is_antithesis": true,
+      "weight": 0.9375
+    },
+    {
+      "source": 110,
+      "target": 114,
+      "is_antithesis": false,
+      "weight": 0.87939453125
+    },
+    {
+      "source": 112,
+      "target": 113,
+      "is_antithesis": true,
+      "weight": 0.9541015625
+    },
+    {
+      "source": 114,
+      "target": 115,
+      "is_antithesis": true,
+      "weight": 0.93896484375
+    }
+  ]
+}

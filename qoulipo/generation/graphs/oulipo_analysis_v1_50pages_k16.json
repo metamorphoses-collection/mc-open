@@ -1,0 +1,69 @@
+{
+  "text": "v1_50pages_k16",
+  "file": "oulipo_nithard_pascal.md",
+  "n_pages": 50,
+  "mean_word_count": 373.4,
+  "density_by_k": {
+    "16": {
+      "N": 50,
+      "edges": 374,
+      "density": 0.3053,
+      "sim_mean": 0.8594,
+      "sim_std": 0.0405,
+      "sim_min": 0.6831,
+      "sim_max": 0.9549,
+      "above_threshold": 1175,
+      "top_k": 16,
+      "threshold": 0.78
+    }
+  },
+  "sa_embedding": {
+    "text": "v1_50pages_k16",
+    "N": 50,
+    "target_edges": 374,
+    "udg_edges": 97,
+    "fidelity": 0.7706,
+    "ilp_target": [
+      "p2",
+      "p4",
+      "p7",
+      "p9",
+      "p15",
+      "p22",
+      "p26",
+      "p31",
+      "p32",
+      "p34",
+      "p35",
+      "p39",
+      "p46",
+      "p49"
+    ],
+    "ilp_udg": [
+      "p3",
+      "p7",
+      "p8",
+      "p14",
+      "p15",
+      "p16",
+      "p18",
+      "p20",
+      "p23",
+      "p27",
+      "p30",
+      "p31",
+      "p32",
+      "p33",
+      "p34",
+      "p35",
+      "p36",
+      "p45",
+      "p46",
+      "p47",
+      "p49"
+    ],
+    "batch_id": "4e9cb3a3-0b91-4a0a-b26b-4c6dbf78eb4f",
+    "device": "EMU_MPS",
+    "runs": 1000
+  }
+}

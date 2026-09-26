@@ -1,0 +1,1298 @@
+{
+  "text": "SNLI-3class N=24 isolated-pair register, neutral, intra=8.5um",
+  "version": "3class_n24",
+  "N": 24,
+  "n_pairs": 12,
+  "R_b_um": 8.0,
+  "within_domino_dist": 8.5,
+  "domino_spacing_x": 18.0,
+  "domino_spacing_y": 14.0,
+  "grid_cols": 4,
+  "grid_rows": 3,
+  "max_radial_um": 34.24269995196057,
+  "min_dist_um": 8.5,
+  "coords_2d": [
+    [
+      -31.25,
+      -14.0
+    ],
+    [
+      -22.75,
+      -14.0
+    ],
+    [
+      -31.25,
+      0.0
+    ],
+    [
+      -22.75,
+      0.0
+    ],
+    [
+      -31.25,
+      14.0
+    ],
+    [
+      -22.75,
+      14.0
+    ],
+    [
+      -13.25,
+      -14.0
+    ],
+    [
+      -4.75,
+      -14.0
+    ],
+    [
+      -13.25,
+      0.0
+    ],
+    [
+      -4.75,
+      0.0
+    ],
+    [
+      -13.25,
+      14.0
+    ],
+    [
+      -4.75,
+      14.0
+    ],
+    [
+      4.75,
+      -14.0
+    ],
+    [
+      13.25,
+      -14.0
+    ],
+    [
+      4.75,
+      0.0
+    ],
+    [
+      13.25,
+      0.0
+    ],
+    [
+      4.75,
+      14.0
+    ],
+    [
+      13.25,
+      14.0
+    ],
+    [
+      22.75,
+      -14.0
+    ],
+    [
+      31.25,
+      -14.0
+    ],
+    [
+      22.75,
+      0.0
+    ],
+    [
+      31.25,
+      0.0
+    ],
+    [
+      22.75,
+      14.0
+    ],
+    [
+      31.25,
+      14.0
+    ]
+  ],
+  "node_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "atom_meta": [
+    {
+      "role": "sic",
+      "pair_idx": 0,
+      "text_preview": "Two very young boys and an adult are playing with big preschool Legos and a red dish-shaped play cushion that's filled with balls on a white"
+    },
+    {
+      "role": "non",
+      "pair_idx": 0,
+      "text_preview": "Two boys and their father are playing with big preschool Legos and a red cushion."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 1,
+      "text_preview": "The Houston Texans quarterback is executing a play-action play with the running back against the NFC North-worst Minnesota Vikings, who are "
+    },
+    {
+      "role": "non",
+      "pair_idx": 1,
+      "text_preview": "The Houston Texan quarterback is about to execute a trick play for a touchdown against the Minesota Vikings"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 2,
+      "text_preview": "One girl rides a horse while a woman appears to lead them across a park while two other horses walk in the near background, with a street an"
+    },
+    {
+      "role": "non",
+      "pair_idx": 2,
+      "text_preview": "A mother and daughter go horse back riding in an urban park."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 3,
+      "text_preview": "A woman holding a pink balloon and wearing a fuzzy pink tiara, and a man with his head tilted slightly forward and smiling with his mouth wi"
+    },
+    {
+      "role": "non",
+      "pair_idx": 3,
+      "text_preview": "An engaged couple stand next to each other, one holding a balloon, the other with his mouth open."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 4,
+      "text_preview": "Three girls, outside on a lawn, pay attention to a small brown and white dog; the smallest girl, wearing a pink and white hat, has her hand "
+    },
+    {
+      "role": "non",
+      "pair_idx": 4,
+      "text_preview": "Three girls out on the lawn are playing with a dog."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 5,
+      "text_preview": "There is one woman riding a bike and a man who is riding on a Segway personal transportation device while carrying a pole that blind people "
+    },
+    {
+      "role": "non",
+      "pair_idx": 5,
+      "text_preview": "There is a woman riding on a bike and a man who is riding on a segway in the middle of the road."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 6,
+      "text_preview": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair ab"
+    },
+    {
+      "role": "non",
+      "pair_idx": 6,
+      "text_preview": "A male skateboarder performs tricks outdoors for professional photographers."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 7,
+      "text_preview": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of"
+    },
+    {
+      "role": "non",
+      "pair_idx": 7,
+      "text_preview": "Two adults walk across the street to get away from a red shirted person who is chasing them."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 8,
+      "text_preview": "A child wearing bluish baggy shorts and shirt with a striped baseball hat, taking a picture with a camera placed on tripod stand in a grassy"
+    },
+    {
+      "role": "non",
+      "pair_idx": 8,
+      "text_preview": "A child wearing baggy shorts is taking a picture for a photography album they are making."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 9,
+      "text_preview": "A man in a military uniform stands next to what appears to be a military k-9 dog, with a loudspeaker in the foreground, and other military p"
+    },
+    {
+      "role": "non",
+      "pair_idx": 9,
+      "text_preview": "A military man stands next to his dog."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 10,
+      "text_preview": "High in the bleachers view looking down at part of a soccer field partly obstructed by an individual in an orange wig and shirt and another "
+    },
+    {
+      "role": "non",
+      "pair_idx": 10,
+      "text_preview": "Spectators blow a horn at a professional soccer game."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 11,
+      "text_preview": "A person in a red vest walks past a shuttered entrance way with a Fanta ad in the background and the word' sex' spray printed on some sheet "
+    },
+    {
+      "role": "non",
+      "pair_idx": 11,
+      "text_preview": "A person in a red target vest walks past the entrance."
+    }
+  ],
+  "edges": [
+    {
+      "u": 0,
+      "v": 1,
+      "distance": 8.5,
+      "is_pair": true
+    },
+    {
+      "u": 0,
+      "v": 2,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 3,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 4,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 5,
+      "distance": 29.26,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 6,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 7,
+      "distance": 26.5,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 8,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 9,
+      "distance": 29.97,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 2,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 3,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 4,
+      "distance": 29.26,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 5,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 6,
+      "distance": 9.5,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 7,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 8,
+      "distance": 16.92,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 9,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 10,
+      "distance": 29.57,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 12,
+      "distance": 27.5,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 3,
+      "distance": 8.5,
+      "is_pair": true
+    },
+    {
+      "u": 2,
+      "v": 4,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 5,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 6,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 7,
+      "distance": 29.97,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 8,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 9,
+      "distance": 26.5,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 10,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 11,
+      "distance": 29.97,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 4,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 5,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 6,
+      "distance": 16.92,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 7,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 8,
+      "distance": 9.5,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 9,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 10,
+      "distance": 16.92,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 11,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 14,
+      "distance": 27.5,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 5,
+      "distance": 8.5,
+      "is_pair": true
+    },
+    {
+      "u": 4,
+      "v": 8,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 9,
+      "distance": 29.97,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 10,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 11,
+      "distance": 26.5,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 6,
+      "distance": 29.57,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 8,
+      "distance": 16.92,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 9,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 10,
+      "distance": 9.5,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 11,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 16,
+      "distance": 27.5,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 7,
+      "distance": 8.5,
+      "is_pair": true
+    },
+    {
+      "u": 6,
+      "v": 8,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 9,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 10,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 11,
+      "distance": 29.26,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 12,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 13,
+      "distance": 26.5,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 14,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 15,
+      "distance": 29.97,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 8,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 9,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 10,
+      "distance": 29.26,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 11,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 12,
+      "distance": 9.5,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 13,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 14,
+      "distance": 16.92,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 15,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 16,
+      "distance": 29.57,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 18,
+      "distance": 27.5,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 9,
+      "distance": 8.5,
+      "is_pair": true
+    },
+    {
+      "u": 8,
+      "v": 10,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 11,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 12,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 13,
+      "distance": 29.97,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 14,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 15,
+      "distance": 26.5,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 16,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 17,
+      "distance": 29.97,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 10,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 11,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 12,
+      "distance": 16.92,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 13,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 14,
+      "distance": 9.5,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 15,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 16,
+      "distance": 16.92,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 17,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 20,
+      "distance": 27.5,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 11,
+      "distance": 8.5,
+      "is_pair": true
+    },
+    {
+      "u": 10,
+      "v": 14,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 15,
+      "distance": 29.97,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 16,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 17,
+      "distance": 26.5,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 12,
+      "distance": 29.57,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 14,
+      "distance": 16.92,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 15,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 16,
+      "distance": 9.5,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 17,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 22,
+      "distance": 27.5,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 13,
+      "distance": 8.5,
+      "is_pair": true
+    },
+    {
+      "u": 12,
+      "v": 14,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 15,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 16,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 17,
+      "distance": 29.26,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 18,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 19,
+      "distance": 26.5,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 20,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 21,
+      "distance": 29.97,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 14,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 15,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 16,
+      "distance": 29.26,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 17,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 18,
+      "distance": 9.5,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 19,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 20,
+      "distance": 16.92,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 21,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 22,
+      "distance": 29.57,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 15,
+      "distance": 8.5,
+      "is_pair": true
+    },
+    {
+      "u": 14,
+      "v": 16,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 17,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 18,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 19,
+      "distance": 29.97,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 20,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 21,
+      "distance": 26.5,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 22,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 23,
+      "distance": 29.97,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 16,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 17,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 18,
+      "distance": 16.92,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 19,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 20,
+      "distance": 9.5,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 21,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 22,
+      "distance": 16.92,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 23,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 17,
+      "distance": 8.5,
+      "is_pair": true
+    },
+    {
+      "u": 16,
+      "v": 20,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 21,
+      "distance": 29.97,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 22,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 23,
+      "distance": 26.5,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 18,
+      "distance": 29.57,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 20,
+      "distance": 16.92,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 21,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 22,
+      "distance": 9.5,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 23,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 19,
+      "distance": 8.5,
+      "is_pair": true
+    },
+    {
+      "u": 18,
+      "v": 20,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 21,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 22,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 23,
+      "distance": 29.26,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 20,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 21,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 22,
+      "distance": 29.26,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 23,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 20,
+      "v": 21,
+      "distance": 8.5,
+      "is_pair": true
+    },
+    {
+      "u": 20,
+      "v": 22,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 20,
+      "v": 23,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 22,
+      "distance": 16.38,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 23,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 22,
+      "v": 23,
+      "distance": 8.5,
+      "is_pair": true
+    }
+  ],
+  "pair_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      14,
+      15
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      22,
+      23
+    ]
+  ],
+  "pair_texts": [
+    {
+      "sic": "Two very young boys and an adult are playing with big preschool Legos and a red dish-shaped play cushion that's filled with balls on a white carpet in front of a gray couch.",
+      "non": "Two boys and their father are playing with big preschool Legos and a red cushion."
+    },
+    {
+      "sic": "The Houston Texans quarterback is executing a play-action play with the running back against the NFC North-worst Minnesota Vikings, who are big rivals with the elite Green Bay Packers.",
+      "non": "The Houston Texan quarterback is about to execute a trick play for a touchdown against the Minesota Vikings"
+    },
+    {
+      "sic": "One girl rides a horse while a woman appears to lead them across a park while two other horses walk in the near background, with a street and parked cars in the far background.",
+      "non": "A mother and daughter go horse back riding in an urban park."
+    },
+    {
+      "sic": "A woman holding a pink balloon and wearing a fuzzy pink tiara, and a man with his head tilted slightly forward and smiling with his mouth wide open are standing next to one another.",
+      "non": "An engaged couple stand next to each other, one holding a balloon, the other with his mouth open."
+    },
+    {
+      "sic": "Three girls, outside on a lawn, pay attention to a small brown and white dog; the smallest girl, wearing a pink and white hat, has her hand on the back of the dogs neck.",
+      "non": "Three girls out on the lawn are playing with a dog."
+    },
+    {
+      "sic": "There is one woman riding a bike and a man who is riding on a Segway personal transportation device while carrying a pole that blind people use to help they detect things in their path.",
+      "non": "There is a woman riding on a bike and a man who is riding on a segway in the middle of the road."
+    },
+    {
+      "sic": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.",
+      "non": "A male skateboarder performs tricks outdoors for professional photographers."
+    },
+    {
+      "sic": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",
+      "non": "Two adults walk across the street to get away from a red shirted person who is chasing them."
+    },
+    {
+      "sic": "A child wearing bluish baggy shorts and shirt with a striped baseball hat, taking a picture with a camera placed on tripod stand in a grassy mountainous region.",
+      "non": "A child wearing baggy shorts is taking a picture for a photography album they are making."
+    },
+    {
+      "sic": "A man in a military uniform stands next to what appears to be a military k-9 dog, with a loudspeaker in the foreground, and other military personnel and military vehicles in the background.",
+      "non": "A military man stands next to his dog."
+    },
+    {
+      "sic": "High in the bleachers view looking down at part of a soccer field partly obstructed by an individual in an orange wig and shirt and another spectator blowing a horn.",
+      "non": "Spectators blow a horn at a professional soccer game."
+    },
+    {
+      "sic": "A person in a red vest walks past a shuttered entrance way with a Fanta ad in the background and the word' sex' spray printed on some sheet metal fencing in the foreground.",
+      "non": "A person in a red target vest walks past the entrance."
+    }
+  ]
+}

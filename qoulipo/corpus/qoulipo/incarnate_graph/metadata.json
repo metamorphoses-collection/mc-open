@@ -1,0 +1,22 @@
+{
+  "text_id": "incarnate_graph",
+  "title": "The Incarnate Graph",
+  "lang": "EN",
+  "canonical_N": 65,
+  "canonical_graph_file": "graph_target.json",
+  "canonical_E": 155,
+  "canonical_density": 0.0745,
+  "canonical_MIS": 22,
+  "canonical_rho": 0.0,
+  "canonical_optima": 385,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "exact_2D_UDG_random",
+  "type": "qoulipo_engineered",
+  "designed_property": "Unit disk by construction (SA fidelity = 1.0)",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv (QOuLiPo: What a quantum computer sees when it reads a book)",
+  "internal_text_status": "aligned with deposit (N=65, E=155, d=0.075)",
+  "classification": "literary",
+  "description": "A 65-page constrained literary text whose page-to-page similarity graph IS an exact 2D unit-disk graph (UDG) on the same 65 atoms. The literary content is written in three voices (Nithard the chronicler, Pascal the geometer, the Professor with the maliette) and threads (WAGER, CHRONICLE, CONSPIRACY, TONGUE, NUMBER, FAITH, SWORD, PARCHMENT, MALIETTE, GAME). All 65 source pages are pure narrative where the constraint is felt rather than declared. The original didactic preamble (which named the UDG construction, embedder, and blockade radius explicitly) has been relocated to paratext/preamble.txt as a frontispiece outside the body. A second meta-revealing page (formerly page_044) has likewise been relocated to paratext/page_044_meta_original.txt and replaced in source/ by a purely literary page in the Professor's voice. The text reads as a constrained novel/cycle, not a tutorial.",
+  "source_contract": "node_aligned"
+}

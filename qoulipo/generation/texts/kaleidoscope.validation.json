@@ -1,0 +1,44 @@
+{
+  "text": "kaleidoscope.md",
+  "N": 51,
+  "word_stats": {
+    "min": 325,
+    "max": 508,
+    "mean": 365.0,
+    "total": 18614
+  },
+  "sim_stats": {
+    "mean": 0.8815,
+    "std": 0.0212,
+    "pct_above_078": 100.0
+  },
+  "results": {
+    "k=8": {
+      "edges": 271,
+      "density": 0.2125,
+      "mis_size": 13,
+      "mis_ratio": 0.255,
+      "n_solutions": 63,
+      "rigidity": 0.231,
+      "essential": 3
+    },
+    "k=12": {
+      "edges": 401,
+      "density": 0.3145,
+      "mis_size": 10,
+      "mis_ratio": 0.196,
+      "n_solutions": 10,
+      "rigidity": 0.4,
+      "essential": 4
+    },
+    "k=16": {
+      "edges": 516,
+      "density": 0.4047,
+      "mis_size": 8,
+      "mis_ratio": 0.157,
+      "n_solutions": 3,
+      "rigidity": 0.875,
+      "essential": 7
+    }
+  }
+}

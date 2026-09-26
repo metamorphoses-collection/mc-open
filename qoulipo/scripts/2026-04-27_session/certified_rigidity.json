@@ -1,0 +1,47 @@
+[
+  {
+    "folder": "giambullari_inferno",
+    "label": "Giambullari 151 (k=8)",
+    "N": 151,
+    "E": 866,
+    "mis_size": 41,
+    "core_size": 36,
+    "rho_certified": 0.878
+  },
+  {
+    "folder": "galileo_dialogo",
+    "label": "Galileo 65 (k=8)",
+    "N": 65,
+    "E": 165,
+    "mis_size": 23,
+    "core_size": 9,
+    "rho_certified": 0.391
+  },
+  {
+    "folder": "boethius_consolatio",
+    "label": "Boethius 72 (k=8)",
+    "N": 72,
+    "E": 372,
+    "mis_size": 14,
+    "core_size": 0,
+    "rho_certified": 0.0
+  },
+  {
+    "folder": "heptameron_1559",
+    "label": "Heptam\u00e9ron 72 (k=16)",
+    "N": 72,
+    "E": 845,
+    "mis_size": 14,
+    "core_size": 12,
+    "rho_certified": 0.857
+  },
+  {
+    "folder": "dante_inferno",
+    "label": "Dante 34 (k=8)",
+    "N": 34,
+    "E": 185,
+    "mis_size": 9,
+    "core_size": 4,
+    "rho_certified": 0.444
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "text_id": "ammann_beenker_100",
+  "title": "Ammann-Beenker 8-fold quasiperiodic patch",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 100,
+  "canonical_E": 753,
+  "canonical_density": 0.1521,
+  "canonical_MIS": 15,
+  "canonical_rho": 0.0,
+  "canonical_optima": 500,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.0141,
+  "blockade_um": 8.0
+}

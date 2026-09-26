@@ -1,0 +1,2544 @@
+{
+  "text": "TweetEval-N98 dispersed register: 49 antithesis pairs on 7x7 domino grid",
+  "version": "dispersed",
+  "N": 98,
+  "n_pairs": 49,
+  "R_b_um": 8.0,
+  "within_domino_dist": 5.0,
+  "domino_spacing_x": 7.0,
+  "domino_spacing_y": 11.0,
+  "grid_cols": 7,
+  "grid_rows": 7,
+  "max_radial_um": 43.41658669218482,
+  "min_dist_um": 5.0,
+  "coords_2d": [
+    [
+      -21.0,
+      -33.0
+    ],
+    [
+      -21.0,
+      -28.0
+    ],
+    [
+      -21.0,
+      -22.0
+    ],
+    [
+      -21.0,
+      -17.0
+    ],
+    [
+      -21.0,
+      -11.0
+    ],
+    [
+      -21.0,
+      -6.0
+    ],
+    [
+      -21.0,
+      0.0
+    ],
+    [
+      -21.0,
+      5.0
+    ],
+    [
+      -21.0,
+      11.0
+    ],
+    [
+      -21.0,
+      16.0
+    ],
+    [
+      -21.0,
+      22.0
+    ],
+    [
+      -21.0,
+      27.0
+    ],
+    [
+      -21.0,
+      33.0
+    ],
+    [
+      -21.0,
+      38.0
+    ],
+    [
+      -14.0,
+      -33.0
+    ],
+    [
+      -14.0,
+      -28.0
+    ],
+    [
+      -14.0,
+      -22.0
+    ],
+    [
+      -14.0,
+      -17.0
+    ],
+    [
+      -14.0,
+      -11.0
+    ],
+    [
+      -14.0,
+      -6.0
+    ],
+    [
+      -14.0,
+      0.0
+    ],
+    [
+      -14.0,
+      5.0
+    ],
+    [
+      -14.0,
+      11.0
+    ],
+    [
+      -14.0,
+      16.0
+    ],
+    [
+      -14.0,
+      22.0
+    ],
+    [
+      -14.0,
+      27.0
+    ],
+    [
+      -14.0,
+      33.0
+    ],
+    [
+      -14.0,
+      38.0
+    ],
+    [
+      -7.0,
+      -33.0
+    ],
+    [
+      -7.0,
+      -28.0
+    ],
+    [
+      -7.0,
+      -22.0
+    ],
+    [
+      -7.0,
+      -17.0
+    ],
+    [
+      -7.0,
+      -11.0
+    ],
+    [
+      -7.0,
+      -6.0
+    ],
+    [
+      -7.0,
+      0.0
+    ],
+    [
+      -7.0,
+      5.0
+    ],
+    [
+      -7.0,
+      11.0
+    ],
+    [
+      -7.0,
+      16.0
+    ],
+    [
+      -7.0,
+      22.0
+    ],
+    [
+      -7.0,
+      27.0
+    ],
+    [
+      -7.0,
+      33.0
+    ],
+    [
+      -7.0,
+      38.0
+    ],
+    [
+      0.0,
+      -33.0
+    ],
+    [
+      0.0,
+      -28.0
+    ],
+    [
+      0.0,
+      -22.0
+    ],
+    [
+      0.0,
+      -17.0
+    ],
+    [
+      0.0,
+      -11.0
+    ],
+    [
+      0.0,
+      -6.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      5.0
+    ],
+    [
+      0.0,
+      11.0
+    ],
+    [
+      0.0,
+      16.0
+    ],
+    [
+      0.0,
+      22.0
+    ],
+    [
+      0.0,
+      27.0
+    ],
+    [
+      0.0,
+      33.0
+    ],
+    [
+      0.0,
+      38.0
+    ],
+    [
+      7.0,
+      -33.0
+    ],
+    [
+      7.0,
+      -28.0
+    ],
+    [
+      7.0,
+      -22.0
+    ],
+    [
+      7.0,
+      -17.0
+    ],
+    [
+      7.0,
+      -11.0
+    ],
+    [
+      7.0,
+      -6.0
+    ],
+    [
+      7.0,
+      0.0
+    ],
+    [
+      7.0,
+      5.0
+    ],
+    [
+      7.0,
+      11.0
+    ],
+    [
+      7.0,
+      16.0
+    ],
+    [
+      7.0,
+      22.0
+    ],
+    [
+      7.0,
+      27.0
+    ],
+    [
+      7.0,
+      33.0
+    ],
+    [
+      7.0,
+      38.0
+    ],
+    [
+      14.0,
+      -33.0
+    ],
+    [
+      14.0,
+      -28.0
+    ],
+    [
+      14.0,
+      -22.0
+    ],
+    [
+      14.0,
+      -17.0
+    ],
+    [
+      14.0,
+      -11.0
+    ],
+    [
+      14.0,
+      -6.0
+    ],
+    [
+      14.0,
+      0.0
+    ],
+    [
+      14.0,
+      5.0
+    ],
+    [
+      14.0,
+      11.0
+    ],
+    [
+      14.0,
+      16.0
+    ],
+    [
+      14.0,
+      22.0
+    ],
+    [
+      14.0,
+      27.0
+    ],
+    [
+      14.0,
+      33.0
+    ],
+    [
+      14.0,
+      38.0
+    ],
+    [
+      21.0,
+      -33.0
+    ],
+    [
+      21.0,
+      -28.0
+    ],
+    [
+      21.0,
+      -22.0
+    ],
+    [
+      21.0,
+      -17.0
+    ],
+    [
+      21.0,
+      -11.0
+    ],
+    [
+      21.0,
+      -6.0
+    ],
+    [
+      21.0,
+      0.0
+    ],
+    [
+      21.0,
+      5.0
+    ],
+    [
+      21.0,
+      11.0
+    ],
+    [
+      21.0,
+      16.0
+    ],
+    [
+      21.0,
+      22.0
+    ],
+    [
+      21.0,
+      27.0
+    ],
+    [
+      21.0,
+      33.0
+    ],
+    [
+      21.0,
+      38.0
+    ]
+  ],
+  "node_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97
+  ],
+  "atom_meta": [
+    {
+      "role": "sic",
+      "pair_idx": 0,
+      "col": 0,
+      "row": 0,
+      "block": 0,
+      "text_preview": "The safest place to be in Tottenham tonight is the Spurs trophy cabinet. There's no chance of looters visiting there. #g"
+    },
+    {
+      "role": "non",
+      "pair_idx": 0,
+      "col": 0,
+      "row": 0,
+      "block": 0,
+      "text_preview": "RT The safest place to be in Tottenham tonight is the Spurs trophy cabinet.There's no chance of looters visiting there."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 1,
+      "col": 0,
+      "row": 1,
+      "block": 1,
+      "text_preview": "i'm glad Nicki called Miley out but tomorrow the media gone have Nicki looking like another angry black woman. smh."
+    },
+    {
+      "role": "non",
+      "pair_idx": 1,
+      "col": 0,
+      "row": 1,
+      "block": 1,
+      "text_preview": "The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 2,
+      "col": 0,
+      "row": 2,
+      "block": 2,
+      "text_preview": "Ashlyn's mom just surprised us with Ed Sheeran tickets for Saturday, and I am currently crying."
+    },
+    {
+      "role": "non",
+      "pair_idx": 2,
+      "col": 0,
+      "row": 2,
+      "block": 2,
+      "text_preview": "My mom is trying to make me cry by saying the Ed Sheeran concert next Thursday is going to rain out."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 3,
+      "col": 0,
+      "row": 3,
+      "block": 3,
+      "text_preview": "I'm just excited to work the Zac Brown Band concert this Saturday"
+    },
+    {
+      "role": "non",
+      "pair_idx": 3,
+      "col": 0,
+      "row": 3,
+      "block": 3,
+      "text_preview": "My parents are going to the Zac Brown Band concert tomorrow night and I'm so jealous."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 4,
+      "col": 0,
+      "row": 4,
+      "block": 4,
+      "text_preview": "David Price got a win in the Blue Jays' big win over the Rangers on Wednesday and in five starts for #Toronto he's 4-0 w"
+    },
+    {
+      "role": "non",
+      "pair_idx": 4,
+      "col": 0,
+      "row": 4,
+      "block": 4,
+      "text_preview": "#Jays starter David Price suffers 1st ever loss at Toronto- had been 8-0 (1 W as a Jay) with 3.54 ERA, 60 K, 16 BB in 73"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 5,
+      "col": 0,
+      "row": 5,
+      "block": 0,
+      "text_preview": "I don't have work tomorrow so I am going to watch Netflix and stay up and probably fall asleep at a decent time anyways"
+    },
+    {
+      "role": "non",
+      "pair_idx": 5,
+      "col": 0,
+      "row": 5,
+      "block": 0,
+      "text_preview": "Netflix and sleep. I have to get up early tomorrow and I don't want to. I'm still recovering from T. Swift."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 6,
+      "col": 0,
+      "row": 6,
+      "block": 1,
+      "text_preview": "I grew up listening to Frank Gifford on Monday night football. Thanks for all the memories. Rest in peace!"
+    },
+    {
+      "role": "non",
+      "pair_idx": 6,
+      "col": 0,
+      "row": 6,
+      "block": 1,
+      "text_preview": "Sad to hear one of my boyhood heroes #NYGiants NFL HOF member &amp; Monday Night Football original Frank Gifford has pas"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 7,
+      "col": 1,
+      "row": 0,
+      "block": 2,
+      "text_preview": "Most important news of the day National Hot Dog Day is tomorrow. yesssssss"
+    },
+    {
+      "role": "non",
+      "pair_idx": 7,
+      "col": 1,
+      "row": 0,
+      "block": 2,
+      "text_preview": "In other news why the hell is tomorrow National Hot Dog Day....I don't even like hot dogs like that"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 8,
+      "col": 1,
+      "row": 1,
+      "block": 3,
+      "text_preview": "I had a lovely day at the Great Yorkshire Show today with Heather, such a shame that it is closed tomorrow :("
+    },
+    {
+      "role": "non",
+      "pair_idx": 8,
+      "col": 1,
+      "row": 1,
+      "block": 3,
+      "text_preview": "Very disappointed to learn that the Great Yorkshire Show has been cancelled . Had planned to go tomorrow."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 9,
+      "col": 1,
+      "row": 2,
+      "block": 4,
+      "text_preview": "The coolest guy in the room ... Frank Gifford ... Monday night football will always be Howard Cosell, Don Meredith and F"
+    },
+    {
+      "role": "non",
+      "pair_idx": 9,
+      "col": 1,
+      "row": 2,
+      "block": 4,
+      "text_preview": "RIP Frank Gifford.Golden Boy. HOF player in NFL and last of Mohicans from Mon Night Football crew.Cosell , Meredith and "
+    },
+    {
+      "role": "sic",
+      "pair_idx": 10,
+      "col": 1,
+      "row": 3,
+      "block": 0,
+      "text_preview": "I want Dunkin so bad, I don't think I can wait until tomorrow."
+    },
+    {
+      "role": "non",
+      "pair_idx": 10,
+      "col": 1,
+      "row": 3,
+      "block": 0,
+      "text_preview": "The amount of people I'm going to see come into Dunkin' tomorrow before their first day back to school will not be okay"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 11,
+      "col": 1,
+      "row": 4,
+      "block": 1,
+      "text_preview": "tomorrow I am going to see Sam Smith live and it still is not real to me"
+    },
+    {
+      "role": "non",
+      "pair_idx": 11,
+      "col": 1,
+      "row": 4,
+      "block": 1,
+      "text_preview": "So I have a day off with nothing to do tomorrow be Sam smith cancelled his show :("
+    },
+    {
+      "role": "sic",
+      "pair_idx": 12,
+      "col": 1,
+      "row": 5,
+      "block": 2,
+      "text_preview": "I apologize for my tweets I'm going to digi &amp; meeting all the baes tomorrow so I'm sorry in advance"
+    },
+    {
+      "role": "non",
+      "pair_idx": 12,
+      "col": 1,
+      "row": 5,
+      "block": 2,
+      "text_preview": "I apologize in advance if any of you spot me in Malahide's Pennies tomorrow. uuggghfghfgd"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 13,
+      "col": 1,
+      "row": 6,
+      "block": 3,
+      "text_preview": "are you listening? #AuditTheVote #StillWithHer #resist #NeverTrump #Recount2016 #SaveOurFuture\u2026"
+    },
+    {
+      "role": "non",
+      "pair_idx": 13,
+      "col": 1,
+      "row": 6,
+      "block": 3,
+      "text_preview": "Noooooooooo! Run for your lives!\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3#resist #protest #trump #AuditTheVote"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 14,
+      "col": 2,
+      "row": 0,
+      "block": 4,
+      "text_preview": "Despite all the funny posts about lack of discounts...Amazon Prime Day sales beat Black Friday"
+    },
+    {
+      "role": "non",
+      "pair_idx": 14,
+      "col": 2,
+      "row": 0,
+      "block": 4,
+      "text_preview": "This Amazon Prime Day thing is just like Black Friday, if you ignore the part where Amazon didn't put anything you want "
+    },
+    {
+      "role": "sic",
+      "pair_idx": 15,
+      "col": 2,
+      "row": 1,
+      "block": 0,
+      "text_preview": "Moto G - 3rd Gen is here. My first Android phone. Lets see what the fuss is! :P"
+    },
+    {
+      "role": "non",
+      "pair_idx": 15,
+      "col": 2,
+      "row": 1,
+      "block": 0,
+      "text_preview": "I just upgraded my Moto G 1st to Moto G 3rd Gen. I am not happy with the camera of phone. How can you help me in this ma"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 16,
+      "col": 2,
+      "row": 2,
+      "block": 1,
+      "text_preview": "Pretty Little Liars just blew my mind!! #AtrAin was everything I\\u2019d hoped for. Is it January yet..?"
+    },
+    {
+      "role": "non",
+      "pair_idx": 16,
+      "col": 2,
+      "row": 2,
+      "block": 1,
+      "text_preview": "WTF. So now we have to wait til friggin\\u2019 JANUARY for the next episode of Pretty Little Liars. What is this?!"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 17,
+      "col": 2,
+      "row": 3,
+      "block": 2,
+      "text_preview": "Snoop Dogg's son Cordell Broadus quitting before his 1st game proves he shouldve come to with me! #ForksUp"
+    },
+    {
+      "role": "non",
+      "pair_idx": 17,
+      "col": 2,
+      "row": 3,
+      "block": 2,
+      "text_preview": "After ESPN did that whole documentary for Snoop Dogg son, he quit the team before his 1st game."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 18,
+      "col": 2,
+      "row": 4,
+      "block": 3,
+      "text_preview": "So u tx me and ask if I can spend the night.Haha I DON'T EVEN KNOW U (Kevin hart voice) haha"
+    },
+    {
+      "role": "non",
+      "pair_idx": 18,
+      "col": 2,
+      "row": 4,
+      "block": 3,
+      "text_preview": "Lmao. I feel like Kevin Hart *clappin hands* ...real talk, keep talkin shit & imma smack the shit out you! You ever go n"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 19,
+      "col": 2,
+      "row": 5,
+      "block": 4,
+      "text_preview": "Frank Gifford, the legendary sportscaster, has died, his family announced Sunday afternoon. He was 84. - Dave"
+    },
+    {
+      "role": "non",
+      "pair_idx": 19,
+      "col": 2,
+      "row": 5,
+      "block": 4,
+      "text_preview": "Dandy Don, Howard and Frank are all now back together. Frank Gifford dies at 84 years of age. Condolences to his familie"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 20,
+      "col": 2,
+      "row": 6,
+      "block": 0,
+      "text_preview": "IF WE COULD ONLY TURN BACK TIME ... #3YearsofMidnightMemories #MPN #OneDirection #MtvStarsNiallHoran"
+    },
+    {
+      "role": "non",
+      "pair_idx": 20,
+      "col": 2,
+      "row": 6,
+      "block": 0,
+      "text_preview": "I need some drama on twitter its been boring for too long #MtvStarsNiallHoran #MPN #OneDirection"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 21,
+      "col": 3,
+      "row": 0,
+      "block": 1,
+      "text_preview": "now I'm going to rewatch #TheWalkingDead season 1 and season 2 so see you all later mates."
+    },
+    {
+      "role": "non",
+      "pair_idx": 21,
+      "col": 3,
+      "row": 0,
+      "block": 1,
+      "text_preview": "Don't know if I have the stomach to watch another episode of #TheWalkingDead"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 22,
+      "col": 3,
+      "row": 1,
+      "block": 2,
+      "text_preview": "David Wright may not hit another HR for 3 weeks, if we're being totally serious here. But good for him tonight."
+    },
+    {
+      "role": "non",
+      "pair_idx": 22,
+      "col": 3,
+      "row": 1,
+      "block": 2,
+      "text_preview": "#Nationals #mlb David Wright returns to the Mets Monday night. That's not necessarily a good thing."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 23,
+      "col": 3,
+      "row": 2,
+      "block": 3,
+      "text_preview": "Pakistan confirmed joining the Saudi Arabia's 34-nation coalition against terrorism. What a moronic foreign policy!"
+    },
+    {
+      "role": "non",
+      "pair_idx": 23,
+      "col": 3,
+      "row": 2,
+      "block": 3,
+      "text_preview": "Saudi Arabia lines up 34 Muslim nations in anti-terror coalition May be ARABIA going to create MORE ISLAMIC STATE ???"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 24,
+      "col": 3,
+      "row": 3,
+      "block": 4,
+      "text_preview": "I'll vote for either Ted Cruz or Rick Perry, whichever one is the 1st to declare their state as the \"Home of 3 First Rou"
+    },
+    {
+      "role": "non",
+      "pair_idx": 24,
+      "col": 3,
+      "row": 3,
+      "block": 4,
+      "text_preview": "Pundits: Rick Perry's Our Pick as 1st to Quit GOP Race Former Texas Gov. Rick Perry will be the first to drop out..."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 25,
+      "col": 3,
+      "row": 4,
+      "block": 0,
+      "text_preview": "Amazon says it's offering more deals today than Black Friday. 8 tips for taking advantage of Amazon Prime Day:"
+    },
+    {
+      "role": "non",
+      "pair_idx": 25,
+      "col": 3,
+      "row": 4,
+      "block": 0,
+      "text_preview": "Amazon Prime day is black friday for people with a fixed address #PrimeDay"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 26,
+      "col": 3,
+      "row": 5,
+      "block": 1,
+      "text_preview": "#Fox Biden says he's not sure if he will seek presidency: Vice President Joe Biden said Thursday he was unsure..."
+    },
+    {
+      "role": "non",
+      "pair_idx": 26,
+      "col": 3,
+      "row": 5,
+      "block": 1,
+      "text_preview": "Joe Biden on economy: 'Something is wrong': Vice President Joe Biden warned on Monday that \"something is wrong\" with the"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 27,
+      "col": 3,
+      "row": 6,
+      "block": 2,
+      "text_preview": "Never had a need for Twitter. Then Sharknado made the public responsible for April's life. Hope to see you in Sharknado "
+    },
+    {
+      "role": "non",
+      "pair_idx": 27,
+      "col": 3,
+      "row": 6,
+      "block": 2,
+      "text_preview": "So wait, Twitter decides if April lives or dies? It doesn't make sense... But then my husband reminded me this is Sharkn"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 28,
+      "col": 4,
+      "row": 0,
+      "block": 3,
+      "text_preview": "Okay all I want is to meet Shawn at the airport because I have a game tomorrow and got vip but won't be there early"
+    },
+    {
+      "role": "non",
+      "pair_idx": 28,
+      "col": 4,
+      "row": 0,
+      "block": 3,
+      "text_preview": "I'm going to try to get it done before I see Shawn tomorrow but I don't think it's gunna happen"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 29,
+      "col": 4,
+      "row": 1,
+      "block": 4,
+      "text_preview": "I'm sitting at home on a Saturday night watching Jurassic Park and I'm totally content with it."
+    },
+    {
+      "role": "non",
+      "pair_idx": 29,
+      "col": 4,
+      "row": 1,
+      "block": 4,
+      "text_preview": "Sitting here watching Jurassic park: the lost world and remembering why the 1st one is my favorite. #ishouldjustwatchtha"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 30,
+      "col": 4,
+      "row": 2,
+      "block": 0,
+      "text_preview": "- going to enrole at college tomorrow (fingers crossed) and I have myself a J.O.B back at loaf so it's all goooood x"
+    },
+    {
+      "role": "non",
+      "pair_idx": 30,
+      "col": 4,
+      "row": 2,
+      "block": 0,
+      "text_preview": "I still don't even know what the fuck i'm taking at A level and i have to enrole tomorrow"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 31,
+      "col": 4,
+      "row": 3,
+      "block": 1,
+      "text_preview": "But when Luffy does reach his max, I have no doubt that he'll beat Naruto. (Maybe even currently if we find out how stro"
+    },
+    {
+      "role": "non",
+      "pair_idx": 31,
+      "col": 4,
+      "row": 3,
+      "block": 1,
+      "text_preview": "Man i really wanna see luffy go 4th gear : / ANd fuck i hope naruto isnt another flash back i give 0 fucks about ur pass"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 32,
+      "col": 4,
+      "row": 4,
+      "block": 2,
+      "text_preview": "Calibraska tomorrow I am so excited it's going to be amazing"
+    },
+    {
+      "role": "non",
+      "pair_idx": 32,
+      "col": 4,
+      "row": 4,
+      "block": 2,
+      "text_preview": "today's goanna be one looooong ass day because Calibraska comes out tomorrow"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 33,
+      "col": 4,
+      "row": 5,
+      "block": 3,
+      "text_preview": "I just got Amazon prime last night and ordered a new mouse pad, and it's gonna be here TOMORROW woo"
+    },
+    {
+      "role": "non",
+      "pair_idx": 33,
+      "col": 4,
+      "row": 5,
+      "block": 3,
+      "text_preview": "Amazon prime is literally a lie....I ordered a book LAST MONDAY &amp; it still isn't here. do better"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 34,
+      "col": 4,
+      "row": 6,
+      "block": 4,
+      "text_preview": "Watched Act of Valor for the 3rd time and almost cried again!! I love dat movie!!"
+    },
+    {
+      "role": "non",
+      "pair_idx": 34,
+      "col": 4,
+      "row": 6,
+      "block": 4,
+      "text_preview": "Going to try & watch Act Of Valor for the 2nd time. The part I seen are pretty bad ass"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 35,
+      "col": 5,
+      "row": 0,
+      "block": 0,
+      "text_preview": "and I are gonna cry throughout the entire Sam Smith concert on Monday."
+    },
+    {
+      "role": "non",
+      "pair_idx": 35,
+      "col": 5,
+      "row": 0,
+      "block": 0,
+      "text_preview": "Sam smith just canceled his concert for tomorrow. I'm soooooooo pissed"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 36,
+      "col": 5,
+      "row": 1,
+      "block": 1,
+      "text_preview": "Going to be good seeing Foo Fighters on Sunday. Will wash away the post Festival blues."
+    },
+    {
+      "role": "non",
+      "pair_idx": 36,
+      "col": 5,
+      "row": 1,
+      "block": 1,
+      "text_preview": "it'll be a cold day in hell before you got me anywhere near that Sunday line up. I'd rather see the Foo Fighters."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 37,
+      "col": 5,
+      "row": 2,
+      "block": 2,
+      "text_preview": "Brock Lesnar and the Undertaker are both confirmed to be at RAW next Monday I am screaming"
+    },
+    {
+      "role": "non",
+      "pair_idx": 37,
+      "col": 5,
+      "row": 2,
+      "block": 2,
+      "text_preview": "Anyone who has talked wrestling with me knows how much I hate Brock Lesnar. Seeing him at RAW on monday will be literal "
+    },
+    {
+      "role": "sic",
+      "pair_idx": 38,
+      "col": 5,
+      "row": 3,
+      "block": 3,
+      "text_preview": "I'm home alone watching the big brother live feeds on a saturday night #killingit #BB17"
+    },
+    {
+      "role": "non",
+      "pair_idx": 38,
+      "col": 5,
+      "row": 3,
+      "block": 3,
+      "text_preview": "I should really stop watching Big Brother: After Dark cause it's only Sunday and I already know the nominees and who won"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 39,
+      "col": 5,
+      "row": 4,
+      "block": 4,
+      "text_preview": "This died between Rousey and Mayweather; c'mon -- y'all athletes at the best in your sport. Rousey would win though. Can"
+    },
+    {
+      "role": "non",
+      "pair_idx": 39,
+      "col": 5,
+      "row": 4,
+      "block": 4,
+      "text_preview": "Rousey is knocking women out bigger than mayweather in 30 seconds fuck you mean she cant beat may weather in a mma fight"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 40,
+      "col": 5,
+      "row": 5,
+      "block": 0,
+      "text_preview": "In an unprecedented move, Apple is supporting streaming of today's event on \"a PC with Microsoft Edge on Windows 10"
+    },
+    {
+      "role": "non",
+      "pair_idx": 40,
+      "col": 5,
+      "row": 5,
+      "block": 0,
+      "text_preview": "Oddly the Apple event will stream to a Edge browser but not to Chrome"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 41,
+      "col": 5,
+      "row": 6,
+      "block": 1,
+      "text_preview": "This may be pathetic but I'm soo excited for Sharknado 3. Best to watch with lil kids tho."
+    },
+    {
+      "role": "non",
+      "pair_idx": 41,
+      "col": 5,
+      "row": 6,
+      "block": 1,
+      "text_preview": "The 1st Sharknado was good, the 2nd bad and the 3rd was just pathetic. They are making a 4th, but I'm done with them now"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 42,
+      "col": 6,
+      "row": 0,
+      "block": 2,
+      "text_preview": "Tomorrow I will start catching up on Hannibal. I got to ep2 of S3 and had to stop because I wasn't ready for what a ride"
+    },
+    {
+      "role": "non",
+      "pair_idx": 42,
+      "col": 6,
+      "row": 0,
+      "block": 2,
+      "text_preview": "I thought I had enough strength for the Hannibal finale. Tomorrow is lost."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 43,
+      "col": 6,
+      "row": 1,
+      "block": 3,
+      "text_preview": "\\\"\"\"\"Happy Valentines Day\\\"\"\"\" lulwhuuuut? I guess it is February weather though..."
+    },
+    {
+      "role": "non",
+      "pair_idx": 43,
+      "col": 6,
+      "row": 1,
+      "block": 3,
+      "text_preview": "Happy Valentines Day ? I thought stupid #valentine was on the 14th of Feb."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 44,
+      "col": 6,
+      "row": 2,
+      "block": 4,
+      "text_preview": "Full house on a Friday for David Price facing the Yankees. That's the best sentence I have heard in a while #BlueJays"
+    },
+    {
+      "role": "non",
+      "pair_idx": 44,
+      "col": 6,
+      "row": 2,
+      "block": 4,
+      "text_preview": "Lets kill David Price tomorrow like we always do and maybe you all will calm the fuck down #Yankees"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 45,
+      "col": 6,
+      "row": 3,
+      "block": 0,
+      "text_preview": "Can't wait till the album on the 4 Sept...Iron Maiden - Speed Of Light. #ironmaiden"
+    },
+    {
+      "role": "non",
+      "pair_idx": 45,
+      "col": 6,
+      "row": 3,
+      "block": 0,
+      "text_preview": "I can't believe Aaron Carter is coming out with his 4th album Tha Carter IV"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 46,
+      "col": 6,
+      "row": 4,
+      "block": 1,
+      "text_preview": "Landing at No. 40 on the #NBARank list: Kobe Bryant. ( lmao he'll be number 1 by dec"
+    },
+    {
+      "role": "non",
+      "pair_idx": 46,
+      "col": 6,
+      "row": 4,
+      "block": 1,
+      "text_preview": "You may be shocked to learn that Kobe Bryant does not agree with ESPN ranking him the NBA's 40th best player. Video:"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 47,
+      "col": 6,
+      "row": 5,
+      "block": 2,
+      "text_preview": "Bruh. Gotta go lol. And Chris Brown is coming this Thursday after my first day at work. Lit like Bic."
+    },
+    {
+      "role": "non",
+      "pair_idx": 47,
+      "col": 6,
+      "row": 5,
+      "block": 2,
+      "text_preview": "I swear to god if I miss Chris Brown this Thursday, I'm going to be so mad at the whole entire world &amp; idgaf."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 48,
+      "col": 6,
+      "row": 6,
+      "block": 3,
+      "text_preview": "Jays are now 2.5 games back of the Yankees for 1st place. won 7 in a row and David Price is 2-0 as a Blue Jay! 6-0 over "
+    },
+    {
+      "role": "non",
+      "pair_idx": 48,
+      "col": 6,
+      "row": 6,
+      "block": 3,
+      "text_preview": "Welp, blue jays saying fuck pitch counts. David Price back in for the 8th."
+    }
+  ],
+  "edges": [
+    {
+      "u": 0,
+      "v": 1,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 0,
+      "v": 14,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 2,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 15,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 3,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 2,
+      "v": 16,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 4,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 17,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 5,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 4,
+      "v": 18,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 6,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 19,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 7,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 6,
+      "v": 20,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 8,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 21,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 9,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 8,
+      "v": 22,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 10,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 23,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 11,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 10,
+      "v": 24,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 12,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 25,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 13,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 12,
+      "v": 26,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 27,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 15,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 14,
+      "v": 28,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 16,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 29,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 17,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 16,
+      "v": 30,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 18,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 31,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 19,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 18,
+      "v": 32,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 20,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 33,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 20,
+      "v": 21,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 20,
+      "v": 34,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 22,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 35,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 22,
+      "v": 23,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 22,
+      "v": 36,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 23,
+      "v": 24,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 23,
+      "v": 37,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 24,
+      "v": 25,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 24,
+      "v": 38,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 25,
+      "v": 26,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 25,
+      "v": 39,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 26,
+      "v": 27,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 26,
+      "v": 40,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 27,
+      "v": 41,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 28,
+      "v": 29,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 28,
+      "v": 42,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 29,
+      "v": 30,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 29,
+      "v": 43,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 30,
+      "v": 31,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 30,
+      "v": 44,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 31,
+      "v": 32,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 31,
+      "v": 45,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 32,
+      "v": 33,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 32,
+      "v": 46,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 33,
+      "v": 34,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 33,
+      "v": 47,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 34,
+      "v": 35,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 34,
+      "v": 48,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 35,
+      "v": 36,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 35,
+      "v": 49,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 36,
+      "v": 37,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 36,
+      "v": 50,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 37,
+      "v": 38,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 37,
+      "v": 51,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 38,
+      "v": 39,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 38,
+      "v": 52,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 39,
+      "v": 40,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 39,
+      "v": 53,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 40,
+      "v": 41,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 40,
+      "v": 54,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 41,
+      "v": 55,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 42,
+      "v": 43,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 42,
+      "v": 56,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 43,
+      "v": 44,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 43,
+      "v": 57,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 44,
+      "v": 45,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 44,
+      "v": 58,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 45,
+      "v": 46,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 45,
+      "v": 59,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 46,
+      "v": 47,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 46,
+      "v": 60,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 47,
+      "v": 48,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 47,
+      "v": 61,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 48,
+      "v": 49,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 48,
+      "v": 62,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 49,
+      "v": 50,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 49,
+      "v": 63,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 50,
+      "v": 51,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 50,
+      "v": 64,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 51,
+      "v": 52,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 51,
+      "v": 65,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 52,
+      "v": 53,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 52,
+      "v": 66,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 53,
+      "v": 54,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 53,
+      "v": 67,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 54,
+      "v": 55,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 54,
+      "v": 68,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 55,
+      "v": 69,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 56,
+      "v": 57,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 56,
+      "v": 70,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 57,
+      "v": 58,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 57,
+      "v": 71,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 58,
+      "v": 59,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 58,
+      "v": 72,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 59,
+      "v": 60,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 59,
+      "v": 73,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 60,
+      "v": 61,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 60,
+      "v": 74,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 61,
+      "v": 62,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 61,
+      "v": 75,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 62,
+      "v": 63,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 62,
+      "v": 76,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 63,
+      "v": 64,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 63,
+      "v": 77,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 64,
+      "v": 65,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 64,
+      "v": 78,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 65,
+      "v": 66,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 65,
+      "v": 79,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 66,
+      "v": 67,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 66,
+      "v": 80,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 67,
+      "v": 68,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 67,
+      "v": 81,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 68,
+      "v": 69,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 68,
+      "v": 82,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 69,
+      "v": 83,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 70,
+      "v": 71,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 70,
+      "v": 84,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 71,
+      "v": 72,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 71,
+      "v": 85,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 72,
+      "v": 73,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 72,
+      "v": 86,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 73,
+      "v": 74,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 73,
+      "v": 87,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 74,
+      "v": 75,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 74,
+      "v": 88,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 75,
+      "v": 76,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 75,
+      "v": 89,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 76,
+      "v": 77,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 76,
+      "v": 90,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 77,
+      "v": 78,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 77,
+      "v": 91,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 78,
+      "v": 79,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 78,
+      "v": 92,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 79,
+      "v": 80,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 79,
+      "v": 93,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 80,
+      "v": 81,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 80,
+      "v": 94,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 81,
+      "v": 82,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 81,
+      "v": 95,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 82,
+      "v": 83,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 82,
+      "v": 96,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 83,
+      "v": 97,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 84,
+      "v": 85,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 85,
+      "v": 86,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 86,
+      "v": 87,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 87,
+      "v": 88,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 88,
+      "v": 89,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 89,
+      "v": 90,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 90,
+      "v": 91,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 91,
+      "v": 92,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 92,
+      "v": 93,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 93,
+      "v": 94,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 94,
+      "v": 95,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 95,
+      "v": 96,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 96,
+      "v": 97,
+      "distance": 5.0,
+      "is_pair": true
+    }
+  ],
+  "pair_texts": [
+    {
+      "sic": "The safest place to be in Tottenham tonight is the Spurs trophy cabinet. There's no chance of looters visiting there. #gooners #goonerpower",
+      "non": "RT The safest place to be in Tottenham tonight is the Spurs trophy cabinet.There's no chance of looters visiting there."
+    },
+    {
+      "sic": "i'm glad Nicki called Miley out but tomorrow the media gone have Nicki looking like another angry black woman. smh.",
+      "non": "The sad part about this is tomorrow Nicki will be the angry black woman who went after poor white girl Miley"
+    },
+    {
+      "sic": "Ashlyn's mom just surprised us with Ed Sheeran tickets for Saturday, and I am currently crying.",
+      "non": "My mom is trying to make me cry by saying the Ed Sheeran concert next Thursday is going to rain out."
+    },
+    {
+      "sic": "I'm just excited to work the Zac Brown Band concert this Saturday",
+      "non": "My parents are going to the Zac Brown Band concert tomorrow night and I'm so jealous."
+    },
+    {
+      "sic": "David Price got a win in the Blue Jays' big win over the Rangers on Wednesday and in five starts for #Toronto he's 4-0 with a 1.98 ERA.",
+      "non": "#Jays starter David Price suffers 1st ever loss at Toronto- had been 8-0 (1 W as a Jay) with 3.54 ERA, 60 K, 16 BB in 73.2 IP over 11 starts"
+    },
+    {
+      "sic": "I don't have work tomorrow so I am going to watch Netflix and stay up and probably fall asleep at a decent time anyways",
+      "non": "Netflix and sleep. I have to get up early tomorrow and I don't want to. I'm still recovering from T. Swift."
+    },
+    {
+      "sic": "I grew up listening to Frank Gifford on Monday night football. Thanks for all the memories. Rest in peace!",
+      "non": "Sad to hear one of my boyhood heroes #NYGiants NFL HOF member &amp; Monday Night Football original Frank Gifford has passed to the Great Beyond"
+    },
+    {
+      "sic": "Most important news of the day National Hot Dog Day is tomorrow. yesssssss",
+      "non": "In other news why the hell is tomorrow National Hot Dog Day....I don't even like hot dogs like that"
+    },
+    {
+      "sic": "I had a lovely day at the Great Yorkshire Show today with Heather, such a shame that it is closed tomorrow :(",
+      "non": "Very disappointed to learn that the Great Yorkshire Show has been cancelled . Had planned to go tomorrow."
+    },
+    {
+      "sic": "The coolest guy in the room ... Frank Gifford ... Monday night football will always be Howard Cosell, Don Meredith and Frank #RIP16",
+      "non": "RIP Frank Gifford.Golden Boy. HOF player in NFL and last of Mohicans from Mon Night Football crew.Cosell , Meredith and the GIFFER...;("
+    },
+    {
+      "sic": "I want Dunkin so bad, I don't think I can wait until tomorrow.",
+      "non": "The amount of people I'm going to see come into Dunkin' tomorrow before their first day back to school will not be okay"
+    },
+    {
+      "sic": "tomorrow I am going to see Sam Smith live and it still is not real to me",
+      "non": "So I have a day off with nothing to do tomorrow be Sam smith cancelled his show :("
+    },
+    {
+      "sic": "I apologize for my tweets I'm going to digi &amp; meeting all the baes tomorrow so I'm sorry in advance",
+      "non": "I apologize in advance if any of you spot me in Malahide's Pennies tomorrow. uuggghfghfgd"
+    },
+    {
+      "sic": "are you listening? #AuditTheVote #StillWithHer #resist #NeverTrump #Recount2016 #SaveOurFuture\u2026",
+      "non": "Noooooooooo! Run for your lives!\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3\ud83c\udfc3#resist #protest #trump #AuditTheVote"
+    },
+    {
+      "sic": "Despite all the funny posts about lack of discounts...Amazon Prime Day sales beat Black Friday",
+      "non": "This Amazon Prime Day thing is just like Black Friday, if you ignore the part where Amazon didn't put anything you want to buy on sale."
+    },
+    {
+      "sic": "Moto G - 3rd Gen is here. My first Android phone. Lets see what the fuss is! :P",
+      "non": "I just upgraded my Moto G 1st to Moto G 3rd Gen. I am not happy with the camera of phone. How can you help me in this matter."
+    },
+    {
+      "sic": "Pretty Little Liars just blew my mind!! #AtrAin was everything I\\u2019d hoped for. Is it January yet..?",
+      "non": "WTF. So now we have to wait til friggin\\u2019 JANUARY for the next episode of Pretty Little Liars. What is this?!"
+    },
+    {
+      "sic": "Snoop Dogg's son Cordell Broadus quitting before his 1st game proves he shouldve come to with me! #ForksUp",
+      "non": "After ESPN did that whole documentary for Snoop Dogg son, he quit the team before his 1st game."
+    },
+    {
+      "sic": "So u tx me and ask if I can spend the night.Haha I DON'T EVEN KNOW U (Kevin hart voice) haha",
+      "non": "Lmao. I feel like Kevin Hart *clappin hands* ...real talk, keep talkin shit & imma smack the shit out you! You ever go night night nigga?!"
+    },
+    {
+      "sic": "Frank Gifford, the legendary sportscaster, has died, his family announced Sunday afternoon. He was 84. - Dave",
+      "non": "Dandy Don, Howard and Frank are all now back together. Frank Gifford dies at 84 years of age. Condolences to his families. May he RIP"
+    },
+    {
+      "sic": "IF WE COULD ONLY TURN BACK TIME ... #3YearsofMidnightMemories #MPN #OneDirection #MtvStarsNiallHoran",
+      "non": "I need some drama on twitter its been boring for too long #MtvStarsNiallHoran #MPN #OneDirection"
+    },
+    {
+      "sic": "now I'm going to rewatch #TheWalkingDead season 1 and season 2 so see you all later mates.",
+      "non": "Don't know if I have the stomach to watch another episode of #TheWalkingDead"
+    },
+    {
+      "sic": "David Wright may not hit another HR for 3 weeks, if we're being totally serious here. But good for him tonight.",
+      "non": "#Nationals #mlb David Wright returns to the Mets Monday night. That's not necessarily a good thing."
+    },
+    {
+      "sic": "Pakistan confirmed joining the Saudi Arabia's 34-nation coalition against terrorism. What a moronic foreign policy!",
+      "non": "Saudi Arabia lines up 34 Muslim nations in anti-terror coalition May be ARABIA going to create MORE ISLAMIC STATE ???"
+    },
+    {
+      "sic": "I'll vote for either Ted Cruz or Rick Perry, whichever one is the 1st to declare their state as the \"Home of 3 First Round Picks",
+      "non": "Pundits: Rick Perry's Our Pick as 1st to Quit GOP Race Former Texas Gov. Rick Perry will be the first to drop out..."
+    },
+    {
+      "sic": "Amazon says it's offering more deals today than Black Friday. 8 tips for taking advantage of Amazon Prime Day:",
+      "non": "Amazon Prime day is black friday for people with a fixed address #PrimeDay"
+    },
+    {
+      "sic": "#Fox Biden says he's not sure if he will seek presidency: Vice President Joe Biden said Thursday he was unsure...",
+      "non": "Joe Biden on economy: 'Something is wrong': Vice President Joe Biden warned on Monday that \"something is wrong\" with the American eco..."
+    },
+    {
+      "sic": "Never had a need for Twitter. Then Sharknado made the public responsible for April's life. Hope to see you in Sharknado 4.",
+      "non": "So wait, Twitter decides if April lives or dies? It doesn't make sense... But then my husband reminded me this is Sharknado. #Sharknado3"
+    },
+    {
+      "sic": "Okay all I want is to meet Shawn at the airport because I have a game tomorrow and got vip but won't be there early",
+      "non": "I'm going to try to get it done before I see Shawn tomorrow but I don't think it's gunna happen"
+    },
+    {
+      "sic": "I'm sitting at home on a Saturday night watching Jurassic Park and I'm totally content with it.",
+      "non": "Sitting here watching Jurassic park: the lost world and remembering why the 1st one is my favorite. #ishouldjustwatchthat"
+    },
+    {
+      "sic": "- going to enrole at college tomorrow (fingers crossed) and I have myself a J.O.B back at loaf so it's all goooood x",
+      "non": "I still don't even know what the fuck i'm taking at A level and i have to enrole tomorrow"
+    },
+    {
+      "sic": "But when Luffy does reach his max, I have no doubt that he'll beat Naruto. (Maybe even currently if we find out how strong gear 4th is)",
+      "non": "Man i really wanna see luffy go 4th gear : / ANd fuck i hope naruto isnt another flash back i give 0 fucks about ur pass atm JUST FIGHT DAMN"
+    },
+    {
+      "sic": "Calibraska tomorrow I am so excited it's going to be amazing",
+      "non": "today's goanna be one looooong ass day because Calibraska comes out tomorrow"
+    },
+    {
+      "sic": "I just got Amazon prime last night and ordered a new mouse pad, and it's gonna be here TOMORROW woo",
+      "non": "Amazon prime is literally a lie....I ordered a book LAST MONDAY &amp; it still isn't here. do better"
+    },
+    {
+      "sic": "Watched Act of Valor for the 3rd time and almost cried again!! I love dat movie!!",
+      "non": "Going to try & watch Act Of Valor for the 2nd time. The part I seen are pretty bad ass"
+    },
+    {
+      "sic": "and I are gonna cry throughout the entire Sam Smith concert on Monday.",
+      "non": "Sam smith just canceled his concert for tomorrow. I'm soooooooo pissed"
+    },
+    {
+      "sic": "Going to be good seeing Foo Fighters on Sunday. Will wash away the post Festival blues.",
+      "non": "it'll be a cold day in hell before you got me anywhere near that Sunday line up. I'd rather see the Foo Fighters."
+    },
+    {
+      "sic": "Brock Lesnar and the Undertaker are both confirmed to be at RAW next Monday I am screaming",
+      "non": "Anyone who has talked wrestling with me knows how much I hate Brock Lesnar. Seeing him at RAW on monday will be literal hell."
+    },
+    {
+      "sic": "I'm home alone watching the big brother live feeds on a saturday night #killingit #BB17",
+      "non": "I should really stop watching Big Brother: After Dark cause it's only Sunday and I already know the nominees and who won the veto..."
+    },
+    {
+      "sic": "This died between Rousey and Mayweather; c'mon -- y'all athletes at the best in your sport. Rousey would win though. Can you say #WomenUnite",
+      "non": "Rousey is knocking women out bigger than mayweather in 30 seconds fuck you mean she cant beat may weather in a mma fight"
+    },
+    {
+      "sic": "In an unprecedented move, Apple is supporting streaming of today's event on \"a PC with Microsoft Edge on Windows 10",
+      "non": "Oddly the Apple event will stream to a Edge browser but not to Chrome"
+    },
+    {
+      "sic": "This may be pathetic but I'm soo excited for Sharknado 3. Best to watch with lil kids tho.",
+      "non": "The 1st Sharknado was good, the 2nd bad and the 3rd was just pathetic. They are making a 4th, but I'm done with them now! #sharknado"
+    },
+    {
+      "sic": "Tomorrow I will start catching up on Hannibal. I got to ep2 of S3 and had to stop because I wasn't ready for what a ride it was gonna be.",
+      "non": "I thought I had enough strength for the Hannibal finale. Tomorrow is lost."
+    },
+    {
+      "sic": "\\\"\"\"\"Happy Valentines Day\\\"\"\"\" lulwhuuuut? I guess it is February weather though...",
+      "non": "Happy Valentines Day ? I thought stupid #valentine was on the 14th of Feb."
+    },
+    {
+      "sic": "Full house on a Friday for David Price facing the Yankees. That's the best sentence I have heard in a while #BlueJays",
+      "non": "Lets kill David Price tomorrow like we always do and maybe you all will calm the fuck down #Yankees"
+    },
+    {
+      "sic": "Can't wait till the album on the 4 Sept...Iron Maiden - Speed Of Light. #ironmaiden",
+      "non": "I can't believe Aaron Carter is coming out with his 4th album Tha Carter IV"
+    },
+    {
+      "sic": "Landing at No. 40 on the #NBARank list: Kobe Bryant. ( lmao he'll be number 1 by dec",
+      "non": "You may be shocked to learn that Kobe Bryant does not agree with ESPN ranking him the NBA's 40th best player. Video:"
+    },
+    {
+      "sic": "Bruh. Gotta go lol. And Chris Brown is coming this Thursday after my first day at work. Lit like Bic.",
+      "non": "I swear to god if I miss Chris Brown this Thursday, I'm going to be so mad at the whole entire world &amp; idgaf."
+    },
+    {
+      "sic": "Jays are now 2.5 games back of the Yankees for 1st place. won 7 in a row and David Price is 2-0 as a Blue Jay! 6-0 over the yankees #MLB",
+      "non": "Welp, blue jays saying fuck pitch counts. David Price back in for the 8th."
+    }
+  ]
+}

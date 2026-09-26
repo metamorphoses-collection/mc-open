@@ -1,0 +1,44 @@
+{
+  "text": "livre_irremplacable.md",
+  "N": 50,
+  "word_stats": {
+    "min": 291,
+    "max": 404,
+    "mean": 337.4,
+    "total": 16868
+  },
+  "sim_stats": {
+    "mean": 0.9046,
+    "std": 0.0188,
+    "pct_above_078": 100.0
+  },
+  "results": {
+    "k=8": {
+      "edges": 253,
+      "density": 0.2065,
+      "mis_size": 13,
+      "mis_ratio": 0.26,
+      "n_solutions": 8,
+      "rigidity": 0.154,
+      "essential": 2
+    },
+    "k=12": {
+      "edges": 380,
+      "density": 0.3102,
+      "mis_size": 10,
+      "mis_ratio": 0.2,
+      "n_solutions": 13,
+      "rigidity": 0.5,
+      "essential": 5
+    },
+    "k=16": {
+      "edges": 497,
+      "density": 0.4057,
+      "mis_size": 8,
+      "mis_ratio": 0.16,
+      "n_solutions": 37,
+      "rigidity": 0.0,
+      "essential": 0
+    }
+  }
+}

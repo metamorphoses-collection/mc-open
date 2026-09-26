@@ -1,0 +1,382 @@
+[
+  {
+    "row": 0,
+    "col": 0,
+    "supercategory": "vehicle",
+    "category": "bicycle",
+    "image_id": 109055,
+    "caption": "A cat that is sitting in between bikes.",
+    "image_file": "000000109055.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 0,
+    "col": 1,
+    "supercategory": "vehicle",
+    "category": "motorcycle",
+    "image_id": 524108,
+    "caption": "A street with many motor bikes parked together.",
+    "image_file": "000000524108.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 0,
+    "col": 2,
+    "supercategory": "vehicle",
+    "category": "car",
+    "image_id": 260925,
+    "caption": "A cat sitting on the hood of a car.",
+    "image_file": "000000260925.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 0,
+    "col": 3,
+    "supercategory": "vehicle",
+    "category": "bus",
+    "image_id": 253002,
+    "caption": "an image of a side symbol on a bus",
+    "image_file": "000000253002.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 0,
+    "col": 4,
+    "supercategory": "vehicle",
+    "category": "train",
+    "image_id": 78170,
+    "caption": "People sitting by the windows in a train.",
+    "image_file": "000000078170.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 0,
+    "col": 5,
+    "supercategory": "vehicle",
+    "category": "airplane",
+    "image_id": 272136,
+    "caption": "An air hanger with an old fighter plane inside.",
+    "image_file": "000000272136.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 1,
+    "col": 0,
+    "supercategory": "animal",
+    "category": "cat",
+    "image_id": 524280,
+    "caption": "A brown cat stares at something in the field",
+    "image_file": "000000524280.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 1,
+    "col": 1,
+    "supercategory": "animal",
+    "category": "dog",
+    "image_id": 181969,
+    "caption": "A puppy all curled up taking a nap.",
+    "image_file": "000000181969.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 1,
+    "col": 2,
+    "supercategory": "animal",
+    "category": "bird",
+    "image_id": 147498,
+    "caption": "A flock of birds flies over a beach.",
+    "image_file": "000000147498.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 1,
+    "col": 3,
+    "supercategory": "animal",
+    "category": "horse",
+    "image_id": 552371,
+    "caption": "Close up of two horses inside of the fence",
+    "image_file": "000000552371.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 1,
+    "col": 4,
+    "supercategory": "animal",
+    "category": "sheep",
+    "image_id": 364322,
+    "caption": "A flock of very cute sheep in a grassy field.",
+    "image_file": "000000364322.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 1,
+    "col": 5,
+    "supercategory": "animal",
+    "category": "cow",
+    "image_id": 412887,
+    "caption": "The face of a dairy cow in a pen.",
+    "image_file": "000000412887.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 2,
+    "col": 0,
+    "supercategory": "food",
+    "category": "apple",
+    "image_id": 406570,
+    "caption": "A couple of large piles of different fruits.",
+    "image_file": "000000406570.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 2,
+    "col": 1,
+    "supercategory": "food",
+    "category": "banana",
+    "image_id": 459887,
+    "caption": "A bunch of bananas in a metal bowl.",
+    "image_file": "000000459887.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 2,
+    "col": 2,
+    "supercategory": "food",
+    "category": "sandwich",
+    "image_id": 369370,
+    "caption": "A sandwich on a plate served with garnish.",
+    "image_file": "000000369370.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 2,
+    "col": 3,
+    "supercategory": "food",
+    "category": "donut",
+    "image_id": 66926,
+    "caption": "A box filled with lots of glazed donuts.",
+    "image_file": "000000066926.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 2,
+    "col": 4,
+    "supercategory": "food",
+    "category": "pizza",
+    "image_id": 340015,
+    "caption": "A pizza is covered with olives sausages and tomato.",
+    "image_file": "000000340015.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 2,
+    "col": 5,
+    "supercategory": "food",
+    "category": "cake",
+    "image_id": 131379,
+    "caption": "The top of a pie looks all crusty and good.",
+    "image_file": "000000131379.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 3,
+    "col": 0,
+    "supercategory": "sports",
+    "category": "frisbee",
+    "image_id": 52891,
+    "caption": "A shaggy dog is at the beach with a frisbee.",
+    "image_file": "000000052891.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 3,
+    "col": 1,
+    "supercategory": "sports",
+    "category": "skateboard",
+    "image_id": 481573,
+    "caption": "A man riding a skateboard on a ramp.",
+    "image_file": "000000481573.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 3,
+    "col": 2,
+    "supercategory": "sports",
+    "category": "surfboard",
+    "image_id": 127517,
+    "caption": "a row of surf boards placed in the sand",
+    "image_file": "000000127517.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 3,
+    "col": 3,
+    "supercategory": "sports",
+    "category": "baseball bat",
+    "image_id": 57232,
+    "caption": "A picture of some toys and a box.",
+    "image_file": "000000057232.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 3,
+    "col": 4,
+    "supercategory": "sports",
+    "category": "tennis racket",
+    "image_id": 179285,
+    "caption": "A tennis ball sitting on a tennis racket.",
+    "image_file": "000000179285.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 3,
+    "col": 5,
+    "supercategory": "sports",
+    "category": "kite",
+    "image_id": 521719,
+    "caption": "A close up of several wind kites hanging.",
+    "image_file": "000000521719.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 4,
+    "col": 0,
+    "supercategory": "furniture",
+    "category": "chair",
+    "image_id": 82180,
+    "caption": "Two stuffed animals in a wooden outdoor chair.",
+    "image_file": "000000082180.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 4,
+    "col": 1,
+    "supercategory": "furniture",
+    "category": "couch",
+    "image_id": 253433,
+    "caption": "A stuffed bear that is wearing a mask.",
+    "image_file": "000000253433.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 4,
+    "col": 2,
+    "supercategory": "furniture",
+    "category": "bed",
+    "image_id": 39769,
+    "caption": "There are two cats laying down with two remotes",
+    "image_file": "000000039769.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 4,
+    "col": 3,
+    "supercategory": "furniture",
+    "category": "dining table",
+    "image_id": 530146,
+    "caption": "A plate filled with various kinds of food.",
+    "image_file": "000000530146.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "supercategory": "furniture",
+    "category": "toilet",
+    "image_id": 323202,
+    "caption": "A toilet that has three sea shells on top.",
+    "image_file": "000000323202.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "row": 4,
+    "col": 5,
+    "supercategory": "furniture",
+    "category": "tv",
+    "image_id": 342367,
+    "caption": "A TV showing two men in hats and women.",
+    "image_file": "000000342367.jpg",
+    "atom_role": "pair"
+  },
+  {
+    "supercategory": "frame",
+    "category": "umbrella",
+    "image_id": 530854,
+    "caption": "People are walking in the rain holding umbrellas.",
+    "image_file": "000000530854.jpg",
+    "atom_role": "frame"
+  },
+  {
+    "supercategory": "frame",
+    "category": "scissors",
+    "image_id": 419098,
+    "caption": "some pink thing with holes and bead chains",
+    "image_file": "000000419098.jpg",
+    "atom_role": "frame"
+  },
+  {
+    "supercategory": "frame",
+    "category": "vase",
+    "image_id": 348488,
+    "caption": "A brown vase has four black horses on it.",
+    "image_file": "000000348488.jpg",
+    "atom_role": "frame"
+  },
+  {
+    "supercategory": "frame",
+    "category": "clock",
+    "image_id": 164363,
+    "caption": "A clock shows the time in the classic way.",
+    "image_file": "000000164363.jpg",
+    "atom_role": "frame"
+  },
+  {
+    "supercategory": "frame",
+    "category": "book",
+    "image_id": 520077,
+    "caption": "A stack of text and comic books on a table.",
+    "image_file": "000000520077.jpg",
+    "atom_role": "frame"
+  },
+  {
+    "supercategory": "frame",
+    "category": "laptop",
+    "image_id": 494427,
+    "caption": "a small silver laptop on a wooden table",
+    "image_file": "000000494427.jpg",
+    "atom_role": "frame"
+  },
+  {
+    "supercategory": "frame",
+    "category": "keyboard",
+    "image_id": 68765,
+    "caption": "A keyboard, mouse, and wires on a desk.",
+    "image_file": "000000068765.jpg",
+    "atom_role": "frame"
+  },
+  {
+    "supercategory": "frame",
+    "category": "remote",
+    "image_id": 402765,
+    "caption": "The controller of a Wii system is pictured.",
+    "image_file": "000000402765.jpg",
+    "atom_role": "frame"
+  },
+  {
+    "supercategory": "frame",
+    "category": "fire hydrant",
+    "image_id": 344909,
+    "caption": "a fire hydrant on the side of the road",
+    "image_file": "000000344909.jpg",
+    "atom_role": "frame"
+  },
+  {
+    "supercategory": "frame",
+    "category": "stop sign",
+    "image_id": 252332,
+    "caption": "A close up of a Stop sign near woods.",
+    "image_file": "000000252332.jpg",
+    "atom_role": "frame"
+  }
+]

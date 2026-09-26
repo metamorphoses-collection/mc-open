@@ -1,0 +1,21 @@
+{
+  "text_id": "nithards_wager_fr",
+  "title": "Le Pari de Nithard",
+  "lang": "FR",
+  "canonical_N": 50,
+  "canonical_graph_file": "graph_designed.json",
+  "canonical_E": 427,
+  "canonical_density": 0.3486,
+  "canonical_MIS": 10,
+  "canonical_rho": 0.4,
+  "canonical_optima": 19,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "designed_knn",
+  "type": "qoulipo_engineered",
+  "designed_property": "Hard zone (d=0.349 at k=16)",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv (QOuLiPo: What a quantum computer sees when it reads a book)",
+  "threads_per_page": {},
+  "literary_status": "Source pages contain literary content only; per-page thread allocations and voice/role/form metadata are recorded above in threads_per_page (not in source/).",
+  "source_contract": "node_aligned"
+}

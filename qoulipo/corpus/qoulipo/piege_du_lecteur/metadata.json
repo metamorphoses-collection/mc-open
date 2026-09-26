@@ -1,0 +1,20 @@
+{
+  "text_id": "piege_du_lecteur",
+  "title": "The Reader's Trap",
+  "lang": "EN",
+  "canonical_N": 50,
+  "canonical_graph_file": "graph_designed.json",
+  "canonical_E": 72,
+  "canonical_density": 0.0588,
+  "canonical_MIS": 24,
+  "canonical_rho": 0.4167,
+  "canonical_optima": 500,
+  "canonical_optima_cap_reached": true,
+  "graph_mode": "designed_hub_spoke_UDG",
+  "type": "qoulipo_engineered",
+  "designed_property": "Adversarial (greedy vs optimal MIS gap)",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv (QOuLiPo: What a quantum computer sees when it reads a book)",
+  "paper_sync_status": "Table 5 updated 2026-04-25 to match deposit; previous drift note retired.",
+  "source_contract": "node_aligned"
+}

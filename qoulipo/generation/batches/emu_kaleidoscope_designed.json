@@ -1,0 +1,13 @@
+{
+  "text": "kaleidoscope_designed",
+  "graph_type": "17xK3_overlap5",
+  "N": 51,
+  "E": 51,
+  "density": 0.04,
+  "mis_size": 17,
+  "designed_rho": 0.0,
+  "designed_solutions": "3^17 = 129140163",
+  "batch_id": "c443dcba-2f6e-4089-90bb-29d64f32af01",
+  "emulator": "EMU_MPS",
+  "shots": 1000
+}

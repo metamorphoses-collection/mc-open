@@ -1,0 +1,143 @@
+{
+  "text_id": "vita_nel_cubo",
+  "title": "La Vita nel Cubo",
+  "lang": "IT",
+  "canonical_N": 23,
+  "canonical_graph_file": "graph_k8.json",
+  "canonical_E": 128,
+  "canonical_density": 0.5059,
+  "canonical_MIS": 7,
+  "canonical_rho": 0.5714,
+  "canonical_optima": 5,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "NLP_k8_clean_source",
+  "type": "qoulipo_engineered",
+  "designed_property": "Truncated-cube literary scaffold (24 rooms in a 3D house); canonical graph is NLP k=8 over multilingual-e5 embeddings.",
+  "project": "QOuLiPo",
+  "source_clean_for_embedding": true,
+  "cross_references_per_page": {
+    "page_002": [
+      "01",
+      "02",
+      "12"
+    ],
+    "page_003": [
+      "00",
+      "02",
+      "13"
+    ],
+    "page_004": [
+      "00",
+      "01",
+      "14"
+    ],
+    "page_005": [
+      "07",
+      "14",
+      "15"
+    ],
+    "page_006": [
+      "08",
+      "12",
+      "16"
+    ],
+    "page_007": [
+      "06",
+      "13",
+      "17"
+    ],
+    "page_008": [
+      "05",
+      "13",
+      "18"
+    ],
+    "page_009": [
+      "03",
+      "14",
+      "16",
+      "19"
+    ],
+    "page_010": [
+      "04",
+      "12",
+      "20"
+    ],
+    "page_011": [
+      "17",
+      "19",
+      "21"
+    ],
+    "page_012": [
+      "15",
+      "20",
+      "22"
+    ],
+    "page_013": [
+      "12",
+      "16",
+      "18",
+      "23"
+    ],
+    "page_014": [
+      "00",
+      "04",
+      "08",
+      "23"
+    ],
+    "page_015": [
+      "01",
+      "05",
+      "06"
+    ],
+    "page_016": [
+      "02",
+      "03",
+      "07"
+    ],
+    "page_017": [
+      "03",
+      "10",
+      "20"
+    ],
+    "page_018": [
+      "04",
+      "07",
+      "11",
+      "18"
+    ],
+    "page_019": [
+      "05",
+      "09",
+      "19"
+    ],
+    "page_020": [
+      "06",
+      "11",
+      "16",
+      "17"
+    ],
+    "page_021": [
+      "07",
+      "09",
+      "17"
+    ],
+    "page_022": [
+      "08",
+      "10",
+      "15"
+    ],
+    "page_023": [
+      "02",
+      "09",
+      "22",
+      "23"
+    ],
+    "page_024": [
+      "01",
+      "10",
+      "21",
+      "23"
+    ]
+  },
+  "source_contract": "node_aligned"
+}

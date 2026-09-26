@@ -1,0 +1,1548 @@
+{
+  "text": "SNLI-contradiction dispersed register: 30 antithesis pairs on 6x5 domino grid",
+  "version": "dispersed",
+  "N": 60,
+  "n_pairs": 30,
+  "R_b_um": 8.0,
+  "within_domino_dist": 5.0,
+  "domino_spacing_x": 7.0,
+  "domino_spacing_y": 11.0,
+  "grid_cols": 6,
+  "grid_rows": 5,
+  "max_radial_um": 32.17530108639234,
+  "min_dist_um": 5.0,
+  "coords_2d": [
+    [
+      -17.5,
+      -22.0
+    ],
+    [
+      -17.5,
+      -17.0
+    ],
+    [
+      -17.5,
+      -11.0
+    ],
+    [
+      -17.5,
+      -6.0
+    ],
+    [
+      -17.5,
+      0.0
+    ],
+    [
+      -17.5,
+      5.0
+    ],
+    [
+      -17.5,
+      11.0
+    ],
+    [
+      -17.5,
+      16.0
+    ],
+    [
+      -17.5,
+      22.0
+    ],
+    [
+      -17.5,
+      27.0
+    ],
+    [
+      -10.5,
+      -22.0
+    ],
+    [
+      -10.5,
+      -17.0
+    ],
+    [
+      -10.5,
+      -11.0
+    ],
+    [
+      -10.5,
+      -6.0
+    ],
+    [
+      -10.5,
+      0.0
+    ],
+    [
+      -10.5,
+      5.0
+    ],
+    [
+      -10.5,
+      11.0
+    ],
+    [
+      -10.5,
+      16.0
+    ],
+    [
+      -10.5,
+      22.0
+    ],
+    [
+      -10.5,
+      27.0
+    ],
+    [
+      -3.5,
+      -22.0
+    ],
+    [
+      -3.5,
+      -17.0
+    ],
+    [
+      -3.5,
+      -11.0
+    ],
+    [
+      -3.5,
+      -6.0
+    ],
+    [
+      -3.5,
+      0.0
+    ],
+    [
+      -3.5,
+      5.0
+    ],
+    [
+      -3.5,
+      11.0
+    ],
+    [
+      -3.5,
+      16.0
+    ],
+    [
+      -3.5,
+      22.0
+    ],
+    [
+      -3.5,
+      27.0
+    ],
+    [
+      3.5,
+      -22.0
+    ],
+    [
+      3.5,
+      -17.0
+    ],
+    [
+      3.5,
+      -11.0
+    ],
+    [
+      3.5,
+      -6.0
+    ],
+    [
+      3.5,
+      0.0
+    ],
+    [
+      3.5,
+      5.0
+    ],
+    [
+      3.5,
+      11.0
+    ],
+    [
+      3.5,
+      16.0
+    ],
+    [
+      3.5,
+      22.0
+    ],
+    [
+      3.5,
+      27.0
+    ],
+    [
+      10.5,
+      -22.0
+    ],
+    [
+      10.5,
+      -17.0
+    ],
+    [
+      10.5,
+      -11.0
+    ],
+    [
+      10.5,
+      -6.0
+    ],
+    [
+      10.5,
+      0.0
+    ],
+    [
+      10.5,
+      5.0
+    ],
+    [
+      10.5,
+      11.0
+    ],
+    [
+      10.5,
+      16.0
+    ],
+    [
+      10.5,
+      22.0
+    ],
+    [
+      10.5,
+      27.0
+    ],
+    [
+      17.5,
+      -22.0
+    ],
+    [
+      17.5,
+      -17.0
+    ],
+    [
+      17.5,
+      -11.0
+    ],
+    [
+      17.5,
+      -6.0
+    ],
+    [
+      17.5,
+      0.0
+    ],
+    [
+      17.5,
+      5.0
+    ],
+    [
+      17.5,
+      11.0
+    ],
+    [
+      17.5,
+      16.0
+    ],
+    [
+      17.5,
+      22.0
+    ],
+    [
+      17.5,
+      27.0
+    ]
+  ],
+  "node_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "atom_meta": [
+    {
+      "role": "sic",
+      "pair_idx": 0,
+      "col": 0,
+      "row": 0,
+      "block": 0,
+      "text_preview": "A person with hat, long shirt, and jeans is standing in a stand of trees with no underbrush, bent over and examining the"
+    },
+    {
+      "role": "non",
+      "pair_idx": 0,
+      "col": 0,
+      "row": 0,
+      "block": 0,
+      "text_preview": "The man in jeans and a hat is standing on the path looking at the trees."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 1,
+      "col": 0,
+      "row": 1,
+      "block": 1,
+      "text_preview": "One man wearing glasses sits in front of an Apple computer and drinks from a cup while another man wearing a cap and gla"
+    },
+    {
+      "role": "non",
+      "pair_idx": 1,
+      "col": 0,
+      "row": 1,
+      "block": 1,
+      "text_preview": "the men are sitting in front of an apple computer with capes on"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 2,
+      "col": 0,
+      "row": 2,
+      "block": 2,
+      "text_preview": "Two young men dressed in summer clothing of shorts and tank tops stand in front of a matching pair of pseudo rickshaws f"
+    },
+    {
+      "role": "non",
+      "pair_idx": 2,
+      "col": 0,
+      "row": 2,
+      "block": 2,
+      "text_preview": "two young men dressed in winter clothes work by pulling rickshaws for others."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 3,
+      "col": 0,
+      "row": 3,
+      "block": 3,
+      "text_preview": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding ki"
+    },
+    {
+      "role": "non",
+      "pair_idx": 3,
+      "col": 0,
+      "row": 3,
+      "block": 3,
+      "text_preview": "Photographers capture a male skateboarder performing tricks inside an abandoned building."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 4,
+      "col": 0,
+      "row": 4,
+      "block": 4,
+      "text_preview": "Two Asian men are passing each other and one is carrying a huge bunch of green onions while the other watches and there "
+    },
+    {
+      "role": "non",
+      "pair_idx": 4,
+      "col": 0,
+      "row": 4,
+      "block": 4,
+      "text_preview": "A child is carrying green onions for the men."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 5,
+      "col": 1,
+      "row": 0,
+      "block": 0,
+      "text_preview": "Two Middle Eastern men are in a kitchen while one is shirtless with a chest full of hair and a mustache is preparing fis"
+    },
+    {
+      "role": "non",
+      "pair_idx": 5,
+      "col": 1,
+      "row": 0,
+      "block": 0,
+      "text_preview": "Middle Eastern men are preparing pasta for dinner while staring at a camera."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 6,
+      "col": 1,
+      "row": 1,
+      "block": 1,
+      "text_preview": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding ki"
+    },
+    {
+      "role": "non",
+      "pair_idx": 6,
+      "col": 1,
+      "row": 1,
+      "block": 1,
+      "text_preview": "A man is taking the picture of a skateboarder who is being taken by aliens."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 7,
+      "col": 1,
+      "row": 2,
+      "block": 2,
+      "text_preview": "A young man in a gray tee-shirt and gray sweatpants stands by a metal tiered shelf in an industrial kitchen, holding the"
+    },
+    {
+      "role": "non",
+      "pair_idx": 7,
+      "col": 1,
+      "row": 2,
+      "block": 2,
+      "text_preview": "A man in all black stands in an industrial kitchen."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 8,
+      "col": 1,
+      "row": 3,
+      "block": 3,
+      "text_preview": "A contestant riding a pony in a rodeo setting is being thrown by the horse, while another cowboy looks on in the arena a"
+    },
+    {
+      "role": "non",
+      "pair_idx": 8,
+      "col": 1,
+      "row": 3,
+      "block": 3,
+      "text_preview": "Spectators are all over the fence competing in a rodeo."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 9,
+      "col": 1,
+      "row": 4,
+      "block": 4,
+      "text_preview": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery wit"
+    },
+    {
+      "role": "non",
+      "pair_idx": 9,
+      "col": 1,
+      "row": 4,
+      "block": 4,
+      "text_preview": "Two adults run across the street to get away from a red shirted person chasing them."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 10,
+      "col": 2,
+      "row": 0,
+      "block": 0,
+      "text_preview": "A dark-haired man in blue jeans and a light green polo is standing next to a man with khaki cargo shorts and a blue polo"
+    },
+    {
+      "role": "non",
+      "pair_idx": 10,
+      "col": 2,
+      "row": 0,
+      "block": 0,
+      "text_preview": "A dark-haired man in a dress is taking pictures of the man in green cargo shorts."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 11,
+      "col": 2,
+      "row": 1,
+      "block": 1,
+      "text_preview": "A child wearing a blue short-sleeve plaid shirt and brown cargo shorts is squeezing the face of a man wearing a gray hat"
+    },
+    {
+      "role": "non",
+      "pair_idx": 11,
+      "col": 2,
+      "row": 1,
+      "block": 1,
+      "text_preview": "A man in a blue outfit and gray cap carries a sleeping newborn wearing shorts and a flat blue shirt."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 12,
+      "col": 2,
+      "row": 2,
+      "block": 2,
+      "text_preview": "This is a closeup of a young, innocent-looking boy with tousled hair who is holding with both hands what seems to be a p"
+    },
+    {
+      "role": "non",
+      "pair_idx": 12,
+      "col": 2,
+      "row": 2,
+      "block": 2,
+      "text_preview": "A boy is holding a blue and red beach ball."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 13,
+      "col": 2,
+      "row": 3,
+      "block": 3,
+      "text_preview": "A contestant riding a pony in a rodeo setting is being thrown by the horse, while another cowboy looks on in the arena a"
+    },
+    {
+      "role": "non",
+      "pair_idx": 13,
+      "col": 2,
+      "row": 3,
+      "block": 3,
+      "text_preview": "A cowboy is being thrown from a bull in a rodeo."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 14,
+      "col": 2,
+      "row": 4,
+      "block": 4,
+      "text_preview": "A man in a pink polo shirt sitting on a large yellow bench talking to a group of three other men while a woman wearing g"
+    },
+    {
+      "role": "non",
+      "pair_idx": 14,
+      "col": 2,
+      "row": 4,
+      "block": 4,
+      "text_preview": "A man is talking to three men about a woman who is looking off to the left."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 15,
+      "col": 3,
+      "row": 0,
+      "block": 0,
+      "text_preview": "Three men are wearing safety yellow jackets and hard hats on the sight of a construction project; one is in a hole and t"
+    },
+    {
+      "role": "non",
+      "pair_idx": 15,
+      "col": 3,
+      "row": 0,
+      "block": 0,
+      "text_preview": "There are three men in hard hats standing on the same horizontal plane."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 16,
+      "col": 3,
+      "row": 1,
+      "block": 1,
+      "text_preview": "A group of boys wearing orange jerseys playing soccer, with a blond boy guarding a dark-haired boy working the soccer ba"
+    },
+    {
+      "role": "non",
+      "pair_idx": 16,
+      "col": 3,
+      "row": 1,
+      "block": 1,
+      "text_preview": "There is a group of boys wearing orange jerseys playing basketball."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 17,
+      "col": 3,
+      "row": 2,
+      "block": 2,
+      "text_preview": "Three men are wearing safety yellow jackets and hard hats on the sight of a construction project; one is in a hole and t"
+    },
+    {
+      "role": "non",
+      "pair_idx": 17,
+      "col": 3,
+      "row": 2,
+      "block": 2,
+      "text_preview": "Three men are standing in a hole."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 18,
+      "col": 3,
+      "row": 3,
+      "block": 3,
+      "text_preview": "Two young men dressed in summer clothing of shorts and tank tops stand in front of a matching pair of pseudo rickshaws f"
+    },
+    {
+      "role": "non",
+      "pair_idx": 18,
+      "col": 3,
+      "row": 3,
+      "block": 3,
+      "text_preview": "Two men are riding rickshaws without any clothes on."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 19,
+      "col": 3,
+      "row": 4,
+      "block": 4,
+      "text_preview": "A tall, dark-haired man in white sport coat and black slacks is walking along a tiled mosaic crosswalk of various colors"
+    },
+    {
+      "role": "non",
+      "pair_idx": 19,
+      "col": 3,
+      "row": 4,
+      "block": 4,
+      "text_preview": "A tall, white-haired man has a white sport coat."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 20,
+      "col": 4,
+      "row": 0,
+      "block": 0,
+      "text_preview": "A man in a military uniform stands next to what appears to be a military k-9 dog, with a loudspeaker in the foreground, "
+    },
+    {
+      "role": "non",
+      "pair_idx": 20,
+      "col": 4,
+      "row": 0,
+      "block": 0,
+      "text_preview": "A dog in a military uniform walks his human through a barren landscape."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 21,
+      "col": 4,
+      "row": 1,
+      "block": 1,
+      "text_preview": "A tall, dark-haired man in white sport coat and black slacks is walking along a tiled mosaic crosswalk of various colors"
+    },
+    {
+      "role": "non",
+      "pair_idx": 21,
+      "col": 4,
+      "row": 1,
+      "block": 1,
+      "text_preview": "Two people are walking along a tiled crosswalk in their bathing suits."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 22,
+      "col": 4,
+      "row": 2,
+      "block": 2,
+      "text_preview": "A young boy wearing a red shirt with yellow writing on it and a red sports cap is squatted in shallow water and touching"
+    },
+    {
+      "role": "non",
+      "pair_idx": 22,
+      "col": 4,
+      "row": 2,
+      "block": 2,
+      "text_preview": "The little kid with a red shirt and yellow letters, stood on a foot stool to reach both his hands into the dirty water i"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 23,
+      "col": 4,
+      "row": 3,
+      "block": 3,
+      "text_preview": "One black man and one caucasian man are at the front of the pack of otherwise predominantly Asian track runners; all wea"
+    },
+    {
+      "role": "non",
+      "pair_idx": 23,
+      "col": 4,
+      "row": 3,
+      "block": 3,
+      "text_preview": "The black man and caucasian man are in front of a group of horses."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 24,
+      "col": 4,
+      "row": 4,
+      "block": 4,
+      "text_preview": "Three men are wearing safety yellow jackets and hard hats on the sight of a construction project; one is in a hole and t"
+    },
+    {
+      "role": "non",
+      "pair_idx": 24,
+      "col": 4,
+      "row": 4,
+      "block": 4,
+      "text_preview": "Three men are wearing black safety jackets."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 25,
+      "col": 5,
+      "row": 0,
+      "block": 0,
+      "text_preview": "In front of a Penney's store, a metal sculpture depicts a man dressed in a suit and top hat holding broom and pushing a "
+    },
+    {
+      "role": "non",
+      "pair_idx": 25,
+      "col": 5,
+      "row": 0,
+      "block": 0,
+      "text_preview": "A sculpture outside of a retail store is of a man in a basketball outfit."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 26,
+      "col": 5,
+      "row": 1,
+      "block": 1,
+      "text_preview": "A woman in a purple sweater stands with her arms folded beside several pieces of luggage while two other women stand bes"
+    },
+    {
+      "role": "non",
+      "pair_idx": 26,
+      "col": 5,
+      "row": 1,
+      "block": 1,
+      "text_preview": "There is a woman sitting next to several pieces of luggage."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 27,
+      "col": 5,
+      "row": 2,
+      "block": 2,
+      "text_preview": "A black teenager sitting on a blue bike is at the top of a BMX ramp observing another youth, in a red shirt, who is sail"
+    },
+    {
+      "role": "non",
+      "pair_idx": 27,
+      "col": 5,
+      "row": 2,
+      "block": 2,
+      "text_preview": "A black teenager standing on a trampoline."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 28,
+      "col": 5,
+      "row": 3,
+      "block": 3,
+      "text_preview": "Young lady dressed in black shorts and light blue shirt sitting outside at a public table looking at a picture on her ca"
+    },
+    {
+      "role": "non",
+      "pair_idx": 28,
+      "col": 5,
+      "row": 3,
+      "block": 3,
+      "text_preview": "Young lady sits in a private area."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 29,
+      "col": 5,
+      "row": 4,
+      "block": 4,
+      "text_preview": "A portly man in an orange jumpsuit standing next to a woman in gray on the highway with a motorcycle laying on its side "
+    },
+    {
+      "role": "non",
+      "pair_idx": 29,
+      "col": 5,
+      "row": 4,
+      "block": 4,
+      "text_preview": "A man and woman riding a motorcycle."
+    }
+  ],
+  "edges": [
+    {
+      "u": 0,
+      "v": 1,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 0,
+      "v": 10,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 2,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 11,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 3,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 2,
+      "v": 12,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 4,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 13,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 5,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 4,
+      "v": 14,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 6,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 15,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 7,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 6,
+      "v": 16,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 8,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 17,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 9,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 8,
+      "v": 18,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 19,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 11,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 10,
+      "v": 20,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 12,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 21,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 13,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 12,
+      "v": 22,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 14,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 23,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 15,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 14,
+      "v": 24,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 16,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 25,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 17,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 16,
+      "v": 26,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 18,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 27,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 19,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 18,
+      "v": 28,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 29,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 20,
+      "v": 21,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 20,
+      "v": 30,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 22,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 31,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 22,
+      "v": 23,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 22,
+      "v": 32,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 23,
+      "v": 24,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 23,
+      "v": 33,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 24,
+      "v": 25,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 24,
+      "v": 34,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 25,
+      "v": 26,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 25,
+      "v": 35,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 26,
+      "v": 27,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 26,
+      "v": 36,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 27,
+      "v": 28,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 27,
+      "v": 37,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 28,
+      "v": 29,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 28,
+      "v": 38,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 29,
+      "v": 39,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 30,
+      "v": 31,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 30,
+      "v": 40,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 31,
+      "v": 32,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 31,
+      "v": 41,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 32,
+      "v": 33,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 32,
+      "v": 42,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 33,
+      "v": 34,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 33,
+      "v": 43,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 34,
+      "v": 35,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 34,
+      "v": 44,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 35,
+      "v": 36,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 35,
+      "v": 45,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 36,
+      "v": 37,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 36,
+      "v": 46,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 37,
+      "v": 38,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 37,
+      "v": 47,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 38,
+      "v": 39,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 38,
+      "v": 48,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 39,
+      "v": 49,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 40,
+      "v": 41,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 40,
+      "v": 50,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 41,
+      "v": 42,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 41,
+      "v": 51,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 42,
+      "v": 43,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 42,
+      "v": 52,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 43,
+      "v": 44,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 43,
+      "v": 53,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 44,
+      "v": 45,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 44,
+      "v": 54,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 45,
+      "v": 46,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 45,
+      "v": 55,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 46,
+      "v": 47,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 46,
+      "v": 56,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 47,
+      "v": 48,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 47,
+      "v": 57,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 48,
+      "v": 49,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 48,
+      "v": 58,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 49,
+      "v": 59,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 50,
+      "v": 51,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 51,
+      "v": 52,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 52,
+      "v": 53,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 53,
+      "v": 54,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 54,
+      "v": 55,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 55,
+      "v": 56,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 56,
+      "v": 57,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 57,
+      "v": 58,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 58,
+      "v": 59,
+      "distance": 5.0,
+      "is_pair": true
+    }
+  ],
+  "pair_texts": [
+    {
+      "sic": "A person with hat, long shirt, and jeans is standing in a stand of trees with no underbrush, bent over and examining the base of a tree, while a footpath crosses the bottom of the image.",
+      "non": "The man in jeans and a hat is standing on the path looking at the trees."
+    },
+    {
+      "sic": "One man wearing glasses sits in front of an Apple computer and drinks from a cup while another man wearing a cap and glasses stands in front of a microphone.",
+      "non": "the men are sitting in front of an apple computer with capes on"
+    },
+    {
+      "sic": "Two young men dressed in summer clothing of shorts and tank tops stand in front of a matching pair of pseudo rickshaws for transportation as men cycle in the background.",
+      "non": "two young men dressed in winter clothes work by pulling rickshaws for others."
+    },
+    {
+      "sic": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.",
+      "non": "Photographers capture a male skateboarder performing tricks inside an abandoned building."
+    },
+    {
+      "sic": "Two Asian men are passing each other and one is carrying a huge bunch of green onions while the other watches and there is a small child in the background.",
+      "non": "A child is carrying green onions for the men."
+    },
+    {
+      "sic": "Two Middle Eastern men are in a kitchen while one is shirtless with a chest full of hair and a mustache is preparing fish and the other in a white shirt is peering at the camera.",
+      "non": "Middle Eastern men are preparing pasta for dinner while staring at a camera."
+    },
+    {
+      "sic": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.",
+      "non": "A man is taking the picture of a skateboarder who is being taken by aliens."
+    },
+    {
+      "sic": "A young man in a gray tee-shirt and gray sweatpants stands by a metal tiered shelf in an industrial kitchen, holding the top edge of the metal structure, with one leg resting on the knee of the other leg.",
+      "non": "A man in all black stands in an industrial kitchen."
+    },
+    {
+      "sic": "A contestant riding a pony in a rodeo setting is being thrown by the horse, while another cowboy looks on in the arena and spectators watch from behind a fence.",
+      "non": "Spectators are all over the fence competing in a rodeo."
+    },
+    {
+      "sic": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",
+      "non": "Two adults run across the street to get away from a red shirted person chasing them."
+    },
+    {
+      "sic": "A dark-haired man in blue jeans and a light green polo is standing next to a man with khaki cargo shorts and a blue polo as they pose for a picture with locals in a foreign land.",
+      "non": "A dark-haired man in a dress is taking pictures of the man in green cargo shorts."
+    },
+    {
+      "sic": "A child wearing a blue short-sleeve plaid shirt and brown cargo shorts is squeezing the face of a man wearing a gray hat, blue jeans, and a blue t-shirt.",
+      "non": "A man in a blue outfit and gray cap carries a sleeping newborn wearing shorts and a flat blue shirt."
+    },
+    {
+      "sic": "This is a closeup of a young, innocent-looking boy with tousled hair who is holding with both hands what seems to be a plastic, green and orange beach ball with a butterfly design as the sun shines upon him from his right.",
+      "non": "A boy is holding a blue and red beach ball."
+    },
+    {
+      "sic": "A contestant riding a pony in a rodeo setting is being thrown by the horse, while another cowboy looks on in the arena and spectators watch from behind a fence.",
+      "non": "A cowboy is being thrown from a bull in a rodeo."
+    },
+    {
+      "sic": "A man in a pink polo shirt sitting on a large yellow bench talking to a group of three other men while a woman wearing green sunglasses and a man wearing a gray cap look off to the right of the image.",
+      "non": "A man is talking to three men about a woman who is looking off to the left."
+    },
+    {
+      "sic": "Three men are wearing safety yellow jackets and hard hats on the sight of a construction project; one is in a hole and the other two are looking at the man standing in the hole.",
+      "non": "There are three men in hard hats standing on the same horizontal plane."
+    },
+    {
+      "sic": "A group of boys wearing orange jerseys playing soccer, with a blond boy guarding a dark-haired boy working the soccer ball down the field, while the other boys are running in the background.",
+      "non": "There is a group of boys wearing orange jerseys playing basketball."
+    },
+    {
+      "sic": "Three men are wearing safety yellow jackets and hard hats on the sight of a construction project; one is in a hole and the other two are looking at the man standing in the hole.",
+      "non": "Three men are standing in a hole."
+    },
+    {
+      "sic": "Two young men dressed in summer clothing of shorts and tank tops stand in front of a matching pair of pseudo rickshaws for transportation as men cycle in the background.",
+      "non": "Two men are riding rickshaws without any clothes on."
+    },
+    {
+      "sic": "A tall, dark-haired man in white sport coat and black slacks is walking along a tiled mosaic crosswalk of various colors and designs beside a woman with short, dark hair who is also wearing a white sport coat but with blue jeans.",
+      "non": "A tall, white-haired man has a white sport coat."
+    },
+    {
+      "sic": "A man in a military uniform stands next to what appears to be a military k-9 dog, with a loudspeaker in the foreground, and other military personnel and military vehicles in the background.",
+      "non": "A dog in a military uniform walks his human through a barren landscape."
+    },
+    {
+      "sic": "A tall, dark-haired man in white sport coat and black slacks is walking along a tiled mosaic crosswalk of various colors and designs beside a woman with short, dark hair who is also wearing a white sport coat but with blue jeans.",
+      "non": "Two people are walking along a tiled crosswalk in their bathing suits."
+    },
+    {
+      "sic": "A young boy wearing a red shirt with yellow writing on it and a red sports cap is squatted in shallow water and touching a yellow pail filled with sand.",
+      "non": "The little kid with a red shirt and yellow letters, stood on a foot stool to reach both his hands into the dirty water in the sink."
+    },
+    {
+      "sic": "One black man and one caucasian man are at the front of the pack of otherwise predominantly Asian track runners; all wearing shorts, running shoes and numbered paper race-bibs.",
+      "non": "The black man and caucasian man are in front of a group of horses."
+    },
+    {
+      "sic": "Three men are wearing safety yellow jackets and hard hats on the sight of a construction project; one is in a hole and the other two are looking at the man standing in the hole.",
+      "non": "Three men are wearing black safety jackets."
+    },
+    {
+      "sic": "In front of a Penney's store, a metal sculpture depicts a man dressed in a suit and top hat holding broom and pushing a wheelbarrow containing a suitcase, a bucket, and another object.",
+      "non": "A sculpture outside of a retail store is of a man in a basketball outfit."
+    },
+    {
+      "sic": "A woman in a purple sweater stands with her arms folded beside several pieces of luggage while two other women stand beside her, looking in her direction.",
+      "non": "There is a woman sitting next to several pieces of luggage."
+    },
+    {
+      "sic": "A black teenager sitting on a blue bike is at the top of a BMX ramp observing another youth, in a red shirt, who is sailing into the air with a bike, single-handed, while performing a stunt, presumably from the ramps.",
+      "non": "A black teenager standing on a trampoline."
+    },
+    {
+      "sic": "Young lady dressed in black shorts and light blue shirt sitting outside at a public table looking at a picture on her camera with her left hand on her face.",
+      "non": "Young lady sits in a private area."
+    },
+    {
+      "sic": "A portly man in an orange jumpsuit standing next to a woman in gray on the highway with a motorcycle laying on its side in the middle of the highway.",
+      "non": "A man and woman riding a motorcycle."
+    }
+  ]
+}

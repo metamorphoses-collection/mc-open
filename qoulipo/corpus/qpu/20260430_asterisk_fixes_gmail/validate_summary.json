@@ -1,0 +1,86 @@
+{
+  "device": "FRESNEL_CAN1",
+  "account": "gmail",
+  "texts": [
+    {
+      "text_id": "galileo_dialogo_k16",
+      "title": "Galileo Dialogo (k=16, e5-large-instruct canonical)",
+      "N": 65,
+      "E": 736,
+      "d": 0.3538,
+      "kind": "sa_embed",
+      "shots": 1000,
+      "asterisk_killed": "*",
+      "sa_fidelity": {
+        "combined": 0.7110576923076923,
+        "false_edges": 1,
+        "false_gaps": 600,
+        "sa_violations": 601,
+        "sa_min_dist": 5.499999999999999,
+        "sa_max_radial": 38.5
+      },
+      "geometry": {
+        "n_atoms": 65,
+        "max_radial_um": 35.961,
+        "min_atom_distance_um": 5.5,
+        "fits_min_atom_distance": true,
+        "fits_max_radial": true,
+        "fits_max_atoms": true
+      }
+    },
+    {
+      "text_id": "venticinque_stanze_topup",
+      "title": "Le venticinque stanze (top-up to 1000 total shots)",
+      "N": 25,
+      "E": 72,
+      "d": 0.24,
+      "kind": "udg_king_5x5",
+      "shots": 500,
+      "asterisk_killed": "\\dagger",
+      "sa_fidelity": {
+        "combined": 1.0,
+        "false_edges": 0,
+        "false_gaps": 0
+      },
+      "geometry": {
+        "n_atoms": 25,
+        "max_radial_um": 14.142,
+        "min_atom_distance_um": 5.0,
+        "fits_min_atom_distance": true,
+        "fits_max_radial": true,
+        "fits_max_atoms": true
+      }
+    },
+    {
+      "text_id": "castello_49_king7x7_topup",
+      "title": "Castello 49 (king-7x7 register, top-up to 1000 total shots)",
+      "N": 49,
+      "E": 156,
+      "d": 0.1327,
+      "kind": "udg_king_7x7",
+      "shots": 750,
+      "asterisk_killed": "\\ddagger (shot-count part only)",
+      "sa_fidelity": {
+        "combined": 1.0,
+        "false_edges": 0,
+        "false_gaps": 0
+      },
+      "geometry": {
+        "n_atoms": 49,
+        "max_radial_um": 21.213,
+        "min_atom_distance_um": 5.0,
+        "fits_min_atom_distance": true,
+        "fits_max_radial": true,
+        "fits_max_atoms": true
+      }
+    }
+  ],
+  "total_shots": 2250,
+  "pulse": {
+    "T_ramp_ns": 4000,
+    "Omega_rad_per_us": 3.302471160888672,
+    "Delta_neg_rad_per_us": -9.907413482666016,
+    "Delta_pos_rad_per_us": 9.907413482666016,
+    "R_b_um": 8.0
+  }
+}

@@ -1,0 +1,9 @@
+Le manuscrit parvint à l'Académie enrobé d'un pari. Fermat avait écrit à Pascal que la preuve tenait en quelques lignes, mais les aléas de la poste changeaient chaque envoi en probabilité : la lettre arriverait-elle ? Le risque de perte était réel — que de théorèmes ensevelis dans des publications jamais reçues, dans des manuscrits égarés entre deux cités.
+
+La conjecture de Fermat — ce paradoxe qui allait hanter les mathématiques trois siècles durant — fut communiquée dans un article si bref que Pascal y subodorait une erreur. Le jeu de la démonstration exigeait une preuve complète, et le manuscrit n'en offrait qu'une esquisse. La contrainte de la publication scientifique veut que la règle de la rigueur l'emporte sur celle de l'élégance : un théorème sans preuve n'est qu'une conjecture, et une conjecture sans publication, un pari.
+
+Le hasard intervint. La lettre de Fermat survécut parce qu'un copiste de Toulouse en établit une copie pour le registre de l'Académie. Cette publication secondaire — article dérivé d'un article — démontre que la probabilité de survie d'un manuscrit dépend du nombre de copies en circulation. La règle du jeu archivistique est combinatoire : plus les copies se multiplient, plus le risque de perte totale s'amenuise.
+
+Le paradoxe de l'authenticité tourmente la publication scientifique comme il tourmente le manuscrit médiéval. Un article signé Fermat est-il vraiment de Fermat ? La conjecture suppose que la chaîne de transmission — de la main de l'auteur au copiste, du copiste à l'éditeur, de l'éditeur au lecteur — n'a introduit nulle erreur. Mais ce pari demeure incalculable, et le risque d'un faux toujours présent.
+
+Le manuscrit reste contesté. L'article dort dans un coffre climatisé. La conjecture a survécu aux conjecturiers. Et la contrainte du jeu se poursuit.

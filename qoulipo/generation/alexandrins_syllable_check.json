@@ -1,0 +1,1999 @@
+{
+  "total_verses": 320,
+  "distribution": {
+    "12": 157,
+    "13": 82,
+    "11": 42,
+    "14": 27,
+    "15": 4,
+    "10": 8
+  },
+  "exact_12": 157,
+  "off_by_1": 124,
+  "off_by_2_or_more": 39,
+  "pct_exact": 49.0625,
+  "per_page": [
+    {
+      "page": 1,
+      "n_verses": 32,
+      "n_exact": 18,
+      "mean_syllables": 12.53125
+    },
+    {
+      "page": 2,
+      "n_verses": 32,
+      "n_exact": 21,
+      "mean_syllables": 11.84375
+    },
+    {
+      "page": 3,
+      "n_verses": 32,
+      "n_exact": 15,
+      "mean_syllables": 12.4375
+    },
+    {
+      "page": 4,
+      "n_verses": 32,
+      "n_exact": 18,
+      "mean_syllables": 12.0
+    },
+    {
+      "page": 5,
+      "n_verses": 32,
+      "n_exact": 14,
+      "mean_syllables": 12.5
+    },
+    {
+      "page": 6,
+      "n_verses": 32,
+      "n_exact": 17,
+      "mean_syllables": 12.09375
+    },
+    {
+      "page": 7,
+      "n_verses": 32,
+      "n_exact": 7,
+      "mean_syllables": 13.0
+    },
+    {
+      "page": 8,
+      "n_verses": 32,
+      "n_exact": 20,
+      "mean_syllables": 11.875
+    },
+    {
+      "page": 9,
+      "n_verses": 32,
+      "n_exact": 6,
+      "mean_syllables": 12.84375
+    },
+    {
+      "page": 10,
+      "n_verses": 32,
+      "n_exact": 21,
+      "mean_syllables": 11.6875
+    }
+  ],
+  "verses": [
+    {
+      "page": 1,
+      "verse": "Le chroniqueur s'avance et prend le parchemin,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "car le pari du texte exige une chronique",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 1,
+      "verse": "ou la langue ancienne trace son chemin,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "et la foi du serment, gravee, reste unique.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "Sur la peau preparee, un pari se dessine :",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "le scribe a foi dans l'encre et la chronique est nue,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 1,
+      "verse": "la langue des soldats, rude comme l'epine,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "le parchemin attend ce que la bouche a su.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "Charles jura en langue vulgaire, et la foi",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "de l'armee assemblee ne tenait qu'a un fil :",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 1,
+      "verse": "le chroniqueur nota le pari de ce roi",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "sur un parchemin raide, un serment difficile.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "La foi dans la chronique est un pari risque,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 1,
+      "verse": "car la langue se perd quand le parchemin brule,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "et le pari du scribe est d'avoir consigne",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 1,
+      "verse": "la foi dans une langue, un parchemin, un module.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 1,
+      "verse": "Chaque ligne est un pari : que la foi se transmette,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 1,
+      "verse": "que la chronique survive au feu, a la poussiere,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 1,
+      "verse": "que la langue inscrite sur ce parchemin se repete,",
+      "syllables": 15,
+      "deviation": 3
+    },
+    {
+      "page": 1,
+      "verse": "et que le pari tenu devienne une priere.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "Le chroniqueur ecrit et risque son salut,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "la foi tremble au-dessus du parchemin tendu,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "la langue des serments, en ce pari, a plu --",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "le parchemin fait foi, le pari s'est rendu.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "La chronique est un pari contre l'oubli : la foi",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 1,
+      "verse": "dans la langue ecrite sur la peau de la bete.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 1,
+      "verse": "Le parchemin est gage, et le pari est loi,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "la chronique en fait foi -- la langue est sa trompette.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 1,
+      "verse": "Et si le parchemin trahit cette chronique,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 1,
+      "verse": "si la langue devie et que le pari tombe,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "la foi du chroniqueur, tenace et heroique,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 1,
+      "verse": "sur le parchemin couche le pari d'outre-tombe.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 2,
+      "verse": "Le maitre Maliette pose son pari clair :",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "que le nombre se joue en complot combinatoire,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 2,
+      "verse": "que le jeu du hasard, ce pari sous l'eclair,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "reveille le nombre endormi dans sa memoire.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "Le complot du calcul s'ourdit comme un vieux jeu,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "Maliette compte et recompte, un pari monstrueux.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "Le nombre de contraintes est un complot de feu,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "et le jeu du poete est un pari heureux.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 2,
+      "verse": "Maliette enseigne : le nombre est un complot",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 2,
+      "verse": "contre le pari fou de l'ecriture vaine.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "Le jeu de mots, le nombre d'or, le pari-mot,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "le complot du maitre est une douce chaine.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 2,
+      "verse": "Sous le jeu se dissimule un pari grave,",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 2,
+      "verse": "le nombre des pages forme un complot discret,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "Maliette dit : le jeu est la seule enclave",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 2,
+      "verse": "ou le nombre et le pari gardent leur secret.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "Le complot du nombre est un jeu de structure,",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 2,
+      "verse": "Maliette y reconnait un pari sur le sens.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "Cinquante pages, jeu de nombre et d'ecriture,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "le complot du hasard n'a pas sa connaissance.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "Le pari est pose : que le nombre l'emporte,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "que le jeu du complot se dechiffre en entier,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "que Maliette en maitre ouvre la bonne porte",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 2,
+      "verse": "ou le nombre du jeu est un pari a signer.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 2,
+      "verse": "Maliette sourit : le complot du nombre est jeu,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "le pari de la page est un complot qui danse.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "Le jeu est un nombre, le nombre est un aveu,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "et le pari du maitre est toute la cadence.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "Le complot s'effiloche et le nombre persiste,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "le jeu du pari tient en un seul fil de soie,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 2,
+      "verse": "Maliette le sait : tout nombre est oulipiste,",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 2,
+      "verse": "le complot et le jeu sont le pari de la joie.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 3,
+      "verse": "La chronique rapporte que l'epee fratricide",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 3,
+      "verse": "fit couler plus de sang que la langue n'en dit.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "Sur le parchemin vieux, la foi sert de bride",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 3,
+      "verse": "a l'epee du guerrier que la chronique maudit.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 3,
+      "verse": "L'epee se leve, et la foi tremble sur la page,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "la chronique en langue romane garde la trace :",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 3,
+      "verse": "l'epee brisa la paix, le parchemin fut l'otage,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 3,
+      "verse": "la foi des combattants se lit dans cet espace.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "Sur ce parchemin, l'epee de la chronique",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "entaille la foi qu'une langue a prononcee.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 3,
+      "verse": "La chronique dit : l'epee est l'art tragique,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "le parchemin sa scene, la foi la traversee.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 3,
+      "verse": "La langue des serments couvre l'epee de rouille,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "mais la chronique inscrite sur ce parchemin vit.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 3,
+      "verse": "La foi du soldat meurt, l'epee se debrouille,",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 3,
+      "verse": "et la langue du texte est un parchemin d'esprit.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 3,
+      "verse": "L'epee et la foi sont chronique d'un meme age,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "la langue s'est taillee au fil de cette lame.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "Le parchemin recouvre le sang du carnage,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "la chronique fait foi : l'epee porte sa flamme.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "Le parchemin est chronique de l'epee en foi,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 3,
+      "verse": "la langue se souvient du choc de la bataille.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "L'epee et la foi, la chronique et la loi,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "le parchemin est langue et l'epee la muraille.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 3,
+      "verse": "La foi du chroniqueur survit a tant d'epees,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "la langue du parchemin est chronique du monde.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 3,
+      "verse": "L'epee s'est tue, et la foi s'est echappee,",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 3,
+      "verse": "le parchemin fait langue a la chronique ronde.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 3,
+      "verse": "L'epee rend la chronique tragique et la foi",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 3,
+      "verse": "se grave en cette langue sur le parchemin jaune.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 3,
+      "verse": "La chronique dit : l'epee et le desemoi,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 3,
+      "verse": "la foi et la langue, le parchemin pour trone.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "Le pari du complot se chiffre par le nombre,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "l'epee du combineur tranche le jeu en deux.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "Le nombre des complots se multiplie dans l'ombre,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "le pari de l'epee est un jeu dangereux.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "Le jeu arithmetique est complot de la lame :",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 4,
+      "verse": "le nombre des victimes, un pari conteste.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 4,
+      "verse": "L'epee joue son role, le nombre est le programme,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "le complot du guerrier au pari deteste.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 4,
+      "verse": "Le nombre des intrigues et le pari du sang,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "le complot militaire est un jeu de massacre.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "L'epee compte ses morts, le nombre est le rang,",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 4,
+      "verse": "le pari du complot est un jeu de desastre.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "Le jeu du nombre est un complot d'arithmetique,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 4,
+      "verse": "le pari de l'epee se tranche par le sort.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "Le nombre du complot est un jeu numerique,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 4,
+      "verse": "le pari de la guerre a l'epee fait escorte.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "L'epee et le nombre -- pari d'un complot sombre,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "le jeu du stratege se joue entre les rangs.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "Le complot des nombres est un jeu dans la penombre,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "l'epee du pari coupe les derniers liens du temps.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 4,
+      "verse": "Le nombre dix est un pari, le complot est un jeu,",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 4,
+      "verse": "l'epee du calculeur compte les combinaisons.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 4,
+      "verse": "Le pari du complot, ce nombre de voeux,",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 4,
+      "verse": "le jeu de l'epee tranche les raisons.",
+      "syllables": 10,
+      "deviation": -2
+    },
+    {
+      "page": 4,
+      "verse": "Le complot du nombre est l'epee du pari,",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 4,
+      "verse": "le jeu des chiffres arme le complot d'un sens.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 4,
+      "verse": "L'epee trace un nombre, le pari est fleuri,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "le complot du jeu chante a l'epee l'evidence.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "Le nombre du pari seme l'epee du doute,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "le complot et le jeu ferment cette partition.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 4,
+      "verse": "L'epee est un nombre, le pari est la route,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 4,
+      "verse": "le complot du jeu est la derniere edition.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "Le complot des moines est chronique sans fin,",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 5,
+      "verse": "Maliette lit la foi dans le parchemin pale.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "La chronique du complot se trame en chemin,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "le parchemin de foi trahit la main monacale.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 5,
+      "verse": "Maliette sait : le complot forge un faux parchemin,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 5,
+      "verse": "la foi de la chronique est une conspiration.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 5,
+      "verse": "Le parchemin du moine est complot clandestin,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "Maliette y voit la foi d'une fabrication.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "La chronique dit vrai, le complot dit le faux,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "mais le parchemin garde la trace des deux.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "La foi de Maliette est fidele au trepeau --",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 5,
+      "verse": "le complot du moine est un parchemin douteux.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "Maliette enseigne : la chronique est complot",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "quand la foi du copiste altere le parchemin.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 5,
+      "verse": "Le complot monacal est une chronique en trop,",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 5,
+      "verse": "et la foi du maitre eclaire ce chemin.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 5,
+      "verse": "Le parchemin revele un complot de copiste,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "Maliette et la foi scrutent la chronique nue.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "Le complot est chronique, la foi est la piste,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "le parchemin de Maliette est enfin reconnu.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 5,
+      "verse": "La chronique du complot, la foi du parchemin --",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 5,
+      "verse": "Maliette distingue le vrai du contrefait.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "Le complot est chronique d'un autre lendemain,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 5,
+      "verse": "le parchemin fait foi de ce que le maitre sait.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 5,
+      "verse": "Le complot et la foi s'enlacent au parchemin,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 5,
+      "verse": "Maliette lit la chronique comme un palimpseste.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 5,
+      "verse": "Le parchemin fait foi, le complot prend sa fin,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "la chronique du maitre est le seul texte honnete.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 5,
+      "verse": "Maliette ferme la chronique et la foi s'endort,",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 5,
+      "verse": "le complot du parchemin n'est plus qu'une chimere.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 5,
+      "verse": "La chronique fait foi, le complot fait decor,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 5,
+      "verse": "et le parchemin du maitre eclaire la matiere.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 6,
+      "verse": "Le pari de la langue est un nombre en priere,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "la foi du jeu s'exprime en langue maternelle.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "Le nombre des vocables est un pari lumiere,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "et le jeu de la foi fait la langue eternelle.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 6,
+      "verse": "La langue du nombre est un pari sacre,",
+      "syllables": 10,
+      "deviation": -2
+    },
+    {
+      "page": 6,
+      "verse": "le jeu de la foi se joue en chaque syllabe.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "Le nombre de syllabes est un pari cadre,",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 6,
+      "verse": "la foi de la langue est un jeu qui se sable.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "Le pari du poete est un nombre dans la langue,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 6,
+      "verse": "la foi du jeu compte les pieds de chaque vers.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "La langue est un nombre, le pari est l'harangue,",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 6,
+      "verse": "le jeu de la foi traverse l'univers.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 6,
+      "verse": "Le nombre douze est un pari : que la langue tienne,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 6,
+      "verse": "la foi dans le jeu de la metrique est totale.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 6,
+      "verse": "Le nombre et la langue, le pari que je tienne --",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 6,
+      "verse": "la foi du jeu chante la ligne verticale.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "La langue du pari est un nombre de foi,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "le jeu de comptage est un pari sur la forme.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "Le nombre, la foi, la langue -- tout est jeu pour moi,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 6,
+      "verse": "le pari du poete est un nombre conforme.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 6,
+      "verse": "Le jeu du nombre est un pari de la foi :",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 6,
+      "verse": "que la langue mesure exactement ses douze.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "Le nombre de la langue est un pari de roi,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 6,
+      "verse": "le jeu de la foi bat la mesure et epouse.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "Le pari de la foi et le nombre du jeu",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "se tressent dans la langue comme un alexandrin.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 6,
+      "verse": "Le nombre est un pari, la foi est un aveu,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "le jeu de la langue est un nombre divin.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "La langue du jeu est un pari de la foi,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "le nombre de syllabes fonde la contrainte.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "Le pari du nombre est un jeu, le jeu est loi,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 6,
+      "verse": "la langue est un nombre de foi sans plainte.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 7,
+      "verse": "La chronique du complot arme l'epee du moine,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "le parchemin de Maliette porte une cicatrice.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 7,
+      "verse": "L'epee du copiste, le complot sans temoine,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 7,
+      "verse": "la chronique du parchemin est une fabricatrice.",
+      "syllables": 15,
+      "deviation": 3
+    },
+    {
+      "page": 7,
+      "verse": "Maliette dit : l'epee et le parchemin s'affrontent,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "le complot du copiste est une chronique de guerre.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 7,
+      "verse": "L'epee des moines, le parchemin qu'ils confrontent,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "le complot de la chronique est une ombre severe.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 7,
+      "verse": "Le parchemin gratte, l'epee trace, le complot s'inscrit,",
+      "syllables": 15,
+      "deviation": 3
+    },
+    {
+      "page": 7,
+      "verse": "Maliette voit la chronique dans chaque rature.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "L'epee du copiste est un complot manuscrit,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 7,
+      "verse": "le parchemin est chronique de la forfaiture.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "La chronique est une epee : le complot du texte,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "Maliette dechiffre le parchemin falsifie.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "L'epee du complot est la chronique du pretexte,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "le parchemin du maitre est enfin certifie.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 7,
+      "verse": "Maliette et l'epee, le complot du parchemin --",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 7,
+      "verse": "la chronique du copiste cache un complot ancien.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 7,
+      "verse": "L'epee du moine gratte le parchemin en chemin,",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 7,
+      "verse": "le complot est la chronique et Maliette est le lien.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 7,
+      "verse": "Le parchemin troue par l'epee du complot",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 7,
+      "verse": "porte la chronique que Maliette recompose.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "L'epee et le complot sont chronique en un mot,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "le parchemin du maitre est la seule glose.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 7,
+      "verse": "Le complot du parchemin arme l'epee du scribe,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "la chronique de Maliette eclaire le dessein.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "L'epee du complot est chronique et diatribe,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 7,
+      "verse": "le parchemin du maitre est le dernier ecrin.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 7,
+      "verse": "La chronique s'acheve et l'epee se repose,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 7,
+      "verse": "le complot du parchemin dort chez Maliette enfin.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "L'epee du complot est une chronique en prose,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 7,
+      "verse": "le parchemin du maitre reste le plus grand dessin.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 8,
+      "verse": "Maliette pose un pari : que le nombre et la foi",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 8,
+      "verse": "se rejoignent dans le jeu de la contrainte pure.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 8,
+      "verse": "Le pari du nombre est un jeu de bonne foi,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "et Maliette parie sur la juste mesure.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "Le jeu de la foi est un nombre, un pari clair,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "Maliette enseigne que le nombre est une grace.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "Le pari du jeu, la foi dans la lumiere --",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "le nombre de Maliette occupe toute la place.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 8,
+      "verse": "La foi dans le nombre est le pari du maitre,",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 8,
+      "verse": "le jeu de Maliette est un nombre enchante.",
+      "syllables": 10,
+      "deviation": -2
+    },
+    {
+      "page": 8,
+      "verse": "Le pari de la foi veut le nombre pour naitre,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "le jeu du maitre est un pari de liberte.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 8,
+      "verse": "Maliette dit : le pari du nombre est un jeu,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "la foi dans le calcul est un pari supreme.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "Le nombre du jeu est un pari de l'aveu,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "la foi de Maliette est le nombre du poeme.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 8,
+      "verse": "Le jeu du pari est un nombre de la foi,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "Maliette enseigne que le nombre est la contrainte.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "Le pari du maitre est un jeu, le jeu est loi,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "la foi du nombre est un pari sans plainte.",
+      "syllables": 10,
+      "deviation": -2
+    },
+    {
+      "page": 8,
+      "verse": "Le nombre de la foi est le jeu du pari,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "Maliette voit dans le nombre un jeu de structure.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "Le pari du jeu et la foi du favori,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "le nombre de Maliette est la juste architecture.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 8,
+      "verse": "La foi du pari et le jeu du nombre uni,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "Maliette dit : le nombre est un pari qui chante.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "Le jeu de la foi, le pari infini,",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 8,
+      "verse": "le nombre du maitre est une foi constante.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 8,
+      "verse": "Maliette ferme le jeu, le pari et le nombre,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 8,
+      "verse": "la foi de la contrainte est un pari d'eclat.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "Le nombre du jeu et le pari sans encombre,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 8,
+      "verse": "la foi de Maliette tient le nombre en etat.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 9,
+      "verse": "Le jeu de la chronique est une epee de langue,",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 9,
+      "verse": "le parchemin raconte le jeu de la bataille.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 9,
+      "verse": "La chronique est un jeu ou la langue harangue",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 9,
+      "verse": "l'epee du guerrier qui defend la muraille.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 9,
+      "verse": "L'epee et le parchemin, chronique d'un vieux jeu,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 9,
+      "verse": "la langue du combat est le jeu des soldats.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 9,
+      "verse": "Le parchemin est chronique, l'epee est un aveu,",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 9,
+      "verse": "le jeu de la langue ne connait pas de faux-pas.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 9,
+      "verse": "La chronique du jeu inscrit l'epee en langue,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 9,
+      "verse": "le parchemin du jeu est une chronique noire.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 9,
+      "verse": "L'epee joue la langue, le parchemin harangue,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 9,
+      "verse": "la chronique du jeu est le parchemin de l'histoire.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 9,
+      "verse": "Le jeu du parchemin est chronique de l'epee,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 9,
+      "verse": "la langue du guerrier joue la chronique ancienne.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 9,
+      "verse": "L'epee du jeu est un parchemin trempe,",
+      "syllables": 10,
+      "deviation": -2
+    },
+    {
+      "page": 9,
+      "verse": "la chronique en langue est la partition qu'il tienne.",
+      "syllables": 15,
+      "deviation": 3
+    },
+    {
+      "page": 9,
+      "verse": "Le parchemin est jeu : la chronique et l'epee",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 9,
+      "verse": "se croisent dans la langue comme un contrepoint.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 9,
+      "verse": "Le jeu de la chronique, l'epee du passe,",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 9,
+      "verse": "le parchemin en langue chante le point par point.",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 9,
+      "verse": "La langue du jeu est chronique du parchemin,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 9,
+      "verse": "l'epee joue la partition de la chronique.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 9,
+      "verse": "Le jeu du parchemin est l'epee du chemin,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 9,
+      "verse": "la chronique en langue est le jeu magnifique.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 9,
+      "verse": "L'epee de la chronique et le jeu du parchemin,",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 9,
+      "verse": "la langue joue l'accord de la partition.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 9,
+      "verse": "Le jeu est la chronique, l'epee est le refrain,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 9,
+      "verse": "le parchemin en langue est une benediction.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 9,
+      "verse": "La chronique du jeu, l'epee du parchemin,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 9,
+      "verse": "la langue est le dernier instrument qui sonne.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 9,
+      "verse": "Le jeu de la chronique est l'epee du matin,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 9,
+      "verse": "le parchemin en langue est la note qui resonne.",
+      "syllables": 14,
+      "deviation": 2
+    },
+    {
+      "page": 10,
+      "verse": "Le pari du complot est un nombre de sang,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "la foi de l'epee tranche le complot en nombre.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "Le pari de la foi et le complot des rangs,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "l'epee du nombre est un complot dans l'ombre.",
+      "syllables": 10,
+      "deviation": -2
+    },
+    {
+      "page": 10,
+      "verse": "Le complot de la foi est un pari d'epee,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "le nombre des complots se tranche par la lame.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "Le pari du nombre est un complot trempe,",
+      "syllables": 10,
+      "deviation": -2
+    },
+    {
+      "page": 10,
+      "verse": "la foi de l'epee est un complot sans blame.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 10,
+      "verse": "L'epee du complot et le nombre du pari,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "la foi du combattant se joue en plein calcul.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "Le complot de l'epee et le nombre incompris,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "le pari de la foi est un nombre a rebours.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "Le nombre du complot est l'epee du pari,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "la foi de l'epee est un complot de nombre.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 10,
+      "verse": "Le pari du complot et la foi du repris,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "l'epee du nombre est un pari dans la penombre.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "La foi est un pari, le complot est un nombre,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "l'epee du pari tranche la foi du complot.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "Le nombre de l'epee est un pari d'encombre,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "la foi du complot est l'epee a defaut.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 10,
+      "verse": "Le complot et le pari font nombre avec l'epee,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 10,
+      "verse": "la foi du nombre et le complot du pari.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 10,
+      "verse": "L'epee de la foi est un nombre trempe,",
+      "syllables": 10,
+      "deviation": -2
+    },
+    {
+      "page": 10,
+      "verse": "le complot du pari chante a l'epee : \"Ainsi !\"",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "Le nombre de la foi est le pari du complot,",
+      "syllables": 13,
+      "deviation": 1
+    },
+    {
+      "page": 10,
+      "verse": "l'epee du nombre tranche la foi du texte.",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 10,
+      "verse": "Le complot du pari, l'epee comme un sanglot,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "le nombre de la foi est un pari complexe.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "Le pari dernier : que le nombre et la foi",
+      "syllables": 11,
+      "deviation": -1
+    },
+    {
+      "page": 10,
+      "verse": "survivent au complot de l'epee qui menace.",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "Le complot du nombre est l'epee du desarroi,",
+      "syllables": 12,
+      "deviation": 0
+    },
+    {
+      "page": 10,
+      "verse": "la foi du pari est le nombre qui embrasse.",
+      "syllables": 12,
+      "deviation": 0
+    }
+  ]
+}

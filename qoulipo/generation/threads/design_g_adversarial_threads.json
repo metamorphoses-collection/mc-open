@@ -1,0 +1,1260 @@
+{
+  "metadata": {
+    "title": "Le Piege du Lecteur",
+    "title_en": "The Reader's Trap",
+    "N": 50,
+    "thread_pool": 15,
+    "threads_per_page": 5,
+    "edge_criterion": "overlap >= 3",
+    "optimal_MIS": 20,
+    "greedy_MIS": 14,
+    "gap": 6,
+    "degradation_pct": 30.0,
+    "density": 0.161,
+    "edges": 197,
+    "design": "adversarial_crown",
+    "seed": 52,
+    "mechanism": "B-pages (TRAP) have degree 2 (greedy picks first), each blocks 2 A-pages (TRUTH) from the optimal MIS. All 10 B-pages are picked by greedy, blocking all 20 A-pages.",
+    "literary_conceit": "Pages that seem most important (self-contained, accessible) are traps. The truly essential pages are hidden, harder to access, but structurally irreplaceable. Surface reading vs deep reading.",
+    "recommended_k": 8,
+    "recommended_threshold": 0.78
+  },
+  "thread_pool": [
+    {
+      "id": 0,
+      "name": "WAGER",
+      "domain_en": "Probability, risk",
+      "domain_fr": "Pari, risque"
+    },
+    {
+      "id": 1,
+      "name": "CHRONICLE",
+      "domain_en": "Historical record",
+      "domain_fr": "Chronique historique"
+    },
+    {
+      "id": 2,
+      "name": "CONSPIRACY",
+      "domain_en": "Fabrication, forgery",
+      "domain_fr": "Complot, faux"
+    },
+    {
+      "id": 3,
+      "name": "TONGUE",
+      "domain_en": "Language, vernacular",
+      "domain_fr": "Langue vernaculaire"
+    },
+    {
+      "id": 4,
+      "name": "NUMBER",
+      "domain_en": "Mathematics",
+      "domain_fr": "Mathematiques"
+    },
+    {
+      "id": 5,
+      "name": "FAITH",
+      "domain_en": "Belief, doubt",
+      "domain_fr": "Foi, doute"
+    },
+    {
+      "id": 6,
+      "name": "SWORD",
+      "domain_en": "War, conflict",
+      "domain_fr": "Guerre, conflit"
+    },
+    {
+      "id": 7,
+      "name": "PARCHMENT",
+      "domain_en": "Manuscripts",
+      "domain_fr": "Manuscrits"
+    },
+    {
+      "id": 8,
+      "name": "MALIETTE",
+      "domain_en": "The teacher",
+      "domain_fr": "Le professeur"
+    },
+    {
+      "id": 9,
+      "name": "GAME",
+      "domain_en": "Ludic constraint",
+      "domain_fr": "Jeu, contrainte"
+    },
+    {
+      "id": 10,
+      "name": "MIRROR",
+      "domain_en": "Reflection",
+      "domain_fr": "Reflet"
+    },
+    {
+      "id": 11,
+      "name": "INK",
+      "domain_en": "Writing",
+      "domain_fr": "Ecriture"
+    },
+    {
+      "id": 12,
+      "name": "SHADOW",
+      "domain_en": "Hidden meaning",
+      "domain_fr": "Sens cache"
+    },
+    {
+      "id": 13,
+      "name": "FIRE",
+      "domain_en": "Destruction, passion",
+      "domain_fr": "Feu, passion"
+    },
+    {
+      "id": 14,
+      "name": "STONE",
+      "domain_en": "Permanence",
+      "domain_fr": "Pierre, permanence"
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "PARCHMENT",
+        "SHADOW",
+        "WAGER"
+      ],
+      "degree": 9,
+      "neighbors": [
+        21,
+        31,
+        33,
+        39,
+        41,
+        43,
+        45,
+        46,
+        49
+      ]
+    },
+    {
+      "page": 2,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "GAME",
+        "MIRROR",
+        "NUMBER",
+        "SWORD",
+        "WAGER"
+      ],
+      "degree": 7,
+      "neighbors": [
+        21,
+        31,
+        36,
+        39,
+        43,
+        46,
+        49
+      ]
+    },
+    {
+      "page": 3,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "INK",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "degree": 6,
+      "neighbors": [
+        22,
+        34,
+        38,
+        42,
+        48,
+        50
+      ]
+    },
+    {
+      "page": 4,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "STONE",
+        "SWORD",
+        "TONGUE"
+      ],
+      "degree": 7,
+      "neighbors": [
+        22,
+        33,
+        34,
+        38,
+        41,
+        45,
+        48
+      ]
+    },
+    {
+      "page": 5,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "FAITH",
+        "SHADOW",
+        "SWORD",
+        "TONGUE",
+        "WAGER"
+      ],
+      "degree": 5,
+      "neighbors": [
+        23,
+        34,
+        38,
+        41,
+        48
+      ]
+    },
+    {
+      "page": 6,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "FAITH",
+        "FIRE",
+        "NUMBER",
+        "PARCHMENT",
+        "TONGUE"
+      ],
+      "degree": 11,
+      "neighbors": [
+        23,
+        31,
+        34,
+        37,
+        38,
+        39,
+        42,
+        43,
+        46,
+        48,
+        49
+      ]
+    },
+    {
+      "page": 7,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "NUMBER",
+        "SHADOW",
+        "SWORD"
+      ],
+      "degree": 5,
+      "neighbors": [
+        24,
+        33,
+        36,
+        41,
+        45
+      ]
+    },
+    {
+      "page": 8,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "GAME",
+        "INK",
+        "MALIETTE",
+        "SHADOW",
+        "STONE"
+      ],
+      "degree": 6,
+      "neighbors": [
+        24,
+        32,
+        35,
+        40,
+        44,
+        47
+      ]
+    },
+    {
+      "page": 9,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "GAME",
+        "INK",
+        "MIRROR",
+        "PARCHMENT",
+        "TONGUE"
+      ],
+      "degree": 8,
+      "neighbors": [
+        25,
+        32,
+        35,
+        37,
+        40,
+        44,
+        47,
+        50
+      ]
+    },
+    {
+      "page": 10,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "CHRONICLE",
+        "INK",
+        "NUMBER",
+        "STONE",
+        "TONGUE"
+      ],
+      "degree": 7,
+      "neighbors": [
+        25,
+        32,
+        35,
+        40,
+        42,
+        44,
+        47
+      ]
+    },
+    {
+      "page": 11,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "CONSPIRACY",
+        "FIRE",
+        "INK",
+        "NUMBER",
+        "WAGER"
+      ],
+      "degree": 7,
+      "neighbors": [
+        26,
+        31,
+        36,
+        39,
+        43,
+        46,
+        49
+      ]
+    },
+    {
+      "page": 12,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "MALIETTE",
+        "PARCHMENT",
+        "STONE"
+      ],
+      "degree": 8,
+      "neighbors": [
+        26,
+        33,
+        34,
+        38,
+        42,
+        45,
+        48,
+        50
+      ]
+    },
+    {
+      "page": 13,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "MIRROR",
+        "NUMBER",
+        "PARCHMENT",
+        "SHADOW",
+        "STONE"
+      ],
+      "degree": 6,
+      "neighbors": [
+        27,
+        33,
+        35,
+        42,
+        45,
+        47
+      ]
+    },
+    {
+      "page": 14,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "FIRE",
+        "PARCHMENT",
+        "STONE",
+        "SWORD",
+        "WAGER"
+      ],
+      "degree": 12,
+      "neighbors": [
+        27,
+        31,
+        33,
+        34,
+        36,
+        38,
+        39,
+        43,
+        45,
+        46,
+        48,
+        49
+      ]
+    },
+    {
+      "page": 15,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "CHRONICLE",
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT",
+        "WAGER"
+      ],
+      "degree": 7,
+      "neighbors": [
+        28,
+        31,
+        36,
+        39,
+        43,
+        46,
+        49
+      ]
+    },
+    {
+      "page": 16,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "MALIETTE",
+        "MIRROR",
+        "TONGUE"
+      ],
+      "degree": 6,
+      "neighbors": [
+        28,
+        32,
+        37,
+        40,
+        44,
+        50
+      ]
+    },
+    {
+      "page": 17,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "FIRE",
+        "INK",
+        "MALIETTE",
+        "MIRROR",
+        "SWORD"
+      ],
+      "degree": 6,
+      "neighbors": [
+        29,
+        32,
+        37,
+        40,
+        44,
+        50
+      ]
+    },
+    {
+      "page": 18,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "CONSPIRACY",
+        "FIRE",
+        "MIRROR",
+        "SHADOW",
+        "TONGUE"
+      ],
+      "degree": 5,
+      "neighbors": [
+        29,
+        35,
+        37,
+        41,
+        47
+      ]
+    },
+    {
+      "page": 19,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "FIRE",
+        "GAME",
+        "WAGER"
+      ],
+      "degree": 7,
+      "neighbors": [
+        30,
+        31,
+        36,
+        39,
+        43,
+        46,
+        49
+      ]
+    },
+    {
+      "page": 20,
+      "role": "A",
+      "voice": "TRUTH",
+      "threads": [
+        "FAITH",
+        "INK",
+        "MIRROR",
+        "STONE",
+        "WAGER"
+      ],
+      "degree": 9,
+      "neighbors": [
+        30,
+        32,
+        35,
+        37,
+        40,
+        42,
+        44,
+        47,
+        50
+      ]
+    },
+    {
+      "page": 21,
+      "role": "B",
+      "voice": "TRAP",
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "MALIETTE",
+        "MIRROR",
+        "WAGER"
+      ],
+      "degree": 2,
+      "neighbors": [
+        1,
+        2
+      ]
+    },
+    {
+      "page": 22,
+      "role": "B",
+      "voice": "TRAP",
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "GAME",
+        "INK",
+        "SWORD"
+      ],
+      "degree": 2,
+      "neighbors": [
+        3,
+        4
+      ]
+    },
+    {
+      "page": 23,
+      "role": "B",
+      "voice": "TRAP",
+      "threads": [
+        "FAITH",
+        "NUMBER",
+        "SHADOW",
+        "TONGUE",
+        "WAGER"
+      ],
+      "degree": 2,
+      "neighbors": [
+        5,
+        6
+      ]
+    },
+    {
+      "page": 24,
+      "role": "B",
+      "voice": "TRAP",
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "INK",
+        "MALIETTE",
+        "SHADOW"
+      ],
+      "degree": 2,
+      "neighbors": [
+        7,
+        8
+      ]
+    },
+    {
+      "page": 25,
+      "role": "B",
+      "voice": "TRAP",
+      "threads": [
+        "CHRONICLE",
+        "GAME",
+        "INK",
+        "NUMBER",
+        "TONGUE"
+      ],
+      "degree": 2,
+      "neighbors": [
+        9,
+        10
+      ]
+    },
+    {
+      "page": 26,
+      "role": "B",
+      "voice": "TRAP",
+      "threads": [
+        "CONSPIRACY",
+        "FIRE",
+        "MALIETTE",
+        "NUMBER",
+        "STONE"
+      ],
+      "degree": 2,
+      "neighbors": [
+        11,
+        12
+      ]
+    },
+    {
+      "page": 27,
+      "role": "B",
+      "voice": "TRAP",
+      "threads": [
+        "CHRONICLE",
+        "FIRE",
+        "MIRROR",
+        "PARCHMENT",
+        "STONE"
+      ],
+      "degree": 2,
+      "neighbors": [
+        13,
+        14
+      ]
+    },
+    {
+      "page": 28,
+      "role": "B",
+      "voice": "TRAP",
+      "threads": [
+        "CHRONICLE",
+        "MALIETTE",
+        "PARCHMENT",
+        "TONGUE",
+        "WAGER"
+      ],
+      "degree": 2,
+      "neighbors": [
+        15,
+        16
+      ]
+    },
+    {
+      "page": 29,
+      "role": "B",
+      "voice": "TRAP",
+      "threads": [
+        "FIRE",
+        "MALIETTE",
+        "MIRROR",
+        "SHADOW",
+        "SWORD"
+      ],
+      "degree": 2,
+      "neighbors": [
+        17,
+        18
+      ]
+    },
+    {
+      "page": 30,
+      "role": "B",
+      "voice": "TRAP",
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "GAME",
+        "STONE",
+        "WAGER"
+      ],
+      "degree": 2,
+      "neighbors": [
+        19,
+        20
+      ]
+    },
+    {
+      "page": 31,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "FIRE",
+        "GAME",
+        "NUMBER",
+        "PARCHMENT",
+        "WAGER"
+      ],
+      "degree": 12,
+      "neighbors": [
+        1,
+        2,
+        6,
+        11,
+        14,
+        15,
+        19,
+        36,
+        39,
+        43,
+        46,
+        49
+      ]
+    },
+    {
+      "page": 32,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "INK",
+        "MALIETTE",
+        "MIRROR",
+        "STONE",
+        "TONGUE"
+      ],
+      "degree": 12,
+      "neighbors": [
+        8,
+        9,
+        10,
+        16,
+        17,
+        20,
+        35,
+        37,
+        40,
+        44,
+        47,
+        50
+      ]
+    },
+    {
+      "page": 33,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "CONSPIRACY",
+        "PARCHMENT",
+        "SHADOW",
+        "STONE",
+        "SWORD"
+      ],
+      "degree": 11,
+      "neighbors": [
+        1,
+        4,
+        7,
+        12,
+        13,
+        14,
+        34,
+        38,
+        41,
+        45,
+        48
+      ]
+    },
+    {
+      "page": 34,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "FAITH",
+        "PARCHMENT",
+        "STONE",
+        "SWORD",
+        "TONGUE"
+      ],
+      "degree": 12,
+      "neighbors": [
+        3,
+        4,
+        5,
+        6,
+        12,
+        14,
+        33,
+        38,
+        41,
+        42,
+        45,
+        48
+      ]
+    },
+    {
+      "page": 35,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "INK",
+        "MIRROR",
+        "SHADOW",
+        "STONE",
+        "TONGUE"
+      ],
+      "degree": 11,
+      "neighbors": [
+        8,
+        9,
+        10,
+        13,
+        18,
+        20,
+        32,
+        37,
+        40,
+        44,
+        47
+      ]
+    },
+    {
+      "page": 36,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "CHRONICLE",
+        "FIRE",
+        "NUMBER",
+        "SWORD",
+        "WAGER"
+      ],
+      "degree": 11,
+      "neighbors": [
+        2,
+        7,
+        11,
+        14,
+        15,
+        19,
+        31,
+        39,
+        43,
+        46,
+        49
+      ]
+    },
+    {
+      "page": 37,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "FAITH",
+        "FIRE",
+        "INK",
+        "MIRROR",
+        "TONGUE"
+      ],
+      "degree": 12,
+      "neighbors": [
+        6,
+        9,
+        16,
+        17,
+        18,
+        20,
+        32,
+        35,
+        40,
+        44,
+        47,
+        50
+      ]
+    },
+    {
+      "page": 38,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "FAITH",
+        "PARCHMENT",
+        "STONE",
+        "SWORD",
+        "TONGUE"
+      ],
+      "degree": 12,
+      "neighbors": [
+        3,
+        4,
+        5,
+        6,
+        12,
+        14,
+        33,
+        34,
+        41,
+        42,
+        45,
+        48
+      ]
+    },
+    {
+      "page": 39,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "FIRE",
+        "GAME",
+        "NUMBER",
+        "PARCHMENT",
+        "WAGER"
+      ],
+      "degree": 12,
+      "neighbors": [
+        1,
+        2,
+        6,
+        11,
+        14,
+        15,
+        19,
+        31,
+        36,
+        43,
+        46,
+        49
+      ]
+    },
+    {
+      "page": 40,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "INK",
+        "MALIETTE",
+        "MIRROR",
+        "STONE",
+        "TONGUE"
+      ],
+      "degree": 12,
+      "neighbors": [
+        8,
+        9,
+        10,
+        16,
+        17,
+        20,
+        32,
+        35,
+        37,
+        44,
+        47,
+        50
+      ]
+    },
+    {
+      "page": 41,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "CONSPIRACY",
+        "PARCHMENT",
+        "SHADOW",
+        "SWORD",
+        "TONGUE"
+      ],
+      "degree": 10,
+      "neighbors": [
+        1,
+        4,
+        5,
+        7,
+        18,
+        33,
+        34,
+        38,
+        45,
+        48
+      ]
+    },
+    {
+      "page": 42,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "FAITH",
+        "INK",
+        "NUMBER",
+        "PARCHMENT",
+        "STONE"
+      ],
+      "degree": 10,
+      "neighbors": [
+        3,
+        6,
+        10,
+        12,
+        13,
+        20,
+        34,
+        38,
+        48,
+        50
+      ]
+    },
+    {
+      "page": 43,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "FIRE",
+        "GAME",
+        "NUMBER",
+        "PARCHMENT",
+        "WAGER"
+      ],
+      "degree": 12,
+      "neighbors": [
+        1,
+        2,
+        6,
+        11,
+        14,
+        15,
+        19,
+        31,
+        36,
+        39,
+        46,
+        49
+      ]
+    },
+    {
+      "page": 44,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "INK",
+        "MALIETTE",
+        "MIRROR",
+        "STONE",
+        "TONGUE"
+      ],
+      "degree": 12,
+      "neighbors": [
+        8,
+        9,
+        10,
+        16,
+        17,
+        20,
+        32,
+        35,
+        37,
+        40,
+        47,
+        50
+      ]
+    },
+    {
+      "page": 45,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "CONSPIRACY",
+        "PARCHMENT",
+        "SHADOW",
+        "STONE",
+        "SWORD"
+      ],
+      "degree": 11,
+      "neighbors": [
+        1,
+        4,
+        7,
+        12,
+        13,
+        14,
+        33,
+        34,
+        38,
+        41,
+        48
+      ]
+    },
+    {
+      "page": 46,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "FIRE",
+        "GAME",
+        "NUMBER",
+        "PARCHMENT",
+        "WAGER"
+      ],
+      "degree": 12,
+      "neighbors": [
+        1,
+        2,
+        6,
+        11,
+        14,
+        15,
+        19,
+        31,
+        36,
+        39,
+        43,
+        49
+      ]
+    },
+    {
+      "page": 47,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "INK",
+        "MIRROR",
+        "SHADOW",
+        "STONE",
+        "TONGUE"
+      ],
+      "degree": 11,
+      "neighbors": [
+        8,
+        9,
+        10,
+        13,
+        18,
+        20,
+        32,
+        35,
+        37,
+        40,
+        44
+      ]
+    },
+    {
+      "page": 48,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "FAITH",
+        "PARCHMENT",
+        "STONE",
+        "SWORD",
+        "TONGUE"
+      ],
+      "degree": 12,
+      "neighbors": [
+        3,
+        4,
+        5,
+        6,
+        12,
+        14,
+        33,
+        34,
+        38,
+        41,
+        42,
+        45
+      ]
+    },
+    {
+      "page": 49,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "FIRE",
+        "GAME",
+        "NUMBER",
+        "PARCHMENT",
+        "WAGER"
+      ],
+      "degree": 12,
+      "neighbors": [
+        1,
+        2,
+        6,
+        11,
+        14,
+        15,
+        19,
+        31,
+        36,
+        39,
+        43,
+        46
+      ]
+    },
+    {
+      "page": 50,
+      "role": "C",
+      "voice": "NARRATOR",
+      "threads": [
+        "FAITH",
+        "INK",
+        "MALIETTE",
+        "MIRROR",
+        "PARCHMENT"
+      ],
+      "degree": 11,
+      "neighbors": [
+        3,
+        9,
+        12,
+        16,
+        17,
+        20,
+        32,
+        37,
+        40,
+        42,
+        44
+      ]
+    }
+  ]
+}

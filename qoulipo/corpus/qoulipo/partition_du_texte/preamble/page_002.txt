@@ -1,0 +1,38 @@
+### The Double Constraint
+
+This text obeys two simultaneous formal rules:
+
+> **GRAPH CONSTRAINT**: Each of the 46 pages carries exactly 5 of 10 thematic threads. The assignment follows a perfectly balanced design (each thread appears exactly 25 times) so that the resulting topic graph (threshold=0.78, top_k=16) has density d ~ 0.45-0.55, placing it in the Cazals et al. "hard zone" for MIS computation.
+
+> **PROSODIC CONSTRAINT**: The 46 pages cycle through 5 poetic forms, 10 pages each. Each form imposes meter, rhyme, or structural rules on top of the graph constraint. This is OuLiPo squared.
+
+### The Five Instruments
+
+| Pages | Form | Language | Voice |
+|-------|------|----------|-------|
+| 1-10 | ALEXANDRINE | French | Racine -- 12 syllables, caesura at 6 |
+| 11-20 | SONNET | English | Shakespeare/Ronsard -- 14 lines, ABAB CDCD EFEF GG |
+| 21-30 | TERZA RIMA | English | Dante -- interlocking ABA BCB CDC |
+| 31-40 | HAIKU SEQUENCE | English | Silence -- 5-7-5 tercets |
+| 41-50 | FREE VERSE with ANAPHORA | English | Whitman -- repeated opening phrase |
+
+### The Ten Threads
+
+| # | Thread | Domain |
+|---|--------|--------|
+| 1 | WAGER | Probability, risk, decision under uncertainty |
+| 2 | CHRONICLE | Historical record, witnessed events |
+| 3 | CONSPIRACY | Fabrication, forgery, hidden agendas |
+| 4 | TONGUE | Language, translation, the birth of vernacular |
+| 5 | NUMBER | Mathematics, combinatorics, counting |
+| 6 | FAITH | Belief, doubt, the silence of God |
+| 7 | SWORD | War, conflict, fratricidal violence |
+| 8 | PARCHMENT | Manuscripts, textual transmission |
+| 9 | MALIETTE | The teacher, ZaZiPo, the gift of reading |
+| 10 | GAME | OuLiPo, ludic constraint, rules that free |
+
+### The Literary Conceit
+
+The text IS a musical score. Each poetic form is a different instrument. Reading across all alexandrines, then all sonnets, then all terza rima gives one melody -- the horizontal reading. Reading by thread (all WAGER pages, all FAITH pages) gives another melody -- the vertical reading. The graph structure is the harmony that connects the voices, the chord progression that makes the polyphony cohere.
+
+*La Partition du Texte* -- the word "partition" means both "score" (musical) and "partition" (mathematical division). The text is both.

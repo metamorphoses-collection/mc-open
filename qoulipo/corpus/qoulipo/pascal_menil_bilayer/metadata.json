@@ -1,0 +1,25 @@
+{
+  "text_id": "pascal_menil_bilayer",
+  "title": "Les Aventures de Pascal / Scholia de Ménil (bilayer)",
+  "lang": "FR",
+  "canonical_N": 40,
+  "canonical_graph_file": "graph_bilayer.json",
+  "canonical_E": 240,
+  "canonical_density": 0.3077,
+  "canonical_MIS": 6,
+  "canonical_rho": 0.0,
+  "canonical_optima": 500,
+  "canonical_optima_cap_reached": true,
+  "graph_mode": "exact_bilayer_UBG",
+  "type": "qoulipo_engineered",
+  "designed_property": "5x4x2 king bilayer, exact 2L UBG by construction (R_b=8.0 um, intra-layer 5 um, inter-layer 3 um)",
+  "register_target": "bilayer (Pasqal projected late-2026 capability)",
+  "components": [
+    "pascal_apocryphe",
+    "pascal_apocryphe_scholia"
+  ],
+  "note": "This is the combined 40-atom bilayer that is the canonical paper instance (Table 5, §6.3). The literary text is split across the two component folders: pascal_apocryphe (20 pages, layer z=0) and pascal_apocryphe_scholia (20 pages, layer z=3 um).",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv (QOuLiPo: What a quantum computer sees when it reads a book)",
+  "source_contract": "aggregate"
+}

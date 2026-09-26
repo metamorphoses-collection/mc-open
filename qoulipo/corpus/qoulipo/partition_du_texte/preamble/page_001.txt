@@ -1,0 +1,6 @@
+# La Partition du Texte
+## The Score of the Text / The Partition of the Text
+
+**An OuLiPo text under double constraint: graph-theoretic + prosodic.**
+
+**Hommage to Bernard Marechal**, who taught that constraint liberates, and that a text is a score waiting for its reader.

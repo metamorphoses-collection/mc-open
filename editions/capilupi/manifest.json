@@ -1,0 +1,2374 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/data/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "en": [
+   "Laelii Capilupi Centones ex Virgilio (Rome: Dorico, 1555)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Object"
+    ]
+   },
+   "value": {
+    "en": [
+     "MC-C-145"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Imprint"
+    ]
+   },
+   "value": {
+    "en": [
+     "Rome: Valerio & Luigi Dorico, 1555"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "en": [
+     "Scans CC0; edition text CC BY 4.0"
+    ]
+   }
+  }
+ ],
+ "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+ "homepage": [
+  {
+   "id": "https://metamorphoses-collection.org/editions/capilupi/",
+   "type": "Text",
+   "label": {
+    "en": [
+     "Laelii Capilupi Centones ex Virgilio (Rome: Dorico, 1555)"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/data/book.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/46",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "A1r (title)"
+    ]
+   },
+   "height": 1800,
+   "width": 1287,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/46/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/46/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-46.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1287
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "A1v"
+    ]
+   },
+   "height": 1800,
+   "width": 1240,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/6/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-6.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1240
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/47",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "A2r"
+    ]
+   },
+   "height": 1800,
+   "width": 1254,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/47/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/47/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-47.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1254
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/47"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/7",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "A2v"
+    ]
+   },
+   "height": 1800,
+   "width": 1231,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/7/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-7.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1231
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/48",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 1 (B1r) — I Gallus"
+    ]
+   },
+   "height": 1800,
+   "width": 1277,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/48/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/48/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-48.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1277
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/48"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/8",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 2 — I Gallus"
+    ]
+   },
+   "height": 1800,
+   "width": 1232,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/8/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-8.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1232
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/49",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 3 — I Gallus"
+    ]
+   },
+   "height": 1800,
+   "width": 1283,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/49/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/49/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-49.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1283
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/49"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/9",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 4 — I Gallus"
+    ]
+   },
+   "height": 1800,
+   "width": 1230,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/9/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/9/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-9.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1230
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/50",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 5 — I Gallus"
+    ]
+   },
+   "height": 1800,
+   "width": 1273,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/50/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/50/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-50.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1273
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/50"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/10",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 6 — I Gallus"
+    ]
+   },
+   "height": 1800,
+   "width": 1240,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/10/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/10/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-10.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1240
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/51",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 7 — I Gallus"
+    ]
+   },
+   "height": 1800,
+   "width": 1268,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/51/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/51/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-51.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1268
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/51"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/11",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 8 — I Gallus"
+    ]
+   },
+   "height": 1800,
+   "width": 1264,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/11/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/11/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-11.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1264
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/52",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 9 — I Gallus"
+    ]
+   },
+   "height": 1800,
+   "width": 1304,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/52/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/52/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-52.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1304
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/52"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/85",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 10 (C1v) — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1243,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/85/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/85/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-85.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1243
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/85"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/53",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 11 — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1265,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/53/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/53/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-53.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1265
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/53"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/13",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 12 — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1230,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/13/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/13/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-13.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1230
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/54",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 13 — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1303,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/54/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/54/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-54.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1303
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/54"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/14",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 14 — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1178,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/14/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/14/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-14.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1178
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/55",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 15 — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1284,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/55/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/55/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-55.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1284
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/55"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/15",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 16 — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1221,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/15/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/15/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-15.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1221
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/56",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 17 — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1255,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/56/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/56/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-56.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1255
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/56"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/16",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 18 — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1170,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/16/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/16/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-16.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1170
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/57",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 19 — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1270,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/57/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/57/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-57.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1270
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/57"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/17",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 20 — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1180,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/17/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/17/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-17.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1180
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/58",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 21 — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1261,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/58/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/58/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-58.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1261
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/58"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/18",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 22 — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1219,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/18/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/18/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-18.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1219
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/59",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 23 — II De vita monachorum"
+    ]
+   },
+   "height": 1800,
+   "width": 1276,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/59/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/59/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-59.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1276
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/59"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/19",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 24 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1292,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/19/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/19/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-19.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1292
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/60",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 25 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1253,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/60/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/60/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-60.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1253
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/60"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/20",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 26 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1203,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/20/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/20/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-20.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1203
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/61",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 27 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1259,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/61/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/61/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-61.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1259
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/61"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/21",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 28 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1197,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/21/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/21/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-21.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1197
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/62",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 29 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1237,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/62/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/62/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-62.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1237
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/62"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/22",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 30 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1205,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/22/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/22/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-22.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1205
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/63",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 31 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1221,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/63/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/63/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-63.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1221
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/63"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/23",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 32 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1167,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/23/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/23/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-23.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1167
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/64",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 33 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1233,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/64/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/64/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-64.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1233
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/64"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/24",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 34 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1216,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/24/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/24/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-24.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1216
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/65",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 35 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1212,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/65/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/65/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-65.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1212
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/65"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/25",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 36 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1245,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/25/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/25/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-25.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1245
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/66",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 37 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1227,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/66/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/66/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-66.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1227
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/66"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/26",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 38 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1213,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/26/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/26/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-26.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1213
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/67",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 39 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1274,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/67/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/67/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-67.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1274
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/67"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/27",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 40 — III In foeminas"
+    ]
+   },
+   "height": 1800,
+   "width": 1296,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/27/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/27/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-27.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1296
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/68",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 41 — IIII Aristeus"
+    ]
+   },
+   "height": 1800,
+   "width": 1233,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/68/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/68/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-68.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1233
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/68"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/28",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 42 — IIII Aristeus"
+    ]
+   },
+   "height": 1800,
+   "width": 1240,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/28/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/28/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-28.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1240
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/69",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 43 — IIII Aristeus"
+    ]
+   },
+   "height": 1800,
+   "width": 1247,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/69/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/69/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-69.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1247
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/69"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/29",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 44 — IIII Aristeus"
+    ]
+   },
+   "height": 1800,
+   "width": 1254,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/29/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/29/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-29.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1254
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/70",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 45 — IIII Aristeus"
+    ]
+   },
+   "height": 1800,
+   "width": 1227,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/70/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/70/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-70.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1227
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/70"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/30",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 46 — IIII Aristeus"
+    ]
+   },
+   "height": 1800,
+   "width": 1216,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/30/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/30/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-30.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1216
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/71",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 47 — V Damon"
+    ]
+   },
+   "height": 1800,
+   "width": 1271,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/71/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/71/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-71.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1271
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/71"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/31",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 48 — V Damon"
+    ]
+   },
+   "height": 1800,
+   "width": 1193,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/31/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/31/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-31.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1193
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/72",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 49 — VI Gonzaga"
+    ]
+   },
+   "height": 1800,
+   "width": 1255,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/72/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/72/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-72.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1255
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/72"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/32",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 50 — VI Gonzaga"
+    ]
+   },
+   "height": 1800,
+   "width": 1211,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/32/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/32/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-32.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1211
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/73",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 51 — VII Medici"
+    ]
+   },
+   "height": 1800,
+   "width": 1272,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/73/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/73/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-73.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1272
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/73"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/33",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 52 — VII Medici"
+    ]
+   },
+   "height": 1800,
+   "width": 1238,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/33/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/33/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-33.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1238
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/74",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 53 — VIII Este"
+    ]
+   },
+   "height": 1800,
+   "width": 1283,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/74/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/74/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-74.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1283
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/74"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/34",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 54 — VIII Este"
+    ]
+   },
+   "height": 1800,
+   "width": 1248,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/34/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/34/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-34.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1248
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/75",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 55 — IX Homerus"
+    ]
+   },
+   "height": 1800,
+   "width": 1274,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/75/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/75/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-75.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1274
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/75"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/35",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 56 — IX Homerus"
+    ]
+   },
+   "height": 1800,
+   "width": 1247,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/35/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/35/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-35.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1247
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/76",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 57 — X Roma"
+    ]
+   },
+   "height": 1800,
+   "width": 1298,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/76/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/76/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-76.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1298
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/76"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/36",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 58 — X Roma"
+    ]
+   },
+   "height": 1800,
+   "width": 1364,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/36/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/36/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-36.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1364
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/77",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 59 — X Roma"
+    ]
+   },
+   "height": 1800,
+   "width": 1287,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/77/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/77/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-77.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1287
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/77"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/37",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 60 — X Roma"
+    ]
+   },
+   "height": 1800,
+   "width": 1365,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/37/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/37/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-37.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1365
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/78",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 61 — XI Fortuna"
+    ]
+   },
+   "height": 1800,
+   "width": 1283,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/78/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/78/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-78.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1283
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/78"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/38",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 62 — XI Fortuna"
+    ]
+   },
+   "height": 1800,
+   "width": 1193,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/38/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/38/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-38.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1193
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/38"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/79",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 63 — XI Fortuna"
+    ]
+   },
+   "height": 1800,
+   "width": 1279,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/79/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/79/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-79.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1279
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/79"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/39",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 64 — XII Salutatio"
+    ]
+   },
+   "height": 1800,
+   "width": 1281,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/39/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/39/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-39.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1281
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/80",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "K1r"
+    ]
+   },
+   "height": 1800,
+   "width": 1296,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/80/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/80/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-80.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1296
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/80"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/40",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "K1v"
+    ]
+   },
+   "height": 1800,
+   "width": 1321,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/40/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/40/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-40.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1321
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/81",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "K2r"
+    ]
+   },
+   "height": 1800,
+   "width": 1233,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/81/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/81/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-81.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1233
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/81"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/41",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "K2v"
+    ]
+   },
+   "height": 1800,
+   "width": 1300,
+   "items": [
+    {
+     "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/41/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/41/ann",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://cdn.metamorphoses-collection.org/editions/capilupi/pages/vflat-41.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1800,
+        "width": 1300
+       },
+       "target": "https://cdn.metamorphoses-collection.org/editions/capilupi/canvas/41"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

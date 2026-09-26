@@ -1,0 +1,15 @@
+{
+  "text": "ausonius_epigrammata",
+  "primary_k": 8,
+  "variants": {
+    "k8": {
+      "k": 8,
+      "N": 27,
+      "E": 163,
+      "density": 0.4644,
+      "MIS": 8,
+      "rho": 0.75,
+      "n_solutions": 4
+    }
+  }
+}

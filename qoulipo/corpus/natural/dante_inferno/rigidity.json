@@ -1,0 +1,24 @@
+{
+  "text": "dante_inferno",
+  "primary_k": 8,
+  "variants": {
+    "k8": {
+      "k": 8,
+      "N": 34,
+      "E": 185,
+      "density": 0.3298,
+      "MIS": 9,
+      "rho": 0.444,
+      "n_solutions": 17
+    },
+    "k16": {
+      "k": 16,
+      "N": 34,
+      "E": 338,
+      "density": 0.6025,
+      "MIS": 6,
+      "rho": 0.0,
+      "n_solutions": 3
+    }
+  }
+}

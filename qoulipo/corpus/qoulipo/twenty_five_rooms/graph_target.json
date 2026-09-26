@@ -1,0 +1,427 @@
+{
+  "N": 25,
+  "E": 72,
+  "density": 0.24,
+  "R_b_um": 9.0,
+  "geometry": "5x5 king grid (exact 2D UDG, EN twin of venticinque_stanze)",
+  "source": "Copied from venticinque_stanze/coords_2d_king5x5.json with node ids renamed.",
+  "nodes": [
+    "room_01",
+    "room_02",
+    "room_03",
+    "room_04",
+    "room_05",
+    "room_06",
+    "room_07",
+    "room_08",
+    "room_09",
+    "room_10",
+    "room_11",
+    "room_12",
+    "room_13",
+    "room_14",
+    "room_15",
+    "room_16",
+    "room_17",
+    "room_18",
+    "room_19",
+    "room_20",
+    "room_21",
+    "room_22",
+    "room_23",
+    "room_24",
+    "room_25"
+  ],
+  "coords_2d": {
+    "room_01": [
+      0.0,
+      0.0
+    ],
+    "room_02": [
+      5.0,
+      0.0
+    ],
+    "room_03": [
+      10.0,
+      0.0
+    ],
+    "room_04": [
+      15.0,
+      0.0
+    ],
+    "room_05": [
+      20.0,
+      0.0
+    ],
+    "room_06": [
+      0.0,
+      5.0
+    ],
+    "room_07": [
+      5.0,
+      5.0
+    ],
+    "room_08": [
+      10.0,
+      5.0
+    ],
+    "room_09": [
+      15.0,
+      5.0
+    ],
+    "room_10": [
+      20.0,
+      5.0
+    ],
+    "room_11": [
+      0.0,
+      10.0
+    ],
+    "room_12": [
+      5.0,
+      10.0
+    ],
+    "room_13": [
+      10.0,
+      10.0
+    ],
+    "room_14": [
+      15.0,
+      10.0
+    ],
+    "room_15": [
+      20.0,
+      10.0
+    ],
+    "room_16": [
+      0.0,
+      15.0
+    ],
+    "room_17": [
+      5.0,
+      15.0
+    ],
+    "room_18": [
+      10.0,
+      15.0
+    ],
+    "room_19": [
+      15.0,
+      15.0
+    ],
+    "room_20": [
+      20.0,
+      15.0
+    ],
+    "room_21": [
+      0.0,
+      20.0
+    ],
+    "room_22": [
+      5.0,
+      20.0
+    ],
+    "room_23": [
+      10.0,
+      20.0
+    ],
+    "room_24": [
+      15.0,
+      20.0
+    ],
+    "room_25": [
+      20.0,
+      20.0
+    ]
+  },
+  "edges": [
+    {
+      "source": "room_01",
+      "target": "room_02"
+    },
+    {
+      "source": "room_01",
+      "target": "room_06"
+    },
+    {
+      "source": "room_01",
+      "target": "room_07"
+    },
+    {
+      "source": "room_02",
+      "target": "room_03"
+    },
+    {
+      "source": "room_02",
+      "target": "room_06"
+    },
+    {
+      "source": "room_02",
+      "target": "room_07"
+    },
+    {
+      "source": "room_02",
+      "target": "room_08"
+    },
+    {
+      "source": "room_03",
+      "target": "room_04"
+    },
+    {
+      "source": "room_03",
+      "target": "room_07"
+    },
+    {
+      "source": "room_03",
+      "target": "room_08"
+    },
+    {
+      "source": "room_03",
+      "target": "room_09"
+    },
+    {
+      "source": "room_04",
+      "target": "room_05"
+    },
+    {
+      "source": "room_04",
+      "target": "room_08"
+    },
+    {
+      "source": "room_04",
+      "target": "room_09"
+    },
+    {
+      "source": "room_04",
+      "target": "room_10"
+    },
+    {
+      "source": "room_05",
+      "target": "room_09"
+    },
+    {
+      "source": "room_05",
+      "target": "room_10"
+    },
+    {
+      "source": "room_06",
+      "target": "room_07"
+    },
+    {
+      "source": "room_06",
+      "target": "room_11"
+    },
+    {
+      "source": "room_06",
+      "target": "room_12"
+    },
+    {
+      "source": "room_07",
+      "target": "room_08"
+    },
+    {
+      "source": "room_07",
+      "target": "room_11"
+    },
+    {
+      "source": "room_07",
+      "target": "room_12"
+    },
+    {
+      "source": "room_07",
+      "target": "room_13"
+    },
+    {
+      "source": "room_08",
+      "target": "room_09"
+    },
+    {
+      "source": "room_08",
+      "target": "room_12"
+    },
+    {
+      "source": "room_08",
+      "target": "room_13"
+    },
+    {
+      "source": "room_08",
+      "target": "room_14"
+    },
+    {
+      "source": "room_09",
+      "target": "room_10"
+    },
+    {
+      "source": "room_09",
+      "target": "room_13"
+    },
+    {
+      "source": "room_09",
+      "target": "room_14"
+    },
+    {
+      "source": "room_09",
+      "target": "room_15"
+    },
+    {
+      "source": "room_10",
+      "target": "room_14"
+    },
+    {
+      "source": "room_10",
+      "target": "room_15"
+    },
+    {
+      "source": "room_11",
+      "target": "room_12"
+    },
+    {
+      "source": "room_11",
+      "target": "room_16"
+    },
+    {
+      "source": "room_11",
+      "target": "room_17"
+    },
+    {
+      "source": "room_12",
+      "target": "room_13"
+    },
+    {
+      "source": "room_12",
+      "target": "room_16"
+    },
+    {
+      "source": "room_12",
+      "target": "room_17"
+    },
+    {
+      "source": "room_12",
+      "target": "room_18"
+    },
+    {
+      "source": "room_13",
+      "target": "room_14"
+    },
+    {
+      "source": "room_13",
+      "target": "room_17"
+    },
+    {
+      "source": "room_13",
+      "target": "room_18"
+    },
+    {
+      "source": "room_13",
+      "target": "room_19"
+    },
+    {
+      "source": "room_14",
+      "target": "room_15"
+    },
+    {
+      "source": "room_14",
+      "target": "room_18"
+    },
+    {
+      "source": "room_14",
+      "target": "room_19"
+    },
+    {
+      "source": "room_14",
+      "target": "room_20"
+    },
+    {
+      "source": "room_15",
+      "target": "room_19"
+    },
+    {
+      "source": "room_15",
+      "target": "room_20"
+    },
+    {
+      "source": "room_16",
+      "target": "room_17"
+    },
+    {
+      "source": "room_16",
+      "target": "room_21"
+    },
+    {
+      "source": "room_16",
+      "target": "room_22"
+    },
+    {
+      "source": "room_17",
+      "target": "room_18"
+    },
+    {
+      "source": "room_17",
+      "target": "room_21"
+    },
+    {
+      "source": "room_17",
+      "target": "room_22"
+    },
+    {
+      "source": "room_17",
+      "target": "room_23"
+    },
+    {
+      "source": "room_18",
+      "target": "room_19"
+    },
+    {
+      "source": "room_18",
+      "target": "room_22"
+    },
+    {
+      "source": "room_18",
+      "target": "room_23"
+    },
+    {
+      "source": "room_18",
+      "target": "room_24"
+    },
+    {
+      "source": "room_19",
+      "target": "room_20"
+    },
+    {
+      "source": "room_19",
+      "target": "room_23"
+    },
+    {
+      "source": "room_19",
+      "target": "room_24"
+    },
+    {
+      "source": "room_19",
+      "target": "room_25"
+    },
+    {
+      "source": "room_20",
+      "target": "room_24"
+    },
+    {
+      "source": "room_20",
+      "target": "room_25"
+    },
+    {
+      "source": "room_21",
+      "target": "room_22"
+    },
+    {
+      "source": "room_22",
+      "target": "room_23"
+    },
+    {
+      "source": "room_23",
+      "target": "room_24"
+    },
+    {
+      "source": "room_24",
+      "target": "room_25"
+    }
+  ]
+}

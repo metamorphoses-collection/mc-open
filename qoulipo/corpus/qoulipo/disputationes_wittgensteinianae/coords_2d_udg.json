@@ -1,0 +1,332 @@
+{
+  "text": "disputationes_wittgensteinianae_pilot",
+  "version": "pilot_n16",
+  "N": 16,
+  "n_pairs": 6,
+  "R_b_um": 8.0,
+  "within_domino_dist": 5.0,
+  "domino_spacing": 7.0,
+  "block_separation": 14.0,
+  "max_radial_um": 16.710774967068403,
+  "min_dist_um": 5.0,
+  "coords_2d": [
+    [
+      -7.0,
+      -4.5
+    ],
+    [
+      -7.0,
+      -9.5
+    ],
+    [
+      0.0,
+      -4.5
+    ],
+    [
+      0.0,
+      -9.5
+    ],
+    [
+      7.0,
+      -4.5
+    ],
+    [
+      7.0,
+      -9.5
+    ],
+    [
+      -7.0,
+      9.5
+    ],
+    [
+      -7.0,
+      4.5
+    ],
+    [
+      0.0,
+      9.5
+    ],
+    [
+      0.0,
+      4.5
+    ],
+    [
+      7.0,
+      9.5
+    ],
+    [
+      7.0,
+      4.5
+    ],
+    [
+      -13.0,
+      -3.5
+    ],
+    [
+      -13.0,
+      -10.5
+    ],
+    [
+      13.0,
+      3.5
+    ],
+    [
+      13.0,
+      10.5
+    ]
+  ],
+  "node_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "atom_meta": [
+    {
+      "row": 0,
+      "col": 0,
+      "role": "sic",
+      "quaestio": "I",
+      "pid": 3
+    },
+    {
+      "row": 0,
+      "col": 0,
+      "role": "non",
+      "quaestio": "I",
+      "pid": 4
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "role": "sic",
+      "quaestio": "II",
+      "pid": 5
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "role": "non",
+      "quaestio": "II",
+      "pid": 6
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "role": "sic",
+      "quaestio": "III",
+      "pid": 7
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "role": "non",
+      "quaestio": "III",
+      "pid": 8
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "role": "sic",
+      "quaestio": "IV",
+      "pid": 9
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "role": "non",
+      "quaestio": "IV",
+      "pid": 10
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "role": "sic",
+      "quaestio": "V",
+      "pid": 11
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "role": "non",
+      "quaestio": "V",
+      "pid": 12
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "role": "sic",
+      "quaestio": "VI",
+      "pid": 13
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "role": "non",
+      "quaestio": "VI",
+      "pid": 14
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "pid": 1
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "pid": 2
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "pid": 15
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "pid": 16
+    }
+  ],
+  "edges": [
+    {
+      "u": 0,
+      "v": 1,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 0,
+      "v": 2,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 12,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 3,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 13,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 3,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 2,
+      "v": 4,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 5,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 5,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 6,
+      "v": 7,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 6,
+      "v": 8,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 9,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 9,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 8,
+      "v": 10,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 11,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 11,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 10,
+      "v": 15,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 14,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 13,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 15,
+      "distance": 7.0,
+      "is_pair": false
+    }
+  ]
+}

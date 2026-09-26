@@ -1,0 +1,602 @@
+[
+  {
+    "id": "D1_S1",
+    "day": 1,
+    "story": 1,
+    "word_count": 5261
+  },
+  {
+    "id": "D1_S2",
+    "day": 1,
+    "story": 2,
+    "word_count": 1724
+  },
+  {
+    "id": "D1_S3",
+    "day": 1,
+    "story": 3,
+    "word_count": 1165
+  },
+  {
+    "id": "D1_S4",
+    "day": 1,
+    "story": 4,
+    "word_count": 1554
+  },
+  {
+    "id": "D1_S5",
+    "day": 1,
+    "story": 5,
+    "word_count": 1139
+  },
+  {
+    "id": "D1_S6",
+    "day": 1,
+    "story": 6,
+    "word_count": 1075
+  },
+  {
+    "id": "D1_S7",
+    "day": 1,
+    "story": 7,
+    "word_count": 1904
+  },
+  {
+    "id": "D1_S8",
+    "day": 1,
+    "story": 8,
+    "word_count": 1034
+  },
+  {
+    "id": "D1_S9",
+    "day": 1,
+    "story": 9,
+    "word_count": 435
+  },
+  {
+    "id": "D1_S10",
+    "day": 1,
+    "story": 10,
+    "word_count": 2575
+  },
+  {
+    "id": "D2_S1",
+    "day": 2,
+    "story": 1,
+    "word_count": 1945
+  },
+  {
+    "id": "D2_S2",
+    "day": 2,
+    "story": 2,
+    "word_count": 2588
+  },
+  {
+    "id": "D2_S3",
+    "day": 2,
+    "story": 3,
+    "word_count": 3386
+  },
+  {
+    "id": "D2_S4",
+    "day": 2,
+    "story": 4,
+    "word_count": 2142
+  },
+  {
+    "id": "D2_S5",
+    "day": 2,
+    "story": 5,
+    "word_count": 5154
+  },
+  {
+    "id": "D2_S6",
+    "day": 2,
+    "story": 6,
+    "word_count": 5427
+  },
+  {
+    "id": "D2_S7",
+    "day": 2,
+    "story": 7,
+    "word_count": 8693
+  },
+  {
+    "id": "D2_S8",
+    "day": 2,
+    "story": 8,
+    "word_count": 6393
+  },
+  {
+    "id": "D2_S9",
+    "day": 2,
+    "story": 9,
+    "word_count": 5229
+  },
+  {
+    "id": "D2_S10",
+    "day": 2,
+    "story": 10,
+    "word_count": 4032
+  },
+  {
+    "id": "D3_S1",
+    "day": 3,
+    "story": 1,
+    "word_count": 2730
+  },
+  {
+    "id": "D3_S2",
+    "day": 3,
+    "story": 2,
+    "word_count": 2100
+  },
+  {
+    "id": "D3_S3",
+    "day": 3,
+    "story": 3,
+    "word_count": 3752
+  },
+  {
+    "id": "D3_S4",
+    "day": 3,
+    "story": 4,
+    "word_count": 2251
+  },
+  {
+    "id": "D3_S5",
+    "day": 3,
+    "story": 5,
+    "word_count": 2443
+  },
+  {
+    "id": "D3_S6",
+    "day": 3,
+    "story": 6,
+    "word_count": 3371
+  },
+  {
+    "id": "D3_S7",
+    "day": 3,
+    "story": 7,
+    "word_count": 6741
+  },
+  {
+    "id": "D3_S8",
+    "day": 3,
+    "story": 8,
+    "word_count": 4099
+  },
+  {
+    "id": "D3_S9",
+    "day": 3,
+    "story": 9,
+    "word_count": 3767
+  },
+  {
+    "id": "D3_S10",
+    "day": 3,
+    "story": 10,
+    "word_count": 4022
+  },
+  {
+    "id": "D4_S1",
+    "day": 4,
+    "story": 1,
+    "word_count": 4137
+  },
+  {
+    "id": "D4_S2",
+    "day": 4,
+    "story": 2,
+    "word_count": 4317
+  },
+  {
+    "id": "D4_S3",
+    "day": 4,
+    "story": 3,
+    "word_count": 2733
+  },
+  {
+    "id": "D4_S4",
+    "day": 4,
+    "story": 4,
+    "word_count": 1969
+  },
+  {
+    "id": "D4_S5",
+    "day": 4,
+    "story": 5,
+    "word_count": 2002
+  },
+  {
+    "id": "D4_S6",
+    "day": 4,
+    "story": 6,
+    "word_count": 2944
+  },
+  {
+    "id": "D4_S7",
+    "day": 4,
+    "story": 7,
+    "word_count": 1647
+  },
+  {
+    "id": "D4_S8",
+    "day": 4,
+    "story": 8,
+    "word_count": 2201
+  },
+  {
+    "id": "D4_S9",
+    "day": 4,
+    "story": 9,
+    "word_count": 1360
+  },
+  {
+    "id": "D4_S10",
+    "day": 4,
+    "story": 10,
+    "word_count": 4618
+  },
+  {
+    "id": "D5_S1",
+    "day": 5,
+    "story": 1,
+    "word_count": 4351
+  },
+  {
+    "id": "D5_S2",
+    "day": 5,
+    "story": 2,
+    "word_count": 2638
+  },
+  {
+    "id": "D5_S3",
+    "day": 5,
+    "story": 3,
+    "word_count": 2899
+  },
+  {
+    "id": "D5_S4",
+    "day": 5,
+    "story": 4,
+    "word_count": 2066
+  },
+  {
+    "id": "D5_S5",
+    "day": 5,
+    "story": 5,
+    "word_count": 2225
+  },
+  {
+    "id": "D5_S6",
+    "day": 5,
+    "story": 6,
+    "word_count": 2292
+  },
+  {
+    "id": "D5_S7",
+    "day": 5,
+    "story": 7,
+    "word_count": 2831
+  },
+  {
+    "id": "D5_S8",
+    "day": 5,
+    "story": 8,
+    "word_count": 2343
+  },
+  {
+    "id": "D5_S9",
+    "day": 5,
+    "story": 9,
+    "word_count": 2525
+  },
+  {
+    "id": "D5_S10",
+    "day": 5,
+    "story": 10,
+    "word_count": 4549
+  },
+  {
+    "id": "D6_S1",
+    "day": 6,
+    "story": 1,
+    "word_count": 642
+  },
+  {
+    "id": "D6_S2",
+    "day": 6,
+    "story": 2,
+    "word_count": 1372
+  },
+  {
+    "id": "D6_S3",
+    "day": 6,
+    "story": 3,
+    "word_count": 763
+  },
+  {
+    "id": "D6_S4",
+    "day": 6,
+    "story": 4,
+    "word_count": 947
+  },
+  {
+    "id": "D6_S5",
+    "day": 6,
+    "story": 5,
+    "word_count": 782
+  },
+  {
+    "id": "D6_S6",
+    "day": 6,
+    "story": 6,
+    "word_count": 995
+  },
+  {
+    "id": "D6_S7",
+    "day": 6,
+    "story": 7,
+    "word_count": 1065
+  },
+  {
+    "id": "D6_S8",
+    "day": 6,
+    "story": 8,
+    "word_count": 572
+  },
+  {
+    "id": "D6_S9",
+    "day": 6,
+    "story": 9,
+    "word_count": 851
+  },
+  {
+    "id": "D6_S10",
+    "day": 6,
+    "story": 10,
+    "word_count": 6041
+  },
+  {
+    "id": "D7_S1",
+    "day": 7,
+    "story": 1,
+    "word_count": 1788
+  },
+  {
+    "id": "D7_S2",
+    "day": 7,
+    "story": 2,
+    "word_count": 1790
+  },
+  {
+    "id": "D7_S3",
+    "day": 7,
+    "story": 3,
+    "word_count": 2104
+  },
+  {
+    "id": "D7_S4",
+    "day": 7,
+    "story": 4,
+    "word_count": 1737
+  },
+  {
+    "id": "D7_S5",
+    "day": 7,
+    "story": 5,
+    "word_count": 3229
+  },
+  {
+    "id": "D7_S6",
+    "day": 7,
+    "story": 6,
+    "word_count": 1440
+  },
+  {
+    "id": "D7_S7",
+    "day": 7,
+    "story": 7,
+    "word_count": 2349
+  },
+  {
+    "id": "D7_S8",
+    "day": 7,
+    "story": 8,
+    "word_count": 3144
+  },
+  {
+    "id": "D7_S9",
+    "day": 7,
+    "story": 9,
+    "word_count": 4300
+  },
+  {
+    "id": "D7_S10",
+    "day": 7,
+    "story": 10,
+    "word_count": 2533
+  },
+  {
+    "id": "D8_S1",
+    "day": 8,
+    "story": 1,
+    "word_count": 1101
+  },
+  {
+    "id": "D8_S2",
+    "day": 8,
+    "story": 2,
+    "word_count": 2247
+  },
+  {
+    "id": "D8_S3",
+    "day": 8,
+    "story": 3,
+    "word_count": 3319
+  },
+  {
+    "id": "D8_S4",
+    "day": 8,
+    "story": 4,
+    "word_count": 2094
+  },
+  {
+    "id": "D8_S5",
+    "day": 8,
+    "story": 5,
+    "word_count": 1283
+  },
+  {
+    "id": "D8_S6",
+    "day": 8,
+    "story": 6,
+    "word_count": 2415
+  },
+  {
+    "id": "D8_S7",
+    "day": 8,
+    "story": 7,
+    "word_count": 9856
+  },
+  {
+    "id": "D8_S8",
+    "day": 8,
+    "story": 8,
+    "word_count": 1658
+  },
+  {
+    "id": "D8_S9",
+    "day": 8,
+    "story": 9,
+    "word_count": 6894
+  },
+  {
+    "id": "D8_S10",
+    "day": 8,
+    "story": 10,
+    "word_count": 5598
+  },
+  {
+    "id": "D9_S1",
+    "day": 9,
+    "story": 1,
+    "word_count": 2333
+  },
+  {
+    "id": "D9_S2",
+    "day": 9,
+    "story": 2,
+    "word_count": 1207
+  },
+  {
+    "id": "D9_S3",
+    "day": 9,
+    "story": 3,
+    "word_count": 1689
+  },
+  {
+    "id": "D9_S4",
+    "day": 9,
+    "story": 4,
+    "word_count": 1628
+  },
+  {
+    "id": "D9_S5",
+    "day": 9,
+    "story": 5,
+    "word_count": 3280
+  },
+  {
+    "id": "D9_S6",
+    "day": 9,
+    "story": 6,
+    "word_count": 1882
+  },
+  {
+    "id": "D9_S7",
+    "day": 9,
+    "story": 7,
+    "word_count": 837
+  },
+  {
+    "id": "D9_S8",
+    "day": 9,
+    "story": 8,
+    "word_count": 1395
+  },
+  {
+    "id": "D9_S9",
+    "day": 9,
+    "story": 9,
+    "word_count": 2040
+  },
+  {
+    "id": "D9_S10",
+    "day": 9,
+    "story": 10,
+    "word_count": 2181
+  },
+  {
+    "id": "D10_S1",
+    "day": 10,
+    "story": 1,
+    "word_count": 1181
+  },
+  {
+    "id": "D10_S2",
+    "day": 10,
+    "story": 2,
+    "word_count": 1899
+  },
+  {
+    "id": "D10_S3",
+    "day": 10,
+    "story": 3,
+    "word_count": 2798
+  },
+  {
+    "id": "D10_S4",
+    "day": 10,
+    "story": 4,
+    "word_count": 2909
+  },
+  {
+    "id": "D10_S5",
+    "day": 10,
+    "story": 5,
+    "word_count": 1839
+  },
+  {
+    "id": "D10_S6",
+    "day": 10,
+    "story": 6,
+    "word_count": 2424
+  },
+  {
+    "id": "D10_S7",
+    "day": 10,
+    "story": 7,
+    "word_count": 2826
+  },
+  {
+    "id": "D10_S8",
+    "day": 10,
+    "story": 8,
+    "word_count": 7359
+  },
+  {
+    "id": "D10_S9",
+    "day": 10,
+    "story": 9,
+    "word_count": 7132
+  },
+  {
+    "id": "D10_S10",
+    "day": 10,
+    "story": 10,
+    "word_count": 5463
+  }
+]

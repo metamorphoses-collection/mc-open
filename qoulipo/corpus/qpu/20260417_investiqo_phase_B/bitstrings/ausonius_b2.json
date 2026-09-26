@@ -1,0 +1,9 @@
+{
+  "batch_id": "2e259714-e73e-4cbf-b804-773b6402a224",
+  "name": "ausonius_b2",
+  "status": "CANCELED",
+  "total_shots": 0,
+  "n_unique_bitstrings": 0,
+  "corpus_text": "natural/ausonius_epigrammata",
+  "counts": {}
+}

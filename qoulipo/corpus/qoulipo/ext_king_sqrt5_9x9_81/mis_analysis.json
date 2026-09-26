@@ -1,0 +1,38 @@
+{
+  "text_id": "ext_king_sqrt5_9x9_81",
+  "N": 81,
+  "MIS_size": 13,
+  "rho": 1.0,
+  "num_optima_capped": 1,
+  "MIS_pages": [
+    "0",
+    "4",
+    "8",
+    "20",
+    "24",
+    "36",
+    "40",
+    "44",
+    "56",
+    "60",
+    "72",
+    "76",
+    "80"
+  ],
+  "MIS_atoms": [
+    0,
+    4,
+    8,
+    20,
+    24,
+    36,
+    40,
+    44,
+    56,
+    60,
+    72,
+    76,
+    80
+  ],
+  "method": "ILP via PuLP/CBC; node IDs match graph_target.json"
+}

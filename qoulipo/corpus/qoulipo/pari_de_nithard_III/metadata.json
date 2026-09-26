@@ -1,0 +1,1015 @@
+{
+  "text_id": "pari_de_nithard_III",
+  "title": "Le Pari de Nithard III",
+  "lang": "FR",
+  "canonical_N": 100,
+  "canonical_graph_file": "graph_designed.json",
+  "canonical_E": 691,
+  "canonical_density": 0.1396,
+  "canonical_MIS": 26,
+  "canonical_rho": 0.9231,
+  "canonical_optima": 4,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "designed_knn",
+  "type": "qoulipo_engineered",
+  "designed_property": "Quench threshold",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv (QOuLiPo: What a quantum computer sees when it reads a book)",
+  "threads_per_page": {
+    "page_001": {
+      "title": "## Version 2b (Révisé) — 100 pages sous contrainte de théorie des graphes"
+    },
+    "page_002": {
+      "title": "#### PAGE 1 — L'ouverture des maliettes",
+      "threads": [
+        "PARI",
+        "FOI",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_003": {
+      "title": "#### PAGE 2 — Fontenoy sous la pluie",
+      "threads": [
+        "CHRONIQUE",
+        "LANGUE",
+        "FOI",
+        "ÉPÉE",
+        "JEU"
+      ]
+    },
+    "page_004": {
+      "title": "#### PAGE 3 — Le codex des moines",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    "page_005": {
+      "title": "#### PAGE 4 — Le graphe des trahisons",
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "NOMBRE",
+        "ÉPÉE",
+        "MALIETTE"
+      ]
+    },
+    "page_006": {
+      "title": "#### PAGE 5 — Le vernaculaire comme contrainte",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "JEU"
+      ]
+    },
+    "page_007": {
+      "title": "#### PAGE 6 — Le Porteur compte les silences",
+      "threads": [
+        "CHRONIQUE",
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_008": {
+      "title": "#### PAGE 7 — Les ossements du graphe",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_009": {
+      "title": "#### PAGE 8 — Le pari des maliettes",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "FOI",
+        "ÉPÉE",
+        "MALIETTE"
+      ]
+    },
+    "page_010": {
+      "title": "#### PAGE 9 — La probabilité du sacré",
+      "threads": [
+        "PARI",
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN"
+      ]
+    },
+    "page_011": {
+      "title": "#### PAGE 10 — La langue dans le vélin",
+      "threads": [
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    "page_012": {
+      "title": "#### PAGE 11 — L'infini du gain",
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "FOI",
+        "ÉPÉE",
+        "JEU"
+      ]
+    },
+    "page_013": {
+      "title": "#### PAGE 12 — L'atelier des faux",
+      "threads": [
+        "COMPLOT",
+        "NOMBRE",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_014": {
+      "title": "#### PAGE 13 — La croyance portée",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "FOI",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_015": {
+      "title": "#### PAGE 14 — Le dénombrement des fraudes",
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "NOMBRE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_016": {
+      "title": "#### PAGE 15 — La foi sous contrainte",
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "FOI",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_017": {
+      "title": "#### PAGE 16 — Le vélin et la lame",
+      "threads": [
+        "LANGUE",
+        "FOI",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    "page_018": {
+      "title": "#### PAGE 17 — Le Nithardosaure veille",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "FOI",
+        "JEU"
+      ]
+    },
+    "page_019": {
+      "title": "#### PAGE 18 — Port-Royal brûle",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "ÉPÉE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_020": {
+      "title": "#### PAGE 19 — L'enjeu du vélin",
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN"
+      ]
+    },
+    "page_021": {
+      "title": "#### PAGE 20 — Le serment de la lame",
+      "threads": [
+        "PARI",
+        "LANGUE",
+        "FOI",
+        "ÉPÉE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_022": {
+      "title": "#### PAGE 21 — Le complot du jeu",
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_023": {
+      "title": "#### PAGE 22 — La chronique portée",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "ÉPÉE",
+        "MALIETTE"
+      ]
+    },
+    "page_024": {
+      "title": "#### PAGE 23 — Le vernaculaire des chimères",
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    "page_025": {
+      "title": "#### PAGE 24 — Le risque des sommets",
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "ÉPÉE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_026": {
+      "title": "#### PAGE 25 — La sextine du chroniqueur",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "NOMBRE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_027": {
+      "title": "#### PAGE 26 — La relique de la langue",
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "FOI",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_028": {
+      "title": "#### PAGE 27 — Le calcul de la forge",
+      "threads": [
+        "LANGUE",
+        "NOMBRE",
+        "ÉPÉE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_029": {
+      "title": "#### PAGE 28 — La chronique des sommets",
+      "threads": [
+        "CHRONIQUE",
+        "LANGUE",
+        "NOMBRE",
+        "ÉPÉE",
+        "JEU"
+      ]
+    },
+    "page_030": {
+      "title": "#### PAGE 29 — Les ossements dénombrés",
+      "threads": [
+        "COMPLOT",
+        "NOMBRE",
+        "FOI",
+        "ÉPÉE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_031": {
+      "title": "#### PAGE 30 — L'invention dans la châsse",
+      "threads": [
+        "COMPLOT",
+        "FOI",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_032": {
+      "title": "#### PAGE 31 — Le parchemin ambulant",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_033": {
+      "title": "#### PAGE 32 — La cavalerie des nombres",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "NOMBRE",
+        "ÉPÉE",
+        "MALIETTE"
+      ]
+    },
+    "page_034": {
+      "title": "#### PAGE 33 — Le lipogramme des batailles",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "ÉPÉE",
+        "JEU"
+      ]
+    },
+    "page_035": {
+      "title": "#### PAGE 34 — Le nombre dans la prière",
+      "threads": [
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_036": {
+      "title": "#### PAGE 35 — Le codex dans la maliette",
+      "threads": [
+        "CHRONIQUE",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_037": {
+      "title": "#### PAGE 36 — Le pari de l'atelier",
+      "threads": [
+        "PARI",
+        "FOI",
+        "ÉPÉE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_038": {
+      "title": "#### PAGE 37 — Le hasard des lames",
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "FOI",
+        "ÉPÉE",
+        "MALIETTE"
+      ]
+    },
+    "page_039": {
+      "title": "#### PAGE 38 — La chronique de la grâce",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "FOI",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_040": {
+      "title": "#### PAGE 39 — L'architecture du risque",
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    "page_041": {
+      "title": "#### PAGE 40 — La chimère de Strasbourg",
+      "threads": [
+        "CHRONIQUE",
+        "LANGUE",
+        "ÉPÉE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_042": {
+      "title": "#### PAGE 41 — La foi portée",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "FOI",
+        "MALIETTE"
+      ]
+    },
+    "page_043": {
+      "title": "#### PAGE 42 — Le serment sur le vélin",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "ÉPÉE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_044": {
+      "title": "#### PAGE 43 — Le complot linguistique",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "ÉPÉE"
+      ]
+    },
+    "page_045": {
+      "title": "#### PAGE 44 — Le latin de la prière",
+      "threads": [
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "ÉPÉE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_046": {
+      "title": "#### PAGE 45 — Le complot des règles",
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "LANGUE",
+        "ÉPÉE",
+        "JEU"
+      ]
+    },
+    "page_047": {
+      "title": "#### PAGE 46 — La charge des mots",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "ÉPÉE",
+        "JEU"
+      ]
+    },
+    "page_048": {
+      "title": "#### PAGE 47 — Le calcul des faux",
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "NOMBRE",
+        "ÉPÉE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_049": {
+      "title": "#### PAGE 48 — Le jeu des copistes",
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "LANGUE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_050": {
+      "title": "#### PAGE 49 — L'encre et la lame",
+      "threads": [
+        "PARI",
+        "LANGUE",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_051": {
+      "title": "#### PAGE 50 — La charge des sommets",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "NOMBRE",
+        "ÉPÉE"
+      ]
+    },
+    "page_052": {
+      "title": "#### PAGE 51 — Les ossements comptés",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "FOI",
+        "MALIETTE"
+      ]
+    },
+    "page_053": {
+      "title": "#### PAGE 52 — Le pari du vélin",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_054": {
+      "title": "#### PAGE 53 — La pascaline du parchemin",
+      "threads": [
+        "CHRONIQUE",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    "page_055": {
+      "title": "#### PAGE 54 — La grâce des sommets",
+      "threads": [
+        "CHRONIQUE",
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "MALIETTE"
+      ]
+    },
+    "page_056": {
+      "title": "#### PAGE 55 — Le faux dans la langue",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    "page_057": {
+      "title": "#### PAGE 56 — Le pari des arêtes",
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "ÉPÉE"
+      ]
+    },
+    "page_058": {
+      "title": "#### PAGE 57 — La sextine de l'épée",
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "ÉPÉE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_059": {
+      "title": "#### PAGE 58 — Le parchemin de Fontenoy",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "ÉPÉE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_060": {
+      "title": "#### PAGE 59 — La maliette des Serments",
+      "threads": [
+        "CHRONIQUE",
+        "LANGUE",
+        "FOI",
+        "ÉPÉE",
+        "MALIETTE"
+      ]
+    },
+    "page_061": {
+      "title": "#### PAGE 60 — L'atelier des faux",
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    "page_062": {
+      "title": "#### PAGE 61 — Le dénombrement des prières",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN"
+      ]
+    },
+    "page_063": {
+      "title": "#### PAGE 62 — Le jeu du hasard sacré",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_064": {
+      "title": "#### PAGE 63 — Les sommets de la fraude",
+      "threads": [
+        "COMPLOT",
+        "NOMBRE",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_065": {
+      "title": "#### PAGE 64 — La maliette des reliques",
+      "threads": [
+        "COMPLOT",
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    "page_066": {
+      "title": "#### PAGE 65 — L'invention de la langue",
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_067": {
+      "title": "#### PAGE 66 — Le calcul de la grâce",
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "JEU"
+      ]
+    },
+    "page_068": {
+      "title": "#### PAGE 67 — Le manuscrit dénombré",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "NOMBRE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    "page_069": {
+      "title": "#### PAGE 68 — La foi dans l'encre",
+      "threads": [
+        "PARI",
+        "LANGUE",
+        "FOI",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    "page_070": {
+      "title": "#### PAGE 69 — Le Nithardosaure démasqué",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "MALIETTE"
+      ]
+    },
+    "page_071": {
+      "title": "#### PAGE 70 — La pascaline du sacré",
+      "threads": [
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_072": {
+      "title": "#### PAGE 71 — Le chroniqueur truqué",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "JEU"
+      ]
+    },
+    "page_073": {
+      "title": "#### PAGE 72 — La grâce armée",
+      "threads": [
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "ÉPÉE",
+        "MALIETTE"
+      ]
+    },
+    "page_074": {
+      "title": "#### PAGE 73 — Le codex dans la valise",
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_075": {
+      "title": "#### PAGE 74 — La linguistique des lames",
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_076": {
+      "title": "#### PAGE 75 — Le pari de la combinatoire",
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_077": {
+      "title": "#### PAGE 76 — Le complot des nombres",
+      "threads": [
+        "COMPLOT",
+        "NOMBRE",
+        "FOI",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_078": {
+      "title": "#### PAGE 77 — Les cinq fils",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "NOMBRE",
+        "FOI"
+      ]
+    },
+    "page_079": {
+      "title": "#### PAGE 78 — Le jeu de la prédestination",
+      "threads": [
+        "COMPLOT",
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_080": {
+      "title": "#### PAGE 79 — Le graphe des batailles",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "FOI",
+        "ÉPÉE"
+      ]
+    },
+    "page_081": {
+      "title": "#### PAGE 80 — Le parchemin du guerrier-priant",
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    "page_082": {
+      "title": "#### PAGE 81 — La grammaire de la foi",
+      "threads": [
+        "CHRONIQUE",
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN"
+      ]
+    },
+    "page_083": {
+      "title": "#### PAGE 82 — La chimère janséniste",
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "FOI",
+        "ÉPÉE",
+        "MALIETTE"
+      ]
+    },
+    "page_084": {
+      "title": "#### PAGE 83 — Le pari de la chimère",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "ÉPÉE",
+        "MALIETTE"
+      ]
+    },
+    "page_085": {
+      "title": "#### PAGE 84 — Le lipogramme guerrier",
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "ÉPÉE",
+        "JEU"
+      ]
+    },
+    "page_086": {
+      "title": "#### PAGE 85 — Le pari du vélin voyageur",
+      "threads": [
+        "PARI",
+        "LANGUE",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    "page_087": {
+      "title": "#### PAGE 86 — Le graphe du vernaculaire",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_088": {
+      "title": "#### PAGE 87 — Le nombre dans la maliette",
+      "threads": [
+        "NOMBRE",
+        "FOI",
+        "ÉPÉE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_089": {
+      "title": "#### PAGE 88 — Le récit sous les armes",
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "ÉPÉE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_090": {
+      "title": "#### PAGE 89 — Le pari de la foi calculée",
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "NOMBRE",
+        "FOI",
+        "JEU"
+      ]
+    },
+    "page_091": {
+      "title": "#### PAGE 90 — Le vernaculaire de la trahison",
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "FOI",
+        "ÉPÉE",
+        "JEU"
+      ]
+    },
+    "page_092": {
+      "title": "#### PAGE 91 — Le clinamen du Porteur",
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "LANGUE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_093": {
+      "title": "#### PAGE 92 — Le Complot des Moines",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_094": {
+      "title": "#### PAGE 93 — La forge des chimères",
+      "threads": [
+        "COMPLOT",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    "page_095": {
+      "title": "#### PAGE 94 — La prière du chroniqueur",
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "ÉPÉE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    "page_096": {
+      "title": "#### PAGE 95 — Le pari du français",
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "LANGUE",
+        "FOI",
+        "MALIETTE"
+      ]
+    },
+    "page_097": {
+      "title": "#### PAGE 96 — Le dénombrement des grâces",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "NOMBRE",
+        "FOI",
+        "MALIETTE"
+      ]
+    },
+    "page_098": {
+      "title": "#### PAGE 97 — Le vernaculaire du complot",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "MALIETTE"
+      ]
+    },
+    "page_099": {
+      "title": "#### PAGE 98 — Le pari final",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "FOI"
+      ]
+    },
+    "page_100": {
+      "title": "#### PAGE 99 — La dernière maliette",
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "MALIETTE"
+      ]
+    }
+  },
+  "literary_status": "Source pages contain literary content only; per-page thread allocations and voice/role/form metadata are recorded above in threads_per_page (not in source/).",
+  "source_contract": "node_aligned"
+}

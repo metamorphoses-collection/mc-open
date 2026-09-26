@@ -1,0 +1,16 @@
+{
+  "text_id": "king_6x6_no_corner_35",
+  "title": "King 6\u00d76 minus 1 corner (a=5 Rb=8)",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 35,
+  "canonical_E": 107,
+  "canonical_density": 0.1798,
+  "canonical_MIS": 9,
+  "canonical_rho": 0.0,
+  "canonical_optima": 500,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.25,
+  "blockade_um": 8.0
+}

@@ -1,0 +1,112 @@
+{
+  "node_ids": [
+    "0000",
+    "0001",
+    "0010",
+    "0011",
+    "0100",
+    "0101",
+    "0110",
+    "0111",
+    "1000",
+    "1001",
+    "1010",
+    "1011",
+    "1100",
+    "1101",
+    "1110",
+    "1111"
+  ],
+  "coords_3d": {
+    "0000": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "0001": [
+      6.4,
+      0.0,
+      0.0
+    ],
+    "0010": [
+      0.0,
+      6.4,
+      0.0
+    ],
+    "0011": [
+      6.4,
+      6.4,
+      0.0
+    ],
+    "0100": [
+      0.0,
+      0.0,
+      6.4
+    ],
+    "0101": [
+      6.4,
+      0.0,
+      6.4
+    ],
+    "0110": [
+      0.0,
+      6.4,
+      6.4
+    ],
+    "0111": [
+      6.4,
+      6.4,
+      6.4
+    ],
+    "1000": [
+      0.0,
+      0.0,
+      6.4
+    ],
+    "1001": [
+      6.4,
+      0.0,
+      6.4
+    ],
+    "1010": [
+      0.0,
+      6.4,
+      6.4
+    ],
+    "1011": [
+      6.4,
+      6.4,
+      6.4
+    ],
+    "1100": [
+      0.0,
+      0.0,
+      12.8
+    ],
+    "1101": [
+      6.4,
+      0.0,
+      12.8
+    ],
+    "1110": [
+      0.0,
+      6.4,
+      12.8
+    ],
+    "1111": [
+      6.4,
+      6.4,
+      12.8
+    ]
+  },
+  "R_b": 8.0,
+  "method": "axis_aligned_3d_approx",
+  "fidelity": {
+    "true_positive_edges": 32,
+    "false_positive_edges": 12,
+    "false_negative_edges": 0,
+    "recall": 1.0,
+    "precision": 0.727
+  },
+  "note": "Q_3 is NOT 2D-UDG, so a true bi-layer stacking (z in {0,h}) of two Q_3 copies does not exist. This is an axis-aligned 3D layout with 3 distinct z values (z = v2*a + v3*a), recall=1.0 precision=0.727 on Q_4. A true bi-layer Q_4 realization requires per-layer (x,y) freedom and is an open optimization."
+}

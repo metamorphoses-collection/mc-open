@@ -1,0 +1,26 @@
+# La vita nel cubo — nota di apertura
+
+*Ventiquattro stanze (o quasi) in una casa di piano antico, descritte dagli allievi del maestro Giacomo dopo la sua morte improvvisa.*
+
+Questa pagina è una nota di apertura — non un capitolo letterario. La sua presenza in `paratext/` riflette quella distinzione.
+
+## Sul grafo canonico
+
+Il titolo evoca un *cubo troncato* (24 vertici, 36 spigoli) come architettura ideale. Il **grafo canonico depositato qui non è il cubo troncato**: è il grafo NLP k=8 ricostruito sui ventitré capitoli effettivamente scritti, con:
+
+- N = 23
+- E = 128
+- d ≈ 0.506
+- MIS = 7
+
+(Il cubo troncato ideale avrebbe N=24, E=36, MIS=6 ed esistenza non realizzabile come UDG planare. La discrepanza fra l'ideale geometrico e il grafo NLP recuperato è parte del progetto: vedi anche *Sonetti dal Tesseratto*.)
+
+## Sull'ordinamento
+
+I capitoli portano i codici interni `v00`–`v22` che ricalcano la mappa originale a 24 stanze. Il `v23` (la "camera più alta") è citato in più capitoli ma non scritto come capitolo proprio: rimane una stanza-fantasma del cubo troncato originale, presente come pressione narrativa più che come testo.
+
+Le coordinate per-pagina (`vNN`) sono ora registrate in `metadata.json[cross_references_per_page]`, non nel corpo del testo.
+
+## Sul source/
+
+I file di `source/` cominciano da `page_002.txt` per ragioni storiche di numerazione (la presente nota ha occupato `page_001.txt` nel ramo precedente). I capitoli effettivi sono ventitré.

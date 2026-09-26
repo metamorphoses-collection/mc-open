@@ -1,0 +1,11 @@
+Le Chevalier de Méré et la scène des dés, qui paraît une broderie tardive
+
+Le dixième chapitre des Aventures entraîne le lecteur dans une taverne parisienne où Pascal, côte à côte avec Antoine Gombaud, chevalier de Méré, assiste à une partie de dés agitée entre deux gentilshommes de la cour et, saisi soudain de cette illumination combinatoire qui fondera le calcul des probabilités, improvise sur la table graissée, au moyen d'un morceau de craie emprunté à l'aubergiste, la première solution du problème des partis. Le romancier s'attarde sur le décor, sur les gobelets d'étain, sur l'odeur de graisse de mouton.
+
+Je ne crois pas un mot de cette mise en scène. Voici pourquoi.
+
+La correspondance Pascal-Fermat de 1654 est parfaitement connue : huit lettres authentiques, datées, conservées en originaux ou en copies contemporaines, et éditées en 1922 par MM. Tannery et Henry dans leur grande édition des Œuvres. Aucune de ces lettres ne mentionne ni taverne, ni partie de dés directement observée, ni craie, ni aubergiste. Le problème des partis y est traité en termes abstraits, à partir d'un énoncé que Pascal attribue certes au chevalier de Méré mais dans une formule courtoise de remerciement, non dans le récit d'une scène vécue.
+
+D'où le romancier tire-t-il son décor ? Je soupçonne fortement qu'il l'a emprunté à la tradition littéraire du dix-huitième siècle, et plus précisément à une anecdote que Fontenelle avait rapportée dans son Éloge des académiciens, puis Jean d'Alembert dans l'article Probabilité de l'Encyclopédie, et qui fut amplifiée par Condorcet dans sa Vie de Voltaire. La taverne apparaît chez Condorcet. Les gobelets d'étain apparaissent chez Laplace en 1814, dans son Essai philosophique sur les probabilités. La craie apparaît, je le crains, pour la première fois chez notre romancier lui-même.
+
+La scène est donc, biographiquement parlant, une strate composite. Il n'y a rien du Pascal historique dans le décor, tout de la légende postérieure, et un seul détail authentique : le chevalier de Méré a bien écrit à Pascal, a bien posé la question, et Pascal a bien répondu. Le reste est roman. C'est, du reste, le titre du livre ; je ne devrais donc pas m'en plaindre, mais mon office m'y contraint.

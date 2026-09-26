@@ -1,0 +1,27 @@
+Friar's Notebook v2 — adjacency check
+  N = 20, motifs T = 30, per-page m = 3, tau = 1
+  designed edges: 30 (target: 30)
+  designed == dodecahedron: True
+  density = 0.1579
+
+Per-page motif assignments:
+  page  1 (confession): ['e01', 'e02', 'e03']
+  page  2 (ledger entry): ['e04', 'e05', 'e06']
+  page  3 (sonnet): ['e07', 'e08', 'e09']
+  page  4 (mathematical demonstration): ['e10', 'e11', 'e12']
+  page  5 (letter (to Leonardo)): ['e13', 'e14', 'e15']
+  page  6 (workshop inventory): ['e16', 'e17', 'e18']
+  page  7 (dream): ['e19', 'e20', 'e21']
+  page  8 (recipe (egg tempera and gold leaf)): ['e22', 'e23', 'e24']
+  page  9 (sermon fragment): ['e01', 'e13', 'e25']
+  page 10 (architectural specification): ['e02', 'e07', 'e26']
+  page 11 (travel diary): ['e03', 'e04', 'e27']
+  page 12 (wager / probability problem): ['e05', 'e16', 'e25']
+  page 13 (dialogue (Platonic manner)): ['e14', 'e19', 'e26']
+  page 14 (prayer): ['e08', 'e10', 'e27']
+  page 15 (astrological note): ['e09', 'e20', 'e28']
+  page 16 (epitaph): ['e06', 'e11', 'e29']
+  page 17 (musical proportion table): ['e15', 'e17', 'e30']
+  page 18 (library catalogue): ['e12', 'e22', 'e28']
+  page 19 (vision): ['e18', 'e23', 'e29']
+  page 20 (last page (unfinished)): ['e21', 'e24', 'e30']

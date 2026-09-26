@@ -1,0 +1,49 @@
+### The Constraint
+
+This text obeys a geographical rule derived from planar graph theory:
+
+> **50 pages occupy the nodes of a 5x10 grid. Each page carries 5 of 20 thematic threads. Adjacent pages on the grid share >= 3 threads; non-adjacent pages share <= 2. The resulting topic graph is planar by construction — embeddable in the plane without edge crossings, and directly encodable on a neutral-atom QPU.**
+
+The 20 threads are:
+
+| # | Thread | Domain |
+|---|--------|--------|
+| 0 | WAGER | Probability, risk, decision under uncertainty |
+| 1 | CHRONICLE | Historical record, witnessed events |
+| 2 | CONSPIRACY | Fabrication, forgery, hidden agendas |
+| 3 | TONGUE | Language, translation, the birth of vernacular |
+| 4 | NUMBER | Mathematics, combinatorics, counting |
+| 5 | FAITH | Belief, doubt, the silence of God |
+| 6 | SWORD | War, conflict, fratricidal violence |
+| 7 | PARCHMENT | Manuscripts, textual transmission |
+| 8 | MALIETTE | The teacher, ZaZiPo, the gift of reading |
+| 9 | GAME | OuLiPo, ludic constraint, rules that free |
+| 10 | MIRROR | Reflection, doubling, self-reference |
+| 11 | INK | Writing, inscription, the physical act of text |
+| 12 | SHADOW | Hidden meaning, the unsaid |
+| 13 | FIRE | Destruction, purification, passion |
+| 14 | STONE | Permanence, architecture, foundation |
+| 15 | WATER | Flow, time, erosion |
+| 16 | WIND | Change, inspiration, breath |
+| 17 | IRON | Industry, tools, forge |
+| 18 | SILK | Luxury, trade, texture |
+| 19 | BONE | Mortality, relics, archaeology |
+
+### The Map
+
+```
+          col0    col1    col2    col3    col4    col5    col6    col7    col8    col9
+row0  |  P00  |  P01  |  P02  |  P03  |  P04  |  P05  |  P06  |  P07  |  P08  |  P09  |  MOUNTAIN
+row1  |  P10  |  P11  |  P12  |  P13  |  P14  |  P15  |  P16  |  P17  |  P18  |  P19  |  SCRIPTORIUM
+row2  |  P20  |  P21  |  P22  |  P23  |  P24  |  P25  |  P26  |  P27  |  P28  |  P29  |  BATTLEFIELD
+row3  |  P30  |  P31  |  P32  |  P33  |  P34  |  P35  |  P36  |  P37  |  P38  |  P39  |  MARKET
+row4  |  P40  |  P41  |  P42  |  P43  |  P44  |  P45  |  P46  |  P47  |  P48  |  P49  |  SEA
+```
+
+Three voices traverse this landscape:
+
+- **NITHARD** (c. 800-844): the soldier-chronicler, grandson of Charlemagne. He moves through the Mountain and the Battlefield — the high places and the killing fields.
+
+- **BLAISE PASCAL** (1623-1662): the mathematician-mystic. He inhabits the Scriptorium and the Market — the places of calculation and exchange.
+
+- **THE PROFESSOR** (Bernard Marechal): the teacher. He walks the edges of the map, the Sea and the liminal zones, reading the landscape as a text.

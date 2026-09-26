@@ -1,0 +1,1548 @@
+{
+  "text": "Aquinas dispersed register: 30 antithesis pairs on 6x5 domino grid",
+  "version": "dispersed",
+  "N": 60,
+  "n_pairs": 30,
+  "R_b_um": 8.0,
+  "within_domino_dist": 5.0,
+  "domino_spacing_x": 7.0,
+  "domino_spacing_y": 11.0,
+  "grid_cols": 6,
+  "grid_rows": 5,
+  "max_radial_um": 32.17530108639234,
+  "min_dist_um": 5.0,
+  "coords_2d": [
+    [
+      -17.5,
+      -22.0
+    ],
+    [
+      -17.5,
+      -17.0
+    ],
+    [
+      -17.5,
+      -11.0
+    ],
+    [
+      -17.5,
+      -6.0
+    ],
+    [
+      -17.5,
+      0.0
+    ],
+    [
+      -17.5,
+      5.0
+    ],
+    [
+      -17.5,
+      11.0
+    ],
+    [
+      -17.5,
+      16.0
+    ],
+    [
+      -17.5,
+      22.0
+    ],
+    [
+      -17.5,
+      27.0
+    ],
+    [
+      -10.5,
+      -22.0
+    ],
+    [
+      -10.5,
+      -17.0
+    ],
+    [
+      -10.5,
+      -11.0
+    ],
+    [
+      -10.5,
+      -6.0
+    ],
+    [
+      -10.5,
+      0.0
+    ],
+    [
+      -10.5,
+      5.0
+    ],
+    [
+      -10.5,
+      11.0
+    ],
+    [
+      -10.5,
+      16.0
+    ],
+    [
+      -10.5,
+      22.0
+    ],
+    [
+      -10.5,
+      27.0
+    ],
+    [
+      -3.5,
+      -22.0
+    ],
+    [
+      -3.5,
+      -17.0
+    ],
+    [
+      -3.5,
+      -11.0
+    ],
+    [
+      -3.5,
+      -6.0
+    ],
+    [
+      -3.5,
+      0.0
+    ],
+    [
+      -3.5,
+      5.0
+    ],
+    [
+      -3.5,
+      11.0
+    ],
+    [
+      -3.5,
+      16.0
+    ],
+    [
+      -3.5,
+      22.0
+    ],
+    [
+      -3.5,
+      27.0
+    ],
+    [
+      3.5,
+      -22.0
+    ],
+    [
+      3.5,
+      -17.0
+    ],
+    [
+      3.5,
+      -11.0
+    ],
+    [
+      3.5,
+      -6.0
+    ],
+    [
+      3.5,
+      0.0
+    ],
+    [
+      3.5,
+      5.0
+    ],
+    [
+      3.5,
+      11.0
+    ],
+    [
+      3.5,
+      16.0
+    ],
+    [
+      3.5,
+      22.0
+    ],
+    [
+      3.5,
+      27.0
+    ],
+    [
+      10.5,
+      -22.0
+    ],
+    [
+      10.5,
+      -17.0
+    ],
+    [
+      10.5,
+      -11.0
+    ],
+    [
+      10.5,
+      -6.0
+    ],
+    [
+      10.5,
+      0.0
+    ],
+    [
+      10.5,
+      5.0
+    ],
+    [
+      10.5,
+      11.0
+    ],
+    [
+      10.5,
+      16.0
+    ],
+    [
+      10.5,
+      22.0
+    ],
+    [
+      10.5,
+      27.0
+    ],
+    [
+      17.5,
+      -22.0
+    ],
+    [
+      17.5,
+      -17.0
+    ],
+    [
+      17.5,
+      -11.0
+    ],
+    [
+      17.5,
+      -6.0
+    ],
+    [
+      17.5,
+      0.0
+    ],
+    [
+      17.5,
+      5.0
+    ],
+    [
+      17.5,
+      11.0
+    ],
+    [
+      17.5,
+      16.0
+    ],
+    [
+      17.5,
+      22.0
+    ],
+    [
+      17.5,
+      27.0
+    ]
+  ],
+  "node_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "atom_meta": [
+    {
+      "role": "sic",
+      "pair_idx": 0,
+      "col": 0,
+      "row": 0,
+      "block": 0,
+      "text_preview": "It seems that God is not the same as His essence or nature. For nothing can be in itself. But the substance or nature of"
+    },
+    {
+      "role": "non",
+      "pair_idx": 0,
+      "col": 0,
+      "row": 0,
+      "block": 0,
+      "text_preview": "We can speak of simple things only as though they were like the composite things from which we derive our knowledge. The"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 1,
+      "col": 0,
+      "row": 1,
+      "block": 1,
+      "text_preview": "It would seem that Word in God is not a personal name. For personal names are applied to God in a proper sense, as Fathe"
+    },
+    {
+      "role": "non",
+      "pair_idx": 1,
+      "col": 0,
+      "row": 1,
+      "block": 1,
+      "text_preview": "The Arians, who sprang from Origen, declared that the Son differed in substance from the Father. Hence, they endeavored "
+    },
+    {
+      "role": "sic",
+      "pair_idx": 2,
+      "col": 0,
+      "row": 2,
+      "block": 2,
+      "text_preview": "It would seem that the divine relations are not really distinguished from each other. For things which are identified wi"
+    },
+    {
+      "role": "non",
+      "pair_idx": 2,
+      "col": 0,
+      "row": 2,
+      "block": 2,
+      "text_preview": "According to the Philosopher (Phys. iii), this argument holds, that whatever things are identified with the same thing a"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 3,
+      "col": 0,
+      "row": 3,
+      "block": 3,
+      "text_preview": "It seems that falsity is not in the intellect. For Augustine says (Qq. lxxxiii, 32), \"Everyone who is deceived, understa"
+    },
+    {
+      "role": "non",
+      "pair_idx": 3,
+      "col": 0,
+      "row": 3,
+      "block": 3,
+      "text_preview": "Because the essence of a thing is the proper object of the intellect, we are properly said to understand a thing when we"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 4,
+      "col": 0,
+      "row": 4,
+      "block": 4,
+      "text_preview": "It would seem that one angel does not speak to another. For Gregory says (Moral. xviii) that, in the state of the resurr"
+    },
+    {
+      "role": "non",
+      "pair_idx": 4,
+      "col": 0,
+      "row": 4,
+      "block": 4,
+      "text_preview": "Our mental concept is hidden by a twofold obstacle. The first is in the will, which can retain the mental concept within"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 5,
+      "col": 1,
+      "row": 0,
+      "block": 0,
+      "text_preview": "It seems that God does not know things other than Himself by proper knowledge. For, as was shown (A. 5), God knows thing"
+    },
+    {
+      "role": "non",
+      "pair_idx": 5,
+      "col": 1,
+      "row": 0,
+      "block": 0,
+      "text_preview": "So to know a thing as it is in the knower, may be understood in two ways. In one way this adverb \"so\" imports the mode o"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 6,
+      "col": 1,
+      "row": 1,
+      "block": 1,
+      "text_preview": "It would seem that heavenly bodies can act on the demons. For the demons, according to certain phases of the moon, can h"
+    },
+    {
+      "role": "non",
+      "pair_idx": 6,
+      "col": 1,
+      "row": 1,
+      "block": 1,
+      "text_preview": "That demons harass men, according to certain phases of the moon, happens in two ways. Firstly, they do so in order to \"d"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 7,
+      "col": 1,
+      "row": 2,
+      "block": 2,
+      "text_preview": "It seems that the separate human soul can move bodies at least locally. For a body naturally obeys a spiritual substance"
+    },
+    {
+      "role": "non",
+      "pair_idx": 7,
+      "col": 1,
+      "row": 2,
+      "block": 2,
+      "text_preview": "There are certain spiritual substances whose powers are not determinate to certain bodies; such are the angels who are n"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 8,
+      "col": 1,
+      "row": 3,
+      "block": 3,
+      "text_preview": "It would seem that the soul is man. For it is written (2 Cor. 4:16): \"Though our outward man is corrupted, yet the inwar"
+    },
+    {
+      "role": "non",
+      "pair_idx": 8,
+      "col": 1,
+      "row": 3,
+      "block": 3,
+      "text_preview": "According to the Philosopher (Ethic. ix, 8), a thing seems to be chiefly what is princip[al] in it; thus what the govern"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 9,
+      "col": 1,
+      "row": 4,
+      "block": 4,
+      "text_preview": "It would seem that light is not a quality. For every quality remains in its subject, though the active cause of the qual"
+    },
+    {
+      "role": "non",
+      "pair_idx": 9,
+      "col": 1,
+      "row": 4,
+      "block": 4,
+      "text_preview": "Since quality is consequent upon substantial form, the mode in which the subject receives a quality differs as the mode "
+    },
+    {
+      "role": "sic",
+      "pair_idx": 10,
+      "col": 2,
+      "row": 0,
+      "block": 0,
+      "text_preview": "It seems that this name \"God\" is applied to God univocally by nature, by participation, and according to opinion. For wh"
+    },
+    {
+      "role": "non",
+      "pair_idx": 10,
+      "col": 2,
+      "row": 0,
+      "block": 0,
+      "text_preview": "The multiplication of names does not depend on the predication of the name, but on the signification: for this name \"man"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 11,
+      "col": 2,
+      "row": 1,
+      "block": 1,
+      "text_preview": "It seems that the book of life is not the same thing as predestination. For it is said, \"All things are the book of life"
+    },
+    {
+      "role": "non",
+      "pair_idx": 11,
+      "col": 2,
+      "row": 1,
+      "block": 1,
+      "text_preview": "The book of life may be understood in two senses. In one sense as the inscription of those who are chosen to life; thus "
+    },
+    {
+      "role": "sic",
+      "pair_idx": 12,
+      "col": 2,
+      "row": 2,
+      "block": 2,
+      "text_preview": "It would seem that the orders of the angels are not properly named. For all the heavenly spirits are called angels and h"
+    },
+    {
+      "role": "non",
+      "pair_idx": 12,
+      "col": 2,
+      "row": 2,
+      "block": 2,
+      "text_preview": "Angel means \"messenger.\" So all the heavenly spirits, so far as they make known Divine things, are called \"angels.\" But "
+    },
+    {
+      "role": "sic",
+      "pair_idx": 13,
+      "col": 2,
+      "row": 3,
+      "block": 3,
+      "text_preview": "It would seem that one angel can move another angel's will. Because, according to Dionysius quoted above (A. 1), as one "
+    },
+    {
+      "role": "non",
+      "pair_idx": 13,
+      "col": 2,
+      "row": 3,
+      "block": 3,
+      "text_preview": "Cleansing and perfecting are to be understood according to the mode of enlightenment. And since God enlightens by changi"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 14,
+      "col": 2,
+      "row": 4,
+      "block": 4,
+      "text_preview": "It would seem that God cannot move the matter immediately to receive the form. For as the Philosopher proves (Metaph. vi"
+    },
+    {
+      "role": "non",
+      "pair_idx": 14,
+      "col": 2,
+      "row": 4,
+      "block": 4,
+      "text_preview": "An effect is assimilated to the active cause in two ways. First, according to the same species; as man is generated by m"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 15,
+      "col": 3,
+      "row": 0,
+      "block": 0,
+      "text_preview": "It seems that predestination is not certain. Because on the words \"Hold fast that which thou hast, that no one take thy "
+    },
+    {
+      "role": "non",
+      "pair_idx": 15,
+      "col": 3,
+      "row": 0,
+      "block": 0,
+      "text_preview": "The crown may be said to belong to a person in two ways; first, by God's predestination, and thus no one loses his crown"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 16,
+      "col": 3,
+      "row": 1,
+      "block": 1,
+      "text_preview": "It would seem that one angel does not enlighten another. For the angels possess now the same beatitude which we hope to "
+    },
+    {
+      "role": "non",
+      "pair_idx": 16,
+      "col": 3,
+      "row": 1,
+      "block": 1,
+      "text_preview": "All the angels, both inferior and superior, see the Essence of God immediately, and in this respect one does not teach a"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 17,
+      "col": 3,
+      "row": 2,
+      "block": 2,
+      "text_preview": "It would seem that a notional act can be directed to several Persons, so that there may be several Persons begotten or s"
+    },
+    {
+      "role": "non",
+      "pair_idx": 17,
+      "col": 3,
+      "row": 2,
+      "block": 2,
+      "text_preview": "We can grant, without distinction, that the Son has the same power as the Father; but we cannot grant that the Son has t"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 18,
+      "col": 3,
+      "row": 3,
+      "block": 3,
+      "text_preview": "It would seem that there are no orders among the demons. For order belongs to good, as also mode, and species, as August"
+    },
+    {
+      "role": "non",
+      "pair_idx": 18,
+      "col": 3,
+      "row": 3,
+      "block": 3,
+      "text_preview": "Good can exist without evil; whereas evil cannot exist without good (Q. 49, A. 3); so there is order in the demons, as p"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 19,
+      "col": 3,
+      "row": 4,
+      "block": 4,
+      "text_preview": "It would seem that the intellect can be false; for the Philosopher says (Metaph. vi, Did. v, 4) that \"truth and falsehoo"
+    },
+    {
+      "role": "non",
+      "pair_idx": 19,
+      "col": 3,
+      "row": 4,
+      "block": 4,
+      "text_preview": "The Philosopher says that falsehood is in the intellect in regard to composition and division. The same answer applies t"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 20,
+      "col": 4,
+      "row": 0,
+      "block": 0,
+      "text_preview": "It would seem that there is no will in the angels. For as the Philosopher says (De Anima iii, text. 42), \"The will is in"
+    },
+    {
+      "role": "non",
+      "pair_idx": 20,
+      "col": 4,
+      "row": 0,
+      "block": 0,
+      "text_preview": "Reason surpasses sense in a different way from that in which intellect surpasses reason. Reason surpasses sense accordin"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 21,
+      "col": 4,
+      "row": 1,
+      "block": 1,
+      "text_preview": "It seems that essence and existence are not the same in God. For if it be so, then the divine being has nothing added to"
+    },
+    {
+      "role": "non",
+      "pair_idx": 21,
+      "col": 4,
+      "row": 1,
+      "block": 1,
+      "text_preview": "A thing that has nothing added to it can be of two kinds. Either its essence precludes any addition; thus, for example, "
+    },
+    {
+      "role": "sic",
+      "pair_idx": 22,
+      "col": 4,
+      "row": 2,
+      "block": 2,
+      "text_preview": "It would seem that not all things are subject to the Divine government. For it is written (Eccles. 9:11): \"I saw that un"
+    },
+    {
+      "role": "non",
+      "pair_idx": 22,
+      "col": 4,
+      "row": 2,
+      "block": 2,
+      "text_preview": "These things are said to be under the sun which are generated and corrupted according to the sun's movement. In all such"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 23,
+      "col": 4,
+      "row": 3,
+      "block": 3,
+      "text_preview": "It seems that to live belongs to all natural things. For the Philosopher says (Phys. viii, 1) that \"Movement is like a k"
+    },
+    {
+      "role": "non",
+      "pair_idx": 23,
+      "col": 4,
+      "row": 3,
+      "block": 3,
+      "text_preview": "These words of the Philosopher may be understood either of the first movement, namely, that of the celestial bodies, or "
+    },
+    {
+      "role": "sic",
+      "pair_idx": 24,
+      "col": 4,
+      "row": 4,
+      "block": 4,
+      "text_preview": "It would seem that the soul is a body. For the soul is the moving principle of the body. Nor does it move unless moved. "
+    },
+    {
+      "role": "non",
+      "pair_idx": 24,
+      "col": 4,
+      "row": 4,
+      "block": 4,
+      "text_preview": "As everything which is in motion must be moved by something else, a process which cannot be prolonged indefinitely, we m"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 25,
+      "col": 5,
+      "row": 0,
+      "block": 0,
+      "text_preview": "It would seem that the firmament does not divide waters from waters. For bodies that are of one and the same species hav"
+    },
+    {
+      "role": "non",
+      "pair_idx": 25,
+      "col": 5,
+      "row": 0,
+      "block": 0,
+      "text_preview": "If by the firmament is understood the starry heaven, the waters above are not of the same species as those beneath. But "
+    },
+    {
+      "role": "sic",
+      "pair_idx": 26,
+      "col": 5,
+      "row": 1,
+      "block": 1,
+      "text_preview": "It would seem that corporeal creatures are not from God. For it is said (Eccles. 3:14): \"I have learned that all the wor"
+    },
+    {
+      "role": "non",
+      "pair_idx": 26,
+      "col": 5,
+      "row": 1,
+      "block": 1,
+      "text_preview": "All the creatures of God in some respects continue for ever, at least as to matter, since what is created will never be "
+    },
+    {
+      "role": "sic",
+      "pair_idx": 27,
+      "col": 5,
+      "row": 2,
+      "block": 2,
+      "text_preview": "It seems that the knowledge of God is variable. For knowledge is related to what is knowable. But whatever imports relat"
+    },
+    {
+      "role": "non",
+      "pair_idx": 27,
+      "col": 5,
+      "row": 2,
+      "block": 2,
+      "text_preview": "\"Lord\", \"Creator\" and the like, import relations to creatures in so far as they are in themselves. But the knowledge of "
+    },
+    {
+      "role": "sic",
+      "pair_idx": 28,
+      "col": 5,
+      "row": 3,
+      "block": 3,
+      "text_preview": "It would seem that the intellectual soul is improperly united to such a body. For matter must be proportionate to the fo"
+    },
+    {
+      "role": "non",
+      "pair_idx": 28,
+      "col": 5,
+      "row": 3,
+      "block": 3,
+      "text_preview": "Perhaps someone might attempt to answer this by saying that before sin the human body was incorruptible. This answer doe"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 29,
+      "col": 5,
+      "row": 4,
+      "block": 4,
+      "text_preview": "It seems that goodness has not the aspect of a final cause, but rather of the other causes. For, as Dionysius says (Div."
+    },
+    {
+      "role": "non",
+      "pair_idx": 29,
+      "col": 5,
+      "row": 4,
+      "block": 4,
+      "text_preview": "Beauty and goodness in a thing are identical fundamentally; for they are based upon the same thing, namely, the form; an"
+    }
+  ],
+  "edges": [
+    {
+      "u": 0,
+      "v": 1,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 0,
+      "v": 10,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 2,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 11,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 3,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 2,
+      "v": 12,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 4,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 13,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 5,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 4,
+      "v": 14,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 6,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 15,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 7,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 6,
+      "v": 16,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 8,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 17,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 9,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 8,
+      "v": 18,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 19,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 11,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 10,
+      "v": 20,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 12,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 21,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 13,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 12,
+      "v": 22,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 14,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 23,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 15,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 14,
+      "v": 24,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 16,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 25,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 17,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 16,
+      "v": 26,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 18,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 27,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 19,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 18,
+      "v": 28,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 29,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 20,
+      "v": 21,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 20,
+      "v": 30,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 22,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 31,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 22,
+      "v": 23,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 22,
+      "v": 32,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 23,
+      "v": 24,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 23,
+      "v": 33,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 24,
+      "v": 25,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 24,
+      "v": 34,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 25,
+      "v": 26,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 25,
+      "v": 35,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 26,
+      "v": 27,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 26,
+      "v": 36,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 27,
+      "v": 28,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 27,
+      "v": 37,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 28,
+      "v": 29,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 28,
+      "v": 38,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 29,
+      "v": 39,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 30,
+      "v": 31,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 30,
+      "v": 40,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 31,
+      "v": 32,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 31,
+      "v": 41,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 32,
+      "v": 33,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 32,
+      "v": 42,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 33,
+      "v": 34,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 33,
+      "v": 43,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 34,
+      "v": 35,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 34,
+      "v": 44,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 35,
+      "v": 36,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 35,
+      "v": 45,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 36,
+      "v": 37,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 36,
+      "v": 46,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 37,
+      "v": 38,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 37,
+      "v": 47,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 38,
+      "v": 39,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 38,
+      "v": 48,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 39,
+      "v": 49,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 40,
+      "v": 41,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 40,
+      "v": 50,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 41,
+      "v": 42,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 41,
+      "v": 51,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 42,
+      "v": 43,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 42,
+      "v": 52,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 43,
+      "v": 44,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 43,
+      "v": 53,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 44,
+      "v": 45,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 44,
+      "v": 54,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 45,
+      "v": 46,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 45,
+      "v": 55,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 46,
+      "v": 47,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 46,
+      "v": 56,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 47,
+      "v": 48,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 47,
+      "v": 57,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 48,
+      "v": 49,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 48,
+      "v": 58,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 49,
+      "v": 59,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 50,
+      "v": 51,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 51,
+      "v": 52,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 52,
+      "v": 53,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 53,
+      "v": 54,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 54,
+      "v": 55,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 55,
+      "v": 56,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 56,
+      "v": 57,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 57,
+      "v": 58,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 58,
+      "v": 59,
+      "distance": 5.0,
+      "is_pair": true
+    }
+  ],
+  "pair_texts": [
+    {
+      "sic": "It seems that God is not the same as His essence or nature. For nothing can be in itself. But the substance or nature of God--i.e. the Godhead--is said to be in God. Therefore it seems that God is not the same as His essence or nature. Obj. 2: Further, the effect is assimilated to its cause; for every agent produces its like. But in created things the _suppositum_ is not identical with its nature; for a man is not the same as his humanity. Therefore God is not the same as His Godhead. _",
+      "non": "We can speak of simple things only as though they were like the composite things from which we derive our knowledge. Therefore in speaking of God, we use concrete nouns to signify His subsistence, because with us only those things subsist which are composite; and we use abstract nouns to signify His simplicity. In saying therefore that Godhead, or life, or the like are in God, we indicate the composite way in which our intellect understands, but not that there is any composition in God."
+    },
+    {
+      "sic": "It would seem that Word in God is not a personal name. For personal names are applied to God in a proper sense, as Father and Son. But Word is applied to God metaphorically, as Origen says on (John 1:1), \"In the beginning was the Word.\" Therefore Word is not a personal name in God. Obj. 2: Further, according to Augustine (De Trin. ix, 10), \"The Word is knowledge with love;\" and according to Anselm (Monol. lx), \"To speak is to the Supreme Spirit nothing but to see by thought.\" But knowledge and thought, and sight, are essential terms in God. Therefore Word is not a personal term in God. Obj. 3: Further, it is essential to word to be spoken. But, according to Anselm (Monol. lix), as the Father is intelligent, the Son is intelligent, and the Holy Ghost is intelligent, so the Father speaks, the Son speaks, and the Holy Ghost speaks; and likewise, each one of them is spoken. Therefore, the name Word is used as an essential term in God, and not in a personal sense. Obj. 4: Further, no divine person is made. But the Word of God is something made. For it is said, \"Fire, hail, snow, ice, the storms which do His Word\" (Ps. 148:8). Therefore the Word is not a personal name in God. _",
+      "non": "The Arians, who sprang from Origen, declared that the Son differed in substance from the Father. Hence, they endeavored to maintain that when the Son of God is called the Word, this is not to be understood in a strict sense; lest the idea of the Word proceeding should compel them to confess that the Son of God is of the same substance as the Father. For the interior word proceeds in such a manner from the one who pronounces it, as to remain within him. But supposing Word to be said metaphorically of God, we must still admit Word in its strict sense. For if a thing be called a word metaphorically, this can only be by reason of some manifestation; either it makes something manifest as a word, or it is manifested by a word. If manifested by a word, there must exist a word whereby it is manifested. If it is called a word because it exteriorly manifests, what it exteriorly manifests cannot be called word except in as far as it signifies the interior concept of the mind, which anyone may also manifest by exterior signs. Therefore, although Word may be sometimes said of God metaphorically, nevertheless we must also admit Word in the proper sense, and which is said personally."
+    },
+    {
+      "sic": "It would seem that the divine relations are not really distinguished from each other. For things which are identified with the same, are identified with each other. But every relation in God is really the same as the divine essence. Therefore the relations are not really distinguished from each other. Obj. 2: Further, as paternity and filiation are by name distinguished from the divine essence, so likewise are goodness and power. But this kind of distinction does not make any real distinction of the divine goodness and power. Therefore neither does it make any real distinction of paternity and filiation. Obj. 3: Further, in God there is no real distinction but that of origin. But one relation does not seem to arise from another. Therefore the relations are not really distinguished from each other. _",
+      "non": "According to the Philosopher (Phys. iii), this argument holds, that whatever things are identified with the same thing are identified with each other, if the identity be real and logical; as, for instance, a tunic and a garment; but not if they differ logically. Hence in the same place he says that although action is the same as motion, and likewise passion; still it does not follow that action and passion are the same; because action implies reference as of something \"from which\" there is motion in the thing moved; whereas passion implies reference as of something \"which is from\" another. Likewise, although paternity, just as filiation, is really the same as the divine essence; nevertheless these two in their own proper idea and definitions import opposite respects. Hence they are distinguished from each other."
+    },
+    {
+      "sic": "It seems that falsity is not in the intellect. For Augustine says (Qq. lxxxiii, 32), \"Everyone who is deceived, understands not that in which he is deceived.\" But falsity is said to exist in any knowledge in so far as we are deceived therein. Therefore falsity does not exist in the intellect. Obj. 2: Further, the Philosopher says (De Anima iii, 51) that the intellect is always right. Therefore there is no falsity in the intellect. _",
+      "non": "Because the essence of a thing is the proper object of the intellect, we are properly said to understand a thing when we reduce it to its essence, and judge of it thereby; as takes place in demonstrations, in which there is no falsity. In this sense Augustine's words must be understood, \"that he who is deceived, understands not that wherein he is deceived;\" and not in the sense that no one is ever deceived in any operation of the intellect."
+    },
+    {
+      "sic": "It would seem that one angel does not speak to another. For Gregory says (Moral. xviii) that, in the state of the resurrection \"each one's body will not hide his mind from his fellows.\" Much less, therefore, is one angel's mind hidden from another. But speech manifests to another what lies hidden in the mind. Therefore it is not necessary that one angel should speak to another. Obj. 2: Further, speech is twofold; interior, whereby one speaks to oneself; and exterior, whereby one speaks to another. But exterior speech takes place by some sensible sign, as by voice, or gesture, or some bodily member, as the tongue, or the fingers, and this cannot apply to the angels. Therefore one angel does not speak to another. Obj. 3: Further, the speaker incites the hearer to listen to what he says. But it does not appear that one angel incites another to listen; for this happens among us by some sensible sign. Therefore one angel does not speak to another. _",
+      "non": "Our mental concept is hidden by a twofold obstacle. The first is in the will, which can retain the mental concept within, or can direct it externally. In this way God alone can see the mind of another, according to 1 Cor. 2:11: \"What man knoweth the things of a man, but the spirit of a man that is in him?\" The other obstacle whereby the mental concept is excluded from another one's knowledge, comes from the body; and so it happens that even when the will directs the concept of the mind to make itself known, it is not at once make known to another; but some sensible sign must be used. Gregory alludes to this fact when he says (Moral. ii): \"To other eyes we seem to stand aloof as it were behind the wall of the body; and when we wish to make ourselves known, we go out as it were by the door of the tongue to show what we really are.\" But an angel is under no such obstacle, and so he can make his concept known to another at once."
+    },
+    {
+      "sic": "It seems that God does not know things other than Himself by proper knowledge. For, as was shown (A. 5), God knows things other than Himself, according as they are in Himself. But other things are in Him as in their common and universal cause, and are known by God as in their first and universal cause. This is to know them by general, and not by proper knowledge. Therefore God knows things besides Himself by general, and not by proper knowledge. Obj. 2: Further, the created essence is as distant from the divine essence, as the divine essence is distant from the created essence. But the divine essence cannot be known by the created essence, as said above (Q. 12, A. 2). Therefore neither can the created essence be known by the divine essence. Thus as God knows only by His essence, it follows that He does not know what the creature is in its essence, so as to know \"what it is,\" which is to have proper knowledge of it. Obj. 3: Further, proper knowledge of a thing can come only through its proper ratio [i.e., concept]. But as God knows all things by His essence, it seems that He does not know each thing by its proper ratio; for one thing cannot be the proper ratio of many and diverse things. Therefore God has not a proper knowledge of things, but a general knowledge; for to know things otherwise than by their proper ratio is to have only a common and general knowledge of them. _",
+      "non": "So to know a thing as it is in the knower, may be understood in two ways. In one way this adverb \"so\" imports the mode of knowledge on the part of the thing known; and in that sense it is false. For the knower does not always know the object known according to the existence it has in the knower; since the eye does not know a stone according to the existence it has in the eye; but by the image of the stone which is in the eye, the eye knows the stone according to its existence outside the eye. And if any knower has a knowledge of the object known according to the (mode of) existence it has in the knower, the knower nevertheless knows it according to its (mode of) existence outside the knower; thus the intellect knows a stone according to the intelligible existence it has in the intellect, inasmuch as it knows that it understands; while nevertheless it knows what a stone is in its own nature. If however the adverb 'so' be understood to import the mode (of knowledge) on the part of the knower, in that sense it is true that only the knower has knowledge of the object known as it is in the knower; for the more perfectly the thing known is in the knower, the more perfect is the mode of knowledge. We must say therefore that God not only knows that all things are in Himself; but by the fact that they are in Him, He knows them in their own nature and all the more perfectly, the more perfectly each one is in Him."
+    },
+    {
+      "sic": "It would seem that heavenly bodies can act on the demons. For the demons, according to certain phases of the moon, can harass men, who on that account are called lunatics, as appears from Matt. 4:24 and 17:14. But this would not be if they were not subject to the heavenly bodies. Therefore the demons are subject to them. Obj. 2: Further, necromancers observe certain constellations in order to invoke the demons. But these would not be invoked through the heavenly bodies unless they were subject to them. Therefore they are subject to them. Obj. 3: Further, heavenly bodies are more powerful than inferior bodies. But the demons are confined to certain inferior bodies, namely, \"herbs, stones, animals, and to certain sounds and words, forms and figures,\" as Porphyry says, quoted by Augustine (De Civ. Dei x, 11). Much more therefore are the demons subject to the action of heavenly bodies. _",
+      "non": "That demons harass men, according to certain phases of the moon, happens in two ways. Firstly, they do so in order to \"defame God's creature,\" namely, the moon; as Jerome (In Matt. iv, 24) and Chrysostom (Hom. lvii in Matt.) say. Secondly, because as they are unable to effect anything save by means of the natural forces, as stated above (Q. 114, A. 4, ad 2) they take into account the aptitude of bodies for the intended result. Now it is manifest that \"the brain is the most moist of all the parts of the body,\" as Aristotle says [*De Part. Animal. ii, 7: De Sens. et Sensato ii: De Somn. et Vigil. iii]: wherefore it is the most subject to the action of the moon, the property of which is to move what is moist. And it is precisely in the brain that animal forces culminate: wherefore the demons, according to certain phases of the moon, disturb man's imagination, when they observe that the brain is thereto disposed."
+    },
+    {
+      "sic": "It seems that the separate human soul can move bodies at least locally. For a body naturally obeys a spiritual substance as to local motion, as stated above (Q. 110, A. 5). But the separate soul is a spiritual substance. Therefore it can move exterior bodies by its command. Obj. 2: Further, in the Itinerary of Clement it is said in the narrative of Nicetas to Peter, that Simon Magus, by sorcery retained power over the soul of a child that he had slain, and that through this soul he worked magical wonders. But this could not have been without some corporeal change at least as to place. Therefore, the separate soul has the power to move bodies locally. _",
+      "non": "There are certain spiritual substances whose powers are not determinate to certain bodies; such are the angels who are naturally unfettered by a body; consequently various bodies may obey them as to movement. But if the motive power of a separate substance is naturally determinate to move a certain body, that substance will not be able to move a body of higher degree, but only one of lower degree: thus according to philosophers the mover of the lower heaven cannot move the higher heaven. Wherefore, since the soul is by its nature determinate to move the body of which it is the form, it cannot by its natural power move any other body."
+    },
+    {
+      "sic": "It would seem that the soul is man. For it is written (2 Cor. 4:16): \"Though our outward man is corrupted, yet the inward man is renewed day by day.\" But that which is within man is the soul. Therefore the soul is the inward man. Obj. 2: Further, the human soul is a substance. But it is not a universal substance. Therefore it is a particular substance. Therefore it is a \"hypostasis\" or a person; and it can only be a human person. Therefore the soul is man; for a human person is a man. _",
+      "non": "According to the Philosopher (Ethic. ix, 8), a thing seems to be chiefly what is princip[al] in it; thus what the governor of a state does, the state is said to do. In this way sometimes what is princip[al] in man is said to be man; sometimes, indeed, the intellectual part which, in accordance with truth, is called the \"inward\" man; and sometimes the sensitive part with the body is called man in the opinion of those whose observation does not go beyond the senses. And this is called the \"outward\" man."
+    },
+    {
+      "sic": "It would seem that light is not a quality. For every quality remains in its subject, though the active cause of the quality be removed, as heat remains in water removed from the fire. But light does not remain in the air when the source of light is withdrawn. Therefore light is not a quality. Obj. 2: Further, every sensible quality has its opposite, as cold is opposed to heat, blackness to whiteness. But this is not the case with light since darkness is merely a privation of light. Light therefore is not a sensible quality. Obj. 3: Further, a cause is more potent than its effect. But the light of the heavenly bodies is a cause of substantial forms of earthly bodies, and also gives to colors their immaterial being, by making them actually visible. Light, then, is not a sensible quality, but rather a substantial or spiritual form. _",
+      "non": "Since quality is consequent upon substantial form, the mode in which the subject receives a quality differs as the mode differs in which a subject receives a substantial form. For when matter receives its form perfectly, the qualities consequent upon the form are firm and enduring; as when, for instance, water is converted into fire. When, however, substantial form is received imperfectly, so as to be, as it were, in process of being received, rather than fully impressed, the consequent quality lasts for a time but is not permanent; as may be seen when water which has been heated returns in time to its natural state. But light is not produced by the transmutation of matter, as though matter were in receipt of a substantial form, and light were a certain inception of substantial form. For this reason light disappears on the disappearance of its active cause."
+    },
+    {
+      "sic": "It seems that this name \"God\" is applied to God univocally by nature, by participation, and according to opinion. For where a diverse signification exists, there is no contradiction of affirmation and negation; for equivocation prevents contradiction. But a Catholic who says: \"An idol is not God,\" contradicts a pagan who says: \"An idol is God.\" Therefore \"God\" in both senses is spoken of univocally. Obj. 2: Further, as an idol is God in opinion, and not in truth, so the enjoyment of carnal pleasures is called happiness in opinion, and not in truth. But this name \"beatitude\" is applied univocally to this supposed happiness, and also to true happiness. Therefore also this name \"God\" is applied univocally to the true God, and to God also in opinion. Obj. 3: Further, names are called univocal because they contain one idea. Now when a Catholic says: \"There is one God,\" he understands by the name God an omnipotent being, and one venerated above all; while the heathen understands the same when he says: \"An idol is God.\" Therefore this name \"God\" is applied univocally to both. _",
+      "non": "The multiplication of names does not depend on the predication of the name, but on the signification: for this name \"man,\" of whomsoever it is predicated, whether truly or falsely, is predicated in one sense. But it would be multiplied if by the name \"man\" we meant to signify different things; for instance, if one meant to signify by this name \"man\" what man really is, and another meant to signify by the same name a stone, or something else. Hence it is evident that a Catholic saying that an idol is not God contradicts the pagan asserting that it is God; because each of them uses this name \"God\" to signify the true God. For when the pagan says an idol is God, he does not use this name as meaning God in opinion, for he would then speak the truth, as also Catholics sometimes use the name in that sense, as in the Psalm, \"All the gods of the Gentiles are demons\" (Ps. 95:5). The same remark applies to the Second and Third Objections. For these reasons proceed from the different predication of the name, and not from its various significations."
+    },
+    {
+      "sic": "It seems that the book of life is not the same thing as predestination. For it is said, \"All things are the book of life\" (Ecclus. 4:32)--i.e. the Old and New Testament according to a gloss. This, however, is not predestination. Therefore the book of life is not predestination. Obj. 2: Further, Augustine says (De Civ. Dei xx, 14) that \"the book of life is a certain divine energy, by which it happens that to each one his good or evil works are recalled to memory.\" But divine energy belongs seemingly, not to predestination, but rather to divine power. Therefore the book of life is not the same thing as predestination. Obj. 3: Further, reprobation is opposed to predestination. So, if the book of life were the same as predestination, there should also be a book of death, as there is a book of life. _",
+      "non": "The book of life may be understood in two senses. In one sense as the inscription of those who are chosen to life; thus we now speak of the book of life. In another sense the inscription of those things which lead us to life may be called the book of life; and this also is twofold, either as of things to be done; and thus the Old and New Testament are called a book of life; or of things already done, and thus that divine energy by which it happens that to each one his deeds will be recalled to memory, is spoken of as the book of life. Thus that also may be called the book of war, whether it contains the names inscribed of those chosen for military service; or treats of the art of warfare, or relates the deeds of soldiers. Hence the solution of the Second Objection."
+    },
+    {
+      "sic": "It would seem that the orders of the angels are not properly named. For all the heavenly spirits are called angels and heavenly virtues. But common names should not be appropriated to individuals. Therefore the orders of the angels and virtues are ineptly named. Obj. 2: Further, it belongs to God alone to be Lord, according to the words, \"Know ye that the Lord He is God\" (Ps. 99:3). Therefore one order of the heavenly spirits is not properly called \"Dominations.\" Obj. 3: Further, the name \"Domination\" seems to imply government and likewise the names \"Principalities\" and \"Powers.\" Therefore these three names do not seem to be properly applied to three orders. Obj. 4: Further, archangels are as it were angel princes. Therefore this name ought not to be given to any other order than to the \"Principalities.\" Obj. 5: Further, the name \"Seraphim\" is derived from ardor, which pertains to charity; and the name \"Cherubim\" from knowledge. But charity and knowledge are gifts common to all the angels. Therefore they ought not to be names of any particular orders. Obj. 6: Further, Thrones are seats. But from the fact that God knows and loves the rational creature He is said to sit within it. Therefore there ought not to be any order of \"Thrones\" besides the \"Cherubim\" and \"Seraphim.\" Therefore it appears that the orders of angels are not properly styled.",
+      "non": "Angel means \"messenger.\" So all the heavenly spirits, so far as they make known Divine things, are called \"angels.\" But the superior angels enjoy a certain excellence, as regards this manifestation, from which the superior orders are denominated. The lowest order of angels possess no excellence above the common manifestation; and therefore it is denominated from manifestation only; and thus the common name remains as it were proper to the lowest order, as Dionysius says (Coel. Hier. v). Or we may say that the lowest order can be specially called the order of \"angels,\" forasmuch as they announce things to us immediately. \"Virtue\" can be taken in two ways. First, commonly, considered as the medium between the essence and the operation, and in that sense all the heavenly spirits are called heavenly virtues, as also \"heavenly essences.\" Secondly, as meaning a certain excellence of strength; and thus it is the proper name of an angelic order. Hence Dionysius says (Coel. Hier. viii) that the \"name 'virtues' signifies a certain virile and immovable strength\"; first, in regard of those Divine operations which befit them; secondly, in regard to receiving Divine gifts. Thus it signifies that they undertake fearlessly the Divine behests appointed to them; and this seems to imply strength of mind."
+    },
+    {
+      "sic": "It would seem that one angel can move another angel's will. Because, according to Dionysius quoted above (A. 1), as one angel enlightens another, so does he cleanse and perfect another. But cleansing and perfecting seem to belong to the will: for the former seems to point to the stain of sin which appertains to will; while to be perfected is to obtain an end, which is the object of the will. Therefore an angel can move another angel's will. Obj. 2: Further, as Dionysius says (Coel. Hier. vii): \"The names of the angels designate their properties.\" Now the Seraphim are so called because they \"kindle\" or \"give heat\": and this is by love which belongs to the will. Therefore one angel moves another angel's will. Obj. 3: Further, the Philosopher says (De Anima iii, 11) that the higher appetite moves the lower. But as the intellect of the superior angel is higher, so also is his will. It seems, therefore, that the superior angel can change the will of another angel. _",
+      "non": "Cleansing and perfecting are to be understood according to the mode of enlightenment. And since God enlightens by changing the intellect and will, He cleanses by removing defects of intellect and will, and perfects unto the end of the intellect and will. But the enlightenment caused by an angel concerns the intellect, as explained above (A. 1); therefore an angel is to be understood as cleansing from the defect of nescience in the intellect; and as perfecting unto the consummate end of the intellect, and this is the knowledge of truth. Thus Dionysius says (Eccl. Hier. vi): that \"in the heavenly hierarchy the chastening of the inferior essence is an enlightening of things unknown, that leads them to more perfect knowledge.\" For instance, we might say that corporeal sight is cleansed by the removal of darkness; enlightened by the diffusion of light; and perfected by being brought to the perception of the colored object."
+    },
+    {
+      "sic": "It would seem that God cannot move the matter immediately to receive the form. For as the Philosopher proves (Metaph. vii, Did. vi, 8), nothing can bring a form into any particular matter, except that form which is in matter; because, like begets like. But God is not a form in matter. Therefore He cannot cause a form in matter. Obj. 2: Further, any agent inclined to several effects will produce none of them, unless it is determined to a particular one by some other cause; for, as the Philosopher says (De Anima iii, 11), a general assertion does not move the mind, except by means of some particular apprehension. But the Divine power is the universal cause of all things. Therefore it cannot produce any particular form, except by means of a particular agent. Obj. 3: As universal being depends on the first universal cause, so determinate being depends on determinate particular causes; as we have seen above (Q. 104, A. 2). But the determinate being of a particular thing is from its own form. Therefore the forms of things are produced by God, only by means of particular causes. _",
+      "non": "An effect is assimilated to the active cause in two ways. First, according to the same species; as man is generated by man, and fire by fire. Secondly, by being virtually contained in the cause; as the form of the effect is virtually contained in its cause: thus animals produced by putrefaction, and plants, and minerals are like the sun and stars, by whose power they are produced. In this way the effect is like its active cause as regards all that over which the power of that cause extends. Now the power of God extends to both matter and form; as we have said above (Q. 14, A. 2; Q. 44, A. 2); wherefore if a composite thing be produced, it is likened to God by way of a virtual inclusion; or it is likened to the composite generator by a likeness of species. Therefore just as the composite generator can move matter to a form by generating a composite thing like itself; so also can God. But no other form not existing in matter can do this; because the power of no other separate substance extends over matter. Hence angels and demons operate on visible matter; not by imprinting forms in matter, but by making use of corporeal seeds."
+    },
+    {
+      "sic": "It seems that predestination is not certain. Because on the words \"Hold fast that which thou hast, that no one take thy crown,\" (Rev 3:11), Augustine says (De Corr. et Grat. 15): \"Another will not receive, unless this one were to lose it.\" Hence the crown which is the effect of predestination can be both acquired and lost. Therefore predestination cannot be certain. Obj. 2: Further, granted what is possible, nothing impossible follows. But it is possible that one predestined--e.g. Peter--may sin and then be killed. But if this were so, it would follow that the effect of predestination would be thwarted. This then, is not impossible. Therefore predestination is not certain. Obj. 3: Further, whatever God could do in the past, He can do now. But He could have not predestined whom He hath predestined. Therefore now He is able not to predestine him. Therefore predestination is not certain. _",
+      "non": "The crown may be said to belong to a person in two ways; first, by God's predestination, and thus no one loses his crown: secondly, by the merit of grace; for what we merit, in a certain way is ours; and thus anyone may lose his crown by mortal sin. Another person receives that crown thus lost, inasmuch as he takes the former's place. For God does not permit some to fall, without raising others; according to Job 34:24: \"He shall break in pieces many and innumerable, and make others to stand in their stead.\" Thus men are substituted in the place of the fallen angels; and the Gentiles in that of the Jews. He who is substituted for another in the state of grace, also receives the crown of the fallen in that in eternal life he will rejoice at the good the other has done, in which life he will rejoice at all good whether done by himself or by others."
+    },
+    {
+      "sic": "It would seem that one angel does not enlighten another. For the angels possess now the same beatitude which we hope to obtain. But one man will not then enlighten another, according to Jer. 31:34: \"They shall teach no more every man his neighbor, and every man his brother.\" Therefore neither does an angel enlighten another now. Obj. 2: Further, light in the angels is threefold; of nature, of grace, and of glory. But an angel is enlightened in the light of nature by the Creator; in the light of grace by the Justifier; in the light of glory by the Beatifier; all of which comes from God. Therefore one angel does not enlighten another. Obj. 3: Further, light is a form in the mind. But the rational mind is \"informed by God alone, without created intervention,\" as Augustine says (QQ. 83, qu. 51). Therefore one angel does not enlighten the mind of another. _",
+      "non": "All the angels, both inferior and superior, see the Essence of God immediately, and in this respect one does not teach another. It is of this truth that the prophet speaks; wherefore he adds: \"They shall teach no more every man his brother, saying: 'Know the Lord': for all shall know Me, from the least of them even to the greatest.\" But all the types of the Divine works, which are known in God as in their cause, God knows in Himself, because He comprehends Himself; but of others who see God, each one knows the more types, the more perfectly he sees God. Hence a superior angel knows more about the types of the Divine works than an inferior angel, and concerning these the former enlightens the latter; and as to this Dionysius says (Div. Nom. iv) that the angels \"are enlightened by the types of existing things.\""
+    },
+    {
+      "sic": "It would seem that a notional act can be directed to several Persons, so that there may be several Persons begotten or spirated in God. For whoever has the power of begetting can beget. But the Son has the power of begetting. Therefore He can beget. But He cannot beget Himself: therefore He can beget another son. Therefore there can be several Sons in God. Obj. 2: Further, Augustine says (Contra Maxim. iii, 12): \"The Son did not beget a Creator: not that He could not, but that it behoved Him not.\" Obj. 3: Further, God the Father has greater power to beget than has a created father. But a man can beget several sons. Therefore God can also: the more so that the power of the Father is not diminished after begetting the Son. _",
+      "non": "We can grant, without distinction, that the Son has the same power as the Father; but we cannot grant that the Son has the power \"generandi\" [of begetting] thus taking \"generandi\" as the gerund of the active verb, so that the sense would be that the Son has the \"power to beget.\" Just as, although Father and Son have the same being, it does not follow that the Son is the Father, by reason of the notional term added. But if the word \"generandi\" [of being begotten] is taken as the gerundive of the passive verb, the power \"generandi\" is in the Son--that is, the power of being begotten. The same is to be said if it be taken as the gerundive of an impersonal verb, so that the sense be \"the power of generation\"--that is, a power by which it is generated by some person."
+    },
+    {
+      "sic": "It would seem that there are no orders among the demons. For order belongs to good, as also mode, and species, as Augustine says (De Nat. Boni iii); and",
+      "non": "Good can exist without evil; whereas evil cannot exist without good (Q. 49, A. 3); so there is order in the demons, as possessing a good nature."
+    },
+    {
+      "sic": "It would seem that the intellect can be false; for the Philosopher says (Metaph. vi, Did. v, 4) that \"truth and falsehood are in the mind.\" But the mind and intellect are the same, as is shown above (Q. 79, A. 1). Therefore falsehood may be in the mind. Obj. 2: Further, opinion and reasoning belong to the intellect. But falsehood exists in both. Therefore falsehood can be in the intellect. Obj. 3: Further, sin is in the intellectual faculty. But sin involves falsehood: for \"those err that work evil\" (Prov. 14:22). Therefore falsehood can be in the intellect. _",
+      "non": "The Philosopher says that falsehood is in the intellect in regard to composition and division. The same answer applies to the Second Objection concerning opinion and reasoning, and to the Third Objection, concerning the error of the sinner, who errs in the practical judgment of the appetible object. But in the absolute consideration of the quiddity of a thing, and of those things which are known thereby, the intellect is never deceived. In this sense are to be understood the authorities quoted in proof of the opposite conclusion."
+    },
+    {
+      "sic": "It would seem that there is no will in the angels. For as the Philosopher says (De Anima iii, text. 42), \"The will is in the reason.\" But there is no reason in the angels, but something higher than reason. Therefore there is no will in the angels, but something higher than the will. Obj. 2: Further, the will is comprised under the appetite, as is evident from the Philosopher (De Anima iii, text. 42). But the appetite argues something imperfect; because it is a desire of something not as yet possessed. Therefore, since there is no imperfection in the angels, especially in the blessed ones, it seems that there is no will in them. Obj. 3: Further, the Philosopher says (De Anima ii, text. 54) that the will is a mover which is moved; for it is moved by the appetible object understood. Now the angels are immovable, since they are incorporeal. Therefore there is no will in the angels. _",
+      "non": "Reason surpasses sense in a different way from that in which intellect surpasses reason. Reason surpasses sense according to the diversity of the objects known; for sense judges of particular objects, while reason judges of universals. Therefore there must be one appetite tending towards good in the abstract, which appetite belongs to reason; and another with a tendency towards particular good, which appetite belongs to sense. But intellect and reason differ as to their manner of knowing; because the intellect knows by simple intuition, while reason knows by a process of discursion from one thing to another. Nevertheless by such discursion reason comes to know what intellect learns without it, namely, the universal. Consequently the object presented to the appetitive faculty on the part of reason and on the part of intellect is the same. Therefore in the angels, who are purely intellectual, there is no appetite higher than the will."
+    },
+    {
+      "sic": "It seems that essence and existence are not the same in God. For if it be so, then the divine being has nothing added to it. Now being to which no addition is made is universal being which is predicated of all things. Therefore it follows that God is being in general which can be predicated of everything. But this is false: \"For men gave the incommunicable name to stones and wood\" (Wis. 14:21). Therefore God's existence is not His essence. Obj. 2: Further, we can know _whether_ God exists as said above (Q. 2, A. 2); but we cannot know _what_ He is. Therefore God's existence is not the same as His essence--that is, as His quiddity or nature. _",
+      "non": "A thing that has nothing added to it can be of two kinds. Either its essence precludes any addition; thus, for example, it is of the essence of an irrational animal to be without reason. Or we may understand a thing to have nothing added to it, inasmuch as its essence does not require that anything should be added to it; thus the genus animal is without reason, because it is not of the essence of animal in general to have reason; but neither is it to lack reason. And so the divine being has nothing added to it in the first sense; whereas universal being has nothing added to it in the second sense."
+    },
+    {
+      "sic": "It would seem that not all things are subject to the Divine government. For it is written (Eccles. 9:11): \"I saw that under the sun the race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the learned, nor favor to the skillful, but time and chance in all.\" But things subject to the Divine government are not ruled by chance. Therefore those things which are under the sun are not subject to the Divine government. Obj. 2: Further, the Apostle says (1 Cor. 9:9): \"God hath no care for oxen.\" But he that governs has care for the things he governs. Therefore all things are not subject to the Divine government. Obj. 3: Further, what can govern itself needs not to be governed by another. But the rational creature can govern itself; since it is master of its own act, and acts of itself; and is not made to act by another, which seems proper to things which are governed. Therefore all things are not subject to the Divine government. _",
+      "non": "These things are said to be under the sun which are generated and corrupted according to the sun's movement. In all such things we find chance: not that everything is casual which occurs in such things; but that in each one there is an element of chance. And the very fact that an element of chance is found in those things proves that they are subject to government of some kind. For unless corruptible things were governed by a higher being, they would tend to nothing definite, especially those which possess no kind of knowledge. So nothing would happen unintentionally; which constitutes the nature of chance. Wherefore to show how things happen by chance and yet according to the ordering of a higher cause, he does not say absolutely that he observes chance in all things, but \"time and chance,\" that is to say, that defects may be found in these things according to some order of time."
+    },
+    {
+      "sic": "It seems that to live belongs to all natural things. For the Philosopher says (Phys. viii, 1) that \"Movement is like a kind of life possessed by all things existing in nature.\" But all natural things participate in movement. Therefore all natural things partake of life. Obj. 2: Further, plants are said to live, inasmuch as they have in themselves a principle of movement of growth and decay. But local movement is naturally more perfect than, and prior to, movement of growth and decay, as the Philosopher shows (Phys. viii, 56, 57). Since then, all natural bodies have in themselves some principle of local movement, it seems that all natural bodies live. Obj. 3: Further, amongst natural bodies the elements are the less perfect. Yet life is attributed to them, for we speak of \"living waters.\" Much more, therefore, have other natural bodies life. _",
+      "non": "These words of the Philosopher may be understood either of the first movement, namely, that of the celestial bodies, or of the movement in its general sense. In either way is movement called the life, as it were, of natural bodies, speaking by a similitude, and not attributing it to them as their property. The movement of the heavens is in the universe of corporeal natures as the movement of the heart, whereby life is preserved, is in animals. Similarly also every natural movement in respect to natural things has a certain similitude to the operations of life. Hence, if the whole corporeal universe were one animal, so that its movement came from an \"intrinsic moving force,\" as some in fact have held, in that case movement would really be the life of all natural bodies."
+    },
+    {
+      "sic": "It would seem that the soul is a body. For the soul is the moving principle of the body. Nor does it move unless moved. First, because seemingly nothing can move unless it is itself moved, since nothing gives what it has not; for instance, what is not hot does not give heat. Secondly, because if there be anything that moves and is not moved, it must be the cause of eternal, unchanging movement, as we find proved Phys. viii, 6; and this does not appear to be the case in the movement of an animal, which is caused by the soul. Therefore the soul is a mover moved. But every mover moved is a body. Therefore the soul is a body. Obj. 2: Further, all knowledge is caused by means of a likeness. But there can be no likeness of a body to an incorporeal thing. If, therefore, the soul were not a body, it could not have knowledge of corporeal things. Obj. 3: Further, between the mover and the moved there must be contact. But contact is only between bodies. Since, therefore, the soul moves the body, it seems that the soul must be a body. _",
+      "non": "As everything which is in motion must be moved by something else, a process which cannot be prolonged indefinitely, we must allow that not every mover is moved. For, since to be moved is to pass from potentiality to actuality, the mover gives what it has to the thing moved, inasmuch as it causes it to be in act. But, as is shown in _Phys._ viii, 6, there is a mover which is altogether immovable, and not moved either essentially, or accidentally; and such a mover can cause an invariable movement. There is, however, another kind of mover, which, though not moved essentially, is moved accidentally; and for this reason it does not cause an invariable movement; such a mover, is the soul. There is, again, another mover, which is moved essentially--namely, the body. And because the philosophers of old believed that nothing existed but bodies, they maintained that every mover is moved; and that the soul is moved directly, and is a body."
+    },
+    {
+      "sic": "It would seem that the firmament does not divide waters from waters. For bodies that are of one and the same species have naturally one and the same place. But the Philosopher says (Topic. i, 6): \"All water is the same species.\" Water therefore cannot be distinct from water by place. Obj. 2: Further, should it be said that the waters above the firmament differ in species from those under the firmament, it may be argued,",
+      "non": "If by the firmament is understood the starry heaven, the waters above are not of the same species as those beneath. But if by the firmament is understood the cloudy region of the air, both these waters are of the same species, and two places are assigned to them, though not for the same purpose, the higher being the place of their begetting, the lower, the place of their repose."
+    },
+    {
+      "sic": "It would seem that corporeal creatures are not from God. For it is said (Eccles. 3:14): \"I have learned that all the works which God hath made, continue for ever.\" But visible bodies do not continue for ever, for it is said (2 Cor. 4:18): \"The things which are seen are temporal, but the things which are not seen are eternal.\" Therefore God did not make visible bodies. Obj. 2: Further, it is said (Gen. 1:31): \"God saw all things that He had made, and they were very good.\" But corporeal creatures are evil, since we find them harmful in many ways; as may be seen in serpents, in the sun's heat, and other things. Now a thing is called evil, in so far as it is harmful. Corporeal creatures, therefore, are not from God. Obj. 3: Further, what is from God does not withdraw us from God, but leads us to Him. But corporeal creatures withdraw us from God. Hence the Apostle (2 Cor. 4:18): \"While we look not at the things which are seen.\" Corporeal creatures, therefore, are not from God. _",
+      "non": "All the creatures of God in some respects continue for ever, at least as to matter, since what is created will never be annihilated, even though it be corruptible. And the nearer a creature approaches God, Who is immovable, the more it also is immovable. For corruptible creatures endure for ever as regards their matter, though they change as regards their substantial form. But incorruptible creatures endure with respect to their substance, though they are mutable in other respects, such as place, for instance, the heavenly bodies; or the affections, as spiritual creatures. But the Apostle's words, \"The things which are seen are temporal,\" though true even as regards such things considered in themselves (in so far as every visible creature is subject to time, either as to being or as to movement), are intended to apply to visible things in so far as they are offered to man as rewards. For such rewards, as consist in these visible things, are temporal; while those that are invisible endure for ever. Hence he said before (2 Cor. 4:17): \"It worketh for us . . . an eternal weight of glory.\""
+    },
+    {
+      "sic": "It seems that the knowledge of God is variable. For knowledge is related to what is knowable. But whatever imports relation to the creature is applied to God from time, and varies according to the variation of creatures. Therefore the knowledge of God is variable according to the variation of creatures. Obj. 2: Further, whatever God can make, He can know. But God can make more than He does. Therefore He can know more than He knows. Thus His knowledge can vary according to increase and diminution. Obj. 3: Further, God knew that Christ would be born. But He does not know now that Christ will be born; because Christ is not to be born in the future. Therefore God does not know everything He once knew; and thus the knowledge of God is variable. _",
+      "non": "\"Lord\", \"Creator\" and the like, import relations to creatures in so far as they are in themselves. But the knowledge of God imports relation to creatures in so far as they are in God; because everything is actually understood according as it is in the one who understands. Now created things are in God in an invariable manner; while they exist variably in themselves. We may also say that \"Lord\", \"Creator\" and the like, import the relations consequent upon the acts which are understood as terminating in the creatures themselves, as they are in themselves; and thus these relations are attributed to God variously, according to the variation of creatures. But \"knowledge\" and \"love,\" and the like, import relations consequent upon the acts which are understood to be in God; and therefore these are predicated of God in an invariable manner."
+    },
+    {
+      "sic": "It would seem that the intellectual soul is improperly united to such a body. For matter must be proportionate to the form. But the intellectual soul is incorruptible. Therefore it is not properly united to a corruptible body. Obj. 2: Further, the intellectual soul is a perfectly immaterial form; a proof whereof is its operation in which corporeal matter does not share. But the more subtle is the body, the less has it of matter. Therefore the soul should be united to a most subtle body, to fire, for instance, and not to a mixed body, still less to a terrestrial body. Obj. 3: Further, since the form is the principle of the species, one form cannot produce a variety of species. But the intellectual soul is one form. Therefore, it should not be united to a body which is composed of parts belonging to various species. Obj. 4: Further, what is susceptible of a more perfect form should itself be more perfect. But the intellectual soul is the most perfect of souls. Therefore since the bodies of other animals are naturally provided with a covering, for instance, with hair instead of clothes, and hoofs instead of shoes; and are, moreover, naturally provided with arms, as claws, teeth, and horns; it seems that the intellectual soul should not have been united to a body which is imperfect as being deprived of the above means of protection. _",
+      "non": "Perhaps someone might attempt to answer this by saying that before sin the human body was incorruptible. This answer does not seem sufficient; because before sin the human body was immortal not by nature, but by a gift of Divine grace; otherwise its immortality would not be forfeited through sin, as neither was the immortality of the devil. Therefore we answer otherwise by observing that in matter two conditions are to be found; one which is chosen in order that the matter be suitable to the form; the other which follows by force of the first disposition. The artisan, for instance, for the form of the saw chooses iron adapted for cutting through hard material; but that the teeth of the saw may become blunt and rusted, follows by force of the matter itself. So the intellectual soul requires a body of equable complexion, which, however, is corruptible by force of its matter. If, however, it be said that God could avoid this, we answer that in the formation of natural things we do not consider what God might do; but what is suitable to the nature of things, as Augustine says (Gen. ad lit. ii, 1). God, however, provided in this case by applying a remedy against death in the gift of grace."
+    },
+    {
+      "sic": "It seems that goodness has not the aspect of a final cause, but rather of the other causes. For, as Dionysius says (Div. Nom. iv), \"Goodness is praised as beauty.\" But beauty has the aspect of a formal cause. Therefore goodness has the aspect of a formal cause. Obj. 2: Further, goodness is self-diffusive; for Dionysius says (Div. Nom. iv) that goodness is that whereby all things subsist, and are. But to be self-giving implies the aspect of an efficient cause. Therefore goodness has the aspect of an efficient cause. Obj. 3: Further, Augustine says (De Doctr. Christ. i, 31) that \"we exist because God is good.\" But we owe our existence to God as the efficient cause. Therefore goodness implies the aspect of an efficient cause. _",
+      "non": "Beauty and goodness in a thing are identical fundamentally; for they are based upon the same thing, namely, the form; and consequently goodness is praised as beauty. But they differ logically, for goodness properly relates to the appetite (goodness being what all things desire); and therefore it has the aspect of an end (the appetite being a kind of movement towards a thing). On the other hand, beauty relates to the cognitive faculty; for beautiful things are those which please when seen. Hence beauty consists in due proportion; for the senses delight in things duly proportioned, as in what is after their own kind--because even sense is a sort of reason, just as is every cognitive faculty. Now since knowledge is by assimilation, and similarity relates to form, beauty properly belongs to the nature of a formal cause."
+    }
+  ]
+}

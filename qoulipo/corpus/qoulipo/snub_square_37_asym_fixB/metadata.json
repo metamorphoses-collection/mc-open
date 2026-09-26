@@ -1,0 +1,16 @@
+{
+  "text_id": "snub_square_37_asym_fixB",
+  "title": "snub_square_37_asym_fixB (Fix B)",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 37,
+  "canonical_E": 113,
+  "canonical_density": 0.1697,
+  "canonical_MIS": 10,
+  "canonical_rho": 0.0,
+  "canonical_optima": 500,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.0733,
+  "blockade_um": 9.0
+}

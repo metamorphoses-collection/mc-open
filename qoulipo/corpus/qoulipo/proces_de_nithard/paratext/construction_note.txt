@@ -1,0 +1,38 @@
+### The Constraint
+
+This text obeys a formal rule derived from bipartite graph theory:
+
+> **The 50 pages are divided into two groups of 25 -- the PROSECUTION (analytical, skeptical) and the DEFENSE (passionate, faithful). Each page carries 5 of 12 thematic threads. The writing constraint ensures that edges in the similarity graph (threshold=0.78, top_k=8) arise ONLY between groups, never within. The Maximum Independent Set equals one entire voice group: MIS = 25.**
+
+The 12 threads are:
+
+| # | Thread | Domain |
+|---|--------|--------|
+| 0 | BONE | Relics, skeletal remains, sarcophagus, archaeology |
+| 1 | CHRONICLE | Nithard's Historiae, historical record, testimony |
+| 2 | CONSPIRACY | Monks' plot, institutional deception |
+| 3 | FAITH | Belief, religion, devotion, miracle |
+| 4 | CARBON | Carbon-14 dating, scientific evidence |
+| 5 | FORGERY | Fabrication, fake inscriptions |
+| 6 | INK | Writing, manuscripts, calligraphy |
+| 7 | JUDGE | Law, verdict, tribunal, justice |
+| 8 | OATH | Sworn testimony, the Strasbourg Oaths |
+| 9 | PARCHMENT | Manuscripts, material culture, vellum |
+| 10 | SWORD | Violence, power, Carolingian wars |
+| 11 | TONGUE | Language, vernacular, Old French |
+
+### Bipartite Mechanism
+
+A bipartite graph has two partitions where edges cross between partitions but never run within. Here the two partitions are the two voices of a trial: the prosecution argues Nithard's bones are fabricated; the defense argues they are genuine. No prosecution page resembles another prosecution page (each makes a distinct forensic argument). No defense page resembles another defense page (each makes a distinct devotional argument). But prosecution and defense pages frequently resemble each other because both sides address the same evidence -- the same bones, the same chronicle, the same oaths.
+
+The MIS of a bipartite graph equals the size of the larger partition. Since both partitions have 25 pages, MIS = 25 -- exactly one complete voice.
+
+### Structure
+
+Two voices speak across a courtroom:
+
+- **THE PROSECUTOR**: forensic, skeptical, analytical. A modern archaeologist who has examined the evidence and concluded that the monks of Saint-Riquier fabricated the "discovery" of Nithard's bones in 1989. Every argument is grounded in carbon dating, ink analysis, paleographic inconsistency.
+
+- **THE DEFENDER**: passionate, faithful, reverent. A church historian who believes the bones are genuine, that the tradition is unbroken, that faith itself is a form of evidence. Every argument invokes the sanctity of relics, the testimony of centuries, the grace that preserves what reason cannot explain.
+
+They do not agree. They cannot agree. But every prosecution argument has a defense counterpart, and the graph connects them.

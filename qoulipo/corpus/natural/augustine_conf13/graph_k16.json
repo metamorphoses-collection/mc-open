@@ -1,0 +1,2033 @@
+{
+  "book_id": "augustine_conf13",
+  "title": "augustine_conf13",
+  "lang": "LA",
+  "N": 38,
+  "E": 395,
+  "density": 0.5619,
+  "k": 16,
+  "sim_threshold": 0.78,
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "nodes": [
+    "chapter_01",
+    "chapter_02",
+    "chapter_03",
+    "chapter_04",
+    "chapter_05",
+    "chapter_06",
+    "chapter_07",
+    "chapter_08",
+    "chapter_09",
+    "chapter_10",
+    "chapter_11",
+    "chapter_12",
+    "chapter_13",
+    "chapter_14",
+    "chapter_15",
+    "chapter_16",
+    "chapter_17",
+    "chapter_18",
+    "chapter_19",
+    "chapter_20",
+    "chapter_21",
+    "chapter_22",
+    "chapter_23",
+    "chapter_24",
+    "chapter_25",
+    "chapter_26",
+    "chapter_27",
+    "chapter_28",
+    "chapter_29",
+    "chapter_30",
+    "chapter_31",
+    "chapter_32",
+    "chapter_33",
+    "chapter_34",
+    "chapter_35",
+    "chapter_36",
+    "chapter_37",
+    "chapter_38"
+  ],
+  "edges": [
+    [
+      "chapter_01",
+      "chapter_32"
+    ],
+    [
+      "chapter_01",
+      "chapter_25"
+    ],
+    [
+      "chapter_01",
+      "chapter_24"
+    ],
+    [
+      "chapter_01",
+      "chapter_20"
+    ],
+    [
+      "chapter_01",
+      "chapter_05"
+    ],
+    [
+      "chapter_01",
+      "chapter_34"
+    ],
+    [
+      "chapter_01",
+      "chapter_09"
+    ],
+    [
+      "chapter_01",
+      "chapter_38"
+    ],
+    [
+      "chapter_01",
+      "chapter_02"
+    ],
+    [
+      "chapter_01",
+      "chapter_17"
+    ],
+    [
+      "chapter_01",
+      "chapter_19"
+    ],
+    [
+      "chapter_01",
+      "chapter_15"
+    ],
+    [
+      "chapter_01",
+      "chapter_18"
+    ],
+    [
+      "chapter_01",
+      "chapter_12"
+    ],
+    [
+      "chapter_01",
+      "chapter_08"
+    ],
+    [
+      "chapter_01",
+      "chapter_14"
+    ],
+    [
+      "chapter_01",
+      "chapter_35"
+    ],
+    [
+      "chapter_02",
+      "chapter_07"
+    ],
+    [
+      "chapter_02",
+      "chapter_05"
+    ],
+    [
+      "chapter_02",
+      "chapter_18"
+    ],
+    [
+      "chapter_02",
+      "chapter_06"
+    ],
+    [
+      "chapter_02",
+      "chapter_13"
+    ],
+    [
+      "chapter_02",
+      "chapter_22"
+    ],
+    [
+      "chapter_02",
+      "chapter_19"
+    ],
+    [
+      "chapter_02",
+      "chapter_10"
+    ],
+    [
+      "chapter_02",
+      "chapter_33"
+    ],
+    [
+      "chapter_02",
+      "chapter_23"
+    ],
+    [
+      "chapter_02",
+      "chapter_08"
+    ],
+    [
+      "chapter_02",
+      "chapter_03"
+    ],
+    [
+      "chapter_02",
+      "chapter_34"
+    ],
+    [
+      "chapter_02",
+      "chapter_20"
+    ],
+    [
+      "chapter_02",
+      "chapter_32"
+    ],
+    [
+      "chapter_02",
+      "chapter_04"
+    ],
+    [
+      "chapter_02",
+      "chapter_09"
+    ],
+    [
+      "chapter_02",
+      "chapter_11"
+    ],
+    [
+      "chapter_02",
+      "chapter_14"
+    ],
+    [
+      "chapter_02",
+      "chapter_15"
+    ],
+    [
+      "chapter_02",
+      "chapter_16"
+    ],
+    [
+      "chapter_02",
+      "chapter_17"
+    ],
+    [
+      "chapter_02",
+      "chapter_21"
+    ],
+    [
+      "chapter_02",
+      "chapter_24"
+    ],
+    [
+      "chapter_02",
+      "chapter_25"
+    ],
+    [
+      "chapter_02",
+      "chapter_27"
+    ],
+    [
+      "chapter_02",
+      "chapter_28"
+    ],
+    [
+      "chapter_02",
+      "chapter_29"
+    ],
+    [
+      "chapter_02",
+      "chapter_30"
+    ],
+    [
+      "chapter_02",
+      "chapter_31"
+    ],
+    [
+      "chapter_02",
+      "chapter_38"
+    ],
+    [
+      "chapter_03",
+      "chapter_28"
+    ],
+    [
+      "chapter_03",
+      "chapter_18"
+    ],
+    [
+      "chapter_03",
+      "chapter_34"
+    ],
+    [
+      "chapter_03",
+      "chapter_22"
+    ],
+    [
+      "chapter_03",
+      "chapter_31"
+    ],
+    [
+      "chapter_03",
+      "chapter_12"
+    ],
+    [
+      "chapter_03",
+      "chapter_33"
+    ],
+    [
+      "chapter_03",
+      "chapter_29"
+    ],
+    [
+      "chapter_03",
+      "chapter_19"
+    ],
+    [
+      "chapter_03",
+      "chapter_06"
+    ],
+    [
+      "chapter_03",
+      "chapter_13"
+    ],
+    [
+      "chapter_03",
+      "chapter_16"
+    ],
+    [
+      "chapter_03",
+      "chapter_08"
+    ],
+    [
+      "chapter_03",
+      "chapter_04"
+    ],
+    [
+      "chapter_03",
+      "chapter_10"
+    ],
+    [
+      "chapter_04",
+      "chapter_30"
+    ],
+    [
+      "chapter_04",
+      "chapter_21"
+    ],
+    [
+      "chapter_04",
+      "chapter_05"
+    ],
+    [
+      "chapter_04",
+      "chapter_19"
+    ],
+    [
+      "chapter_04",
+      "chapter_34"
+    ],
+    [
+      "chapter_04",
+      "chapter_08"
+    ],
+    [
+      "chapter_04",
+      "chapter_13"
+    ],
+    [
+      "chapter_04",
+      "chapter_06"
+    ],
+    [
+      "chapter_04",
+      "chapter_38"
+    ],
+    [
+      "chapter_04",
+      "chapter_31"
+    ],
+    [
+      "chapter_04",
+      "chapter_10"
+    ],
+    [
+      "chapter_04",
+      "chapter_07"
+    ],
+    [
+      "chapter_04",
+      "chapter_09"
+    ],
+    [
+      "chapter_04",
+      "chapter_16"
+    ],
+    [
+      "chapter_04",
+      "chapter_11"
+    ],
+    [
+      "chapter_04",
+      "chapter_27"
+    ],
+    [
+      "chapter_04",
+      "chapter_28"
+    ],
+    [
+      "chapter_04",
+      "chapter_33"
+    ],
+    [
+      "chapter_04",
+      "chapter_35"
+    ],
+    [
+      "chapter_04",
+      "chapter_36"
+    ],
+    [
+      "chapter_04",
+      "chapter_37"
+    ],
+    [
+      "chapter_05",
+      "chapter_09"
+    ],
+    [
+      "chapter_05",
+      "chapter_25"
+    ],
+    [
+      "chapter_05",
+      "chapter_30"
+    ],
+    [
+      "chapter_05",
+      "chapter_18"
+    ],
+    [
+      "chapter_05",
+      "chapter_22"
+    ],
+    [
+      "chapter_05",
+      "chapter_21"
+    ],
+    [
+      "chapter_05",
+      "chapter_24"
+    ],
+    [
+      "chapter_05",
+      "chapter_06"
+    ],
+    [
+      "chapter_05",
+      "chapter_15"
+    ],
+    [
+      "chapter_05",
+      "chapter_08"
+    ],
+    [
+      "chapter_05",
+      "chapter_14"
+    ],
+    [
+      "chapter_05",
+      "chapter_11"
+    ],
+    [
+      "chapter_05",
+      "chapter_20"
+    ],
+    [
+      "chapter_05",
+      "chapter_32"
+    ],
+    [
+      "chapter_05",
+      "chapter_12"
+    ],
+    [
+      "chapter_05",
+      "chapter_07"
+    ],
+    [
+      "chapter_05",
+      "chapter_16"
+    ],
+    [
+      "chapter_05",
+      "chapter_35"
+    ],
+    [
+      "chapter_06",
+      "chapter_29"
+    ],
+    [
+      "chapter_06",
+      "chapter_12"
+    ],
+    [
+      "chapter_06",
+      "chapter_16"
+    ],
+    [
+      "chapter_06",
+      "chapter_32"
+    ],
+    [
+      "chapter_06",
+      "chapter_19"
+    ],
+    [
+      "chapter_06",
+      "chapter_14"
+    ],
+    [
+      "chapter_06",
+      "chapter_09"
+    ],
+    [
+      "chapter_06",
+      "chapter_34"
+    ],
+    [
+      "chapter_06",
+      "chapter_10"
+    ],
+    [
+      "chapter_06",
+      "chapter_13"
+    ],
+    [
+      "chapter_06",
+      "chapter_07"
+    ],
+    [
+      "chapter_06",
+      "chapter_08"
+    ],
+    [
+      "chapter_06",
+      "chapter_36"
+    ],
+    [
+      "chapter_07",
+      "chapter_23"
+    ],
+    [
+      "chapter_07",
+      "chapter_25"
+    ],
+    [
+      "chapter_07",
+      "chapter_38"
+    ],
+    [
+      "chapter_07",
+      "chapter_16"
+    ],
+    [
+      "chapter_07",
+      "chapter_31"
+    ],
+    [
+      "chapter_07",
+      "chapter_15"
+    ],
+    [
+      "chapter_07",
+      "chapter_21"
+    ],
+    [
+      "chapter_07",
+      "chapter_08"
+    ],
+    [
+      "chapter_07",
+      "chapter_34"
+    ],
+    [
+      "chapter_07",
+      "chapter_17"
+    ],
+    [
+      "chapter_07",
+      "chapter_13"
+    ],
+    [
+      "chapter_07",
+      "chapter_09"
+    ],
+    [
+      "chapter_07",
+      "chapter_11"
+    ],
+    [
+      "chapter_08",
+      "chapter_32"
+    ],
+    [
+      "chapter_08",
+      "chapter_19"
+    ],
+    [
+      "chapter_08",
+      "chapter_15"
+    ],
+    [
+      "chapter_08",
+      "chapter_34"
+    ],
+    [
+      "chapter_08",
+      "chapter_09"
+    ],
+    [
+      "chapter_08",
+      "chapter_18"
+    ],
+    [
+      "chapter_08",
+      "chapter_13"
+    ],
+    [
+      "chapter_08",
+      "chapter_12"
+    ],
+    [
+      "chapter_08",
+      "chapter_10"
+    ],
+    [
+      "chapter_08",
+      "chapter_14"
+    ],
+    [
+      "chapter_08",
+      "chapter_16"
+    ],
+    [
+      "chapter_08",
+      "chapter_38"
+    ],
+    [
+      "chapter_09",
+      "chapter_32"
+    ],
+    [
+      "chapter_09",
+      "chapter_24"
+    ],
+    [
+      "chapter_09",
+      "chapter_19"
+    ],
+    [
+      "chapter_09",
+      "chapter_38"
+    ],
+    [
+      "chapter_09",
+      "chapter_21"
+    ],
+    [
+      "chapter_09",
+      "chapter_18"
+    ],
+    [
+      "chapter_09",
+      "chapter_13"
+    ],
+    [
+      "chapter_09",
+      "chapter_17"
+    ],
+    [
+      "chapter_09",
+      "chapter_15"
+    ],
+    [
+      "chapter_09",
+      "chapter_14"
+    ],
+    [
+      "chapter_09",
+      "chapter_11"
+    ],
+    [
+      "chapter_09",
+      "chapter_12"
+    ],
+    [
+      "chapter_09",
+      "chapter_16"
+    ],
+    [
+      "chapter_09",
+      "chapter_26"
+    ],
+    [
+      "chapter_09",
+      "chapter_35"
+    ],
+    [
+      "chapter_09",
+      "chapter_36"
+    ],
+    [
+      "chapter_09",
+      "chapter_37"
+    ],
+    [
+      "chapter_10",
+      "chapter_23"
+    ],
+    [
+      "chapter_10",
+      "chapter_29"
+    ],
+    [
+      "chapter_10",
+      "chapter_18"
+    ],
+    [
+      "chapter_10",
+      "chapter_19"
+    ],
+    [
+      "chapter_10",
+      "chapter_22"
+    ],
+    [
+      "chapter_10",
+      "chapter_12"
+    ],
+    [
+      "chapter_10",
+      "chapter_11"
+    ],
+    [
+      "chapter_10",
+      "chapter_38"
+    ],
+    [
+      "chapter_10",
+      "chapter_33"
+    ],
+    [
+      "chapter_10",
+      "chapter_13"
+    ],
+    [
+      "chapter_10",
+      "chapter_16"
+    ],
+    [
+      "chapter_10",
+      "chapter_35"
+    ],
+    [
+      "chapter_10",
+      "chapter_36"
+    ],
+    [
+      "chapter_10",
+      "chapter_37"
+    ],
+    [
+      "chapter_11",
+      "chapter_19"
+    ],
+    [
+      "chapter_11",
+      "chapter_17"
+    ],
+    [
+      "chapter_11",
+      "chapter_14"
+    ],
+    [
+      "chapter_11",
+      "chapter_23"
+    ],
+    [
+      "chapter_11",
+      "chapter_25"
+    ],
+    [
+      "chapter_11",
+      "chapter_16"
+    ],
+    [
+      "chapter_11",
+      "chapter_24"
+    ],
+    [
+      "chapter_11",
+      "chapter_38"
+    ],
+    [
+      "chapter_11",
+      "chapter_22"
+    ],
+    [
+      "chapter_11",
+      "chapter_31"
+    ],
+    [
+      "chapter_12",
+      "chapter_38"
+    ],
+    [
+      "chapter_12",
+      "chapter_22"
+    ],
+    [
+      "chapter_12",
+      "chapter_25"
+    ],
+    [
+      "chapter_12",
+      "chapter_19"
+    ],
+    [
+      "chapter_12",
+      "chapter_24"
+    ],
+    [
+      "chapter_12",
+      "chapter_34"
+    ],
+    [
+      "chapter_12",
+      "chapter_15"
+    ],
+    [
+      "chapter_12",
+      "chapter_13"
+    ],
+    [
+      "chapter_12",
+      "chapter_18"
+    ],
+    [
+      "chapter_12",
+      "chapter_14"
+    ],
+    [
+      "chapter_12",
+      "chapter_35"
+    ],
+    [
+      "chapter_13",
+      "chapter_22"
+    ],
+    [
+      "chapter_13",
+      "chapter_34"
+    ],
+    [
+      "chapter_13",
+      "chapter_19"
+    ],
+    [
+      "chapter_13",
+      "chapter_23"
+    ],
+    [
+      "chapter_13",
+      "chapter_17"
+    ],
+    [
+      "chapter_13",
+      "chapter_21"
+    ],
+    [
+      "chapter_13",
+      "chapter_27"
+    ],
+    [
+      "chapter_13",
+      "chapter_14"
+    ],
+    [
+      "chapter_13",
+      "chapter_16"
+    ],
+    [
+      "chapter_13",
+      "chapter_25"
+    ],
+    [
+      "chapter_13",
+      "chapter_26"
+    ],
+    [
+      "chapter_13",
+      "chapter_29"
+    ],
+    [
+      "chapter_13",
+      "chapter_31"
+    ],
+    [
+      "chapter_13",
+      "chapter_36"
+    ],
+    [
+      "chapter_14",
+      "chapter_21"
+    ],
+    [
+      "chapter_14",
+      "chapter_34"
+    ],
+    [
+      "chapter_14",
+      "chapter_19"
+    ],
+    [
+      "chapter_14",
+      "chapter_38"
+    ],
+    [
+      "chapter_14",
+      "chapter_17"
+    ],
+    [
+      "chapter_14",
+      "chapter_24"
+    ],
+    [
+      "chapter_14",
+      "chapter_18"
+    ],
+    [
+      "chapter_14",
+      "chapter_15"
+    ],
+    [
+      "chapter_14",
+      "chapter_26"
+    ],
+    [
+      "chapter_14",
+      "chapter_35"
+    ],
+    [
+      "chapter_14",
+      "chapter_36"
+    ],
+    [
+      "chapter_15",
+      "chapter_25"
+    ],
+    [
+      "chapter_15",
+      "chapter_23"
+    ],
+    [
+      "chapter_15",
+      "chapter_21"
+    ],
+    [
+      "chapter_15",
+      "chapter_19"
+    ],
+    [
+      "chapter_15",
+      "chapter_24"
+    ],
+    [
+      "chapter_15",
+      "chapter_17"
+    ],
+    [
+      "chapter_15",
+      "chapter_32"
+    ],
+    [
+      "chapter_15",
+      "chapter_20"
+    ],
+    [
+      "chapter_15",
+      "chapter_34"
+    ],
+    [
+      "chapter_15",
+      "chapter_18"
+    ],
+    [
+      "chapter_16",
+      "chapter_18"
+    ],
+    [
+      "chapter_16",
+      "chapter_32"
+    ],
+    [
+      "chapter_16",
+      "chapter_29"
+    ],
+    [
+      "chapter_16",
+      "chapter_17"
+    ],
+    [
+      "chapter_16",
+      "chapter_33"
+    ],
+    [
+      "chapter_16",
+      "chapter_36"
+    ],
+    [
+      "chapter_16",
+      "chapter_37"
+    ],
+    [
+      "chapter_17",
+      "chapter_27"
+    ],
+    [
+      "chapter_17",
+      "chapter_25"
+    ],
+    [
+      "chapter_17",
+      "chapter_34"
+    ],
+    [
+      "chapter_17",
+      "chapter_23"
+    ],
+    [
+      "chapter_17",
+      "chapter_24"
+    ],
+    [
+      "chapter_17",
+      "chapter_32"
+    ],
+    [
+      "chapter_17",
+      "chapter_19"
+    ],
+    [
+      "chapter_17",
+      "chapter_18"
+    ],
+    [
+      "chapter_17",
+      "chapter_21"
+    ],
+    [
+      "chapter_17",
+      "chapter_20"
+    ],
+    [
+      "chapter_17",
+      "chapter_22"
+    ],
+    [
+      "chapter_17",
+      "chapter_26"
+    ],
+    [
+      "chapter_18",
+      "chapter_22"
+    ],
+    [
+      "chapter_18",
+      "chapter_24"
+    ],
+    [
+      "chapter_18",
+      "chapter_20"
+    ],
+    [
+      "chapter_18",
+      "chapter_34"
+    ],
+    [
+      "chapter_18",
+      "chapter_21"
+    ],
+    [
+      "chapter_18",
+      "chapter_25"
+    ],
+    [
+      "chapter_18",
+      "chapter_32"
+    ],
+    [
+      "chapter_18",
+      "chapter_19"
+    ],
+    [
+      "chapter_18",
+      "chapter_23"
+    ],
+    [
+      "chapter_18",
+      "chapter_29"
+    ],
+    [
+      "chapter_18",
+      "chapter_30"
+    ],
+    [
+      "chapter_18",
+      "chapter_37"
+    ],
+    [
+      "chapter_19",
+      "chapter_34"
+    ],
+    [
+      "chapter_19",
+      "chapter_30"
+    ],
+    [
+      "chapter_19",
+      "chapter_23"
+    ],
+    [
+      "chapter_19",
+      "chapter_22"
+    ],
+    [
+      "chapter_19",
+      "chapter_24"
+    ],
+    [
+      "chapter_19",
+      "chapter_21"
+    ],
+    [
+      "chapter_19",
+      "chapter_25"
+    ],
+    [
+      "chapter_19",
+      "chapter_32"
+    ],
+    [
+      "chapter_19",
+      "chapter_20"
+    ],
+    [
+      "chapter_19",
+      "chapter_26"
+    ],
+    [
+      "chapter_19",
+      "chapter_28"
+    ],
+    [
+      "chapter_19",
+      "chapter_29"
+    ],
+    [
+      "chapter_19",
+      "chapter_33"
+    ],
+    [
+      "chapter_19",
+      "chapter_38"
+    ],
+    [
+      "chapter_20",
+      "chapter_34"
+    ],
+    [
+      "chapter_20",
+      "chapter_33"
+    ],
+    [
+      "chapter_20",
+      "chapter_27"
+    ],
+    [
+      "chapter_20",
+      "chapter_22"
+    ],
+    [
+      "chapter_20",
+      "chapter_25"
+    ],
+    [
+      "chapter_20",
+      "chapter_30"
+    ],
+    [
+      "chapter_20",
+      "chapter_23"
+    ],
+    [
+      "chapter_20",
+      "chapter_32"
+    ],
+    [
+      "chapter_20",
+      "chapter_24"
+    ],
+    [
+      "chapter_20",
+      "chapter_21"
+    ],
+    [
+      "chapter_20",
+      "chapter_26"
+    ],
+    [
+      "chapter_20",
+      "chapter_28"
+    ],
+    [
+      "chapter_20",
+      "chapter_29"
+    ],
+    [
+      "chapter_20",
+      "chapter_31"
+    ],
+    [
+      "chapter_20",
+      "chapter_38"
+    ],
+    [
+      "chapter_21",
+      "chapter_22"
+    ],
+    [
+      "chapter_21",
+      "chapter_34"
+    ],
+    [
+      "chapter_21",
+      "chapter_30"
+    ],
+    [
+      "chapter_21",
+      "chapter_24"
+    ],
+    [
+      "chapter_21",
+      "chapter_32"
+    ],
+    [
+      "chapter_21",
+      "chapter_25"
+    ],
+    [
+      "chapter_21",
+      "chapter_27"
+    ],
+    [
+      "chapter_21",
+      "chapter_23"
+    ],
+    [
+      "chapter_21",
+      "chapter_26"
+    ],
+    [
+      "chapter_21",
+      "chapter_29"
+    ],
+    [
+      "chapter_21",
+      "chapter_33"
+    ],
+    [
+      "chapter_21",
+      "chapter_36"
+    ],
+    [
+      "chapter_22",
+      "chapter_27"
+    ],
+    [
+      "chapter_22",
+      "chapter_30"
+    ],
+    [
+      "chapter_22",
+      "chapter_38"
+    ],
+    [
+      "chapter_22",
+      "chapter_31"
+    ],
+    [
+      "chapter_22",
+      "chapter_34"
+    ],
+    [
+      "chapter_22",
+      "chapter_25"
+    ],
+    [
+      "chapter_22",
+      "chapter_24"
+    ],
+    [
+      "chapter_22",
+      "chapter_23"
+    ],
+    [
+      "chapter_22",
+      "chapter_28"
+    ],
+    [
+      "chapter_22",
+      "chapter_37"
+    ],
+    [
+      "chapter_23",
+      "chapter_38"
+    ],
+    [
+      "chapter_23",
+      "chapter_31"
+    ],
+    [
+      "chapter_23",
+      "chapter_34"
+    ],
+    [
+      "chapter_23",
+      "chapter_32"
+    ],
+    [
+      "chapter_23",
+      "chapter_27"
+    ],
+    [
+      "chapter_23",
+      "chapter_25"
+    ],
+    [
+      "chapter_23",
+      "chapter_24"
+    ],
+    [
+      "chapter_23",
+      "chapter_26"
+    ],
+    [
+      "chapter_23",
+      "chapter_28"
+    ],
+    [
+      "chapter_23",
+      "chapter_30"
+    ],
+    [
+      "chapter_24",
+      "chapter_38"
+    ],
+    [
+      "chapter_24",
+      "chapter_32"
+    ],
+    [
+      "chapter_24",
+      "chapter_27"
+    ],
+    [
+      "chapter_24",
+      "chapter_26"
+    ],
+    [
+      "chapter_24",
+      "chapter_25"
+    ],
+    [
+      "chapter_24",
+      "chapter_28"
+    ],
+    [
+      "chapter_25",
+      "chapter_29"
+    ],
+    [
+      "chapter_25",
+      "chapter_32"
+    ],
+    [
+      "chapter_25",
+      "chapter_34"
+    ],
+    [
+      "chapter_25",
+      "chapter_27"
+    ],
+    [
+      "chapter_25",
+      "chapter_30"
+    ],
+    [
+      "chapter_25",
+      "chapter_26"
+    ],
+    [
+      "chapter_25",
+      "chapter_28"
+    ],
+    [
+      "chapter_25",
+      "chapter_31"
+    ],
+    [
+      "chapter_25",
+      "chapter_33"
+    ],
+    [
+      "chapter_26",
+      "chapter_28"
+    ],
+    [
+      "chapter_26",
+      "chapter_29"
+    ],
+    [
+      "chapter_26",
+      "chapter_34"
+    ],
+    [
+      "chapter_26",
+      "chapter_38"
+    ],
+    [
+      "chapter_26",
+      "chapter_31"
+    ],
+    [
+      "chapter_26",
+      "chapter_27"
+    ],
+    [
+      "chapter_27",
+      "chapter_34"
+    ],
+    [
+      "chapter_27",
+      "chapter_31"
+    ],
+    [
+      "chapter_27",
+      "chapter_32"
+    ],
+    [
+      "chapter_27",
+      "chapter_29"
+    ],
+    [
+      "chapter_27",
+      "chapter_30"
+    ],
+    [
+      "chapter_27",
+      "chapter_37"
+    ],
+    [
+      "chapter_28",
+      "chapter_33"
+    ],
+    [
+      "chapter_28",
+      "chapter_30"
+    ],
+    [
+      "chapter_28",
+      "chapter_32"
+    ],
+    [
+      "chapter_28",
+      "chapter_34"
+    ],
+    [
+      "chapter_28",
+      "chapter_31"
+    ],
+    [
+      "chapter_28",
+      "chapter_38"
+    ],
+    [
+      "chapter_28",
+      "chapter_29"
+    ],
+    [
+      "chapter_28",
+      "chapter_35"
+    ],
+    [
+      "chapter_28",
+      "chapter_36"
+    ],
+    [
+      "chapter_28",
+      "chapter_37"
+    ],
+    [
+      "chapter_29",
+      "chapter_33"
+    ],
+    [
+      "chapter_29",
+      "chapter_32"
+    ],
+    [
+      "chapter_29",
+      "chapter_37"
+    ],
+    [
+      "chapter_29",
+      "chapter_38"
+    ],
+    [
+      "chapter_29",
+      "chapter_30"
+    ],
+    [
+      "chapter_29",
+      "chapter_34"
+    ],
+    [
+      "chapter_29",
+      "chapter_31"
+    ],
+    [
+      "chapter_29",
+      "chapter_35"
+    ],
+    [
+      "chapter_29",
+      "chapter_36"
+    ],
+    [
+      "chapter_30",
+      "chapter_31"
+    ],
+    [
+      "chapter_30",
+      "chapter_38"
+    ],
+    [
+      "chapter_30",
+      "chapter_34"
+    ],
+    [
+      "chapter_30",
+      "chapter_32"
+    ],
+    [
+      "chapter_30",
+      "chapter_33"
+    ],
+    [
+      "chapter_30",
+      "chapter_35"
+    ],
+    [
+      "chapter_30",
+      "chapter_36"
+    ],
+    [
+      "chapter_30",
+      "chapter_37"
+    ],
+    [
+      "chapter_31",
+      "chapter_32"
+    ],
+    [
+      "chapter_31",
+      "chapter_34"
+    ],
+    [
+      "chapter_31",
+      "chapter_38"
+    ],
+    [
+      "chapter_31",
+      "chapter_37"
+    ],
+    [
+      "chapter_32",
+      "chapter_33"
+    ],
+    [
+      "chapter_32",
+      "chapter_34"
+    ],
+    [
+      "chapter_32",
+      "chapter_35"
+    ],
+    [
+      "chapter_33",
+      "chapter_37"
+    ],
+    [
+      "chapter_33",
+      "chapter_34"
+    ],
+    [
+      "chapter_33",
+      "chapter_38"
+    ],
+    [
+      "chapter_33",
+      "chapter_35"
+    ],
+    [
+      "chapter_33",
+      "chapter_36"
+    ],
+    [
+      "chapter_34",
+      "chapter_38"
+    ],
+    [
+      "chapter_34",
+      "chapter_35"
+    ],
+    [
+      "chapter_34",
+      "chapter_36"
+    ],
+    [
+      "chapter_34",
+      "chapter_37"
+    ],
+    [
+      "chapter_35",
+      "chapter_38"
+    ],
+    [
+      "chapter_35",
+      "chapter_37"
+    ],
+    [
+      "chapter_35",
+      "chapter_36"
+    ],
+    [
+      "chapter_36",
+      "chapter_38"
+    ],
+    [
+      "chapter_36",
+      "chapter_37"
+    ],
+    [
+      "chapter_37",
+      "chapter_38"
+    ]
+  ],
+  "edge_weights": {
+    "chapter_01|chapter_32": 0.8876958745803626,
+    "chapter_01|chapter_25": 0.8891978430518462,
+    "chapter_01|chapter_24": 0.8901735941532767,
+    "chapter_01|chapter_20": 0.8907328755187416,
+    "chapter_01|chapter_05": 0.8933664710120557,
+    "chapter_01|chapter_34": 0.8934670837676936,
+    "chapter_01|chapter_09": 0.8959618740775317,
+    "chapter_01|chapter_38": 0.8986579537263992,
+    "chapter_01|chapter_02": 0.8986877127094537,
+    "chapter_01|chapter_17": 0.8992062132212505,
+    "chapter_01|chapter_19": 0.9012068456834398,
+    "chapter_01|chapter_15": 0.9014888863222448,
+    "chapter_01|chapter_18": 0.9063190932766543,
+    "chapter_01|chapter_12": 0.9085165545590229,
+    "chapter_01|chapter_08": 0.9115670309930727,
+    "chapter_01|chapter_14": 0.9145934537665149,
+    "chapter_01|chapter_35": 0.8496746230062622,
+    "chapter_02|chapter_07": 0.9098751664622682,
+    "chapter_02|chapter_05": 0.9102035955542966,
+    "chapter_02|chapter_18": 0.9111001489990913,
+    "chapter_02|chapter_06": 0.9113476422590466,
+    "chapter_02|chapter_13": 0.9114815964349166,
+    "chapter_02|chapter_22": 0.9131637372004595,
+    "chapter_02|chapter_19": 0.913322790766823,
+    "chapter_02|chapter_10": 0.9135179691490268,
+    "chapter_02|chapter_33": 0.9144639216195293,
+    "chapter_02|chapter_23": 0.9152995028669481,
+    "chapter_02|chapter_08": 0.9161190643731264,
+    "chapter_02|chapter_03": 0.9170529818003637,
+    "chapter_02|chapter_34": 0.9184446778004579,
+    "chapter_02|chapter_20": 0.9203540086064748,
+    "chapter_02|chapter_32": 0.924113209266452,
+    "chapter_02|chapter_04": 0.938185217587166,
+    "chapter_02|chapter_09": 0.9078056640774316,
+    "chapter_02|chapter_11": 0.8979142685242062,
+    "chapter_02|chapter_14": 0.8966688478337268,
+    "chapter_02|chapter_15": 0.9065921644710829,
+    "chapter_02|chapter_16": 0.9090457672178256,
+    "chapter_02|chapter_17": 0.9057328186195844,
+    "chapter_02|chapter_21": 0.9092589508114195,
+    "chapter_02|chapter_24": 0.9087709218449689,
+    "chapter_02|chapter_25": 0.9047721942845237,
+    "chapter_02|chapter_27": 0.8932664759504255,
+    "chapter_02|chapter_28": 0.9029518814790432,
+    "chapter_02|chapter_29": 0.8984270311372934,
+    "chapter_02|chapter_30": 0.9078115866850954,
+    "chapter_02|chapter_31": 0.9030707398239328,
+    "chapter_02|chapter_38": 0.9035058566055885,
+    "chapter_03|chapter_28": 0.884396175879405,
+    "chapter_03|chapter_18": 0.8846056690074418,
+    "chapter_03|chapter_34": 0.8882234606130048,
+    "chapter_03|chapter_22": 0.8883127258507122,
+    "chapter_03|chapter_31": 0.8884244638706198,
+    "chapter_03|chapter_12": 0.8921711284445374,
+    "chapter_03|chapter_33": 0.8930848545133552,
+    "chapter_03|chapter_29": 0.8947697874513665,
+    "chapter_03|chapter_19": 0.8991054935775681,
+    "chapter_03|chapter_06": 0.9036375959461923,
+    "chapter_03|chapter_13": 0.9046865836937378,
+    "chapter_03|chapter_16": 0.9061364530050134,
+    "chapter_03|chapter_08": 0.9114472192540416,
+    "chapter_03|chapter_04": 0.9245328585960344,
+    "chapter_03|chapter_10": 0.9416007656520912,
+    "chapter_04|chapter_30": 0.8961050398933714,
+    "chapter_04|chapter_21": 0.8966984571890126,
+    "chapter_04|chapter_05": 0.8970211917645492,
+    "chapter_04|chapter_19": 0.8994433509993216,
+    "chapter_04|chapter_34": 0.9019147382915461,
+    "chapter_04|chapter_08": 0.9022078195502881,
+    "chapter_04|chapter_13": 0.9056664013054875,
+    "chapter_04|chapter_06": 0.9075137524283062,
+    "chapter_04|chapter_38": 0.909525965035862,
+    "chapter_04|chapter_31": 0.9099735811285073,
+    "chapter_04|chapter_10": 0.9100087060163615,
+    "chapter_04|chapter_07": 0.910069984376411,
+    "chapter_04|chapter_09": 0.9108396058419763,
+    "chapter_04|chapter_16": 0.910956097355656,
+    "chapter_04|chapter_11": 0.8883896126849684,
+    "chapter_04|chapter_27": 0.8922602011878669,
+    "chapter_04|chapter_28": 0.8939452957736959,
+    "chapter_04|chapter_33": 0.895817416918479,
+    "chapter_04|chapter_35": 0.8600117576977823,
+    "chapter_04|chapter_36": 0.883055070851627,
+    "chapter_04|chapter_37": 0.8825229052255832,
+    "chapter_05|chapter_09": 0.9000747375486491,
+    "chapter_05|chapter_25": 0.9007196318556369,
+    "chapter_05|chapter_30": 0.9008619911111648,
+    "chapter_05|chapter_18": 0.9017180444518383,
+    "chapter_05|chapter_22": 0.9021813088692112,
+    "chapter_05|chapter_21": 0.9022609788893015,
+    "chapter_05|chapter_24": 0.9028882678354743,
+    "chapter_05|chapter_06": 0.9037446146370768,
+    "chapter_05|chapter_15": 0.9053712057116865,
+    "chapter_05|chapter_08": 0.9071389049136906,
+    "chapter_05|chapter_14": 0.9087797400195119,
+    "chapter_05|chapter_11": 0.9100242696295685,
+    "chapter_05|chapter_20": 0.9112679971078298,
+    "chapter_05|chapter_32": 0.9121830017092146,
+    "chapter_05|chapter_12": 0.9126896980165352,
+    "chapter_05|chapter_07": 0.898220958899785,
+    "chapter_05|chapter_16": 0.8973087483333947,
+    "chapter_05|chapter_35": 0.8508541660171622,
+    "chapter_06|chapter_29": 0.893227180229696,
+    "chapter_06|chapter_12": 0.8941845092373016,
+    "chapter_06|chapter_16": 0.8951911623048794,
+    "chapter_06|chapter_32": 0.8956181536257919,
+    "chapter_06|chapter_19": 0.8993574947419404,
+    "chapter_06|chapter_14": 0.8995257693513286,
+    "chapter_06|chapter_09": 0.9036765293253137,
+    "chapter_06|chapter_34": 0.903799202824072,
+    "chapter_06|chapter_10": 0.9045076278112414,
+    "chapter_06|chapter_13": 0.9054196888288685,
+    "chapter_06|chapter_07": 0.9093691357173284,
+    "chapter_06|chapter_08": 0.9114217477149814,
+    "chapter_06|chapter_36": 0.8732248992094599,
+    "chapter_07|chapter_23": 0.8914112210375934,
+    "chapter_07|chapter_25": 0.8919363469530369,
+    "chapter_07|chapter_38": 0.8946935141455752,
+    "chapter_07|chapter_16": 0.8952270141194786,
+    "chapter_07|chapter_31": 0.8953859980110346,
+    "chapter_07|chapter_15": 0.8993433784566333,
+    "chapter_07|chapter_21": 0.8993524539122296,
+    "chapter_07|chapter_08": 0.9016480581801948,
+    "chapter_07|chapter_34": 0.9037768395394631,
+    "chapter_07|chapter_17": 0.9053402240046858,
+    "chapter_07|chapter_13": 0.9075118001494122,
+    "chapter_07|chapter_09": 0.9264047329135325,
+    "chapter_07|chapter_11": 0.8849269450740137,
+    "chapter_08|chapter_32": 0.9052789385856443,
+    "chapter_08|chapter_19": 0.9066924247249052,
+    "chapter_08|chapter_15": 0.906990869492229,
+    "chapter_08|chapter_34": 0.9075196140394561,
+    "chapter_08|chapter_09": 0.910780041272782,
+    "chapter_08|chapter_18": 0.9128209498050747,
+    "chapter_08|chapter_13": 0.9143161992367578,
+    "chapter_08|chapter_12": 0.9198573820541038,
+    "chapter_08|chapter_10": 0.9198942532226069,
+    "chapter_08|chapter_14": 0.9246077210111201,
+    "chapter_08|chapter_16": 0.8979944973934164,
+    "chapter_08|chapter_38": 0.9016779274819701,
+    "chapter_09|chapter_32": 0.8979872169864968,
+    "chapter_09|chapter_24": 0.8979978991694005,
+    "chapter_09|chapter_19": 0.8982728498130048,
+    "chapter_09|chapter_38": 0.9011965456943425,
+    "chapter_09|chapter_21": 0.9038513630336819,
+    "chapter_09|chapter_18": 0.9041986546063828,
+    "chapter_09|chapter_13": 0.9055207610794878,
+    "chapter_09|chapter_17": 0.9059113169601164,
+    "chapter_09|chapter_15": 0.9069312588824329,
+    "chapter_09|chapter_14": 0.9132793027735643,
+    "chapter_09|chapter_11": 0.8943966311916165,
+    "chapter_09|chapter_12": 0.8959765962811136,
+    "chapter_09|chapter_16": 0.8918745436109862,
+    "chapter_09|chapter_26": 0.8876807251680221,
+    "chapter_09|chapter_35": 0.860273183317091,
+    "chapter_09|chapter_36": 0.8610248101343239,
+    "chapter_09|chapter_37": 0.8743429689730337,
+    "chapter_10|chapter_23": 0.8876515159944788,
+    "chapter_10|chapter_29": 0.8876980302829932,
+    "chapter_10|chapter_18": 0.8877516682050354,
+    "chapter_10|chapter_19": 0.8896904669595233,
+    "chapter_10|chapter_22": 0.8901381019608174,
+    "chapter_10|chapter_12": 0.8903805957617236,
+    "chapter_10|chapter_11": 0.8917813105469502,
+    "chapter_10|chapter_38": 0.8931223361486716,
+    "chapter_10|chapter_33": 0.8951967788211538,
+    "chapter_10|chapter_13": 0.8967884713242468,
+    "chapter_10|chapter_16": 0.9097032549658237,
+    "chapter_10|chapter_35": 0.8520229278086017,
+    "chapter_10|chapter_36": 0.8684530264944468,
+    "chapter_10|chapter_37": 0.8740864154099142,
+    "chapter_11|chapter_19": 0.8848463778365072,
+    "chapter_11|chapter_17": 0.8872987450944143,
+    "chapter_11|chapter_14": 0.8881331869196464,
+    "chapter_11|chapter_23": 0.8881997303252024,
+    "chapter_11|chapter_25": 0.888902029457559,
+    "chapter_11|chapter_16": 0.8901305468627455,
+    "chapter_11|chapter_24": 0.8909984737967878,
+    "chapter_11|chapter_38": 0.8910079067124003,
+    "chapter_11|chapter_22": 0.894432964250874,
+    "chapter_11|chapter_31": 0.8947413661260024,
+    "chapter_12|chapter_38": 0.8908449490407294,
+    "chapter_12|chapter_22": 0.8910207012387464,
+    "chapter_12|chapter_25": 0.891587382001497,
+    "chapter_12|chapter_19": 0.8928211528330453,
+    "chapter_12|chapter_24": 0.8954864091039628,
+    "chapter_12|chapter_34": 0.8967008077368239,
+    "chapter_12|chapter_15": 0.8976386892765578,
+    "chapter_12|chapter_13": 0.9042357320851435,
+    "chapter_12|chapter_18": 0.9048093399451825,
+    "chapter_12|chapter_14": 0.9213981880707569,
+    "chapter_12|chapter_35": 0.8582296919406154,
+    "chapter_13|chapter_22": 0.9023842845269725,
+    "chapter_13|chapter_34": 0.9046283440969458,
+    "chapter_13|chapter_19": 0.9047995754781075,
+    "chapter_13|chapter_23": 0.9061257609376278,
+    "chapter_13|chapter_17": 0.9067958626589876,
+    "chapter_13|chapter_21": 0.9093817775433632,
+    "chapter_13|chapter_27": 0.910501648148935,
+    "chapter_13|chapter_14": 0.9225972501042327,
+    "chapter_13|chapter_16": 0.8960697494528138,
+    "chapter_13|chapter_25": 0.9007834064747104,
+    "chapter_13|chapter_26": 0.8922530719148466,
+    "chapter_13|chapter_29": 0.9019956664898322,
+    "chapter_13|chapter_31": 0.901872453270264,
+    "chapter_13|chapter_36": 0.858364682711882,
+    "chapter_14|chapter_21": 0.8966983919872031,
+    "chapter_14|chapter_34": 0.89720773768086,
+    "chapter_14|chapter_19": 0.8990969845248464,
+    "chapter_14|chapter_38": 0.9020047345274598,
+    "chapter_14|chapter_17": 0.9028036897365751,
+    "chapter_14|chapter_24": 0.9061702320381592,
+    "chapter_14|chapter_18": 0.9125620278074904,
+    "chapter_14|chapter_15": 0.9151136548176181,
+    "chapter_14|chapter_26": 0.8888130175174156,
+    "chapter_14|chapter_35": 0.8628589853904066,
+    "chapter_14|chapter_36": 0.8625121649727914,
+    "chapter_15|chapter_25": 0.9001013349457826,
+    "chapter_15|chapter_23": 0.9017515341209978,
+    "chapter_15|chapter_21": 0.9050971651694931,
+    "chapter_15|chapter_19": 0.9065703375380598,
+    "chapter_15|chapter_24": 0.9083836572535944,
+    "chapter_15|chapter_17": 0.9120966483495456,
+    "chapter_15|chapter_32": 0.9123389167164047,
+    "chapter_15|chapter_20": 0.9173474810197599,
+    "chapter_15|chapter_34": 0.9195991152286123,
+    "chapter_15|chapter_18": 0.9220555662714547,
+    "chapter_16|chapter_18": 0.8852288043658522,
+    "chapter_16|chapter_32": 0.886767354806136,
+    "chapter_16|chapter_29": 0.8869731096026235,
+    "chapter_16|chapter_17": 0.8888586277929972,
+    "chapter_16|chapter_33": 0.8951091468301391,
+    "chapter_16|chapter_36": 0.8704389692797591,
+    "chapter_16|chapter_37": 0.8800512910065922,
+    "chapter_17|chapter_27": 0.9008831746359001,
+    "chapter_17|chapter_25": 0.9021390848067973,
+    "chapter_17|chapter_34": 0.9039566129593024,
+    "chapter_17|chapter_23": 0.9081112257073052,
+    "chapter_17|chapter_24": 0.9093395783635626,
+    "chapter_17|chapter_32": 0.9096373077453522,
+    "chapter_17|chapter_19": 0.9154044957726317,
+    "chapter_17|chapter_18": 0.9182192388337449,
+    "chapter_17|chapter_21": 0.9185010524959283,
+    "chapter_17|chapter_20": 0.9199979878341834,
+    "chapter_17|chapter_22": 0.8994568710835213,
+    "chapter_17|chapter_26": 0.8968358360005433,
+    "chapter_18|chapter_22": 0.9045463430787036,
+    "chapter_18|chapter_24": 0.9100181362131009,
+    "chapter_18|chapter_20": 0.9117419758085373,
+    "chapter_18|chapter_34": 0.912108902241797,
+    "chapter_18|chapter_21": 0.9121675774804245,
+    "chapter_18|chapter_25": 0.9146515501142723,
+    "chapter_18|chapter_32": 0.9164031499963344,
+    "chapter_18|chapter_19": 0.9334276543136756,
+    "chapter_18|chapter_23": 0.9024783237429088,
+    "chapter_18|chapter_29": 0.8993034862849412,
+    "chapter_18|chapter_30": 0.8998623272319883,
+    "chapter_18|chapter_37": 0.8702021512738534,
+    "chapter_19|chapter_34": 0.9019597249374179,
+    "chapter_19|chapter_30": 0.9033949398588138,
+    "chapter_19|chapter_23": 0.9055342736386933,
+    "chapter_19|chapter_22": 0.9069999056562279,
+    "chapter_19|chapter_24": 0.913915096320206,
+    "chapter_19|chapter_21": 0.914057748008465,
+    "chapter_19|chapter_25": 0.917204378118097,
+    "chapter_19|chapter_32": 0.9175138079245864,
+    "chapter_19|chapter_20": 0.9273270206567795,
+    "chapter_19|chapter_26": 0.8928355997932601,
+    "chapter_19|chapter_28": 0.8895516064329368,
+    "chapter_19|chapter_29": 0.8991373527693227,
+    "chapter_19|chapter_33": 0.8913317733482731,
+    "chapter_19|chapter_38": 0.9007876094268469,
+    "chapter_20|chapter_34": 0.9046285141684262,
+    "chapter_20|chapter_33": 0.9051914224555835,
+    "chapter_20|chapter_27": 0.9078697711357182,
+    "chapter_20|chapter_22": 0.9135705656841576,
+    "chapter_20|chapter_25": 0.9172629932367012,
+    "chapter_20|chapter_30": 0.9189171265134339,
+    "chapter_20|chapter_23": 0.9217794505934573,
+    "chapter_20|chapter_32": 0.9299358926863159,
+    "chapter_20|chapter_24": 0.9304121737151899,
+    "chapter_20|chapter_21": 0.9533910937228202,
+    "chapter_20|chapter_26": 0.892367714001717,
+    "chapter_20|chapter_28": 0.9041799681832365,
+    "chapter_20|chapter_29": 0.8982246490541851,
+    "chapter_20|chapter_31": 0.9024775229251759,
+    "chapter_20|chapter_38": 0.9036498655389549,
+    "chapter_21|chapter_22": 0.910608676101478,
+    "chapter_21|chapter_34": 0.9134124650570649,
+    "chapter_21|chapter_30": 0.9150930304479026,
+    "chapter_21|chapter_24": 0.9153537949901458,
+    "chapter_21|chapter_32": 0.9166558600820007,
+    "chapter_21|chapter_25": 0.9167076719137901,
+    "chapter_21|chapter_27": 0.9189950533871771,
+    "chapter_21|chapter_23": 0.9231951704627488,
+    "chapter_21|chapter_26": 0.895981553405355,
+    "chapter_21|chapter_29": 0.8987548585359371,
+    "chapter_21|chapter_33": 0.8927649042387249,
+    "chapter_21|chapter_36": 0.8610332134950409,
+    "chapter_22|chapter_27": 0.8974275195357618,
+    "chapter_22|chapter_30": 0.8988882936789535,
+    "chapter_22|chapter_38": 0.9006849887225077,
+    "chapter_22|chapter_31": 0.9010767394014816,
+    "chapter_22|chapter_34": 0.9056282684030967,
+    "chapter_22|chapter_25": 0.9123584692500624,
+    "chapter_22|chapter_24": 0.9144061071393266,
+    "chapter_22|chapter_23": 0.9301097154120862,
+    "chapter_22|chapter_28": 0.8900004662344552,
+    "chapter_22|chapter_37": 0.8758986713066115,
+    "chapter_23|chapter_38": 0.9012736371039183,
+    "chapter_23|chapter_31": 0.9077737319573566,
+    "chapter_23|chapter_34": 0.9088998938037961,
+    "chapter_23|chapter_32": 0.9128477774837899,
+    "chapter_23|chapter_27": 0.9147353913131792,
+    "chapter_23|chapter_25": 0.9168207404312334,
+    "chapter_23|chapter_24": 0.9183886969514375,
+    "chapter_23|chapter_26": 0.8973973535912899,
+    "chapter_23|chapter_28": 0.8942078809972529,
+    "chapter_23|chapter_30": 0.8999559007433814,
+    "chapter_24|chapter_38": 0.9057054062906706,
+    "chapter_24|chapter_32": 0.9080214572989943,
+    "chapter_24|chapter_27": 0.9082490524937218,
+    "chapter_24|chapter_26": 0.9085909693893449,
+    "chapter_24|chapter_25": 0.9294541580186133,
+    "chapter_24|chapter_28": 0.8867046788364477,
+    "chapter_25|chapter_29": 0.9075269939078062,
+    "chapter_25|chapter_32": 0.9081015883002457,
+    "chapter_25|chapter_34": 0.9105504092400616,
+    "chapter_25|chapter_27": 0.9135294204001604,
+    "chapter_25|chapter_30": 0.9146559388209032,
+    "chapter_25|chapter_26": 0.9189311637585723,
+    "chapter_25|chapter_28": 0.8994676490531697,
+    "chapter_25|chapter_31": 0.8984032767392331,
+    "chapter_25|chapter_33": 0.8955411882963383,
+    "chapter_26|chapter_28": 0.8871921297298045,
+    "chapter_26|chapter_29": 0.890480989040622,
+    "chapter_26|chapter_34": 0.8950579480247135,
+    "chapter_26|chapter_38": 0.8975057845188663,
+    "chapter_26|chapter_31": 0.9054555682480827,
+    "chapter_26|chapter_27": 0.9088742197119307,
+    "chapter_27|chapter_34": 0.8960732422337261,
+    "chapter_27|chapter_31": 0.8961138902255092,
+    "chapter_27|chapter_32": 0.8968820821398977,
+    "chapter_27|chapter_29": 0.8974784822836888,
+    "chapter_27|chapter_30": 0.9109701120968108,
+    "chapter_27|chapter_37": 0.8717614584493276,
+    "chapter_28|chapter_33": 0.9043813998602834,
+    "chapter_28|chapter_30": 0.910385198591397,
+    "chapter_28|chapter_32": 0.9145077425466316,
+    "chapter_28|chapter_34": 0.9155523262338692,
+    "chapter_28|chapter_31": 0.924467652969024,
+    "chapter_28|chapter_38": 0.9253103643954084,
+    "chapter_28|chapter_29": 0.9339682772967799,
+    "chapter_28|chapter_35": 0.8704388523286497,
+    "chapter_28|chapter_36": 0.8728468131612742,
+    "chapter_28|chapter_37": 0.8836232424863135,
+    "chapter_29|chapter_33": 0.8984873583594906,
+    "chapter_29|chapter_32": 0.9058345524918063,
+    "chapter_29|chapter_37": 0.9062544618015463,
+    "chapter_29|chapter_38": 0.9150977635698021,
+    "chapter_29|chapter_30": 0.9194423644321408,
+    "chapter_29|chapter_34": 0.9199346553150289,
+    "chapter_29|chapter_31": 0.9280896588166211,
+    "chapter_29|chapter_35": 0.8537564992577371,
+    "chapter_29|chapter_36": 0.8913705875755651,
+    "chapter_30|chapter_31": 0.9073385758674555,
+    "chapter_30|chapter_38": 0.9074183505443821,
+    "chapter_30|chapter_34": 0.9133304326364856,
+    "chapter_30|chapter_32": 0.915580322064633,
+    "chapter_30|chapter_33": 0.9158056650072922,
+    "chapter_30|chapter_35": 0.8520684541663197,
+    "chapter_30|chapter_36": 0.8704217263623987,
+    "chapter_30|chapter_37": 0.8836124157761603,
+    "chapter_31|chapter_32": 0.9044458319271347,
+    "chapter_31|chapter_34": 0.9160960214036298,
+    "chapter_31|chapter_38": 0.9191115312035951,
+    "chapter_31|chapter_37": 0.8717330387461946,
+    "chapter_32|chapter_33": 0.916579587781445,
+    "chapter_32|chapter_34": 0.9238838702642204,
+    "chapter_32|chapter_35": 0.8531069675579339,
+    "chapter_33|chapter_37": 0.89474902321272,
+    "chapter_33|chapter_34": 0.8973361221405401,
+    "chapter_33|chapter_38": 0.8998299224212823,
+    "chapter_33|chapter_35": 0.8546769279035082,
+    "chapter_33|chapter_36": 0.877704861350234,
+    "chapter_34|chapter_38": 0.9200298623198098,
+    "chapter_34|chapter_35": 0.8615938077643499,
+    "chapter_34|chapter_36": 0.8781418936081109,
+    "chapter_34|chapter_37": 0.8727438899864619,
+    "chapter_35|chapter_38": 0.8860805390297358,
+    "chapter_35|chapter_37": 0.8950625344080285,
+    "chapter_35|chapter_36": 0.9018229404744663,
+    "chapter_36|chapter_38": 0.8911824047821776,
+    "chapter_36|chapter_37": 0.9133211822427905,
+    "chapter_37|chapter_38": 0.9206135085020914
+  },
+  "mis_size": 5,
+  "rigidity": 0.0,
+  "n_solutions": 54
+}

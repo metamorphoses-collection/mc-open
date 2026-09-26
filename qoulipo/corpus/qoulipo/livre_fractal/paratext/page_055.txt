@@ -1,0 +1,13 @@
+#### PAGE 46 — Bayonne and the Limit
+*Threads: TIDE, COASTLINE, ANCHOR, SEXTANT, VESSEL*
+*Voice: The Professor*
+
+Bayonne sits at the confluence of the Adour and the Nive, ten kilometers from the open Atlantic. It is a river port, not a sea port, but the tide reaches it — the bore of the Adour, the wave of salt water that pushes upriver twice a day, reaching Bayonne an hour after the ocean tide turns at the coast. The vessel that anchors at Bayonne is moored to a quay that alternates between salt water and fresh, between the coastline of the ocean and the coastline of the river.
+
+Where does the coastline end? This is the limit question — the mathematical boundary of the fractal. At what point does the coast of France stop being a coast and start being a riverbank? The sextant is useless here — the horizon is blocked by the river banks, the landmarks are bridges, the navigation is by buoys and channel markers. The anchor holds in river mud, not sand or rock. The vessel rides the tidal current, turning on its mooring with each change of tide.
+
+The answer is that the coastline does not end. The fractal boundary between salt water and fresh water — the salt wedge that advances upriver with the flood tide and retreats with the ebb — is a three-dimensional fractal, a mixing zone whose shape changes with every tide. The coastline of the ocean becomes the coastline of the estuary, becomes the coastline of the river, and at no point is there a clean break. The limit is asymptotic: the salt concentration decreases with distance from the sea but never reaches exactly zero, because the salt spray from the ocean carries a trace of the sea into the atmosphere and deposits it on the land.
+
+The sextant, the vessel, and the anchor have brought us here — to the limit of the coast, where the fractal dimension approaches 1.0 (a smooth river bank is less rough than a rocky shore) but never reaches it. The tidal signal decreases upstream but does not vanish. The coastline of France is not a closed curve; it is an open fractal that fades into the interior of the continent through the capillaries of its estuaries.
+
+Bayonne is the limit, but the limit is not a boundary. It is a gradient, a fade, a fractal dissolution.

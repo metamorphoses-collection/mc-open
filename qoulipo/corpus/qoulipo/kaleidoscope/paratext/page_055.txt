@@ -1,0 +1,1 @@
+*Written under graph-theoretic constraint. 17 groups x 3 variants = 51 pages. 15 threads, 5 per page. Disjoint K_3 cliques. MIS = 17. Solutions = 3^17 = 129,140,163. Embedder: intfloat/multilingual-e5-large (1024-dim). Target cosine similarity > 0.78 within groups, < 0.78 between groups.*

@@ -1,0 +1,28 @@
+{
+  "text_id": "ext_king_sqrt5_9x9_81",
+  "title": "Eighty-One Faces of a Pomegranate",
+  "lang": "EN",
+  "literary_status": "drafted (2026-05-05)",
+  "canonical_N": 81,
+  "canonical_E": 622,
+  "canonical_density": 0.192,
+  "canonical_MIS": 13,
+  "canonical_rho": 1.0,
+  "canonical_optima": 1,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.2298,
+  "blockade_um": 11.5,
+  "literary_form": "couplet (2 lines, hemistich-balanced)",
+  "page_count": 81,
+  "designed_property": "9\u00d79 grid with edges within Euclidean \u221a5\u00b7a (degree 20), exact 2D UDG, spectral gap 1.23\u00d7, \u03c1=1.0 unique MIS, density 0.192 \u2014 closest to Cazals hard zone the FRESNEL Rabi window allows under the spectral-gap rule",
+  "literary_references": [
+    "Yves Bonnefoy, Du mouvement et de l'immobilit\u00e9 de Douve (1953)",
+    "Pierre Reverdy, Plupart du temps (1945)",
+    "Persian bahr-e taw\u012bl (long-meter ode) tradition"
+  ],
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv (QOuLiPo: What a quantum computer sees when it reads a book)",
+  "source_contract": "node_aligned",
+  "canonical_graph_file": "graph_target.json"
+}

@@ -1,0 +1,11 @@
+# The Seminar of Suspicions
+
+Bernard Maréchal stood before his seminar and declared that henceforth every lesson would unfold as a riddle to be solved. The students numbered nineteen souls. The master reckoned them otherwise: he beheld nineteen minds, nineteen habits of perception, nineteen possible alliances against ignorance. His teaching was itself a kind of plot—not a scheme against learning, but an artifice in its service.
+
+The lesson opened with a cipher. Maréchal inscribed upon the board C(10,5) = 252 and posed his question: from ten letters chosen five at a time, how many arrangements might be fashioned? The seminar fell to silent calculation. A puzzle governed by fixed rules, the master explained, is one whose laws enumerate what may be, without dictating what must be chosen. The scholar selects from among the possibilities the law permits. The boundary—the very rule that defines the game—renders the field finite and thus comprehensible.
+
+His academy in Lille had earned a certain notoriety for skepticism. Not the political variety, but the scholarly kind: a sustained argument that medieval chronicles were often inventions, that the monks who professed to have discovered Nithard's relics were fabricators of the most audacious sort. Maréchal trained his students to catalog the contradictions in saints' lives, to reckon the likelihood that any given relic was authentic, to weigh the forged manuscripts against the genuine. Every lesson became a puzzle conducted in the language of doubt.
+
+The master's approach was itself a discipline. He would assign a tongue—compose your argument in the Carolingian vernacular, he would command—and the students would labor in a language foreign to them, discovering through the ordeal of imitation what no lecture could impart. The design was always pedagogical: by counting the cadences in a dead speech, the seminar learned that number and language are confederates, each giving form to the other.
+
+Maréchal's school produced scholars who could enumerate the deceits of twelve centuries and calculate the cost of each fraud in the coinage of forsaken truth.

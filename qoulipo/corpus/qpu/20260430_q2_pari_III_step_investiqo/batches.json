@@ -1,0 +1,50 @@
+{
+  "campaign": "Pari III quench correlator (Q2, stepped investiqo)",
+  "device": "FRESNEL_CAN1",
+  "account": "investiqo",
+  "graph": "corpus/qoulipo/pari_de_nithard_III/graph_knn.json",
+  "Omega_rad_per_us": 3.302471160888672,
+  "Delta_quench_rad_per_us": -9.907413482666016,
+  "batches": {
+    "quench_t2us_step1": {
+      "step": 1,
+      "name": "quench_t2us_step1",
+      "batch_id": "8ed17431-69a1-4439-8712-d120f81774d2",
+      "T_ns": 2000,
+      "shots": 500,
+      "protocol": "quench",
+      "N": 100,
+      "device": "FRESNEL_CAN1",
+      "account": "investiqo",
+      "n_layout_traps": 217,
+      "submitted_at": "2026-04-30 13:54:35"
+    },
+    "quench_t1us_step2": {
+      "step": 2,
+      "name": "quench_t1us_step2",
+      "batch_id": "30ffe560-3058-4ca3-bdef-833866b01bb0",
+      "T_ns": 1000,
+      "shots": 500,
+      "protocol": "quench",
+      "N": 100,
+      "device": "FRESNEL_CAN1",
+      "account": "investiqo",
+      "n_layout_traps": 217,
+      "submitted_at": "2026-04-30 15:37:55"
+    },
+    "quench_t4us_step3": {
+      "step": 3,
+      "name": "quench_t4us_step3",
+      "batch_id": "5be7cad2-eef4-42e0-8393-3e938fac4418",
+      "T_ns": 4000,
+      "shots": 500,
+      "protocol": "quench",
+      "N": 100,
+      "device": "FRESNEL_CAN1",
+      "account": "investiqo",
+      "n_layout_traps": 217,
+      "submitted_at": "2026-04-30 16:16:19"
+    }
+  },
+  "last_submitted_step": 3
+}

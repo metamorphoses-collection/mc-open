@@ -1,0 +1,602 @@
+[
+  {
+    "book": 1,
+    "num": 1,
+    "word_count": 22,
+    "id": "B1_A001"
+  },
+  {
+    "book": 1,
+    "num": 2,
+    "word_count": 42,
+    "id": "B1_A002"
+  },
+  {
+    "book": 1,
+    "num": 3,
+    "word_count": 31,
+    "id": "B1_A003"
+  },
+  {
+    "book": 1,
+    "num": 4,
+    "word_count": 17,
+    "id": "B1_A004"
+  },
+  {
+    "book": 1,
+    "num": 5,
+    "word_count": 22,
+    "id": "B1_A005"
+  },
+  {
+    "book": 1,
+    "num": 6,
+    "word_count": 22,
+    "id": "B1_A006"
+  },
+  {
+    "book": 1,
+    "num": 7,
+    "word_count": 30,
+    "id": "B1_A007"
+  },
+  {
+    "book": 1,
+    "num": 8,
+    "word_count": 34,
+    "id": "B1_A008"
+  },
+  {
+    "book": 1,
+    "num": 9,
+    "word_count": 26,
+    "id": "B1_A009"
+  },
+  {
+    "book": 1,
+    "num": 10,
+    "word_count": 27,
+    "id": "B1_A010"
+  },
+  {
+    "book": 1,
+    "num": 11,
+    "word_count": 21,
+    "id": "B1_A011"
+  },
+  {
+    "book": 1,
+    "num": 12,
+    "word_count": 27,
+    "id": "B1_A012"
+  },
+  {
+    "book": 1,
+    "num": 13,
+    "word_count": 22,
+    "id": "B1_A013"
+  },
+  {
+    "book": 1,
+    "num": 14,
+    "word_count": 41,
+    "id": "B1_A014"
+  },
+  {
+    "book": 1,
+    "num": 15,
+    "word_count": 47,
+    "id": "B1_A015"
+  },
+  {
+    "book": 1,
+    "num": 16,
+    "word_count": 45,
+    "id": "B1_A016"
+  },
+  {
+    "book": 1,
+    "num": 17,
+    "word_count": 34,
+    "id": "B1_A017"
+  },
+  {
+    "book": 1,
+    "num": 18,
+    "word_count": 47,
+    "id": "B1_A018"
+  },
+  {
+    "book": 1,
+    "num": 19,
+    "word_count": 63,
+    "id": "B1_A019"
+  },
+  {
+    "book": 1,
+    "num": 20,
+    "word_count": 39,
+    "id": "B1_A020"
+  },
+  {
+    "book": 1,
+    "num": 21,
+    "word_count": 44,
+    "id": "B1_A021"
+  },
+  {
+    "book": 1,
+    "num": 22,
+    "word_count": 52,
+    "id": "B1_A022"
+  },
+  {
+    "book": 1,
+    "num": 23,
+    "word_count": 28,
+    "id": "B1_A023"
+  },
+  {
+    "book": 1,
+    "num": 24,
+    "word_count": 101,
+    "id": "B1_A024"
+  },
+  {
+    "book": 1,
+    "num": 26,
+    "word_count": 29,
+    "id": "B1_A026"
+  },
+  {
+    "book": 1,
+    "num": 27,
+    "word_count": 23,
+    "id": "B1_A027"
+  },
+  {
+    "book": 1,
+    "num": 28,
+    "word_count": 56,
+    "id": "B1_A028"
+  },
+  {
+    "book": 1,
+    "num": 29,
+    "word_count": 22,
+    "id": "B1_A029"
+  },
+  {
+    "book": 1,
+    "num": 30,
+    "word_count": 36,
+    "id": "B1_A030"
+  },
+  {
+    "book": 1,
+    "num": 31,
+    "word_count": 32,
+    "id": "B1_A031"
+  },
+  {
+    "book": 1,
+    "num": 32,
+    "word_count": 24,
+    "id": "B1_A032"
+  },
+  {
+    "book": 1,
+    "num": 33,
+    "word_count": 43,
+    "id": "B1_A033"
+  },
+  {
+    "book": 1,
+    "num": 34,
+    "word_count": 22,
+    "id": "B1_A034"
+  },
+  {
+    "book": 1,
+    "num": 35,
+    "word_count": 51,
+    "id": "B1_A035"
+  },
+  {
+    "book": 1,
+    "num": 36,
+    "word_count": 35,
+    "id": "B1_A036"
+  },
+  {
+    "book": 1,
+    "num": 37,
+    "word_count": 52,
+    "id": "B1_A037"
+  },
+  {
+    "book": 1,
+    "num": 38,
+    "word_count": 51,
+    "id": "B1_A038"
+  },
+  {
+    "book": 1,
+    "num": 39,
+    "word_count": 28,
+    "id": "B1_A039"
+  },
+  {
+    "book": 1,
+    "num": 40,
+    "word_count": 41,
+    "id": "B1_A040"
+  },
+  {
+    "book": 1,
+    "num": 41,
+    "word_count": 58,
+    "id": "B1_A041"
+  },
+  {
+    "book": 1,
+    "num": 42,
+    "word_count": 104,
+    "id": "B1_A042"
+  },
+  {
+    "book": 1,
+    "num": 43,
+    "word_count": 79,
+    "id": "B1_A043"
+  },
+  {
+    "book": 1,
+    "num": 44,
+    "word_count": 114,
+    "id": "B1_A044"
+  },
+  {
+    "book": 1,
+    "num": 45,
+    "word_count": 100,
+    "id": "B1_A045"
+  },
+  {
+    "book": 1,
+    "num": 46,
+    "word_count": 213,
+    "id": "B1_A046"
+  },
+  {
+    "book": 1,
+    "num": 47,
+    "word_count": 72,
+    "id": "B1_A047"
+  },
+  {
+    "book": 1,
+    "num": 48,
+    "word_count": 174,
+    "id": "B1_A048"
+  },
+  {
+    "book": 1,
+    "num": 49,
+    "word_count": 72,
+    "id": "B1_A049"
+  },
+  {
+    "book": 1,
+    "num": 50,
+    "word_count": 160,
+    "id": "B1_A050"
+  },
+  {
+    "book": 1,
+    "num": 51,
+    "word_count": 65,
+    "id": "B1_A051"
+  },
+  {
+    "book": 1,
+    "num": 52,
+    "word_count": 42,
+    "id": "B1_A052"
+  },
+  {
+    "book": 1,
+    "num": 53,
+    "word_count": 44,
+    "id": "B1_A053"
+  },
+  {
+    "book": 1,
+    "num": 54,
+    "word_count": 95,
+    "id": "B1_A054"
+  },
+  {
+    "book": 1,
+    "num": 55,
+    "word_count": 72,
+    "id": "B1_A055"
+  },
+  {
+    "book": 1,
+    "num": 56,
+    "word_count": 92,
+    "id": "B1_A056"
+  },
+  {
+    "book": 1,
+    "num": 57,
+    "word_count": 86,
+    "id": "B1_A057"
+  },
+  {
+    "book": 1,
+    "num": 58,
+    "word_count": 65,
+    "id": "B1_A058"
+  },
+  {
+    "book": 1,
+    "num": 59,
+    "word_count": 160,
+    "id": "B1_A059"
+  },
+  {
+    "book": 1,
+    "num": 60,
+    "word_count": 331,
+    "id": "B1_A060"
+  },
+  {
+    "book": 1,
+    "num": 61,
+    "word_count": 216,
+    "id": "B1_A061"
+  },
+  {
+    "book": 1,
+    "num": 62,
+    "word_count": 267,
+    "id": "B1_A062"
+  },
+  {
+    "book": 1,
+    "num": 63,
+    "word_count": 243,
+    "id": "B1_A063"
+  },
+  {
+    "book": 1,
+    "num": 64,
+    "word_count": 150,
+    "id": "B1_A064"
+  },
+  {
+    "book": 1,
+    "num": 65,
+    "word_count": 214,
+    "id": "B1_A065"
+  },
+  {
+    "book": 1,
+    "num": 66,
+    "word_count": 661,
+    "id": "B1_A066"
+  },
+  {
+    "book": 1,
+    "num": 67,
+    "word_count": 232,
+    "id": "B1_A067"
+  },
+  {
+    "book": 1,
+    "num": 68,
+    "word_count": 54,
+    "id": "B1_A068"
+  },
+  {
+    "book": 1,
+    "num": 69,
+    "word_count": 189,
+    "id": "B1_A069"
+  },
+  {
+    "book": 1,
+    "num": 70,
+    "word_count": 393,
+    "id": "B1_A070"
+  },
+  {
+    "book": 1,
+    "num": 71,
+    "word_count": 351,
+    "id": "B1_A071"
+  },
+  {
+    "book": 1,
+    "num": 72,
+    "word_count": 177,
+    "id": "B1_A072"
+  },
+  {
+    "book": 1,
+    "num": 73,
+    "word_count": 236,
+    "id": "B1_A073"
+  },
+  {
+    "book": 1,
+    "num": 74,
+    "word_count": 122,
+    "id": "B1_A074"
+  },
+  {
+    "book": 1,
+    "num": 75,
+    "word_count": 253,
+    "id": "B1_A075"
+  },
+  {
+    "book": 1,
+    "num": 76,
+    "word_count": 88,
+    "id": "B1_A076"
+  },
+  {
+    "book": 1,
+    "num": 77,
+    "word_count": 293,
+    "id": "B1_A077"
+  },
+  {
+    "book": 1,
+    "num": 78,
+    "word_count": 208,
+    "id": "B1_A078"
+  },
+  {
+    "book": 1,
+    "num": 79,
+    "word_count": 286,
+    "id": "B1_A079"
+  },
+  {
+    "book": 1,
+    "num": 80,
+    "word_count": 209,
+    "id": "B1_A080"
+  },
+  {
+    "book": 1,
+    "num": 81,
+    "word_count": 226,
+    "id": "B1_A081"
+  },
+  {
+    "book": 1,
+    "num": 82,
+    "word_count": 383,
+    "id": "B1_A082"
+  },
+  {
+    "book": 1,
+    "num": 83,
+    "word_count": 85,
+    "id": "B1_A083"
+  },
+  {
+    "book": 1,
+    "num": 84,
+    "word_count": 262,
+    "id": "B1_A084"
+  },
+  {
+    "book": 1,
+    "num": 85,
+    "word_count": 652,
+    "id": "B1_A085"
+  },
+  {
+    "book": 1,
+    "num": 86,
+    "word_count": 168,
+    "id": "B1_A086"
+  },
+  {
+    "book": 1,
+    "num": 87,
+    "word_count": 216,
+    "id": "B1_A087"
+  },
+  {
+    "book": 1,
+    "num": 88,
+    "word_count": 453,
+    "id": "B1_A088"
+  },
+  {
+    "book": 1,
+    "num": 89,
+    "word_count": 457,
+    "id": "B1_A089"
+  },
+  {
+    "book": 1,
+    "num": 90,
+    "word_count": 201,
+    "id": "B1_A090"
+  },
+  {
+    "book": 1,
+    "num": 91,
+    "word_count": 103,
+    "id": "B1_A091"
+  },
+  {
+    "book": 1,
+    "num": 92,
+    "word_count": 388,
+    "id": "B1_A092"
+  },
+  {
+    "book": 1,
+    "num": 93,
+    "word_count": 125,
+    "id": "B1_A093"
+  },
+  {
+    "book": 1,
+    "num": 94,
+    "word_count": 225,
+    "id": "B1_A094"
+  },
+  {
+    "book": 1,
+    "num": 95,
+    "word_count": 96,
+    "id": "B1_A095"
+  },
+  {
+    "book": 1,
+    "num": 96,
+    "word_count": 49,
+    "id": "B1_A096"
+  },
+  {
+    "book": 1,
+    "num": 97,
+    "word_count": 225,
+    "id": "B1_A097"
+  },
+  {
+    "book": 1,
+    "num": 98,
+    "word_count": 314,
+    "id": "B1_A098"
+  },
+  {
+    "book": 1,
+    "num": 99,
+    "word_count": 123,
+    "id": "B1_A099"
+  },
+  {
+    "book": 1,
+    "num": 100,
+    "word_count": 67,
+    "id": "B1_A100"
+  },
+  {
+    "book": 1,
+    "num": 101,
+    "word_count": 89,
+    "id": "B1_A101"
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "text_id": "triangular_hex_37",
+  "N": 37,
+  "MIS_size": 13,
+  "rho": 1.0,
+  "num_optima_capped": 1,
+  "MIS_pages": [
+    "page_001",
+    "page_004",
+    "page_007",
+    "page_011",
+    "page_014",
+    "page_016",
+    "page_019",
+    "page_022",
+    "page_024",
+    "page_027",
+    "page_031",
+    "page_034",
+    "page_037"
+  ],
+  "MIS_atoms": [
+    0,
+    3,
+    6,
+    10,
+    13,
+    15,
+    18,
+    21,
+    23,
+    26,
+    30,
+    33,
+    36
+  ],
+  "MIS_roman_labels": {
+    "page_001": "I",
+    "page_004": "II",
+    "page_007": "III",
+    "page_011": "IV",
+    "page_014": "V",
+    "page_016": "VI",
+    "page_019": "VII",
+    "page_022": "VIII",
+    "page_024": "IX",
+    "page_027": "X",
+    "page_031": "XI",
+    "page_034": "XII",
+    "page_037": "XIII"
+  },
+  "method": "ILP via PuLP/CBC; verified independently against canonical UDG edge set"
+}

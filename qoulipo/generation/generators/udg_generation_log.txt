@@ -1,0 +1,19 @@
+
+==================================================
+Generating UDG N=65, target d=0.35
+
+==================================================
+Generating UDG N=100, FRESNEL_CAN1 constraints
+Date: 2026-04-08
+Seed: 31415
+Spacing: 5.2 µm (hex grid)
+Perturbation sigma: 0.2 µm
+Min pair distance: 5.002 µm (constraint >= 5.0)
+Max radial distance: 27.742 µm (constraint <= 46.0)
+Blockade radius: 8.0 µm
+Edges: 261
+Density: 0.0527
+Degrees: min=2, max=6, mean=5.22
+MIS size: 37 (density 0.3700)
+Output: graph_udg_100.json
+==================================================

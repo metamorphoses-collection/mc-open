@@ -1,0 +1,32 @@
+{
+  "text_id": "friars_notebook",
+  "title": "The Friar's Notebook",
+  "lang": "EN",
+  "canonical_N": 20,
+  "canonical_graph_file": "graph_designed.json",
+  "canonical_E": 30,
+  "canonical_density": 0.1579,
+  "canonical_MIS": 8,
+  "canonical_rho": 0.0,
+  "canonical_optima": 5,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "exact_3D_UBG",
+  "subtitle": "Twenty Sketches by Brother Luca",
+  "author_attribution": "fictional, attributed to Luca Pacioli (1447-1517)",
+  "type": "qoulipo_engineered",
+  "designed_property": "Pacioli dodecahedron, 3D unit-ball graph (each page = one vertex; 3 edge-motifs per page, one per incident dodecahedral edge)",
+  "register_target": "3D, not 2L-realisable",
+  "project": "QOuLiPo",
+  "design_v2": {
+    "principle": "One motif per dodecahedron edge, not per page. 30 motifs total; each page carries exactly 3 motifs (one per incident edge). Adjacent pages share exactly 1 motif; non-adjacent pages share 0.",
+    "T_motifs": 30,
+    "m_motifs_per_page": 3,
+    "tau_edge_threshold": 1,
+    "reports_at_k": 3,
+    "design_doc": "v2_design/FRIARS_NOTEBOOK_v2_DESIGN.md",
+    "thread_matrix": "v2_design/thread_matrix_v2.json",
+    "verifier": "v2_design/build_friars_v2.py"
+  },
+  "flagship_status": "flagship (per GPT-5.5 audit, 2026-04-26)",
+  "source_contract": "node_aligned"
+}

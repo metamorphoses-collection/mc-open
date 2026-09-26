@@ -1,0 +1,28 @@
+{
+  "folder": "mishnah_avot",
+  "corpus_kind": "natural",
+  "title": "Mishnah Avot + Bartenura commentary (bilayer)",
+  "lang": "HE+IT",
+  "N": 34,
+  "MIS_size": 9,
+  "MIS_pages": [
+    "M_1_1",
+    "M_1_9",
+    "M_1_10",
+    "M_1_14",
+    "M_1_16",
+    "M_2_6",
+    "M_2_10",
+    "M_2_11",
+    "M_2_15"
+  ],
+  "MIS_words": 189,
+  "full_words": 5368,
+  "summary_words": 247,
+  "cos_mis_summary": 0.8193359375,
+  "cos_mis_full": 0.94384765625,
+  "cos_summary_full": 0.78955078125,
+  "interpretation": "intermediate",
+  "mis_sequence_preview": "משֶׁה קִבֵּל תּוֹרָה מִסִּינַי, וּמְסָרָהּ לִיהוֹשֻׁעַ, וִיהוֹשֻׁעַ לִזְקֵנִים, וּזְקֵנִים לִנְבִיאִים, וּנְבִיאִים מְסָרוּהָ לְאַנְשֵׁי כְנֶסֶת הַגְּדוֹלָה. הֵם אָמְרוּ שְׁלשָׁה דְבָרִים, הֱווּ מְתוּנִים בַּדִּין, וְהַעֲמִידוּ תַלְמִידִים הַרְבֵּה, וַעֲשׂוּ סְיָג לַתּוֹרָה:\n\n---\n\nשִׁמְעוֹן בֶּן שָׁטָח אוֹמֵר, הֱוֵי מַרְבֶּה לַחְקֹר אֶת הָעֵדִים, וֶהֱוֵי זָהִיר בִּדְבָרֶיךָ, שֶׁמָּא מִתּוֹכָם יִלְמְדוּ לְשַׁקֵּר:\n\n---\n\nשְׁמַעְיָה וְאַבְטַלְיוֹן קִבְּלוּ מֵהֶם. שְׁמַעְיָה אוֹמֵר, אֱהֹב אֶת הַמְּל...",
+  "summary": "This commentary on Pirkei Avot (Ethics of the Fathers) explains the tractate's opening and early teachings with characteristic rabbinic precision and ethical insight. The commentator begins by addressing why the tractate opens with \"Moses received the Torah from Sinai\"—to establish that unlike other Mishnaic tractates focused on specific commandments, this one deals with moral teachings and character traits. Since gentile philosophers also composed ethical works from human wisdom, the opening emphasizes that these teachings too were given at Sinai, passed through an unbroken chain from Moses through Joshua, the elders, prophets, and the Men of the Great Assembly.\n\nThe commentary meticulously explicates each sage's teaching. On the Great Assembly's three principles—being deliberate in judgment, raising many students, and making a fence around the Torah—it clarifies their practical meanings and Torah sources. The Hillelite emphasis on loving peace actively, pursuing it between quarreling parties, and drawing people to Torah through kindness receives extended treatment, contrasting with Shammai's advocacy for making Torah study primary, saying little but doing much, and receiving everyone graciously.\n\nThe voice throughout is pedagogical and interpretive, offering multiple explanations for difficult phrases, drawing on Talmudic sources, and connecting abstract principles to concrete behavior. Aphorisms like \"If I am not for myself, who will be\" and warnings about increasing wealth, wives, or flesh are unpacked to reveal their ethical implications. The commentary's characteristic move is to show how rabbinic wisdom—whether about judicial procedure, Torah study, or interpersonal conduct—stems from divine revelation while addressing universal human situations."
+}

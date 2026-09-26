@@ -1,0 +1,9 @@
+Je pose d'emblée un paradoxe : toute preuve s'ancre dans un langage, et tout langage impose sa contrainte. Le théorème n'est pas le nombre qu'il énonce mais la notation où il prend corps. La démonstration tient sa structure du formalisme retenu, et ce choix relève lui-même de la conjecture — pari tacite que les symboles suffiront à saisir le vrai.
+
+Pascal rédigeait ses preuves dans une langue à peine reconnue de ses pairs. Sa notation du triangle arithmétique — ces nombres disposés par rangs, chaque chiffre somme des deux qui le dominent — fixait les règles d'un jeu combinatoire. Le calcul des combinaisons réclamait un symbolisme neuf, et le formalisme qu'inventa Pascal devint la syntaxe même de la théorie des nombres. Chaque expression constituait une contrainte : écrire C(n,k) plutôt que décrire en mots le nombre de façons de choisir k objets parmi n.
+
+Toute démonstration repose sur la conjecture que le langage formel ne recèle aucune erreur latente. Le paradoxe du formalisme tient à ce que chaque notation ouvre la voie au sophisme inaperçu : symbole mal défini, expression équivoque, calcul dont la structure dissimule une faille. Le théorème se donne pour preuve de vérité, mais la démonstration n'est qu'un jeu de règles, et les règles dépendent du langage.
+
+Le nombre de notations possibles pour exprimer une même vérité combinatoire devient lui-même objet de calcul. Pascal le savait : un même théorème s'énonce en latin, en français, en langage géométrique ou en formalisme arithmétique. Chaque expression obéit à sa contrainte propre, chaque structure révèle une face distincte du nombre. La conjecture veut que toutes ces notations convergent — que le paradoxe d'une multiplicité de langages se résorbe dans l'unité de la preuve.
+
+Comptez les symboles sur cette page. Ils obéissent à une règle que vous ne discernez pas encore.

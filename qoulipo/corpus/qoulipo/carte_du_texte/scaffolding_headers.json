@@ -1,0 +1,232 @@
+{
+  "page_005": [
+    "#### PAGE 00 — The Forge on the Summit",
+    "*Voice: Nithard*",
+    "*Grid: r0c0 | Threads: FAITH, FIRE, IRON, SILK, SWORD*"
+  ],
+  "page_006": [
+    "#### PAGE 01 — The Bone-Field Above the Clouds",
+    "*Voice: Nithard*",
+    "*Grid: r0c1 | Threads: BONE, FAITH, FIRE, GAME, SWORD*"
+  ],
+  "page_007": [
+    "#### PAGE 02 — The Inscriptions That Burn",
+    "*Voice: The Professor*",
+    "*Grid: r0c2 | Threads: BONE, FIRE, INK, SWORD, WAGER*"
+  ],
+  "page_008": [
+    "#### PAGE 03 — The Counting of Shadows",
+    "*Voice: Pascal*",
+    "*Grid: r0c3 | Threads: INK, NUMBER, SHADOW, SWORD, WAGER*"
+  ],
+  "page_009": [
+    "#### PAGE 04 — The Teacher's Ledger",
+    "*Voice: The Professor*",
+    "*Grid: r0c4 | Threads: GAME, INK, MALIETTE, NUMBER, WAGER*"
+  ],
+  "page_010": [
+    "#### PAGE 05 — The Vernacular of the Peaks",
+    "*Voice: The Professor*",
+    "*Grid: r0c5 | Threads: GAME, MALIETTE, NUMBER, SWORD, TONGUE*"
+  ],
+  "page_011": [
+    "#### PAGE 06 — The Parchment of Tongues",
+    "*Voice: Nithard*",
+    "*Grid: r0c6 | Threads: BONE, NUMBER, PARCHMENT, SWORD, TONGUE*"
+  ],
+  "page_012": [
+    "#### PAGE 07 — The Iron Beneath the Prayer",
+    "*Voice: Nithard*",
+    "*Grid: r0c7 | Threads: BONE, IRON, PARCHMENT, STONE, TONGUE*"
+  ],
+  "page_013": [
+    "#### PAGE 08 — The Wind's Confession",
+    "*Voice: Pascal*",
+    "*Grid: r0c8 | Threads: BONE, FAITH, PARCHMENT, STONE, WIND*"
+  ],
+  "page_014": [
+    "#### PAGE 09 — The Shadow in the Iron",
+    "*Voice: Pascal*",
+    "*Grid: r0c9 | Threads: FAITH, IRON, SHADOW, STONE, WIND*"
+  ],
+  "page_016": [
+    "#### PAGE 10 — The Banner on the Wind",
+    "*Voice: Nithard*",
+    "*Grid: r1c0 | Threads: FIRE, SILK, SWORD, TONGUE, WIND*"
+  ],
+  "page_017": [
+    "#### PAGE 11 — The Bones the Wind Carried",
+    "*Voice: The Professor*",
+    "*Grid: r1c1 | Threads: BONE, FIRE, GAME, SILK, WIND*"
+  ],
+  "page_018": [
+    "#### PAGE 12 — The Silkworm's Ink",
+    "*Voice: Pascal*",
+    "*Grid: r1c2 | Threads: BONE, FIRE, INK, SHADOW, SILK*"
+  ],
+  "page_019": [
+    "#### PAGE 13 — The Numerology of Soot",
+    "*Voice: Pascal*",
+    "*Grid: r1c3 | Threads: FIRE, INK, NUMBER, SHADOW, STONE*"
+  ],
+  "page_020": [
+    "#### PAGE 14 — The Game in the Mirror",
+    "*Voice: The Professor*",
+    "*Grid: r1c4 | Threads: FIRE, GAME, INK, MIRROR, NUMBER*"
+  ],
+  "page_021": [
+    "#### PAGE 15 — The Conspiracy of Tongues",
+    "*Voice: The Professor*",
+    "*Grid: r1c5 | Threads: CONSPIRACY, GAME, MIRROR, NUMBER, TONGUE*"
+  ],
+  "page_022": [
+    "#### PAGE 16 — The Parchment Wager",
+    "*Voice: Pascal*",
+    "*Grid: r1c6 | Threads: CONSPIRACY, NUMBER, PARCHMENT, TONGUE, WAGER*"
+  ],
+  "page_023": [
+    "#### PAGE 17 — The Stone Chronicle",
+    "*Voice: Nithard*",
+    "*Grid: r1c7 | Threads: CHRONICLE, PARCHMENT, STONE, TONGUE, WAGER*"
+  ],
+  "page_024": [
+    "#### PAGE 18 — The Sword in the Sanctuary",
+    "*Voice: Nithard*",
+    "*Grid: r1c8 | Threads: CHRONICLE, FAITH, PARCHMENT, STONE, SWORD*"
+  ],
+  "page_025": [
+    "#### PAGE 19 — The Water Beneath the Stone",
+    "*Voice: Pascal*",
+    "*Grid: r1c9 | Threads: FAITH, SHADOW, STONE, SWORD, WATER*"
+  ],
+  "page_027": [
+    "#### PAGE 20 — The Conspiracy of Fires",
+    "*Voice: Nithard*",
+    "*Grid: r2c0 | Threads: CONSPIRACY, FIRE, SWORD, WATER, WIND*"
+  ],
+  "page_028": [
+    "#### PAGE 21 — The Teacher's River",
+    "*Voice: The Professor*",
+    "*Grid: r2c1 | Threads: BONE, FIRE, MALIETTE, WATER, WIND*"
+  ],
+  "page_029": [
+    "#### PAGE 22 — The Mirror of Bones",
+    "*Voice: The Professor*",
+    "*Grid: r2c2 | Threads: BONE, FIRE, MALIETTE, MIRROR, SHADOW*"
+  ],
+  "page_030": [
+    "#### PAGE 23 — The Chronicle of Flames",
+    "*Voice: Nithard*",
+    "*Grid: r2c3 | Threads: CHRONICLE, FIRE, MIRROR, SHADOW, STONE*"
+  ],
+  "page_031": [
+    "#### PAGE 24 — The Inked Mirror",
+    "*Voice: The Professor*",
+    "*Grid: r2c4 | Threads: CHRONICLE, GAME, INK, MIRROR, STONE*"
+  ],
+  "page_032": [
+    "#### PAGE 25 — The Conspiracy of Stones",
+    "*Voice: The Professor*",
+    "*Grid: r2c5 | Threads: CHRONICLE, CONSPIRACY, GAME, NUMBER, STONE*"
+  ],
+  "page_033": [
+    "#### PAGE 26 — The Parchment of Water",
+    "*Voice: Nithard*",
+    "*Grid: r2c6 | Threads: CHRONICLE, CONSPIRACY, NUMBER, PARCHMENT, WATER*"
+  ],
+  "page_034": [
+    "#### PAGE 27 — The Wager of the Forgers",
+    "*Voice: The Professor*",
+    "*Grid: r2c7 | Threads: CHRONICLE, CONSPIRACY, INK, PARCHMENT, WAGER*"
+  ],
+  "page_035": [
+    "#### PAGE 28 — The Faith of the Copyist",
+    "*Voice: Pascal*",
+    "*Grid: r2c8 | Threads: CHRONICLE, FAITH, INK, PARCHMENT, SHADOW*"
+  ],
+  "page_036": [
+    "#### PAGE 29 — The Game of Rain",
+    "*Voice: The Professor*",
+    "*Grid: r2c9 | Threads: FAITH, GAME, PARCHMENT, SHADOW, WATER*"
+  ],
+  "page_038": [
+    "#### PAGE 30 — The Ink of Conspirators",
+    "*Voice: Pascal*",
+    "*Grid: r3c0 | Threads: CONSPIRACY, INK, SHADOW, WATER, WIND*"
+  ],
+  "page_039": [
+    "#### PAGE 31 — The Market of Winds",
+    "*Voice: The Professor*",
+    "*Grid: r3c1 | Threads: MALIETTE, SHADOW, TONGUE, WATER, WIND*"
+  ],
+  "page_040": [
+    "#### PAGE 32 — The Bone Dial",
+    "*Voice: The Professor*",
+    "*Grid: r3c2 | Threads: BONE, MIRROR, SHADOW, TONGUE, WIND*"
+  ],
+  "page_041": [
+    "#### PAGE 33 — The Silk of Shadows",
+    "*Voice: Pascal*",
+    "*Grid: r3c3 | Threads: MIRROR, SHADOW, SILK, STONE, TONGUE*"
+  ],
+  "page_042": [
+    "#### PAGE 34 — The Faith of the Merchant",
+    "*Voice: Pascal*",
+    "*Grid: r3c4 | Threads: FAITH, GAME, MIRROR, SILK, STONE*"
+  ],
+  "page_043": [
+    "#### PAGE 35 — The Conspiracy of Silk",
+    "*Voice: The Professor*",
+    "*Grid: r3c5 | Threads: CONSPIRACY, GAME, SILK, STONE, WATER*"
+  ],
+  "page_044": [
+    "#### PAGE 36 — The Chronicle of Silk",
+    "*Voice: Nithard*",
+    "*Grid: r3c6 | Threads: CHRONICLE, CONSPIRACY, MALIETTE, SILK, WATER*"
+  ],
+  "page_045": [
+    "#### PAGE 37 — The Iron Teacher",
+    "*Voice: The Professor*",
+    "*Grid: r3c7 | Threads: CHRONICLE, CONSPIRACY, INK, IRON, MALIETTE*"
+  ],
+  "page_046": [
+    "#### PAGE 38 — The Parchment Smith",
+    "*Voice: The Professor*",
+    "*Grid: r3c8 | Threads: FAITH, INK, IRON, MALIETTE, PARCHMENT*"
+  ],
+  "page_047": [
+    "#### PAGE 39 — The Mirror in the Water",
+    "*Voice: Pascal*",
+    "*Grid: r3c9 | Threads: FAITH, IRON, MIRROR, PARCHMENT, WATER*"
+  ],
+  "page_049": [
+    "#### PAGE 40 — The Iron Tide",
+    "*Voice: The Professor*",
+    "*Grid: r4c0 | Threads: INK, IRON, SILK, WATER, WIND*"
+  ],
+  "page_050": [
+    "#### PAGE 41 — The Chronicle of Currents",
+    "*Voice: Nithard*",
+    "*Grid: r4c1 | Threads: CHRONICLE, IRON, TONGUE, WATER, WIND*"
+  ],
+  "page_051": [
+    "#### PAGE 42 — The Wager of the Wind",
+    "*Voice: Pascal*",
+    "*Grid: r4c2 | Threads: IRON, MIRROR, TONGUE, WAGER, WIND*"
+  ],
+  "page_052": [
+    "#### PAGE 43 — The Tongue of Iron",
+    "*Voice: Pascal*",
+    "*Grid: r4c3 | Threads: IRON, MIRROR, SILK, TONGUE, WAGER*"
+  ],
+  "page_053": [
+    "#### PAGE 44 — The Sword at the Mirror's Edge",
+    "*Voice: The Professor*",
+    "*Grid: r4c4 | Threads: GAME, MIRROR, SILK, SWORD, WAGER*"
+  ],
+  "page_054": [
+    "#### PAGE 45 — The Conspiracy of Players",
+    "*Voice: The Professor*",
+    "*Grid: r4c5 | Threads: CONSPIRACY, GAME, SILK, SWORD, WAGER*"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "galileo_k16": {
+    "total_shots": 1000,
+    "valid": 0,
+    "invalid": 1000,
+    "valid_frac": 0.0,
+    "best_valid_IS": 0,
+    "ratio_vs_classical_MIS": 0.0,
+    "weight_hist": {
+      "8": 2,
+      "11": 2,
+      "12": 7,
+      "13": 15,
+      "14": 21,
+      "15": 44,
+      "16": 68,
+      "17": 98,
+      "18": 143,
+      "19": 172,
+      "20": 166,
+      "21": 121,
+      "22": 73,
+      "23": 44,
+      "24": 18,
+      "25": 5,
+      "26": 1
+    }
+  },
+  "stanze_topup": {
+    "total_shots": 500,
+    "valid": 248,
+    "invalid": 252,
+    "valid_frac": 0.496,
+    "best_valid_IS": 9,
+    "ratio_vs_classical_MIS": 1.0,
+    "weight_hist": {
+      "3": 4,
+      "4": 7,
+      "5": 32,
+      "6": 94,
+      "7": 155,
+      "8": 125,
+      "9": 68,
+      "10": 12,
+      "11": 2,
+      "12": 1
+    }
+  },
+  "castello_49_topup": {
+    "total_shots": 750,
+    "valid": 142,
+    "invalid": 608,
+    "valid_frac": 0.18933333333333333,
+    "best_valid_IS": 15,
+    "ratio_vs_classical_MIS": 0.9375,
+    "weight_hist": {
+      "6": 1,
+      "7": 2,
+      "8": 7,
+      "9": 19,
+      "10": 59,
+      "11": 121,
+      "12": 145,
+      "13": 168,
+      "14": 131,
+      "15": 67,
+      "16": 20,
+      "17": 8,
+      "18": 1,
+      "20": 1
+    }
+  },
+  "pari_II_quench_t0_5us": {
+    "total_shots": 937,
+    "valid": 806,
+    "invalid": 131,
+    "valid_frac": 0.8601921024546425,
+    "best_valid_IS": 3,
+    "ratio_vs_classical_MIS": 0.375,
+    "weight_hist": {
+      "0": 347,
+      "1": 343,
+      "2": 149,
+      "3": 66,
+      "4": 23,
+      "5": 5,
+      "6": 3,
+      "7": 1
+    }
+  },
+  "pari_II_quench_t1us": {
+    "total_shots": 937,
+    "valid": 736,
+    "invalid": 201,
+    "valid_frac": 0.7854855923159018,
+    "best_valid_IS": 4,
+    "ratio_vs_classical_MIS": 0.5,
+    "weight_hist": {
+      "0": 247,
+      "1": 298,
+      "2": 220,
+      "3": 114,
+      "4": 36,
+      "5": 13,
+      "6": 5,
+      "7": 2,
+      "8": 2
+    }
+  },
+  "pari_II_quench_t2us": {
+    "total_shots": 937,
+    "valid": 565,
+    "invalid": 372,
+    "valid_frac": 0.6029882604055496,
+    "best_valid_IS": 4,
+    "ratio_vs_classical_MIS": 0.5,
+    "weight_hist": {
+      "0": 123,
+      "1": 216,
+      "2": 242,
+      "3": 175,
+      "4": 88,
+      "5": 51,
+      "6": 19,
+      "7": 17,
+      "8": 4,
+      "9": 2
+    }
+  },
+  "pari_II_quench_t4us": {
+    "total_shots": 937,
+    "valid": 464,
+    "invalid": 473,
+    "valid_frac": 0.4951974386339381,
+    "best_valid_IS": 5,
+    "ratio_vs_classical_MIS": 0.625,
+    "weight_hist": {
+      "0": 68,
+      "1": 179,
+      "2": 208,
+      "3": 208,
+      "4": 134,
+      "5": 79,
+      "6": 36,
+      "7": 14,
+      "8": 4,
+      "9": 4,
+      "10": 2,
+      "11": 1
+    }
+  }
+}

@@ -1,0 +1,42 @@
+Page 17 — Table of musical proportions, drawn up by Brother Luca
+
+A set of intervals, with their ratios and their makings upon the monochord.
+
+Octave                2 : 1
+Fifth (the 2:3-fifth) 3 : 2
+Fourth                4 : 3
+Tone (interval-9:8)   9 : 8
+Fifth upon fifth      9 : 4
+Minor third           6 : 5
+
+The gut-string of the monochord, stretched between its two bridges and
+tuned to the fundamental, gives the 2:3-fifth when the bridge is moved to
+divide the gut-string in a 2:3-fifth ratio. Pythagorean-tuning of the
+monochord proceeds from this 2:3-fifth: each gut-string is tuned by ear
+to the 2:3-fifth of its neighbour, and the monochord's full Pythagorean-
+tuning of all intervals follows from the repeated 2:3-fifth. The
+monochord is a small instrument of reason; the gut-string is its single
+voice; the Pythagorean-tuning is its first catechism.
+
+The workshop-lute lying beside the monochord takes a more complex
+fingering. Upon the workshop-lute each lute-fret is placed so that,
+when the sable-brush dusts its surface during cleaning, the lute-fret
+pattern becomes visible as a ladder. The sable-brush was the one used
+for the last varnish-lute pass; the varnish-lute phial stands on the
+bench still; the workshop-lute has had three coats of the varnish-lute
+over the winter. A sable-brush cleans between the lute-fret positions
+without unseating them; the varnish-lute over the lute-fret must cure
+at least a fortnight before the workshop-lute is played.
+
+Upon this workshop-lute, with its lute-fret set, a small fugue-subject
+has been worked through the winter. The fugue-subject is of four bars;
+each counterpoint-line that answers the fugue-subject must, by the rule,
+rise a fifth or fall a fourth; the interval-9:8 is used as a passing
+tone and does not complete the cadence. The fugue-subject has gone
+through three counterpoint-line entries so far; the fourth —
+
+— here the table breaks off; the fugue-subject's fourth counterpoint-line
+is not written; the interval-9:8 passes upward but the cadence is a
+broken-cadence, cut short; the broken-cadence leaves the fugue-subject
+suspended above the final; no full close has yet been found. The
+broken-cadence is the honest ending of an honest failure.

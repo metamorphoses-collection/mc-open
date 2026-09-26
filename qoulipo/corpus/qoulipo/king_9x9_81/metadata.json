@@ -1,0 +1,28 @@
+{
+  "text_id": "king_9x9_81",
+  "title": "The Book of Eighty-One Squares",
+  "lang": "EN",
+  "literary_status": "drafted (2026-05-05)",
+  "canonical_N": 81,
+  "canonical_E": 272,
+  "canonical_density": 0.084,
+  "canonical_MIS": 25,
+  "canonical_rho": 1.0,
+  "canonical_optima": 1,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.25,
+  "blockade_um": 8.0,
+  "literary_form": "quatrain (4 lines; ABAB intent with frequent slant rhyme)",
+  "page_count": 81,
+  "designed_property": "9\u00d79 king grid (Chebyshev\u22641), exact 2D UDG, spectral gap 1.25\u00d7, \u03c1=1.0 unique MIS (odd-parity color split)",
+  "literary_references": [
+    "Italo Calvino, Il castello dei destini incrociati (1973)",
+    "Tarot fortune-telling tradition"
+  ],
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv (QOuLiPo: What a quantum computer sees when it reads a book)",
+  "source_contract": "node_aligned",
+  "subtitle_alt": "Le Capitulaire d'un \u00c9chiquier de Neuf",
+  "canonical_graph_file": "graph_target.json"
+}

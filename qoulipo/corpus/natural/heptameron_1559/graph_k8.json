@@ -1,0 +1,2202 @@
+{
+  "book_id": "heptameron_1559",
+  "title": "heptameron_1559",
+  "lang": "FR",
+  "N": 72,
+  "E": 422,
+  "density": 0.1651,
+  "k": 8,
+  "sim_threshold": 0.78,
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "nodes": [
+    "nouvelle_01",
+    "nouvelle_02",
+    "nouvelle_03",
+    "nouvelle_04",
+    "nouvelle_05",
+    "nouvelle_06",
+    "nouvelle_07",
+    "nouvelle_08",
+    "nouvelle_09",
+    "nouvelle_10",
+    "nouvelle_11",
+    "nouvelle_12",
+    "nouvelle_13",
+    "nouvelle_14",
+    "nouvelle_15",
+    "nouvelle_16",
+    "nouvelle_17",
+    "nouvelle_18",
+    "nouvelle_19",
+    "nouvelle_20",
+    "nouvelle_21",
+    "nouvelle_22",
+    "nouvelle_23",
+    "nouvelle_24",
+    "nouvelle_25",
+    "nouvelle_26",
+    "nouvelle_27",
+    "nouvelle_28",
+    "nouvelle_29",
+    "nouvelle_30",
+    "nouvelle_31",
+    "nouvelle_32",
+    "nouvelle_33",
+    "nouvelle_34",
+    "nouvelle_35",
+    "nouvelle_36",
+    "nouvelle_37",
+    "nouvelle_38",
+    "nouvelle_39",
+    "nouvelle_40",
+    "nouvelle_41",
+    "nouvelle_42",
+    "nouvelle_43",
+    "nouvelle_44",
+    "nouvelle_45",
+    "nouvelle_46",
+    "nouvelle_47",
+    "nouvelle_48",
+    "nouvelle_49",
+    "nouvelle_50",
+    "nouvelle_51",
+    "nouvelle_52",
+    "nouvelle_53",
+    "nouvelle_54",
+    "nouvelle_55",
+    "nouvelle_56",
+    "nouvelle_57",
+    "nouvelle_58",
+    "nouvelle_59",
+    "nouvelle_60",
+    "nouvelle_61",
+    "nouvelle_62",
+    "nouvelle_63",
+    "nouvelle_64",
+    "nouvelle_65",
+    "nouvelle_66",
+    "nouvelle_67",
+    "nouvelle_68",
+    "nouvelle_69",
+    "nouvelle_70",
+    "nouvelle_71",
+    "nouvelle_72"
+  ],
+  "edges": [
+    [
+      "nouvelle_01",
+      "nouvelle_21"
+    ],
+    [
+      "nouvelle_01",
+      "nouvelle_04"
+    ],
+    [
+      "nouvelle_01",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_01",
+      "nouvelle_23"
+    ],
+    [
+      "nouvelle_01",
+      "nouvelle_05"
+    ],
+    [
+      "nouvelle_01",
+      "nouvelle_03"
+    ],
+    [
+      "nouvelle_01",
+      "nouvelle_22"
+    ],
+    [
+      "nouvelle_01",
+      "nouvelle_02"
+    ],
+    [
+      "nouvelle_02",
+      "nouvelle_23"
+    ],
+    [
+      "nouvelle_02",
+      "nouvelle_05"
+    ],
+    [
+      "nouvelle_02",
+      "nouvelle_09"
+    ],
+    [
+      "nouvelle_02",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_02",
+      "nouvelle_04"
+    ],
+    [
+      "nouvelle_02",
+      "nouvelle_22"
+    ],
+    [
+      "nouvelle_02",
+      "nouvelle_03"
+    ],
+    [
+      "nouvelle_02",
+      "nouvelle_32"
+    ],
+    [
+      "nouvelle_03",
+      "nouvelle_22"
+    ],
+    [
+      "nouvelle_03",
+      "nouvelle_15"
+    ],
+    [
+      "nouvelle_03",
+      "nouvelle_16"
+    ],
+    [
+      "nouvelle_03",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_03",
+      "nouvelle_05"
+    ],
+    [
+      "nouvelle_03",
+      "nouvelle_04"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_16"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_48"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_15"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_21"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_05"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_12"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_17"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_24"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_37"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_45"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_47"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_52"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_56"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_57"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_58"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_65"
+    ],
+    [
+      "nouvelle_04",
+      "nouvelle_66"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_21"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_48"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_06"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_10"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_11"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_12"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_19"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_22"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_23"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_24"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_30"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_31"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_34"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_35"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_36"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_39"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_40"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_42"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_43"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_44"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_45"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_46"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_47"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_49"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_56"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_57"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_64"
+    ],
+    [
+      "nouvelle_05",
+      "nouvelle_65"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_60"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_49"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_08"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_48"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_07"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_28"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_29"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_30"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_35"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_44"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_45"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_46"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_47"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_56"
+    ],
+    [
+      "nouvelle_06",
+      "nouvelle_61"
+    ],
+    [
+      "nouvelle_07",
+      "nouvelle_14"
+    ],
+    [
+      "nouvelle_07",
+      "nouvelle_45"
+    ],
+    [
+      "nouvelle_07",
+      "nouvelle_44"
+    ],
+    [
+      "nouvelle_07",
+      "nouvelle_60"
+    ],
+    [
+      "nouvelle_07",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_07",
+      "nouvelle_09"
+    ],
+    [
+      "nouvelle_07",
+      "nouvelle_08"
+    ],
+    [
+      "nouvelle_07",
+      "nouvelle_28"
+    ],
+    [
+      "nouvelle_07",
+      "nouvelle_29"
+    ],
+    [
+      "nouvelle_08",
+      "nouvelle_45"
+    ],
+    [
+      "nouvelle_08",
+      "nouvelle_30"
+    ],
+    [
+      "nouvelle_08",
+      "nouvelle_46"
+    ],
+    [
+      "nouvelle_08",
+      "nouvelle_60"
+    ],
+    [
+      "nouvelle_08",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_08",
+      "nouvelle_09"
+    ],
+    [
+      "nouvelle_08",
+      "nouvelle_29"
+    ],
+    [
+      "nouvelle_09",
+      "nouvelle_21"
+    ],
+    [
+      "nouvelle_09",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_09",
+      "nouvelle_20"
+    ],
+    [
+      "nouvelle_09",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_09",
+      "nouvelle_11"
+    ],
+    [
+      "nouvelle_09",
+      "nouvelle_10"
+    ],
+    [
+      "nouvelle_09",
+      "nouvelle_71"
+    ],
+    [
+      "nouvelle_10",
+      "nouvelle_60"
+    ],
+    [
+      "nouvelle_10",
+      "nouvelle_21"
+    ],
+    [
+      "nouvelle_10",
+      "nouvelle_15"
+    ],
+    [
+      "nouvelle_10",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_10",
+      "nouvelle_20"
+    ],
+    [
+      "nouvelle_10",
+      "nouvelle_11"
+    ],
+    [
+      "nouvelle_11",
+      "nouvelle_42"
+    ],
+    [
+      "nouvelle_11",
+      "nouvelle_41"
+    ],
+    [
+      "nouvelle_11",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_11",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_11",
+      "nouvelle_12"
+    ],
+    [
+      "nouvelle_11",
+      "nouvelle_13"
+    ],
+    [
+      "nouvelle_12",
+      "nouvelle_70"
+    ],
+    [
+      "nouvelle_12",
+      "nouvelle_52"
+    ],
+    [
+      "nouvelle_12",
+      "nouvelle_41"
+    ],
+    [
+      "nouvelle_12",
+      "nouvelle_42"
+    ],
+    [
+      "nouvelle_12",
+      "nouvelle_13"
+    ],
+    [
+      "nouvelle_12",
+      "nouvelle_71"
+    ],
+    [
+      "nouvelle_13",
+      "nouvelle_43"
+    ],
+    [
+      "nouvelle_13",
+      "nouvelle_41"
+    ],
+    [
+      "nouvelle_13",
+      "nouvelle_49"
+    ],
+    [
+      "nouvelle_13",
+      "nouvelle_52"
+    ],
+    [
+      "nouvelle_13",
+      "nouvelle_42"
+    ],
+    [
+      "nouvelle_13",
+      "nouvelle_14"
+    ],
+    [
+      "nouvelle_13",
+      "nouvelle_70"
+    ],
+    [
+      "nouvelle_13",
+      "nouvelle_71"
+    ],
+    [
+      "nouvelle_14",
+      "nouvelle_50"
+    ],
+    [
+      "nouvelle_14",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_14",
+      "nouvelle_16"
+    ],
+    [
+      "nouvelle_14",
+      "nouvelle_44"
+    ],
+    [
+      "nouvelle_14",
+      "nouvelle_49"
+    ],
+    [
+      "nouvelle_14",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_14",
+      "nouvelle_15"
+    ],
+    [
+      "nouvelle_14",
+      "nouvelle_53"
+    ],
+    [
+      "nouvelle_14",
+      "nouvelle_54"
+    ],
+    [
+      "nouvelle_14",
+      "nouvelle_61"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_43"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_17"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_44"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_16"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_36"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_49"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_50"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_51"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_53"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_54"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_58"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_61"
+    ],
+    [
+      "nouvelle_15",
+      "nouvelle_67"
+    ],
+    [
+      "nouvelle_16",
+      "nouvelle_21"
+    ],
+    [
+      "nouvelle_16",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_16",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_16",
+      "nouvelle_18"
+    ],
+    [
+      "nouvelle_16",
+      "nouvelle_17"
+    ],
+    [
+      "nouvelle_16",
+      "nouvelle_36"
+    ],
+    [
+      "nouvelle_16",
+      "nouvelle_66"
+    ],
+    [
+      "nouvelle_16",
+      "nouvelle_67"
+    ],
+    [
+      "nouvelle_17",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_17",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_17",
+      "nouvelle_21"
+    ],
+    [
+      "nouvelle_17",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_17",
+      "nouvelle_18"
+    ],
+    [
+      "nouvelle_17",
+      "nouvelle_25"
+    ],
+    [
+      "nouvelle_18",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_18",
+      "nouvelle_41"
+    ],
+    [
+      "nouvelle_18",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_18",
+      "nouvelle_21"
+    ],
+    [
+      "nouvelle_18",
+      "nouvelle_20"
+    ],
+    [
+      "nouvelle_18",
+      "nouvelle_19"
+    ],
+    [
+      "nouvelle_19",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_19",
+      "nouvelle_22"
+    ],
+    [
+      "nouvelle_19",
+      "nouvelle_41"
+    ],
+    [
+      "nouvelle_19",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_19",
+      "nouvelle_21"
+    ],
+    [
+      "nouvelle_19",
+      "nouvelle_20"
+    ],
+    [
+      "nouvelle_20",
+      "nouvelle_23"
+    ],
+    [
+      "nouvelle_20",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_20",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_20",
+      "nouvelle_22"
+    ],
+    [
+      "nouvelle_20",
+      "nouvelle_21"
+    ],
+    [
+      "nouvelle_21",
+      "nouvelle_44"
+    ],
+    [
+      "nouvelle_21",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_21",
+      "nouvelle_23"
+    ],
+    [
+      "nouvelle_21",
+      "nouvelle_22"
+    ],
+    [
+      "nouvelle_21",
+      "nouvelle_24"
+    ],
+    [
+      "nouvelle_21",
+      "nouvelle_25"
+    ],
+    [
+      "nouvelle_21",
+      "nouvelle_30"
+    ],
+    [
+      "nouvelle_21",
+      "nouvelle_41"
+    ],
+    [
+      "nouvelle_21",
+      "nouvelle_42"
+    ],
+    [
+      "nouvelle_21",
+      "nouvelle_43"
+    ],
+    [
+      "nouvelle_21",
+      "nouvelle_65"
+    ],
+    [
+      "nouvelle_21",
+      "nouvelle_72"
+    ],
+    [
+      "nouvelle_22",
+      "nouvelle_41"
+    ],
+    [
+      "nouvelle_22",
+      "nouvelle_24"
+    ],
+    [
+      "nouvelle_22",
+      "nouvelle_23"
+    ],
+    [
+      "nouvelle_22",
+      "nouvelle_32"
+    ],
+    [
+      "nouvelle_22",
+      "nouvelle_33"
+    ],
+    [
+      "nouvelle_22",
+      "nouvelle_34"
+    ],
+    [
+      "nouvelle_22",
+      "nouvelle_39"
+    ],
+    [
+      "nouvelle_22",
+      "nouvelle_40"
+    ],
+    [
+      "nouvelle_23",
+      "nouvelle_30"
+    ],
+    [
+      "nouvelle_23",
+      "nouvelle_47"
+    ],
+    [
+      "nouvelle_23",
+      "nouvelle_46"
+    ],
+    [
+      "nouvelle_23",
+      "nouvelle_24"
+    ],
+    [
+      "nouvelle_23",
+      "nouvelle_32"
+    ],
+    [
+      "nouvelle_23",
+      "nouvelle_33"
+    ],
+    [
+      "nouvelle_23",
+      "nouvelle_34"
+    ],
+    [
+      "nouvelle_23",
+      "nouvelle_40"
+    ],
+    [
+      "nouvelle_24",
+      "nouvelle_49"
+    ],
+    [
+      "nouvelle_24",
+      "nouvelle_47"
+    ],
+    [
+      "nouvelle_24",
+      "nouvelle_25"
+    ],
+    [
+      "nouvelle_24",
+      "nouvelle_40"
+    ],
+    [
+      "nouvelle_24",
+      "nouvelle_51"
+    ],
+    [
+      "nouvelle_25",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_25",
+      "nouvelle_53"
+    ],
+    [
+      "nouvelle_25",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_25",
+      "nouvelle_27"
+    ],
+    [
+      "nouvelle_25",
+      "nouvelle_26"
+    ],
+    [
+      "nouvelle_26",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_26",
+      "nouvelle_41"
+    ],
+    [
+      "nouvelle_26",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_26",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_26",
+      "nouvelle_28"
+    ],
+    [
+      "nouvelle_26",
+      "nouvelle_53"
+    ],
+    [
+      "nouvelle_26",
+      "nouvelle_27"
+    ],
+    [
+      "nouvelle_27",
+      "nouvelle_29"
+    ],
+    [
+      "nouvelle_27",
+      "nouvelle_53"
+    ],
+    [
+      "nouvelle_27",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_27",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_27",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_27",
+      "nouvelle_28"
+    ],
+    [
+      "nouvelle_28",
+      "nouvelle_44"
+    ],
+    [
+      "nouvelle_28",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_28",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_28",
+      "nouvelle_30"
+    ],
+    [
+      "nouvelle_28",
+      "nouvelle_29"
+    ],
+    [
+      "nouvelle_29",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_29",
+      "nouvelle_45"
+    ],
+    [
+      "nouvelle_29",
+      "nouvelle_30"
+    ],
+    [
+      "nouvelle_30",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_30",
+      "nouvelle_31"
+    ],
+    [
+      "nouvelle_30",
+      "nouvelle_32"
+    ],
+    [
+      "nouvelle_30",
+      "nouvelle_33"
+    ],
+    [
+      "nouvelle_30",
+      "nouvelle_34"
+    ],
+    [
+      "nouvelle_30",
+      "nouvelle_64"
+    ],
+    [
+      "nouvelle_31",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_31",
+      "nouvelle_47"
+    ],
+    [
+      "nouvelle_31",
+      "nouvelle_46"
+    ],
+    [
+      "nouvelle_31",
+      "nouvelle_34"
+    ],
+    [
+      "nouvelle_31",
+      "nouvelle_33"
+    ],
+    [
+      "nouvelle_31",
+      "nouvelle_32"
+    ],
+    [
+      "nouvelle_32",
+      "nouvelle_46"
+    ],
+    [
+      "nouvelle_32",
+      "nouvelle_34"
+    ],
+    [
+      "nouvelle_32",
+      "nouvelle_33"
+    ],
+    [
+      "nouvelle_33",
+      "nouvelle_47"
+    ],
+    [
+      "nouvelle_33",
+      "nouvelle_46"
+    ],
+    [
+      "nouvelle_33",
+      "nouvelle_34"
+    ],
+    [
+      "nouvelle_34",
+      "nouvelle_47"
+    ],
+    [
+      "nouvelle_34",
+      "nouvelle_35"
+    ],
+    [
+      "nouvelle_35",
+      "nouvelle_49"
+    ],
+    [
+      "nouvelle_35",
+      "nouvelle_48"
+    ],
+    [
+      "nouvelle_35",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_35",
+      "nouvelle_37"
+    ],
+    [
+      "nouvelle_35",
+      "nouvelle_36"
+    ],
+    [
+      "nouvelle_36",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_36",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_36",
+      "nouvelle_38"
+    ],
+    [
+      "nouvelle_36",
+      "nouvelle_37"
+    ],
+    [
+      "nouvelle_37",
+      "nouvelle_60"
+    ],
+    [
+      "nouvelle_37",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_37",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_37",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_37",
+      "nouvelle_38"
+    ],
+    [
+      "nouvelle_37",
+      "nouvelle_39"
+    ],
+    [
+      "nouvelle_38",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_38",
+      "nouvelle_60"
+    ],
+    [
+      "nouvelle_38",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_38",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_38",
+      "nouvelle_40"
+    ],
+    [
+      "nouvelle_38",
+      "nouvelle_39"
+    ],
+    [
+      "nouvelle_39",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_39",
+      "nouvelle_60"
+    ],
+    [
+      "nouvelle_39",
+      "nouvelle_41"
+    ],
+    [
+      "nouvelle_39",
+      "nouvelle_40"
+    ],
+    [
+      "nouvelle_40",
+      "nouvelle_60"
+    ],
+    [
+      "nouvelle_40",
+      "nouvelle_41"
+    ],
+    [
+      "nouvelle_41",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_41",
+      "nouvelle_60"
+    ],
+    [
+      "nouvelle_41",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_41",
+      "nouvelle_43"
+    ],
+    [
+      "nouvelle_41",
+      "nouvelle_42"
+    ],
+    [
+      "nouvelle_41",
+      "nouvelle_51"
+    ],
+    [
+      "nouvelle_41",
+      "nouvelle_61"
+    ],
+    [
+      "nouvelle_41",
+      "nouvelle_69"
+    ],
+    [
+      "nouvelle_41",
+      "nouvelle_70"
+    ],
+    [
+      "nouvelle_41",
+      "nouvelle_71"
+    ],
+    [
+      "nouvelle_41",
+      "nouvelle_72"
+    ],
+    [
+      "nouvelle_42",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_42",
+      "nouvelle_44"
+    ],
+    [
+      "nouvelle_42",
+      "nouvelle_43"
+    ],
+    [
+      "nouvelle_42",
+      "nouvelle_70"
+    ],
+    [
+      "nouvelle_42",
+      "nouvelle_71"
+    ],
+    [
+      "nouvelle_42",
+      "nouvelle_72"
+    ],
+    [
+      "nouvelle_43",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_43",
+      "nouvelle_44"
+    ],
+    [
+      "nouvelle_44",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_44",
+      "nouvelle_45"
+    ],
+    [
+      "nouvelle_44",
+      "nouvelle_46"
+    ],
+    [
+      "nouvelle_44",
+      "nouvelle_49"
+    ],
+    [
+      "nouvelle_44",
+      "nouvelle_67"
+    ],
+    [
+      "nouvelle_45",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_45",
+      "nouvelle_47"
+    ],
+    [
+      "nouvelle_45",
+      "nouvelle_46"
+    ],
+    [
+      "nouvelle_45",
+      "nouvelle_57"
+    ],
+    [
+      "nouvelle_46",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_46",
+      "nouvelle_48"
+    ],
+    [
+      "nouvelle_46",
+      "nouvelle_47"
+    ],
+    [
+      "nouvelle_46",
+      "nouvelle_56"
+    ],
+    [
+      "nouvelle_46",
+      "nouvelle_57"
+    ],
+    [
+      "nouvelle_47",
+      "nouvelle_48"
+    ],
+    [
+      "nouvelle_48",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_48",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_48",
+      "nouvelle_49"
+    ],
+    [
+      "nouvelle_49",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_49",
+      "nouvelle_50"
+    ],
+    [
+      "nouvelle_49",
+      "nouvelle_51"
+    ],
+    [
+      "nouvelle_50",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_50",
+      "nouvelle_60"
+    ],
+    [
+      "nouvelle_50",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_50",
+      "nouvelle_52"
+    ],
+    [
+      "nouvelle_50",
+      "nouvelle_51"
+    ],
+    [
+      "nouvelle_50",
+      "nouvelle_68"
+    ],
+    [
+      "nouvelle_50",
+      "nouvelle_69"
+    ],
+    [
+      "nouvelle_51",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_51",
+      "nouvelle_69"
+    ],
+    [
+      "nouvelle_51",
+      "nouvelle_52"
+    ],
+    [
+      "nouvelle_51",
+      "nouvelle_68"
+    ],
+    [
+      "nouvelle_51",
+      "nouvelle_70"
+    ],
+    [
+      "nouvelle_52",
+      "nouvelle_54"
+    ],
+    [
+      "nouvelle_52",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_52",
+      "nouvelle_53"
+    ],
+    [
+      "nouvelle_52",
+      "nouvelle_69"
+    ],
+    [
+      "nouvelle_52",
+      "nouvelle_70"
+    ],
+    [
+      "nouvelle_53",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_53",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_53",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_53",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_53",
+      "nouvelle_54"
+    ],
+    [
+      "nouvelle_53",
+      "nouvelle_58"
+    ],
+    [
+      "nouvelle_54",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_54",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_54",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_54",
+      "nouvelle_55"
+    ],
+    [
+      "nouvelle_54",
+      "nouvelle_56"
+    ],
+    [
+      "nouvelle_54",
+      "nouvelle_58"
+    ],
+    [
+      "nouvelle_55",
+      "nouvelle_57"
+    ],
+    [
+      "nouvelle_55",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_55",
+      "nouvelle_56"
+    ],
+    [
+      "nouvelle_55",
+      "nouvelle_58"
+    ],
+    [
+      "nouvelle_55",
+      "nouvelle_60"
+    ],
+    [
+      "nouvelle_55",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_55",
+      "nouvelle_65"
+    ],
+    [
+      "nouvelle_55",
+      "nouvelle_66"
+    ],
+    [
+      "nouvelle_55",
+      "nouvelle_67"
+    ],
+    [
+      "nouvelle_56",
+      "nouvelle_58"
+    ],
+    [
+      "nouvelle_56",
+      "nouvelle_57"
+    ],
+    [
+      "nouvelle_56",
+      "nouvelle_65"
+    ],
+    [
+      "nouvelle_57",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_57",
+      "nouvelle_58"
+    ],
+    [
+      "nouvelle_58",
+      "nouvelle_59"
+    ],
+    [
+      "nouvelle_59",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_59",
+      "nouvelle_61"
+    ],
+    [
+      "nouvelle_59",
+      "nouvelle_60"
+    ],
+    [
+      "nouvelle_59",
+      "nouvelle_64"
+    ],
+    [
+      "nouvelle_59",
+      "nouvelle_68"
+    ],
+    [
+      "nouvelle_59",
+      "nouvelle_72"
+    ],
+    [
+      "nouvelle_60",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_60",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_60",
+      "nouvelle_61"
+    ],
+    [
+      "nouvelle_60",
+      "nouvelle_64"
+    ],
+    [
+      "nouvelle_60",
+      "nouvelle_66"
+    ],
+    [
+      "nouvelle_60",
+      "nouvelle_68"
+    ],
+    [
+      "nouvelle_60",
+      "nouvelle_72"
+    ],
+    [
+      "nouvelle_61",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_61",
+      "nouvelle_62"
+    ],
+    [
+      "nouvelle_61",
+      "nouvelle_68"
+    ],
+    [
+      "nouvelle_61",
+      "nouvelle_72"
+    ],
+    [
+      "nouvelle_62",
+      "nouvelle_63"
+    ],
+    [
+      "nouvelle_62",
+      "nouvelle_64"
+    ],
+    [
+      "nouvelle_62",
+      "nouvelle_66"
+    ],
+    [
+      "nouvelle_62",
+      "nouvelle_67"
+    ],
+    [
+      "nouvelle_63",
+      "nouvelle_64"
+    ],
+    [
+      "nouvelle_63",
+      "nouvelle_65"
+    ],
+    [
+      "nouvelle_63",
+      "nouvelle_68"
+    ],
+    [
+      "nouvelle_63",
+      "nouvelle_72"
+    ],
+    [
+      "nouvelle_64",
+      "nouvelle_66"
+    ],
+    [
+      "nouvelle_64",
+      "nouvelle_65"
+    ],
+    [
+      "nouvelle_65",
+      "nouvelle_66"
+    ],
+    [
+      "nouvelle_66",
+      "nouvelle_67"
+    ],
+    [
+      "nouvelle_67",
+      "nouvelle_69"
+    ],
+    [
+      "nouvelle_67",
+      "nouvelle_68"
+    ],
+    [
+      "nouvelle_68",
+      "nouvelle_69"
+    ],
+    [
+      "nouvelle_69",
+      "nouvelle_71"
+    ],
+    [
+      "nouvelle_69",
+      "nouvelle_70"
+    ],
+    [
+      "nouvelle_70",
+      "nouvelle_71"
+    ],
+    [
+      "nouvelle_71",
+      "nouvelle_72"
+    ]
+  ],
+  "edge_weights": {
+    "nouvelle_01|nouvelle_21": 0.9725287953361614,
+    "nouvelle_01|nouvelle_04": 0.9730052601740968,
+    "nouvelle_01|nouvelle_59": 0.9732394719927429,
+    "nouvelle_01|nouvelle_23": 0.9733811524018596,
+    "nouvelle_01|nouvelle_05": 0.9744073423763364,
+    "nouvelle_01|nouvelle_03": 0.9765594139367042,
+    "nouvelle_01|nouvelle_22": 0.9779980716107759,
+    "nouvelle_01|nouvelle_02": 0.9933594549118892,
+    "nouvelle_02|nouvelle_23": 0.9754125294865127,
+    "nouvelle_02|nouvelle_05": 0.9754486383047776,
+    "nouvelle_02|nouvelle_09": 0.975810250595337,
+    "nouvelle_02|nouvelle_59": 0.9765153986657715,
+    "nouvelle_02|nouvelle_04": 0.9775869484138439,
+    "nouvelle_02|nouvelle_22": 0.9793878603273781,
+    "nouvelle_02|nouvelle_03": 0.9850260309656362,
+    "nouvelle_02|nouvelle_32": 0.9716030158530226,
+    "nouvelle_03|nouvelle_22": 0.9745070520420178,
+    "nouvelle_03|nouvelle_15": 0.9745200990099239,
+    "nouvelle_03|nouvelle_16": 0.9753416719200636,
+    "nouvelle_03|nouvelle_59": 0.9778727711056816,
+    "nouvelle_03|nouvelle_05": 0.9801226003273853,
+    "nouvelle_03|nouvelle_04": 0.9902942307778809,
+    "nouvelle_04|nouvelle_16": 0.9779522062391371,
+    "nouvelle_04|nouvelle_48": 0.9781498730898673,
+    "nouvelle_04|nouvelle_15": 0.9782986401310931,
+    "nouvelle_04|nouvelle_55": 0.978412682194196,
+    "nouvelle_04|nouvelle_21": 0.9786588324542634,
+    "nouvelle_04|nouvelle_59": 0.9788765253977225,
+    "nouvelle_04|nouvelle_05": 0.9907099567244118,
+    "nouvelle_04|nouvelle_12": 0.9746925152400002,
+    "nouvelle_04|nouvelle_17": 0.9768787862280994,
+    "nouvelle_04|nouvelle_24": 0.976635501865491,
+    "nouvelle_04|nouvelle_37": 0.9740909814105558,
+    "nouvelle_04|nouvelle_45": 0.9766338980538156,
+    "nouvelle_04|nouvelle_47": 0.9777252949645417,
+    "nouvelle_04|nouvelle_52": 0.9765433375322154,
+    "nouvelle_04|nouvelle_56": 0.9776894025612446,
+    "nouvelle_04|nouvelle_57": 0.9747765463582199,
+    "nouvelle_04|nouvelle_58": 0.97674034603396,
+    "nouvelle_04|nouvelle_65": 0.9755463385717434,
+    "nouvelle_04|nouvelle_66": 0.9757151821479909,
+    "nouvelle_05|nouvelle_21": 0.9795983091686439,
+    "nouvelle_05|nouvelle_63": 0.9799426845224442,
+    "nouvelle_05|nouvelle_59": 0.9811921935083169,
+    "nouvelle_05|nouvelle_55": 0.9814624482292951,
+    "nouvelle_05|nouvelle_48": 0.9828942046452274,
+    "nouvelle_05|nouvelle_06": 0.9862804573331547,
+    "nouvelle_05|nouvelle_10": 0.9745419758886708,
+    "nouvelle_05|nouvelle_11": 0.9777155820097518,
+    "nouvelle_05|nouvelle_12": 0.9760954091751126,
+    "nouvelle_05|nouvelle_19": 0.9755903083343608,
+    "nouvelle_05|nouvelle_22": 0.9793942835001079,
+    "nouvelle_05|nouvelle_23": 0.9787752688126893,
+    "nouvelle_05|nouvelle_24": 0.9762597220721642,
+    "nouvelle_05|nouvelle_30": 0.9771564900572797,
+    "nouvelle_05|nouvelle_31": 0.9717033007661461,
+    "nouvelle_05|nouvelle_34": 0.9770704178654126,
+    "nouvelle_05|nouvelle_35": 0.9756818345547198,
+    "nouvelle_05|nouvelle_36": 0.9748056144988647,
+    "nouvelle_05|nouvelle_39": 0.9729530939412627,
+    "nouvelle_05|nouvelle_40": 0.9752829809593184,
+    "nouvelle_05|nouvelle_42": 0.9772978515442946,
+    "nouvelle_05|nouvelle_43": 0.9758733233621549,
+    "nouvelle_05|nouvelle_44": 0.9795283029514129,
+    "nouvelle_05|nouvelle_45": 0.9789709082007536,
+    "nouvelle_05|nouvelle_46": 0.9787752558838195,
+    "nouvelle_05|nouvelle_47": 0.9788649109520983,
+    "nouvelle_05|nouvelle_49": 0.9795093989413669,
+    "nouvelle_05|nouvelle_56": 0.978555325724676,
+    "nouvelle_05|nouvelle_57": 0.9732097380383237,
+    "nouvelle_05|nouvelle_62": 0.978791869123755,
+    "nouvelle_05|nouvelle_64": 0.975131858105462,
+    "nouvelle_05|nouvelle_65": 0.9755399612021018,
+    "nouvelle_06|nouvelle_55": 0.9799430675923233,
+    "nouvelle_06|nouvelle_59": 0.9803356785785233,
+    "nouvelle_06|nouvelle_60": 0.9811090035092647,
+    "nouvelle_06|nouvelle_49": 0.9812045737824184,
+    "nouvelle_06|nouvelle_08": 0.9814176619836786,
+    "nouvelle_06|nouvelle_48": 0.9836788033093571,
+    "nouvelle_06|nouvelle_07": 0.9899780078682539,
+    "nouvelle_06|nouvelle_28": 0.9761566248115331,
+    "nouvelle_06|nouvelle_29": 0.9740024712263075,
+    "nouvelle_06|nouvelle_30": 0.977067737658781,
+    "nouvelle_06|nouvelle_35": 0.9743301227615699,
+    "nouvelle_06|nouvelle_44": 0.9789918939545168,
+    "nouvelle_06|nouvelle_45": 0.9783261099351008,
+    "nouvelle_06|nouvelle_46": 0.9786427941476833,
+    "nouvelle_06|nouvelle_47": 0.9782817619589175,
+    "nouvelle_06|nouvelle_56": 0.9767165497843538,
+    "nouvelle_06|nouvelle_61": 0.9757077964759124,
+    "nouvelle_07|nouvelle_14": 0.976612782813459,
+    "nouvelle_07|nouvelle_45": 0.9773030491747536,
+    "nouvelle_07|nouvelle_44": 0.9778912824540836,
+    "nouvelle_07|nouvelle_60": 0.9783925124703043,
+    "nouvelle_07|nouvelle_59": 0.9791703504660868,
+    "nouvelle_07|nouvelle_09": 0.9798217262211788,
+    "nouvelle_07|nouvelle_08": 0.9911973062845766,
+    "nouvelle_07|nouvelle_28": 0.9760693337006889,
+    "nouvelle_07|nouvelle_29": 0.9752071045881727,
+    "nouvelle_08|nouvelle_45": 0.9758676873818278,
+    "nouvelle_08|nouvelle_30": 0.9760922039985399,
+    "nouvelle_08|nouvelle_46": 0.9770592311485577,
+    "nouvelle_08|nouvelle_60": 0.9793727743045748,
+    "nouvelle_08|nouvelle_59": 0.9803322640511977,
+    "nouvelle_08|nouvelle_09": 0.9873109218668289,
+    "nouvelle_08|nouvelle_29": 0.9731247561137764,
+    "nouvelle_09|nouvelle_21": 0.97643618888636,
+    "nouvelle_09|nouvelle_63": 0.9766345748387243,
+    "nouvelle_09|nouvelle_20": 0.9768810994995651,
+    "nouvelle_09|nouvelle_59": 0.9777144155264327,
+    "nouvelle_09|nouvelle_11": 0.9805517975771496,
+    "nouvelle_09|nouvelle_10": 0.9886484576265054,
+    "nouvelle_09|nouvelle_71": 0.9697559190782182,
+    "nouvelle_10|nouvelle_60": 0.9743524615614207,
+    "nouvelle_10|nouvelle_21": 0.974467175632009,
+    "nouvelle_10|nouvelle_15": 0.9753130746388017,
+    "nouvelle_10|nouvelle_62": 0.9756854121783664,
+    "nouvelle_10|nouvelle_20": 0.975913308091102,
+    "nouvelle_10|nouvelle_11": 0.9895577423230306,
+    "nouvelle_11|nouvelle_42": 0.9761196708139667,
+    "nouvelle_11|nouvelle_41": 0.9761557788563848,
+    "nouvelle_11|nouvelle_63": 0.9770858774390845,
+    "nouvelle_11|nouvelle_62": 0.9782119572703939,
+    "nouvelle_11|nouvelle_12": 0.9835919946445554,
+    "nouvelle_11|nouvelle_13": 0.9757728530924353,
+    "nouvelle_12|nouvelle_70": 0.9755480847296991,
+    "nouvelle_12|nouvelle_52": 0.9767643307012482,
+    "nouvelle_12|nouvelle_41": 0.9783493443885569,
+    "nouvelle_12|nouvelle_42": 0.9791601519486546,
+    "nouvelle_12|nouvelle_13": 0.9887299977267777,
+    "nouvelle_12|nouvelle_71": 0.974670086699895,
+    "nouvelle_13|nouvelle_43": 0.9762273292615385,
+    "nouvelle_13|nouvelle_41": 0.9763591796517302,
+    "nouvelle_13|nouvelle_49": 0.9763955345591265,
+    "nouvelle_13|nouvelle_52": 0.9766119389587258,
+    "nouvelle_13|nouvelle_42": 0.9781111806650862,
+    "nouvelle_13|nouvelle_14": 0.9852780167623212,
+    "nouvelle_13|nouvelle_70": 0.9718088393896063,
+    "nouvelle_13|nouvelle_71": 0.9730393967978523,
+    "nouvelle_14|nouvelle_50": 0.9785655869895508,
+    "nouvelle_14|nouvelle_59": 0.978641510360496,
+    "nouvelle_14|nouvelle_16": 0.9786423584168333,
+    "nouvelle_14|nouvelle_44": 0.9788089430759678,
+    "nouvelle_14|nouvelle_49": 0.9805775495357153,
+    "nouvelle_14|nouvelle_62": 0.9816012393577132,
+    "nouvelle_14|nouvelle_15": 0.9914735630304408,
+    "nouvelle_14|nouvelle_53": 0.9773920322997386,
+    "nouvelle_14|nouvelle_54": 0.9763095667418641,
+    "nouvelle_14|nouvelle_61": 0.9757548089619785,
+    "nouvelle_15|nouvelle_55": 0.9790076333326273,
+    "nouvelle_15|nouvelle_43": 0.979416636860369,
+    "nouvelle_15|nouvelle_59": 0.9811122983201362,
+    "nouvelle_15|nouvelle_17": 0.9817423146801362,
+    "nouvelle_15|nouvelle_44": 0.9821060818017991,
+    "nouvelle_15|nouvelle_62": 0.9821786987822737,
+    "nouvelle_15|nouvelle_16": 0.9905620690257594,
+    "nouvelle_15|nouvelle_36": 0.9753184658410544,
+    "nouvelle_15|nouvelle_49": 0.9785010987192079,
+    "nouvelle_15|nouvelle_50": 0.9789264559021107,
+    "nouvelle_15|nouvelle_51": 0.9723212559797249,
+    "nouvelle_15|nouvelle_53": 0.9775896252927656,
+    "nouvelle_15|nouvelle_54": 0.9769929470819043,
+    "nouvelle_15|nouvelle_58": 0.9778838357615013,
+    "nouvelle_15|nouvelle_61": 0.977064898186464,
+    "nouvelle_15|nouvelle_67": 0.9757113010958256,
+    "nouvelle_16|nouvelle_21": 0.9776107846343054,
+    "nouvelle_16|nouvelle_63": 0.9792508086310966,
+    "nouvelle_16|nouvelle_62": 0.9801164895942248,
+    "nouvelle_16|nouvelle_18": 0.9824739198162578,
+    "nouvelle_16|nouvelle_17": 0.9914492167360945,
+    "nouvelle_16|nouvelle_36": 0.973307781942348,
+    "nouvelle_16|nouvelle_66": 0.9756367107853888,
+    "nouvelle_16|nouvelle_67": 0.9751635179893037,
+    "nouvelle_17|nouvelle_55": 0.975627644101866,
+    "nouvelle_17|nouvelle_63": 0.9771868325857933,
+    "nouvelle_17|nouvelle_21": 0.9774200083406216,
+    "nouvelle_17|nouvelle_62": 0.9774528736765955,
+    "nouvelle_17|nouvelle_18": 0.9890858121149371,
+    "nouvelle_17|nouvelle_25": 0.974695625317105,
+    "nouvelle_18|nouvelle_62": 0.9779299532397295,
+    "nouvelle_18|nouvelle_41": 0.9782295035689983,
+    "nouvelle_18|nouvelle_63": 0.9807230861403,
+    "nouvelle_18|nouvelle_21": 0.9814074483725829,
+    "nouvelle_18|nouvelle_20": 0.9833244623509079,
+    "nouvelle_18|nouvelle_19": 0.9871404290793415,
+    "nouvelle_19|nouvelle_55": 0.9741094882443794,
+    "nouvelle_19|nouvelle_22": 0.9744328025367868,
+    "nouvelle_19|nouvelle_41": 0.9751165347947881,
+    "nouvelle_19|nouvelle_63": 0.976470913973632,
+    "nouvelle_19|nouvelle_21": 0.9813021243386991,
+    "nouvelle_19|nouvelle_20": 0.9882409038505323,
+    "nouvelle_20|nouvelle_23": 0.9772617499509773,
+    "nouvelle_20|nouvelle_55": 0.9776718253525862,
+    "nouvelle_20|nouvelle_63": 0.9777428852379477,
+    "nouvelle_20|nouvelle_22": 0.9819674291836195,
+    "nouvelle_20|nouvelle_21": 0.9913253980586346,
+    "nouvelle_21|nouvelle_44": 0.9789934590155135,
+    "nouvelle_21|nouvelle_55": 0.9790856146751524,
+    "nouvelle_21|nouvelle_23": 0.9834782768495034,
+    "nouvelle_21|nouvelle_22": 0.9921584049868516,
+    "nouvelle_21|nouvelle_24": 0.9769054895514242,
+    "nouvelle_21|nouvelle_25": 0.9760590305356608,
+    "nouvelle_21|nouvelle_30": 0.9772985742685865,
+    "nouvelle_21|nouvelle_41": 0.9784029275581707,
+    "nouvelle_21|nouvelle_42": 0.9781588061365198,
+    "nouvelle_21|nouvelle_43": 0.9761608321954209,
+    "nouvelle_21|nouvelle_65": 0.9743621238164966,
+    "nouvelle_21|nouvelle_72": 0.9725333744803948,
+    "nouvelle_22|nouvelle_41": 0.9779023030626229,
+    "nouvelle_22|nouvelle_24": 0.984373552075073,
+    "nouvelle_22|nouvelle_23": 0.9918344849965643,
+    "nouvelle_22|nouvelle_32": 0.9734662029779774,
+    "nouvelle_22|nouvelle_33": 0.9726153334212709,
+    "nouvelle_22|nouvelle_34": 0.9770262813558934,
+    "nouvelle_22|nouvelle_39": 0.9729000368139401,
+    "nouvelle_22|nouvelle_40": 0.9768087385750015,
+    "nouvelle_23|nouvelle_30": 0.9769749616456698,
+    "nouvelle_23|nouvelle_47": 0.9770748718942737,
+    "nouvelle_23|nouvelle_46": 0.9777854773314296,
+    "nouvelle_23|nouvelle_24": 0.9913872355024587,
+    "nouvelle_23|nouvelle_32": 0.9717367961608457,
+    "nouvelle_23|nouvelle_33": 0.9712093521548375,
+    "nouvelle_23|nouvelle_34": 0.9762496647615468,
+    "nouvelle_23|nouvelle_40": 0.9767027770762714,
+    "nouvelle_24|nouvelle_49": 0.9760929782882397,
+    "nouvelle_24|nouvelle_47": 0.9764797812539002,
+    "nouvelle_24|nouvelle_25": 0.980575058629924,
+    "nouvelle_24|nouvelle_40": 0.9757085362088173,
+    "nouvelle_24|nouvelle_51": 0.9719958534518174,
+    "nouvelle_25|nouvelle_63": 0.9754587723119894,
+    "nouvelle_25|nouvelle_53": 0.9761991838220123,
+    "nouvelle_25|nouvelle_62": 0.9764828014467042,
+    "nouvelle_25|nouvelle_27": 0.980936920944175,
+    "nouvelle_25|nouvelle_26": 0.9915462584166085,
+    "nouvelle_26|nouvelle_59": 0.9743509613833755,
+    "nouvelle_26|nouvelle_41": 0.9746247806985379,
+    "nouvelle_26|nouvelle_62": 0.9748393972236964,
+    "nouvelle_26|nouvelle_63": 0.9750376195614144,
+    "nouvelle_26|nouvelle_28": 0.97510653634303,
+    "nouvelle_26|nouvelle_53": 0.9769942873228867,
+    "nouvelle_26|nouvelle_27": 0.990498080967662,
+    "nouvelle_27|nouvelle_29": 0.9739957367612175,
+    "nouvelle_27|nouvelle_53": 0.974386370283111,
+    "nouvelle_27|nouvelle_62": 0.9749396480008249,
+    "nouvelle_27|nouvelle_63": 0.9755559657619463,
+    "nouvelle_27|nouvelle_59": 0.9758615156983081,
+    "nouvelle_27|nouvelle_28": 0.9864699623561056,
+    "nouvelle_28|nouvelle_44": 0.975664036137593,
+    "nouvelle_28|nouvelle_63": 0.9768559113581187,
+    "nouvelle_28|nouvelle_59": 0.9774358613712388,
+    "nouvelle_28|nouvelle_30": 0.9787682461563767,
+    "nouvelle_28|nouvelle_29": 0.9902462737883981,
+    "nouvelle_29|nouvelle_63": 0.9714707742483835,
+    "nouvelle_29|nouvelle_45": 0.9714756492797786,
+    "nouvelle_29|nouvelle_30": 0.9852565862781825,
+    "nouvelle_30|nouvelle_63": 0.9781182193185046,
+    "nouvelle_30|nouvelle_31": 0.9849667189800404,
+    "nouvelle_30|nouvelle_32": 0.9764145473628887,
+    "nouvelle_30|nouvelle_33": 0.972693583009187,
+    "nouvelle_30|nouvelle_34": 0.9769655468301897,
+    "nouvelle_30|nouvelle_64": 0.9748959849198069,
+    "nouvelle_31|nouvelle_55": 0.9711449557071963,
+    "nouvelle_31|nouvelle_47": 0.9716224914938805,
+    "nouvelle_31|nouvelle_46": 0.972777504263883,
+    "nouvelle_31|nouvelle_34": 0.9758146235734565,
+    "nouvelle_31|nouvelle_33": 0.9879854594808888,
+    "nouvelle_31|nouvelle_32": 0.9933436754743629,
+    "nouvelle_32|nouvelle_46": 0.9713644430971592,
+    "nouvelle_32|nouvelle_34": 0.9809758655334643,
+    "nouvelle_32|nouvelle_33": 0.9956325966420166,
+    "nouvelle_33|nouvelle_47": 0.9709766800729936,
+    "nouvelle_33|nouvelle_46": 0.9717537537694605,
+    "nouvelle_33|nouvelle_34": 0.9856097110979583,
+    "nouvelle_34|nouvelle_47": 0.9769566658680174,
+    "nouvelle_34|nouvelle_35": 0.9808309186282168,
+    "nouvelle_35|nouvelle_49": 0.9738081624255419,
+    "nouvelle_35|nouvelle_48": 0.9743532386573408,
+    "nouvelle_35|nouvelle_55": 0.975803284929353,
+    "nouvelle_35|nouvelle_37": 0.9782168722970163,
+    "nouvelle_35|nouvelle_36": 0.9860499384794058,
+    "nouvelle_36|nouvelle_63": 0.9734223809538679,
+    "nouvelle_36|nouvelle_62": 0.975091880712277,
+    "nouvelle_36|nouvelle_38": 0.9751284744771194,
+    "nouvelle_36|nouvelle_37": 0.9914942088257807,
+    "nouvelle_37|nouvelle_60": 0.9741421347820303,
+    "nouvelle_37|nouvelle_63": 0.974866763455232,
+    "nouvelle_37|nouvelle_59": 0.9749741804713766,
+    "nouvelle_37|nouvelle_62": 0.9756364992543147,
+    "nouvelle_37|nouvelle_38": 0.9857922389549606,
+    "nouvelle_37|nouvelle_39": 0.9739594018574401,
+    "nouvelle_38|nouvelle_59": 0.9731750606067248,
+    "nouvelle_38|nouvelle_60": 0.9742302722389146,
+    "nouvelle_38|nouvelle_62": 0.9743538311767908,
+    "nouvelle_38|nouvelle_63": 0.9753886069166806,
+    "nouvelle_38|nouvelle_40": 0.9769907894515352,
+    "nouvelle_38|nouvelle_39": 0.9878515771761658,
+    "nouvelle_39|nouvelle_63": 0.9726041932944254,
+    "nouvelle_39|nouvelle_60": 0.9737198340212689,
+    "nouvelle_39|nouvelle_41": 0.9746228469192914,
+    "nouvelle_39|nouvelle_40": 0.9894255668530785,
+    "nouvelle_40|nouvelle_60": 0.9755745170496258,
+    "nouvelle_40|nouvelle_41": 0.9858263845284512,
+    "nouvelle_41|nouvelle_59": 0.9787931992092641,
+    "nouvelle_41|nouvelle_60": 0.9792420630491349,
+    "nouvelle_41|nouvelle_63": 0.9809910286747152,
+    "nouvelle_41|nouvelle_43": 0.9815543512065704,
+    "nouvelle_41|nouvelle_42": 0.9908392536844765,
+    "nouvelle_41|nouvelle_51": 0.97324089560256,
+    "nouvelle_41|nouvelle_61": 0.9758798324911112,
+    "nouvelle_41|nouvelle_69": 0.9723823253978636,
+    "nouvelle_41|nouvelle_70": 0.9698784538447727,
+    "nouvelle_41|nouvelle_71": 0.97423192985113,
+    "nouvelle_41|nouvelle_72": 0.9738094976407994,
+    "nouvelle_42|nouvelle_63": 0.9803019860389537,
+    "nouvelle_42|nouvelle_44": 0.9820067850980981,
+    "nouvelle_42|nouvelle_43": 0.9910387259767273,
+    "nouvelle_42|nouvelle_70": 0.9678632839583234,
+    "nouvelle_42|nouvelle_71": 0.9727149435741671,
+    "nouvelle_42|nouvelle_72": 0.9730506875581354,
+    "nouvelle_43|nouvelle_63": 0.9755431625052542,
+    "nouvelle_43|nouvelle_44": 0.9881772887878009,
+    "nouvelle_44|nouvelle_59": 0.9798090143295471,
+    "nouvelle_44|nouvelle_45": 0.9878663457741158,
+    "nouvelle_44|nouvelle_46": 0.9784722198153766,
+    "nouvelle_44|nouvelle_49": 0.9781320677353984,
+    "nouvelle_44|nouvelle_67": 0.9734103135589389,
+    "nouvelle_45|nouvelle_55": 0.9787917623691773,
+    "nouvelle_45|nouvelle_47": 0.9800043412318455,
+    "nouvelle_45|nouvelle_46": 0.9898565512140665,
+    "nouvelle_45|nouvelle_57": 0.9731517890110273,
+    "nouvelle_46|nouvelle_59": 0.9781932574711061,
+    "nouvelle_46|nouvelle_48": 0.9832181630063368,
+    "nouvelle_46|nouvelle_47": 0.9920241029109929,
+    "nouvelle_46|nouvelle_56": 0.9766409571281633,
+    "nouvelle_46|nouvelle_57": 0.9743753277670905,
+    "nouvelle_47|nouvelle_48": 0.9894050056811716,
+    "nouvelle_48|nouvelle_55": 0.9779652971767782,
+    "nouvelle_48|nouvelle_59": 0.9782236618424516,
+    "nouvelle_48|nouvelle_49": 0.9870058755157823,
+    "nouvelle_49|nouvelle_59": 0.9776245250053343,
+    "nouvelle_49|nouvelle_50": 0.9868416975444808,
+    "nouvelle_49|nouvelle_51": 0.9756587489531926,
+    "nouvelle_50|nouvelle_62": 0.9753932986369915,
+    "nouvelle_50|nouvelle_60": 0.9769048232738247,
+    "nouvelle_50|nouvelle_59": 0.977679231246871,
+    "nouvelle_50|nouvelle_52": 0.9784904003981075,
+    "nouvelle_50|nouvelle_51": 0.989930965593917,
+    "nouvelle_50|nouvelle_68": 0.9717479739840997,
+    "nouvelle_50|nouvelle_69": 0.9734750681577606,
+    "nouvelle_51|nouvelle_62": 0.9721325365217376,
+    "nouvelle_51|nouvelle_69": 0.974151998262858,
+    "nouvelle_51|nouvelle_52": 0.983299766096438,
+    "nouvelle_51|nouvelle_68": 0.9710297469735247,
+    "nouvelle_51|nouvelle_70": 0.9671060185505976,
+    "nouvelle_52|nouvelle_54": 0.9763868494061323,
+    "nouvelle_52|nouvelle_62": 0.9777869737068514,
+    "nouvelle_52|nouvelle_53": 0.9860445401015556,
+    "nouvelle_52|nouvelle_69": 0.9731367652128847,
+    "nouvelle_52|nouvelle_70": 0.9687664936182192,
+    "nouvelle_53|nouvelle_59": 0.9777485208289454,
+    "nouvelle_53|nouvelle_63": 0.9779581985507065,
+    "nouvelle_53|nouvelle_62": 0.9787809859882912,
+    "nouvelle_53|nouvelle_55": 0.9830026581871076,
+    "nouvelle_53|nouvelle_54": 0.990193759254517,
+    "nouvelle_53|nouvelle_58": 0.9751180715559173,
+    "nouvelle_54|nouvelle_63": 0.9763250187940166,
+    "nouvelle_54|nouvelle_59": 0.9777696932839888,
+    "nouvelle_54|nouvelle_62": 0.9779883687915424,
+    "nouvelle_54|nouvelle_55": 0.9891659796763639,
+    "nouvelle_54|nouvelle_56": 0.9762391733156196,
+    "nouvelle_54|nouvelle_58": 0.9748458942133224,
+    "nouvelle_55|nouvelle_57": 0.9802009436758328,
+    "nouvelle_55|nouvelle_59": 0.9806605922781433,
+    "nouvelle_55|nouvelle_56": 0.9886413427574979,
+    "nouvelle_55|nouvelle_58": 0.9759629449657228,
+    "nouvelle_55|nouvelle_60": 0.978702645444937,
+    "nouvelle_55|nouvelle_62": 0.9789172303150483,
+    "nouvelle_55|nouvelle_65": 0.9782708849569839,
+    "nouvelle_55|nouvelle_66": 0.9761921376199905,
+    "nouvelle_55|nouvelle_67": 0.9734695707607406,
+    "nouvelle_56|nouvelle_58": 0.9835825007991563,
+    "nouvelle_56|nouvelle_57": 0.9926234095451368,
+    "nouvelle_56|nouvelle_65": 0.9754895029949069,
+    "nouvelle_57|nouvelle_59": 0.973815192575376,
+    "nouvelle_57|nouvelle_58": 0.989104913938387,
+    "nouvelle_58|nouvelle_59": 0.9831046987708703,
+    "nouvelle_59|nouvelle_63": 0.9804109839719881,
+    "nouvelle_59|nouvelle_61": 0.9811917203410231,
+    "nouvelle_59|nouvelle_60": 0.9914121960811383,
+    "nouvelle_59|nouvelle_64": 0.9745062973031008,
+    "nouvelle_59|nouvelle_68": 0.9704449385514197,
+    "nouvelle_59|nouvelle_72": 0.9724052054666709,
+    "nouvelle_60|nouvelle_63": 0.9798828610307795,
+    "nouvelle_60|nouvelle_62": 0.9831530559816469,
+    "nouvelle_60|nouvelle_61": 0.9912431940745419,
+    "nouvelle_60|nouvelle_64": 0.9756404485019898,
+    "nouvelle_60|nouvelle_66": 0.9767170058786867,
+    "nouvelle_60|nouvelle_68": 0.9718285158795369,
+    "nouvelle_60|nouvelle_72": 0.9732402858607964,
+    "nouvelle_61|nouvelle_63": 0.9782251409002339,
+    "nouvelle_61|nouvelle_62": 0.9882826976527751,
+    "nouvelle_61|nouvelle_68": 0.9701222011652637,
+    "nouvelle_61|nouvelle_72": 0.9728284694538563,
+    "nouvelle_62|nouvelle_63": 0.9888922820212402,
+    "nouvelle_62|nouvelle_64": 0.9757880433185465,
+    "nouvelle_62|nouvelle_66": 0.9776149504192108,
+    "nouvelle_62|nouvelle_67": 0.9744981988101581,
+    "nouvelle_63|nouvelle_64": 0.9864301137909137,
+    "nouvelle_63|nouvelle_65": 0.9769283393366234,
+    "nouvelle_63|nouvelle_68": 0.9713158289036381,
+    "nouvelle_63|nouvelle_72": 0.973447263993606,
+    "nouvelle_64|nouvelle_66": 0.9799267385894134,
+    "nouvelle_64|nouvelle_65": 0.9908896098237405,
+    "nouvelle_65|nouvelle_66": 0.989870217775291,
+    "nouvelle_66|nouvelle_67": 0.9799070980751273,
+    "nouvelle_67|nouvelle_69": 0.9764846192557692,
+    "nouvelle_67|nouvelle_68": 0.9874668027340041,
+    "nouvelle_68|nouvelle_69": 0.9889093766662549,
+    "nouvelle_69|nouvelle_71": 0.976356555945344,
+    "nouvelle_69|nouvelle_70": 0.9859095988054767,
+    "nouvelle_70|nouvelle_71": 0.9875533702918746,
+    "nouvelle_71|nouvelle_72": 0.9816460542539841
+  },
+  "mis_size": 19,
+  "rigidity": 0.053,
+  "n_solutions": 500
+}

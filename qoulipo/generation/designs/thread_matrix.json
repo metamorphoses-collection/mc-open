@@ -1,0 +1,2030 @@
+{
+  "threads": {
+    "0": {
+      "name": "CHRONICLE",
+      "keywords": [
+        "chronicle",
+        "chronicler",
+        "chronicled",
+        "chronicling",
+        "record",
+        "annals"
+      ]
+    },
+    "1": {
+      "name": "FAITH",
+      "keywords": [
+        "faith",
+        "faithful",
+        "belief",
+        "believed",
+        "creed",
+        "devotion",
+        "prayer"
+      ]
+    },
+    "2": {
+      "name": "TONGUE",
+      "keywords": [
+        "tongue",
+        "language",
+        "vernacular",
+        "Latin",
+        "Romance",
+        "dialect",
+        "speech"
+      ]
+    },
+    "3": {
+      "name": "WAGER",
+      "keywords": [
+        "wager",
+        "stake",
+        "bet",
+        "gamble",
+        "risk",
+        "pari",
+        "wagered"
+      ]
+    },
+    "4": {
+      "name": "MALIETTE",
+      "keywords": [
+        "maliette",
+        "valise",
+        "case",
+        "folio",
+        "satchel",
+        "portfolio"
+      ]
+    },
+    "5": {
+      "name": "NUMBER",
+      "keywords": [
+        "number",
+        "numbered",
+        "count",
+        "counting",
+        "enumeration",
+        "calculation",
+        "arithmetic"
+      ]
+    },
+    "6": {
+      "name": "PARCHMENT",
+      "keywords": [
+        "parchment",
+        "vellum",
+        "manuscript",
+        "codex",
+        "palimpsest",
+        "copyist"
+      ]
+    },
+    "7": {
+      "name": "SWORD",
+      "keywords": [
+        "sword",
+        "blade",
+        "battle",
+        "Fontenoy",
+        "war",
+        "soldier",
+        "steel"
+      ]
+    },
+    "8": {
+      "name": "CIPHER",
+      "keywords": [
+        "cipher",
+        "code",
+        "encrypted",
+        "decoded",
+        "secret",
+        "concealed",
+        "hidden"
+      ]
+    },
+    "9": {
+      "name": "DREAM",
+      "keywords": [
+        "dream",
+        "dreamt",
+        "vision",
+        "oneiric",
+        "reverie",
+        "apparition",
+        "dreaming"
+      ]
+    }
+  },
+  "voices": [
+    "NITHARD",
+    "PASCAL",
+    "PROFESSOR"
+  ],
+  "n_pages": 100,
+  "threads_per_page": 5,
+  "assignments": [
+    {
+      "page": 1,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        3,
+        8
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "WAGER",
+        "CIPHER"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 2,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        3,
+        8
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "WAGER",
+        "CIPHER"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 3,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "MALIETTE",
+        "NUMBER"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 4,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        4,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "MALIETTE",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 5,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        3,
+        8
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "WAGER",
+        "CIPHER"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 6,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        8,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 7,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        3,
+        7
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "WAGER",
+        "SWORD"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 8,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        6,
+        7
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 9,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        3,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "WAGER",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 10,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "WAGER",
+        "MALIETTE"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 11,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        4,
+        7
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "MALIETTE",
+        "SWORD"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 12,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        3,
+        7
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "WAGER",
+        "SWORD"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 13,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        4,
+        7
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "MALIETTE",
+        "SWORD"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 14,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        8,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 15,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        7,
+        8
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 16,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        4,
+        6
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "MALIETTE",
+        "PARCHMENT"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 17,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        6,
+        7
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 18,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        3,
+        5
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "WAGER",
+        "NUMBER"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 19,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        4,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "MALIETTE",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 20,
+      "cluster": 0,
+      "threads": [
+        0,
+        1,
+        2,
+        6,
+        8
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "PARCHMENT",
+        "CIPHER"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 21,
+      "cluster": 1,
+      "threads": [
+        2,
+        3,
+        4,
+        5,
+        9
+      ],
+      "thread_names": [
+        "TONGUE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 22,
+      "cluster": 1,
+      "threads": [
+        1,
+        3,
+        4,
+        5,
+        9
+      ],
+      "thread_names": [
+        "FAITH",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 23,
+      "cluster": 1,
+      "threads": [
+        2,
+        3,
+        4,
+        5,
+        9
+      ],
+      "thread_names": [
+        "TONGUE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 24,
+      "cluster": 1,
+      "threads": [
+        0,
+        3,
+        4,
+        5,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 25,
+      "cluster": 1,
+      "threads": [
+        0,
+        3,
+        4,
+        5,
+        6
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 26,
+      "cluster": 1,
+      "threads": [
+        2,
+        3,
+        4,
+        5,
+        9
+      ],
+      "thread_names": [
+        "TONGUE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 27,
+      "cluster": 1,
+      "threads": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "thread_names": [
+        "TONGUE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "SWORD"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 28,
+      "cluster": 1,
+      "threads": [
+        0,
+        3,
+        4,
+        5,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 29,
+      "cluster": 1,
+      "threads": [
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "thread_names": [
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT",
+        "CIPHER"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 30,
+      "cluster": 1,
+      "threads": [
+        0,
+        3,
+        4,
+        5,
+        7
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "SWORD"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 31,
+      "cluster": 1,
+      "threads": [
+        0,
+        3,
+        4,
+        5,
+        6
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 32,
+      "cluster": 1,
+      "threads": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "thread_names": [
+        "TONGUE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "SWORD"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 33,
+      "cluster": 1,
+      "threads": [
+        3,
+        4,
+        5,
+        8,
+        9
+      ],
+      "thread_names": [
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 34,
+      "cluster": 1,
+      "threads": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "thread_names": [
+        "TONGUE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "SWORD"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 35,
+      "cluster": 1,
+      "threads": [
+        1,
+        3,
+        4,
+        5,
+        7
+      ],
+      "thread_names": [
+        "FAITH",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "SWORD"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 36,
+      "cluster": 1,
+      "threads": [
+        0,
+        3,
+        4,
+        5,
+        8
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "CIPHER"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 37,
+      "cluster": 1,
+      "threads": [
+        0,
+        3,
+        4,
+        5,
+        8
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "CIPHER"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 38,
+      "cluster": 1,
+      "threads": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "thread_names": [
+        "FAITH",
+        "TONGUE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 39,
+      "cluster": 1,
+      "threads": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 40,
+      "cluster": 1,
+      "threads": [
+        0,
+        3,
+        4,
+        5,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 41,
+      "cluster": 2,
+      "threads": [
+        2,
+        3,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "TONGUE",
+        "WAGER",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 42,
+      "cluster": 2,
+      "threads": [
+        3,
+        5,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "WAGER",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 43,
+      "cluster": 2,
+      "threads": [
+        2,
+        6,
+        7,
+        8,
+        9
+      ],
+      "thread_names": [
+        "TONGUE",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 44,
+      "cluster": 2,
+      "threads": [
+        1,
+        2,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "FAITH",
+        "TONGUE",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 45,
+      "cluster": 2,
+      "threads": [
+        1,
+        2,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "FAITH",
+        "TONGUE",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 46,
+      "cluster": 2,
+      "threads": [
+        2,
+        5,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "TONGUE",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 47,
+      "cluster": 2,
+      "threads": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "thread_names": [
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 48,
+      "cluster": 2,
+      "threads": [
+        0,
+        5,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 49,
+      "cluster": 2,
+      "threads": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 50,
+      "cluster": 2,
+      "threads": [
+        1,
+        4,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "FAITH",
+        "MALIETTE",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 51,
+      "cluster": 2,
+      "threads": [
+        1,
+        5,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "FAITH",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 52,
+      "cluster": 2,
+      "threads": [
+        1,
+        3,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "FAITH",
+        "WAGER",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 53,
+      "cluster": 2,
+      "threads": [
+        2,
+        3,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "TONGUE",
+        "WAGER",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 54,
+      "cluster": 2,
+      "threads": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "thread_names": [
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 55,
+      "cluster": 2,
+      "threads": [
+        1,
+        4,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "FAITH",
+        "MALIETTE",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 56,
+      "cluster": 2,
+      "threads": [
+        2,
+        5,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "TONGUE",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 57,
+      "cluster": 2,
+      "threads": [
+        0,
+        6,
+        7,
+        8,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 58,
+      "cluster": 2,
+      "threads": [
+        0,
+        1,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 59,
+      "cluster": 2,
+      "threads": [
+        2,
+        6,
+        7,
+        8,
+        9
+      ],
+      "thread_names": [
+        "TONGUE",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 60,
+      "cluster": 2,
+      "threads": [
+        2,
+        3,
+        6,
+        7,
+        8
+      ],
+      "thread_names": [
+        "TONGUE",
+        "WAGER",
+        "PARCHMENT",
+        "SWORD",
+        "CIPHER"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 61,
+      "cluster": 3,
+      "threads": [
+        0,
+        1,
+        2,
+        3,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "TONGUE",
+        "WAGER",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 62,
+      "cluster": 3,
+      "threads": [
+        0,
+        3,
+        6,
+        7,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "PARCHMENT",
+        "SWORD",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 63,
+      "cluster": 3,
+      "threads": [
+        0,
+        2,
+        3,
+        4,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "TONGUE",
+        "WAGER",
+        "MALIETTE",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 64,
+      "cluster": 3,
+      "threads": [
+        0,
+        3,
+        5,
+        7,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "NUMBER",
+        "SWORD",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 65,
+      "cluster": 3,
+      "threads": [
+        0,
+        3,
+        5,
+        7,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "NUMBER",
+        "SWORD",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 66,
+      "cluster": 3,
+      "threads": [
+        0,
+        2,
+        3,
+        5,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "TONGUE",
+        "WAGER",
+        "NUMBER",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 67,
+      "cluster": 3,
+      "threads": [
+        0,
+        2,
+        3,
+        4,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "TONGUE",
+        "WAGER",
+        "MALIETTE",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 68,
+      "cluster": 3,
+      "threads": [
+        0,
+        2,
+        3,
+        7,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "TONGUE",
+        "WAGER",
+        "SWORD",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 69,
+      "cluster": 3,
+      "threads": [
+        0,
+        3,
+        6,
+        8,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "PARCHMENT",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 70,
+      "cluster": 3,
+      "threads": [
+        0,
+        3,
+        4,
+        7,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "MALIETTE",
+        "SWORD",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 71,
+      "cluster": 3,
+      "threads": [
+        0,
+        3,
+        5,
+        6,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "NUMBER",
+        "PARCHMENT",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 72,
+      "cluster": 3,
+      "threads": [
+        0,
+        3,
+        5,
+        6,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "NUMBER",
+        "PARCHMENT",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 73,
+      "cluster": 3,
+      "threads": [
+        0,
+        2,
+        3,
+        4,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "TONGUE",
+        "WAGER",
+        "MALIETTE",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 74,
+      "cluster": 3,
+      "threads": [
+        0,
+        2,
+        3,
+        6,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "TONGUE",
+        "WAGER",
+        "PARCHMENT",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 75,
+      "cluster": 3,
+      "threads": [
+        0,
+        1,
+        3,
+        5,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "WAGER",
+        "NUMBER",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 76,
+      "cluster": 3,
+      "threads": [
+        0,
+        1,
+        3,
+        8,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "WAGER",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 77,
+      "cluster": 3,
+      "threads": [
+        0,
+        1,
+        3,
+        8,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "WAGER",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 78,
+      "cluster": 3,
+      "threads": [
+        0,
+        2,
+        3,
+        7,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "TONGUE",
+        "WAGER",
+        "SWORD",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 79,
+      "cluster": 3,
+      "threads": [
+        0,
+        2,
+        3,
+        7,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "TONGUE",
+        "WAGER",
+        "SWORD",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 80,
+      "cluster": 3,
+      "threads": [
+        0,
+        3,
+        5,
+        6,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "WAGER",
+        "NUMBER",
+        "PARCHMENT",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 81,
+      "cluster": 4,
+      "threads": [
+        0,
+        1,
+        4,
+        5,
+        6
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 82,
+      "cluster": 4,
+      "threads": [
+        1,
+        4,
+        5,
+        6,
+        7
+      ],
+      "thread_names": [
+        "FAITH",
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 83,
+      "cluster": 4,
+      "threads": [
+        1,
+        4,
+        5,
+        6,
+        7
+      ],
+      "thread_names": [
+        "FAITH",
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 84,
+      "cluster": 4,
+      "threads": [
+        1,
+        3,
+        4,
+        6,
+        7
+      ],
+      "thread_names": [
+        "FAITH",
+        "WAGER",
+        "MALIETTE",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 85,
+      "cluster": 4,
+      "threads": [
+        0,
+        1,
+        4,
+        6,
+        9
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "MALIETTE",
+        "PARCHMENT",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 86,
+      "cluster": 4,
+      "threads": [
+        1,
+        4,
+        6,
+        8,
+        9
+      ],
+      "thread_names": [
+        "FAITH",
+        "MALIETTE",
+        "PARCHMENT",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 87,
+      "cluster": 4,
+      "threads": [
+        0,
+        1,
+        4,
+        6,
+        8
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "MALIETTE",
+        "PARCHMENT",
+        "CIPHER"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 88,
+      "cluster": 4,
+      "threads": [
+        1,
+        3,
+        4,
+        6,
+        7
+      ],
+      "thread_names": [
+        "FAITH",
+        "WAGER",
+        "MALIETTE",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 89,
+      "cluster": 4,
+      "threads": [
+        1,
+        4,
+        6,
+        8,
+        9
+      ],
+      "thread_names": [
+        "FAITH",
+        "MALIETTE",
+        "PARCHMENT",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 90,
+      "cluster": 4,
+      "threads": [
+        0,
+        1,
+        3,
+        4,
+        6
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "WAGER",
+        "MALIETTE",
+        "PARCHMENT"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 91,
+      "cluster": 4,
+      "threads": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "thread_names": [
+        "FAITH",
+        "WAGER",
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 92,
+      "cluster": 4,
+      "threads": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "thread_names": [
+        "FAITH",
+        "TONGUE",
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 93,
+      "cluster": 4,
+      "threads": [
+        0,
+        1,
+        4,
+        6,
+        8
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "MALIETTE",
+        "PARCHMENT",
+        "CIPHER"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 94,
+      "cluster": 4,
+      "threads": [
+        1,
+        3,
+        4,
+        6,
+        8
+      ],
+      "thread_names": [
+        "FAITH",
+        "WAGER",
+        "MALIETTE",
+        "PARCHMENT",
+        "CIPHER"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 95,
+      "cluster": 4,
+      "threads": [
+        1,
+        2,
+        4,
+        6,
+        7
+      ],
+      "thread_names": [
+        "FAITH",
+        "TONGUE",
+        "MALIETTE",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 96,
+      "cluster": 4,
+      "threads": [
+        0,
+        1,
+        4,
+        6,
+        7
+      ],
+      "thread_names": [
+        "CHRONICLE",
+        "FAITH",
+        "MALIETTE",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 97,
+      "cluster": 4,
+      "threads": [
+        1,
+        4,
+        6,
+        8,
+        9
+      ],
+      "thread_names": [
+        "FAITH",
+        "MALIETTE",
+        "PARCHMENT",
+        "CIPHER",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    },
+    {
+      "page": 98,
+      "cluster": 4,
+      "threads": [
+        1,
+        3,
+        4,
+        6,
+        8
+      ],
+      "thread_names": [
+        "FAITH",
+        "WAGER",
+        "MALIETTE",
+        "PARCHMENT",
+        "CIPHER"
+      ],
+      "voice": "PASCAL"
+    },
+    {
+      "page": 99,
+      "cluster": 4,
+      "threads": [
+        1,
+        4,
+        6,
+        7,
+        9
+      ],
+      "thread_names": [
+        "FAITH",
+        "MALIETTE",
+        "PARCHMENT",
+        "SWORD",
+        "DREAM"
+      ],
+      "voice": "PROFESSOR"
+    },
+    {
+      "page": 100,
+      "cluster": 4,
+      "threads": [
+        1,
+        2,
+        4,
+        6,
+        9
+      ],
+      "thread_names": [
+        "FAITH",
+        "TONGUE",
+        "MALIETTE",
+        "PARCHMENT",
+        "DREAM"
+      ],
+      "voice": "NITHARD"
+    }
+  ]
+}

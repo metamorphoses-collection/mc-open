@@ -1,0 +1,1226 @@
+{
+  "text": "SNLI-3class N=24 isolated-pair register, contradiction, intra=5.0um",
+  "version": "3class_n24",
+  "N": 24,
+  "n_pairs": 12,
+  "R_b_um": 8.0,
+  "within_domino_dist": 5.0,
+  "domino_spacing_x": 18.0,
+  "domino_spacing_y": 14.0,
+  "grid_cols": 4,
+  "grid_rows": 3,
+  "max_radial_um": 32.65348373451139,
+  "min_dist_um": 5.0,
+  "coords_2d": [
+    [
+      -29.5,
+      -14.0
+    ],
+    [
+      -24.5,
+      -14.0
+    ],
+    [
+      -29.5,
+      0.0
+    ],
+    [
+      -24.5,
+      0.0
+    ],
+    [
+      -29.5,
+      14.0
+    ],
+    [
+      -24.5,
+      14.0
+    ],
+    [
+      -11.5,
+      -14.0
+    ],
+    [
+      -6.5,
+      -14.0
+    ],
+    [
+      -11.5,
+      0.0
+    ],
+    [
+      -6.5,
+      0.0
+    ],
+    [
+      -11.5,
+      14.0
+    ],
+    [
+      -6.5,
+      14.0
+    ],
+    [
+      6.5,
+      -14.0
+    ],
+    [
+      11.5,
+      -14.0
+    ],
+    [
+      6.5,
+      0.0
+    ],
+    [
+      11.5,
+      0.0
+    ],
+    [
+      6.5,
+      14.0
+    ],
+    [
+      11.5,
+      14.0
+    ],
+    [
+      24.5,
+      -14.0
+    ],
+    [
+      29.5,
+      -14.0
+    ],
+    [
+      24.5,
+      0.0
+    ],
+    [
+      29.5,
+      0.0
+    ],
+    [
+      24.5,
+      14.0
+    ],
+    [
+      29.5,
+      14.0
+    ]
+  ],
+  "node_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "atom_meta": [
+    {
+      "role": "sic",
+      "pair_idx": 0,
+      "text_preview": "A person with hat, long shirt, and jeans is standing in a stand of trees with no underbrush, bent over and examining the base of a tree, whi"
+    },
+    {
+      "role": "non",
+      "pair_idx": 0,
+      "text_preview": "The man in jeans and a hat is standing on the path looking at the trees."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 1,
+      "text_preview": "Two young men dressed in summer clothing of shorts and tank tops stand in front of a matching pair of pseudo rickshaws for transportation as"
+    },
+    {
+      "role": "non",
+      "pair_idx": 1,
+      "text_preview": "two young men dressed in winter clothes work by pulling rickshaws for others."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 2,
+      "text_preview": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair ab"
+    },
+    {
+      "role": "non",
+      "pair_idx": 2,
+      "text_preview": "Photographers capture a male skateboarder performing tricks inside an abandoned building."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 3,
+      "text_preview": "Two Middle Eastern men are in a kitchen while one is shirtless with a chest full of hair and a mustache is preparing fish and the other in a"
+    },
+    {
+      "role": "non",
+      "pair_idx": 3,
+      "text_preview": "Middle Eastern men are preparing pasta for dinner while staring at a camera."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 4,
+      "text_preview": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair ab"
+    },
+    {
+      "role": "non",
+      "pair_idx": 4,
+      "text_preview": "A man is taking the picture of a skateboarder who is being taken by aliens."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 5,
+      "text_preview": "A young man in a gray tee-shirt and gray sweatpants stands by a metal tiered shelf in an industrial kitchen, holding the top edge of the met"
+    },
+    {
+      "role": "non",
+      "pair_idx": 5,
+      "text_preview": "A man in all black stands in an industrial kitchen."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 6,
+      "text_preview": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of"
+    },
+    {
+      "role": "non",
+      "pair_idx": 6,
+      "text_preview": "Two adults run across the street to get away from a red shirted person chasing them."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 7,
+      "text_preview": "A dark-haired man in blue jeans and a light green polo is standing next to a man with khaki cargo shorts and a blue polo as they pose for a "
+    },
+    {
+      "role": "non",
+      "pair_idx": 7,
+      "text_preview": "A dark-haired man in a dress is taking pictures of the man in green cargo shorts."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 8,
+      "text_preview": "This is a closeup of a young, innocent-looking boy with tousled hair who is holding with both hands what seems to be a plastic, green and or"
+    },
+    {
+      "role": "non",
+      "pair_idx": 8,
+      "text_preview": "A boy is holding a blue and red beach ball."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 9,
+      "text_preview": "A man in a pink polo shirt sitting on a large yellow bench talking to a group of three other men while a woman wearing green sunglasses and "
+    },
+    {
+      "role": "non",
+      "pair_idx": 9,
+      "text_preview": "A man is talking to three men about a woman who is looking off to the left."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 10,
+      "text_preview": "Three men are wearing safety yellow jackets and hard hats on the sight of a construction project; one is in a hole and the other two are loo"
+    },
+    {
+      "role": "non",
+      "pair_idx": 10,
+      "text_preview": "There are three men in hard hats standing on the same horizontal plane."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 11,
+      "text_preview": "A group of boys wearing orange jerseys playing soccer, with a blond boy guarding a dark-haired boy working the soccer ball down the field, w"
+    },
+    {
+      "role": "non",
+      "pair_idx": 11,
+      "text_preview": "There is a group of boys wearing orange jerseys playing basketball."
+    }
+  ],
+  "edges": [
+    {
+      "u": 0,
+      "v": 1,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 0,
+      "v": 2,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 3,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 4,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 5,
+      "distance": 28.44,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 6,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 7,
+      "distance": 23.0,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 8,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 9,
+      "distance": 26.93,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 2,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 3,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 4,
+      "distance": 28.44,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 5,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 6,
+      "distance": 13.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 7,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 8,
+      "distance": 19.1,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 9,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 3,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 2,
+      "v": 4,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 5,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 6,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 7,
+      "distance": 26.93,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 8,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 9,
+      "distance": 23.0,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 10,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 11,
+      "distance": 26.93,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 4,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 5,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 6,
+      "distance": 19.1,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 7,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 8,
+      "distance": 13.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 9,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 10,
+      "distance": 19.1,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 11,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 5,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 4,
+      "v": 8,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 9,
+      "distance": 26.93,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 10,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 11,
+      "distance": 23.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 8,
+      "distance": 19.1,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 9,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 10,
+      "distance": 13.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 11,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 7,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 6,
+      "v": 8,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 9,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 10,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 11,
+      "distance": 28.44,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 12,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 13,
+      "distance": 23.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 14,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 15,
+      "distance": 26.93,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 8,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 9,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 10,
+      "distance": 28.44,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 11,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 12,
+      "distance": 13.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 13,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 14,
+      "distance": 19.1,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 15,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 9,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 8,
+      "v": 10,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 11,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 12,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 13,
+      "distance": 26.93,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 14,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 15,
+      "distance": 23.0,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 16,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 17,
+      "distance": 26.93,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 10,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 11,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 12,
+      "distance": 19.1,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 13,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 14,
+      "distance": 13.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 15,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 16,
+      "distance": 19.1,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 17,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 11,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 10,
+      "v": 14,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 15,
+      "distance": 26.93,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 16,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 17,
+      "distance": 23.0,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 14,
+      "distance": 19.1,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 15,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 16,
+      "distance": 13.0,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 17,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 13,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 12,
+      "v": 14,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 15,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 16,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 17,
+      "distance": 28.44,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 18,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 19,
+      "distance": 23.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 20,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 21,
+      "distance": 26.93,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 14,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 15,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 16,
+      "distance": 28.44,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 17,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 18,
+      "distance": 13.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 19,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 20,
+      "distance": 19.1,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 21,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 15,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 14,
+      "v": 16,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 17,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 18,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 19,
+      "distance": 26.93,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 20,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 21,
+      "distance": 23.0,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 22,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 23,
+      "distance": 26.93,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 16,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 17,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 18,
+      "distance": 19.1,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 19,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 20,
+      "distance": 13.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 21,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 22,
+      "distance": 19.1,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 23,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 17,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 16,
+      "v": 20,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 21,
+      "distance": 26.93,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 22,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 23,
+      "distance": 23.0,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 20,
+      "distance": 19.1,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 21,
+      "distance": 22.8,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 22,
+      "distance": 13.0,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 23,
+      "distance": 18.0,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 19,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 18,
+      "v": 20,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 21,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 22,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 23,
+      "distance": 28.44,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 20,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 21,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 22,
+      "distance": 28.44,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 23,
+      "distance": 28.0,
+      "is_pair": false
+    },
+    {
+      "u": 20,
+      "v": 21,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 20,
+      "v": 22,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 20,
+      "v": 23,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 22,
+      "distance": 14.87,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 23,
+      "distance": 14.0,
+      "is_pair": false
+    },
+    {
+      "u": 22,
+      "v": 23,
+      "distance": 5.0,
+      "is_pair": true
+    }
+  ],
+  "pair_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      14,
+      15
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      22,
+      23
+    ]
+  ],
+  "pair_texts": [
+    {
+      "sic": "A person with hat, long shirt, and jeans is standing in a stand of trees with no underbrush, bent over and examining the base of a tree, while a footpath crosses the bottom of the image.",
+      "non": "The man in jeans and a hat is standing on the path looking at the trees."
+    },
+    {
+      "sic": "Two young men dressed in summer clothing of shorts and tank tops stand in front of a matching pair of pseudo rickshaws for transportation as men cycle in the background.",
+      "non": "two young men dressed in winter clothes work by pulling rickshaws for others."
+    },
+    {
+      "sic": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.",
+      "non": "Photographers capture a male skateboarder performing tricks inside an abandoned building."
+    },
+    {
+      "sic": "Two Middle Eastern men are in a kitchen while one is shirtless with a chest full of hair and a mustache is preparing fish and the other in a white shirt is peering at the camera.",
+      "non": "Middle Eastern men are preparing pasta for dinner while staring at a camera."
+    },
+    {
+      "sic": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.",
+      "non": "A man is taking the picture of a skateboarder who is being taken by aliens."
+    },
+    {
+      "sic": "A young man in a gray tee-shirt and gray sweatpants stands by a metal tiered shelf in an industrial kitchen, holding the top edge of the metal structure, with one leg resting on the knee of the other leg.",
+      "non": "A man in all black stands in an industrial kitchen."
+    },
+    {
+      "sic": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",
+      "non": "Two adults run across the street to get away from a red shirted person chasing them."
+    },
+    {
+      "sic": "A dark-haired man in blue jeans and a light green polo is standing next to a man with khaki cargo shorts and a blue polo as they pose for a picture with locals in a foreign land.",
+      "non": "A dark-haired man in a dress is taking pictures of the man in green cargo shorts."
+    },
+    {
+      "sic": "This is a closeup of a young, innocent-looking boy with tousled hair who is holding with both hands what seems to be a plastic, green and orange beach ball with a butterfly design as the sun shines upon him from his right.",
+      "non": "A boy is holding a blue and red beach ball."
+    },
+    {
+      "sic": "A man in a pink polo shirt sitting on a large yellow bench talking to a group of three other men while a woman wearing green sunglasses and a man wearing a gray cap look off to the right of the image.",
+      "non": "A man is talking to three men about a woman who is looking off to the left."
+    },
+    {
+      "sic": "Three men are wearing safety yellow jackets and hard hats on the sight of a construction project; one is in a hole and the other two are looking at the man standing in the hole.",
+      "non": "There are three men in hard hats standing on the same horizontal plane."
+    },
+    {
+      "sic": "A group of boys wearing orange jerseys playing soccer, with a blond boy guarding a dark-haired boy working the soccer ball down the field, while the other boys are running in the background.",
+      "non": "There is a group of boys wearing orange jerseys playing basketball."
+    }
+  ]
+}

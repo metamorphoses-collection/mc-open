@@ -1,0 +1,13 @@
+#### PAGE 43 — The Dune of Pilat
+*Threads: TIDE, COASTLINE, CHALK, SALT, DUNE*
+*Voice: The Professor*
+
+The Dune of Pilat is the largest sand dune in Europe: one hundred and six meters high, five hundred meters wide, almost three kilometers long. It stands at the entrance to the Bassin d'Arcachon, facing the Atlantic, growing at a rate of approximately one meter per year as the prevailing westerly winds push sand from the beach onto the dune crest. It is a fractal object on a grand scale — its surface rippled by wind at the scale of centimeters, ridged by seasonal deposition at the scale of meters, shaped by long-term climatic trends at the scale of decades.
+
+The tide at Pilat is dramatic. The Bassin d'Arcachon is a tidal lagoon — a shallow inland sea connected to the Atlantic by a narrow channel. When the tide falls, the basin empties, exposing twenty square kilometers of mudflat and sand. The coastline of the basin at low tide is spectacularly fractal: channels, sandbars, oyster parks, and tidal pools create a boundary of enormous complexity. At high tide, the basin fills, the boundary simplifies, and the coastline shortens by kilometers.
+
+The salt in the basin water is lower than in the open Atlantic — diluted by rainfall and river inflow — but the salt on the dune surface is higher, concentrated by evaporation. The chalk fragments in the dune sand — remnants of ancient marine organisms — dissolve in the salt solution, creating a weak cement that holds the dune together until the next storm strips the surface layer. The dune of Pilat is simultaneously growing (on its eastern face, burying pine forest) and eroding (on its western face, losing sand to the sea).
+
+The fractal dimension of the Pilat dune system — including the dune, the beach, the inlet channel, and the tidal flats — has not been precisely measured, but it is certainly higher than a simple dune coast. The tidal cycling adds a temporal fractal to the spatial fractal: the coastline oscillates between two extreme states (high water and low water), and at every moment between the extremes, it has a different fractal dimension.
+
+Pilat is the largest fractal grain of the largest fractal coast. Zoom into the dune and you see ripples. Zoom into the ripples and you see the saltation of individual sand grains. The self-similarity extends from the three-kilometer length of the dune to the millimeter diameter of the grain.

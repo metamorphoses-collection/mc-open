@@ -1,0 +1,13 @@
+{
+  "text": "proces_de_nithard",
+  "N": 50,
+  "E": 362,
+  "density": 0.2955,
+  "mis_ilp": 9,
+  "mis_greedy": 8,
+  "gap": 1,
+  "is_planar": false,
+  "batch_id": "68941f6c-cc08-4c58-99bf-e8e7f1f42645",
+  "emulator": "EMU_MPS",
+  "shots": 1000
+}

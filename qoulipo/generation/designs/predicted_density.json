@@ -1,0 +1,46 @@
+{
+  "overlap_stats": {
+    "N": 100,
+    "overlap_counts_by_shared_threads": [
+      25,
+      621,
+      1838,
+      1759,
+      661,
+      46
+    ],
+    "overlap_fraction": [
+      0.005050505050505051,
+      0.12545454545454546,
+      0.3713131313131313,
+      0.35535353535353537,
+      0.13353535353535353,
+      0.009292929292929294
+    ],
+    "tau_edge_threshold": 3,
+    "E_potential_at_tau": 2466,
+    "d_potential_at_tau": 0.49818181818181817,
+    "mean_degree": 49.32,
+    "min_degree": 31,
+    "max_degree": 67
+  },
+  "knn_stats_simulated": {
+    "k=8": {
+      "edges": 470,
+      "density": 0.0949
+    },
+    "k=16": {
+      "edges": 911,
+      "density": 0.184
+    },
+    "k=25": {
+      "edges": 1390,
+      "density": 0.2808
+    }
+  },
+  "notes": [
+    "Overlap stats are the pure combinatorial design (not the embedder).",
+    "kNN sim assumes similarity = 0.85 + 0.02*overlap + small jitter.",
+    "Target: d >= 0.30 at k=16 for hard-zone eligibility."
+  ]
+}

@@ -1,0 +1,7 @@
+# Les Jumeaux du Graphe -- Texte B (Français)
+## Pascal et la Probabilité : une histoire mathématique
+### Un texte OuLiPo sous contrainte de graphe isomorphe
+
+**Jumeau de :** *Texte A (anglais) -- Nithard à Fontenoy*
+
+**Hommage à Bernard Maréchal**, qui enseignait que la contrainte libère.

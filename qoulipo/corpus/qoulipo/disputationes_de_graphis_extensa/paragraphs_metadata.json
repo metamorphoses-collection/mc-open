@@ -1,0 +1,780 @@
+{
+  "N": 115,
+  "paragraphs": [
+    {
+      "id": 2,
+      "role": "other",
+      "header": "Praefatio in librum primum"
+    },
+    {
+      "id": 3,
+      "role": "thesis",
+      "quaestio": 1,
+      "side": "Sic",
+      "header": "Quaestio I \u2014 Sic"
+    },
+    {
+      "id": 4,
+      "role": "antithesis",
+      "quaestio": 1,
+      "side": "Non",
+      "header": "Quaestio I \u2014 Non"
+    },
+    {
+      "id": 5,
+      "role": "thesis",
+      "quaestio": 2,
+      "side": "Sic",
+      "header": "Quaestio II \u2014 Sic"
+    },
+    {
+      "id": 6,
+      "role": "antithesis",
+      "quaestio": 2,
+      "side": "Non",
+      "header": "Quaestio II \u2014 Non"
+    },
+    {
+      "id": 7,
+      "role": "thesis",
+      "quaestio": 3,
+      "side": "Sic",
+      "header": "Quaestio III \u2014 Sic"
+    },
+    {
+      "id": 8,
+      "role": "antithesis",
+      "quaestio": 3,
+      "side": "Non",
+      "header": "Quaestio III \u2014 Non"
+    },
+    {
+      "id": 9,
+      "role": "thesis",
+      "quaestio": 4,
+      "side": "Sic",
+      "header": "Quaestio IV \u2014 Sic"
+    },
+    {
+      "id": 10,
+      "role": "antithesis",
+      "quaestio": 4,
+      "side": "Non",
+      "header": "Quaestio IV \u2014 Non"
+    },
+    {
+      "id": 11,
+      "role": "thesis",
+      "quaestio": 5,
+      "side": "Sic",
+      "header": "Quaestio V \u2014 Sic"
+    },
+    {
+      "id": 12,
+      "role": "antithesis",
+      "quaestio": 5,
+      "side": "Non",
+      "header": "Quaestio V \u2014 Non"
+    },
+    {
+      "id": 13,
+      "role": "thesis",
+      "quaestio": 6,
+      "side": "Sic",
+      "header": "Quaestio VI \u2014 Sic"
+    },
+    {
+      "id": 14,
+      "role": "antithesis",
+      "quaestio": 6,
+      "side": "Non",
+      "header": "Quaestio VI \u2014 Non"
+    },
+    {
+      "id": 15,
+      "role": "other",
+      "header": "Praefatio in librum secundum"
+    },
+    {
+      "id": 16,
+      "role": "thesis",
+      "quaestio": 7,
+      "side": "Sic",
+      "header": "Quaestio VII \u2014 Sic"
+    },
+    {
+      "id": 17,
+      "role": "antithesis",
+      "quaestio": 7,
+      "side": "Non",
+      "header": "Quaestio VII \u2014 Non"
+    },
+    {
+      "id": 18,
+      "role": "thesis",
+      "quaestio": 8,
+      "side": "Sic",
+      "header": "Quaestio VIII \u2014 Sic"
+    },
+    {
+      "id": 19,
+      "role": "antithesis",
+      "quaestio": 8,
+      "side": "Non",
+      "header": "Quaestio VIII \u2014 Non"
+    },
+    {
+      "id": 20,
+      "role": "thesis",
+      "quaestio": 9,
+      "side": "Sic",
+      "header": "Quaestio IX \u2014 Sic"
+    },
+    {
+      "id": 21,
+      "role": "antithesis",
+      "quaestio": 9,
+      "side": "Non",
+      "header": "Quaestio IX \u2014 Non"
+    },
+    {
+      "id": 22,
+      "role": "thesis",
+      "quaestio": 10,
+      "side": "Sic",
+      "header": "Quaestio X \u2014 Sic"
+    },
+    {
+      "id": 23,
+      "role": "antithesis",
+      "quaestio": 10,
+      "side": "Non",
+      "header": "Quaestio X \u2014 Non"
+    },
+    {
+      "id": 24,
+      "role": "thesis",
+      "quaestio": 11,
+      "side": "Sic",
+      "header": "Quaestio XI \u2014 Sic"
+    },
+    {
+      "id": 25,
+      "role": "antithesis",
+      "quaestio": 11,
+      "side": "Non",
+      "header": "Quaestio XI \u2014 Non"
+    },
+    {
+      "id": 26,
+      "role": "thesis",
+      "quaestio": 12,
+      "side": "Sic",
+      "header": "Quaestio XII \u2014 Sic"
+    },
+    {
+      "id": 27,
+      "role": "antithesis",
+      "quaestio": 12,
+      "side": "Non",
+      "header": "Quaestio XII \u2014 Non"
+    },
+    {
+      "id": 28,
+      "role": "other",
+      "header": "Transitio I"
+    },
+    {
+      "id": 29,
+      "role": "other",
+      "header": "Praefatio in librum tertium"
+    },
+    {
+      "id": 30,
+      "role": "thesis",
+      "quaestio": 13,
+      "side": "Sic",
+      "header": "Quaestio XIII \u2014 Sic"
+    },
+    {
+      "id": 31,
+      "role": "antithesis",
+      "quaestio": 13,
+      "side": "Non",
+      "header": "Quaestio XIII \u2014 Non"
+    },
+    {
+      "id": 32,
+      "role": "thesis",
+      "quaestio": 14,
+      "side": "Sic",
+      "header": "Quaestio XIV \u2014 Sic"
+    },
+    {
+      "id": 33,
+      "role": "antithesis",
+      "quaestio": 14,
+      "side": "Non",
+      "header": "Quaestio XIV \u2014 Non"
+    },
+    {
+      "id": 34,
+      "role": "thesis",
+      "quaestio": 15,
+      "side": "Sic",
+      "header": "Quaestio XV \u2014 Sic"
+    },
+    {
+      "id": 35,
+      "role": "antithesis",
+      "quaestio": 15,
+      "side": "Non",
+      "header": "Quaestio XV \u2014 Non"
+    },
+    {
+      "id": 36,
+      "role": "thesis",
+      "quaestio": 16,
+      "side": "Sic",
+      "header": "Quaestio XVI \u2014 Sic"
+    },
+    {
+      "id": 37,
+      "role": "antithesis",
+      "quaestio": 16,
+      "side": "Non",
+      "header": "Quaestio XVI \u2014 Non"
+    },
+    {
+      "id": 38,
+      "role": "thesis",
+      "quaestio": 17,
+      "side": "Sic",
+      "header": "Quaestio XVII \u2014 Sic"
+    },
+    {
+      "id": 39,
+      "role": "antithesis",
+      "quaestio": 17,
+      "side": "Non",
+      "header": "Quaestio XVII \u2014 Non"
+    },
+    {
+      "id": 40,
+      "role": "thesis",
+      "quaestio": 18,
+      "side": "Sic",
+      "header": "Quaestio XVIII \u2014 Sic"
+    },
+    {
+      "id": 41,
+      "role": "antithesis",
+      "quaestio": 18,
+      "side": "Non",
+      "header": "Quaestio XVIII \u2014 Non"
+    },
+    {
+      "id": 42,
+      "role": "other",
+      "header": "Transitio II"
+    },
+    {
+      "id": 43,
+      "role": "other",
+      "header": "Praefatio in librum quartum"
+    },
+    {
+      "id": 44,
+      "role": "thesis",
+      "quaestio": 19,
+      "side": "Sic",
+      "header": "Quaestio XIX \u2014 Sic"
+    },
+    {
+      "id": 45,
+      "role": "antithesis",
+      "quaestio": 19,
+      "side": "Non",
+      "header": "Quaestio XIX \u2014 Non"
+    },
+    {
+      "id": 46,
+      "role": "thesis",
+      "quaestio": 20,
+      "side": "Sic",
+      "header": "Quaestio XX \u2014 Sic"
+    },
+    {
+      "id": 47,
+      "role": "antithesis",
+      "quaestio": 20,
+      "side": "Non",
+      "header": "Quaestio XX \u2014 Non"
+    },
+    {
+      "id": 48,
+      "role": "thesis",
+      "quaestio": 21,
+      "side": "Sic",
+      "header": "Quaestio XXI \u2014 Sic"
+    },
+    {
+      "id": 49,
+      "role": "antithesis",
+      "quaestio": 21,
+      "side": "Non",
+      "header": "Quaestio XXI \u2014 Non"
+    },
+    {
+      "id": 50,
+      "role": "thesis",
+      "quaestio": 22,
+      "side": "Sic",
+      "header": "Quaestio XXII \u2014 Sic"
+    },
+    {
+      "id": 51,
+      "role": "antithesis",
+      "quaestio": 22,
+      "side": "Non",
+      "header": "Quaestio XXII \u2014 Non"
+    },
+    {
+      "id": 52,
+      "role": "thesis",
+      "quaestio": 23,
+      "side": "Sic",
+      "header": "Quaestio XXIII \u2014 Sic"
+    },
+    {
+      "id": 53,
+      "role": "antithesis",
+      "quaestio": 23,
+      "side": "Non",
+      "header": "Quaestio XXIII \u2014 Non"
+    },
+    {
+      "id": 54,
+      "role": "thesis",
+      "quaestio": 24,
+      "side": "Sic",
+      "header": "Quaestio XXIV \u2014 Sic"
+    },
+    {
+      "id": 55,
+      "role": "antithesis",
+      "quaestio": 24,
+      "side": "Non",
+      "header": "Quaestio XXIV \u2014 Non"
+    },
+    {
+      "id": 56,
+      "role": "other",
+      "header": "Praefatio in librum quintum"
+    },
+    {
+      "id": 57,
+      "role": "thesis",
+      "quaestio": 25,
+      "side": "Sic",
+      "header": "Quaestio XXV \u2014 Sic"
+    },
+    {
+      "id": 58,
+      "role": "antithesis",
+      "quaestio": 25,
+      "side": "Non",
+      "header": "Quaestio XXV \u2014 Non"
+    },
+    {
+      "id": 59,
+      "role": "thesis",
+      "quaestio": 26,
+      "side": "Sic",
+      "header": "Quaestio XXVI \u2014 Sic"
+    },
+    {
+      "id": 60,
+      "role": "antithesis",
+      "quaestio": 26,
+      "side": "Non",
+      "header": "Quaestio XXVI \u2014 Non"
+    },
+    {
+      "id": 61,
+      "role": "thesis",
+      "quaestio": 27,
+      "side": "Sic",
+      "header": "Quaestio XXVII \u2014 Sic"
+    },
+    {
+      "id": 62,
+      "role": "antithesis",
+      "quaestio": 27,
+      "side": "Non",
+      "header": "Quaestio XXVII \u2014 Non"
+    },
+    {
+      "id": 63,
+      "role": "thesis",
+      "quaestio": 28,
+      "side": "Sic",
+      "header": "Quaestio XXVIII \u2014 Sic"
+    },
+    {
+      "id": 64,
+      "role": "antithesis",
+      "quaestio": 28,
+      "side": "Non",
+      "header": "Quaestio XXVIII \u2014 Non"
+    },
+    {
+      "id": 65,
+      "role": "thesis",
+      "quaestio": 29,
+      "side": "Sic",
+      "header": "Quaestio XXIX \u2014 Sic"
+    },
+    {
+      "id": 66,
+      "role": "antithesis",
+      "quaestio": 29,
+      "side": "Non",
+      "header": "Quaestio XXIX \u2014 Non"
+    },
+    {
+      "id": 67,
+      "role": "thesis",
+      "quaestio": 30,
+      "side": "Sic",
+      "header": "Quaestio XXX \u2014 Sic"
+    },
+    {
+      "id": 68,
+      "role": "antithesis",
+      "quaestio": 30,
+      "side": "Non",
+      "header": "Quaestio XXX \u2014 Non"
+    },
+    {
+      "id": 69,
+      "role": "other",
+      "header": "Transitio III"
+    },
+    {
+      "id": 70,
+      "role": "other",
+      "header": "Epilogos"
+    },
+    {
+      "id": 71,
+      "role": "other",
+      "header": "Transitio IV"
+    },
+    {
+      "id": 72,
+      "role": "other",
+      "header": "Praefatio in librum sextum"
+    },
+    {
+      "id": 73,
+      "role": "thesis",
+      "quaestio": 31,
+      "side": "Sic",
+      "header": "Quaestio XXXI \u2014 Sic"
+    },
+    {
+      "id": 74,
+      "role": "antithesis",
+      "quaestio": 31,
+      "side": "Non",
+      "header": "Quaestio XXXI \u2014 Non"
+    },
+    {
+      "id": 75,
+      "role": "thesis",
+      "quaestio": 32,
+      "side": "Sic",
+      "header": "Quaestio XXXII \u2014 Sic"
+    },
+    {
+      "id": 76,
+      "role": "antithesis",
+      "quaestio": 32,
+      "side": "Non",
+      "header": "Quaestio XXXII \u2014 Non"
+    },
+    {
+      "id": 77,
+      "role": "thesis",
+      "quaestio": 33,
+      "side": "Sic",
+      "header": "Quaestio XXXIII \u2014 Sic"
+    },
+    {
+      "id": 78,
+      "role": "antithesis",
+      "quaestio": 33,
+      "side": "Non",
+      "header": "Quaestio XXXIII \u2014 Non"
+    },
+    {
+      "id": 79,
+      "role": "thesis",
+      "quaestio": 34,
+      "side": "Sic",
+      "header": "Quaestio XXXIV \u2014 Sic"
+    },
+    {
+      "id": 80,
+      "role": "antithesis",
+      "quaestio": 34,
+      "side": "Non",
+      "header": "Quaestio XXXIV \u2014 Non"
+    },
+    {
+      "id": 81,
+      "role": "thesis",
+      "quaestio": 35,
+      "side": "Sic",
+      "header": "Quaestio XXXV \u2014 Sic"
+    },
+    {
+      "id": 82,
+      "role": "antithesis",
+      "quaestio": 35,
+      "side": "Non",
+      "header": "Quaestio XXXV \u2014 Non"
+    },
+    {
+      "id": 83,
+      "role": "other",
+      "header": "Praefatio in librum septimum"
+    },
+    {
+      "id": 84,
+      "role": "thesis",
+      "quaestio": 36,
+      "side": "Sic",
+      "header": "Quaestio XXXVI \u2014 Sic"
+    },
+    {
+      "id": 85,
+      "role": "antithesis",
+      "quaestio": 36,
+      "side": "Non",
+      "header": "Quaestio XXXVI \u2014 Non"
+    },
+    {
+      "id": 86,
+      "role": "thesis",
+      "quaestio": 37,
+      "side": "Sic",
+      "header": "Quaestio XXXVII \u2014 Sic"
+    },
+    {
+      "id": 87,
+      "role": "antithesis",
+      "quaestio": 37,
+      "side": "Non",
+      "header": "Quaestio XXXVII \u2014 Non"
+    },
+    {
+      "id": 88,
+      "role": "thesis",
+      "quaestio": 38,
+      "side": "Sic",
+      "header": "Quaestio XXXVIII \u2014 Sic"
+    },
+    {
+      "id": 89,
+      "role": "antithesis",
+      "quaestio": 38,
+      "side": "Non",
+      "header": "Quaestio XXXVIII \u2014 Non"
+    },
+    {
+      "id": 90,
+      "role": "thesis",
+      "quaestio": 39,
+      "side": "Sic",
+      "header": "Quaestio XXXIX \u2014 Sic"
+    },
+    {
+      "id": 91,
+      "role": "antithesis",
+      "quaestio": 39,
+      "side": "Non",
+      "header": "Quaestio XXXIX \u2014 Non"
+    },
+    {
+      "id": 92,
+      "role": "thesis",
+      "quaestio": 40,
+      "side": "Sic",
+      "header": "Quaestio XL \u2014 Sic"
+    },
+    {
+      "id": 93,
+      "role": "antithesis",
+      "quaestio": 40,
+      "side": "Non",
+      "header": "Quaestio XL \u2014 Non"
+    },
+    {
+      "id": 94,
+      "role": "other",
+      "header": "Praefatio in librum octavum"
+    },
+    {
+      "id": 95,
+      "role": "thesis",
+      "quaestio": 41,
+      "side": "Sic",
+      "header": "Quaestio XLI \u2014 Sic"
+    },
+    {
+      "id": 96,
+      "role": "antithesis",
+      "quaestio": 41,
+      "side": "Non",
+      "header": "Quaestio XLI \u2014 Non"
+    },
+    {
+      "id": 97,
+      "role": "thesis",
+      "quaestio": 42,
+      "side": "Sic",
+      "header": "Quaestio XLII \u2014 Sic"
+    },
+    {
+      "id": 98,
+      "role": "antithesis",
+      "quaestio": 42,
+      "side": "Non",
+      "header": "Quaestio XLII \u2014 Non"
+    },
+    {
+      "id": 99,
+      "role": "thesis",
+      "quaestio": 43,
+      "side": "Sic",
+      "header": "Quaestio XLIII \u2014 Sic"
+    },
+    {
+      "id": 100,
+      "role": "antithesis",
+      "quaestio": 43,
+      "side": "Non",
+      "header": "Quaestio XLIII \u2014 Non"
+    },
+    {
+      "id": 101,
+      "role": "thesis",
+      "quaestio": 44,
+      "side": "Sic",
+      "header": "Quaestio XLIV \u2014 Sic"
+    },
+    {
+      "id": 102,
+      "role": "antithesis",
+      "quaestio": 44,
+      "side": "Non",
+      "header": "Quaestio XLIV \u2014 Non"
+    },
+    {
+      "id": 103,
+      "role": "thesis",
+      "quaestio": 45,
+      "side": "Sic",
+      "header": "Quaestio XLV \u2014 Sic"
+    },
+    {
+      "id": 104,
+      "role": "antithesis",
+      "quaestio": 45,
+      "side": "Non",
+      "header": "Quaestio XLV \u2014 Non"
+    },
+    {
+      "id": 105,
+      "role": "other",
+      "header": "Praefatio in librum nonum"
+    },
+    {
+      "id": 106,
+      "role": "thesis",
+      "quaestio": 46,
+      "side": "Sic",
+      "header": "Quaestio XLVI \u2014 Sic"
+    },
+    {
+      "id": 107,
+      "role": "antithesis",
+      "quaestio": 46,
+      "side": "Non",
+      "header": "Quaestio XLVI \u2014 Non"
+    },
+    {
+      "id": 108,
+      "role": "thesis",
+      "quaestio": 47,
+      "side": "Sic",
+      "header": "Quaestio XLVII \u2014 Sic"
+    },
+    {
+      "id": 109,
+      "role": "antithesis",
+      "quaestio": 47,
+      "side": "Non",
+      "header": "Quaestio XLVII \u2014 Non"
+    },
+    {
+      "id": 110,
+      "role": "thesis",
+      "quaestio": 48,
+      "side": "Sic",
+      "header": "Quaestio XLVIII \u2014 Sic"
+    },
+    {
+      "id": 111,
+      "role": "antithesis",
+      "quaestio": 48,
+      "side": "Non",
+      "header": "Quaestio XLVIII \u2014 Non"
+    },
+    {
+      "id": 112,
+      "role": "thesis",
+      "quaestio": 49,
+      "side": "Sic",
+      "header": "Quaestio XLIX \u2014 Sic"
+    },
+    {
+      "id": 113,
+      "role": "antithesis",
+      "quaestio": 49,
+      "side": "Non",
+      "header": "Quaestio XLIX \u2014 Non"
+    },
+    {
+      "id": 114,
+      "role": "thesis",
+      "quaestio": 50,
+      "side": "Sic",
+      "header": "Quaestio L \u2014 Sic"
+    },
+    {
+      "id": 115,
+      "role": "antithesis",
+      "quaestio": 50,
+      "side": "Non",
+      "header": "Quaestio L \u2014 Non"
+    },
+    {
+      "id": 116,
+      "role": "other",
+      "header": "Epilogos extensus"
+    }
+  ]
+}

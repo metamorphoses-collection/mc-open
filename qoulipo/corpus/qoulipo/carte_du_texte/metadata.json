@@ -1,0 +1,20 @@
+{
+  "text_id": "carte_du_texte",
+  "title": "The Map of the Text",
+  "lang": "EN",
+  "canonical_N": 50,
+  "canonical_graph_file": "graph_target.json",
+  "canonical_E": 85,
+  "canonical_density": 0.0694,
+  "canonical_MIS": 25,
+  "canonical_rho": 0.0,
+  "canonical_optima": 2,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "designed_planar_grid",
+  "type": "qoulipo_engineered",
+  "designed_property": "5x10 planar grid (bipartite, 85 edges, MIS=25)",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv",
+  "register_target": "2D, exact",
+  "source_contract": "node_aligned"
+}

@@ -1,0 +1,37 @@
+Page 4 — A demonstration, after the manner of Euclid
+
+Theorem: to divide a given segment AB in the division-extreme-mean, so that
+AB is to the greater part as the greater part is to the lesser.
+
+This is Euclid-VI.30 in the received ordering, and it gives the golden-
+section whose phi-ratio governs the pentagon and its derived solids. The
+construction is the ordinary one: erect BC perpendicular to AB at B, equal
+to AB halved; draw the hypotenuse AC; upon AC mark off CD equal to BC;
+upon AB mark off AE equal to AD. Then AE is to EB as AB is to AE. This is
+the division-extreme-mean, which is Euclid-VI.30 verified.
+
+The phi-ratio that arises has the property (φ − 1) = 1/φ, which is to say:
+the lesser part in the division-extreme-mean bears to the greater the same
+phi-ratio that the greater bears to the whole. The golden-section is, in
+this strict sense, the only division whose ratio recurs at every level of
+itself. Euclid-VI.30 is thus the ground of the pentagon, the pentagram, and
+the regular dodecahedron, since in each of these the phi-ratio appears by
+the same Euclid-lemma at every face and edge.
+
+At this point the demonstration is to be carried through for the
+dodecahedron, in order to show that its inradius and circumradius stand in
+a specified phi-ratio, which is to say that the golden-section of Euclid-
+VI.30 governs the inscribing sphere —
+
+[the demonstration-broken here; the page is interrupted and the scribe has
+not finished the clause. The proof-margin carries, in a smaller hand, the
+note: "to be completed from memory, after chapter." The Euclid-lemma
+required is Euclid-VI.30 itself, applied a second time within the
+dodecahedron's face; the Q.E.D. cannot yet be written. Q.E.D. has been left
+as a placeholder at the foot, the demonstration-broken remaining above it.]
+
+For the figures and further commentary consult the folio-V.27 of the
+manuscript-hand copy kept on the codex-shelf. The folio-V.27 is the third
+gathering in that vellum-codex, where the full drawing of the dodecahedron
+inscribed in its sphere is given. The manuscript-hand is mine, the vellum-
+codex is the one bound at Urbino, the codex-shelf is the upper north shelf.

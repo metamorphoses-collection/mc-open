@@ -1,0 +1,16 @@
+{
+  "text_id": "triangular_hex_37_jittered",
+  "title": "triangular_hex_37 jittered \u03c3=0.4 (Knob 2)",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 37,
+  "canonical_E": 90,
+  "canonical_density": 0.1351,
+  "canonical_MIS": 13,
+  "canonical_rho": 1.0,
+  "canonical_optima": 1,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.0473,
+  "blockade_um": 8.0
+}

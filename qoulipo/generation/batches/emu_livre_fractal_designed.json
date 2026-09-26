@@ -1,0 +1,13 @@
+{
+  "text": "livre_fractal",
+  "N": 50,
+  "E": 300,
+  "density": 0.2449,
+  "mis_ilp": 10,
+  "mis_greedy": 10,
+  "gap": 0,
+  "is_planar": false,
+  "batch_id": "1e10c04d-f1f7-475b-ad0d-c19cbb03fd19",
+  "emulator": "EMU_MPS",
+  "shots": 1000
+}

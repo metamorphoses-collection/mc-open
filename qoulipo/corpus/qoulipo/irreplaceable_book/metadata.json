@@ -1,0 +1,21 @@
+{
+  "text_id": "irreplaceable_book",
+  "title": "The Irreplaceable Book",
+  "lang": "EN",
+  "canonical_N": 50,
+  "canonical_graph_file": "graph_target.json",
+  "canonical_E": 290,
+  "canonical_density": 0.2367,
+  "canonical_MIS": 17,
+  "canonical_rho": 1.0,
+  "canonical_optima": 1,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "designed_double_domination",
+  "type": "qoulipo_engineered",
+  "designed_property": "Double-domination: every non-MIS page has ≥2 MIS neighbours; unique MIS, ρ=1.0",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv",
+  "register_target": "2D embedding requires SA",
+  "literary_content_status": "complete: pages 1-50 written; threads aligned with three-voice (chronicler/professor/calculator) design",
+  "source_contract": "node_aligned"
+}

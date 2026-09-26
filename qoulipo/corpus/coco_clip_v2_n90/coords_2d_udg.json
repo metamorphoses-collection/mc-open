@@ -1,0 +1,1904 @@
+{
+  "text": "coco_clip_v2_strict_size90",
+  "version": "ideal_udg_strict",
+  "N": 90,
+  "n_pairs": 45,
+  "n_rows": 5,
+  "n_cols": 9,
+  "R_b_um": 8.0,
+  "within_domino_dist": 5.0,
+  "domino_spacing": 7.0,
+  "block_separation": 14.0,
+  "max_radial_um": 41.403502267320334,
+  "min_dist_um": 5.0,
+  "categories": [
+    "giraffe",
+    "pizza",
+    "umbrella",
+    "skateboard",
+    "keyboard"
+  ],
+  "coords_2d": [
+    [
+      -28.0,
+      -25.5
+    ],
+    [
+      -28.0,
+      -30.5
+    ],
+    [
+      -21.0,
+      -25.5
+    ],
+    [
+      -21.0,
+      -30.5
+    ],
+    [
+      -14.0,
+      -25.5
+    ],
+    [
+      -14.0,
+      -30.5
+    ],
+    [
+      -7.0,
+      -25.5
+    ],
+    [
+      -7.0,
+      -30.5
+    ],
+    [
+      0.0,
+      -25.5
+    ],
+    [
+      0.0,
+      -30.5
+    ],
+    [
+      7.0,
+      -25.5
+    ],
+    [
+      7.0,
+      -30.5
+    ],
+    [
+      14.0,
+      -25.5
+    ],
+    [
+      14.0,
+      -30.5
+    ],
+    [
+      21.0,
+      -25.5
+    ],
+    [
+      21.0,
+      -30.5
+    ],
+    [
+      28.0,
+      -25.5
+    ],
+    [
+      28.0,
+      -30.5
+    ],
+    [
+      -28.0,
+      -11.5
+    ],
+    [
+      -28.0,
+      -16.5
+    ],
+    [
+      -21.0,
+      -11.5
+    ],
+    [
+      -21.0,
+      -16.5
+    ],
+    [
+      -14.0,
+      -11.5
+    ],
+    [
+      -14.0,
+      -16.5
+    ],
+    [
+      -7.0,
+      -11.5
+    ],
+    [
+      -7.0,
+      -16.5
+    ],
+    [
+      0.0,
+      -11.5
+    ],
+    [
+      0.0,
+      -16.5
+    ],
+    [
+      7.0,
+      -11.5
+    ],
+    [
+      7.0,
+      -16.5
+    ],
+    [
+      14.0,
+      -11.5
+    ],
+    [
+      14.0,
+      -16.5
+    ],
+    [
+      21.0,
+      -11.5
+    ],
+    [
+      21.0,
+      -16.5
+    ],
+    [
+      28.0,
+      -11.5
+    ],
+    [
+      28.0,
+      -16.5
+    ],
+    [
+      -28.0,
+      2.5
+    ],
+    [
+      -28.0,
+      -2.5
+    ],
+    [
+      -21.0,
+      2.5
+    ],
+    [
+      -21.0,
+      -2.5
+    ],
+    [
+      -14.0,
+      2.5
+    ],
+    [
+      -14.0,
+      -2.5
+    ],
+    [
+      -7.0,
+      2.5
+    ],
+    [
+      -7.0,
+      -2.5
+    ],
+    [
+      0.0,
+      2.5
+    ],
+    [
+      0.0,
+      -2.5
+    ],
+    [
+      7.0,
+      2.5
+    ],
+    [
+      7.0,
+      -2.5
+    ],
+    [
+      14.0,
+      2.5
+    ],
+    [
+      14.0,
+      -2.5
+    ],
+    [
+      21.0,
+      2.5
+    ],
+    [
+      21.0,
+      -2.5
+    ],
+    [
+      28.0,
+      2.5
+    ],
+    [
+      28.0,
+      -2.5
+    ],
+    [
+      -28.0,
+      16.5
+    ],
+    [
+      -28.0,
+      11.5
+    ],
+    [
+      -21.0,
+      16.5
+    ],
+    [
+      -21.0,
+      11.5
+    ],
+    [
+      -14.0,
+      16.5
+    ],
+    [
+      -14.0,
+      11.5
+    ],
+    [
+      -7.0,
+      16.5
+    ],
+    [
+      -7.0,
+      11.5
+    ],
+    [
+      0.0,
+      16.5
+    ],
+    [
+      0.0,
+      11.5
+    ],
+    [
+      7.0,
+      16.5
+    ],
+    [
+      7.0,
+      11.5
+    ],
+    [
+      14.0,
+      16.5
+    ],
+    [
+      14.0,
+      11.5
+    ],
+    [
+      21.0,
+      16.5
+    ],
+    [
+      21.0,
+      11.5
+    ],
+    [
+      28.0,
+      16.5
+    ],
+    [
+      28.0,
+      11.5
+    ],
+    [
+      -28.0,
+      30.5
+    ],
+    [
+      -28.0,
+      25.5
+    ],
+    [
+      -21.0,
+      30.5
+    ],
+    [
+      -21.0,
+      25.5
+    ],
+    [
+      -14.0,
+      30.5
+    ],
+    [
+      -14.0,
+      25.5
+    ],
+    [
+      -7.0,
+      30.5
+    ],
+    [
+      -7.0,
+      25.5
+    ],
+    [
+      0.0,
+      30.5
+    ],
+    [
+      0.0,
+      25.5
+    ],
+    [
+      7.0,
+      30.5
+    ],
+    [
+      7.0,
+      25.5
+    ],
+    [
+      14.0,
+      30.5
+    ],
+    [
+      14.0,
+      25.5
+    ],
+    [
+      21.0,
+      30.5
+    ],
+    [
+      21.0,
+      25.5
+    ],
+    [
+      28.0,
+      30.5
+    ],
+    [
+      28.0,
+      25.5
+    ]
+  ],
+  "node_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+  ],
+  "atom_meta": [
+    {
+      "row": 0,
+      "col": 0,
+      "modality": "image",
+      "category": "giraffe",
+      "image_id": 448448
+    },
+    {
+      "row": 0,
+      "col": 0,
+      "modality": "caption",
+      "category": "giraffe",
+      "image_id": 448448,
+      "caption": "Two giraffes grazing from a tree in a field."
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "modality": "image",
+      "category": "giraffe",
+      "image_id": 79188
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "modality": "caption",
+      "category": "giraffe",
+      "image_id": 79188,
+      "caption": "Two giraffes are standing in the tall grass."
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "modality": "image",
+      "category": "giraffe",
+      "image_id": 272364
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "modality": "caption",
+      "category": "giraffe",
+      "image_id": 272364,
+      "caption": "a few giraffes that are reaching to eat"
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "modality": "image",
+      "category": "giraffe",
+      "image_id": 183104
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "modality": "caption",
+      "category": "giraffe",
+      "image_id": 183104,
+      "caption": "an image of two giraffes in a crate"
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "modality": "image",
+      "category": "giraffe",
+      "image_id": 180011
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "modality": "caption",
+      "category": "giraffe",
+      "image_id": 180011,
+      "caption": "A man is offering leaves to four giraffes."
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "modality": "image",
+      "category": "giraffe",
+      "image_id": 469652
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "modality": "caption",
+      "category": "giraffe",
+      "image_id": 469652,
+      "caption": "A Giraffe looking down in front of a fence."
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "modality": "image",
+      "category": "giraffe",
+      "image_id": 205282
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "modality": "caption",
+      "category": "giraffe",
+      "image_id": 205282,
+      "caption": "A group of giraffes that are standing in the grass."
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "modality": "image",
+      "category": "giraffe",
+      "image_id": 112634
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "modality": "caption",
+      "category": "giraffe",
+      "image_id": 112634,
+      "caption": "Two giraffe's in a zoo with a large rock."
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "modality": "image",
+      "category": "giraffe",
+      "image_id": 486046
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "modality": "caption",
+      "category": "giraffe",
+      "image_id": 486046,
+      "caption": "a giraffe staring right into the camera"
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "modality": "image",
+      "category": "pizza",
+      "image_id": 340015
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "modality": "caption",
+      "category": "pizza",
+      "image_id": 340015,
+      "caption": "A pizza is covered with olives sausages and tomato."
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "modality": "image",
+      "category": "pizza",
+      "image_id": 159112
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "modality": "caption",
+      "category": "pizza",
+      "image_id": 159112,
+      "caption": "a pizza with many toppings and lemon slices"
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "modality": "image",
+      "category": "pizza",
+      "image_id": 555412
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "modality": "caption",
+      "category": "pizza",
+      "image_id": 555412,
+      "caption": "A pizza is shown with various toppings on it."
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "modality": "image",
+      "category": "pizza",
+      "image_id": 342186
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "modality": "caption",
+      "category": "pizza",
+      "image_id": 342186,
+      "caption": "A closeup of a pizza on a plate."
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "modality": "image",
+      "category": "pizza",
+      "image_id": 100582
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "modality": "caption",
+      "category": "pizza",
+      "image_id": 100582,
+      "caption": "Some meat and greens on a pizza crust."
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "modality": "image",
+      "category": "pizza",
+      "image_id": 511453
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "modality": "caption",
+      "category": "pizza",
+      "image_id": 511453,
+      "caption": "A pizza with french fries on it on a table."
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "modality": "image",
+      "category": "pizza",
+      "image_id": 357903
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "modality": "caption",
+      "category": "pizza",
+      "image_id": 357903,
+      "caption": "A pizza with veggies and eggs on it."
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "modality": "image",
+      "category": "pizza",
+      "image_id": 431568
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "modality": "caption",
+      "category": "pizza",
+      "image_id": 431568,
+      "caption": "a large pizza is on a white plate"
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "modality": "image",
+      "category": "pizza",
+      "image_id": 232489
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "modality": "caption",
+      "category": "pizza",
+      "image_id": 232489,
+      "caption": "Two slices of pizza sitting on a paper plate."
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "modality": "image",
+      "category": "umbrella",
+      "image_id": 530854
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "modality": "caption",
+      "category": "umbrella",
+      "image_id": 530854,
+      "caption": "People are walking in the rain holding umbrellas."
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "modality": "image",
+      "category": "umbrella",
+      "image_id": 407943
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "modality": "caption",
+      "category": "umbrella",
+      "image_id": 407943,
+      "caption": "a shadow of a man on an umbrella"
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "modality": "image",
+      "category": "umbrella",
+      "image_id": 292155
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "modality": "caption",
+      "category": "umbrella",
+      "image_id": 292155,
+      "caption": "An umbrella blocks the sun beside a palm tree."
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "modality": "image",
+      "category": "umbrella",
+      "image_id": 60052
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "modality": "caption",
+      "category": "umbrella",
+      "image_id": 60052,
+      "caption": "A woman twirling an umbrella with flowers on it."
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "modality": "image",
+      "category": "umbrella",
+      "image_id": 231088
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "modality": "caption",
+      "category": "umbrella",
+      "image_id": 231088,
+      "caption": "Six umbrellas floating in the air near a building."
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "modality": "image",
+      "category": "umbrella",
+      "image_id": 9448
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "modality": "caption",
+      "category": "umbrella",
+      "image_id": 9448,
+      "caption": "A little girl with a big, blue umbrella"
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "modality": "image",
+      "category": "umbrella",
+      "image_id": 540280
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "modality": "caption",
+      "category": "umbrella",
+      "image_id": 540280,
+      "caption": "A large umbrella set up with a black light."
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "modality": "image",
+      "category": "umbrella",
+      "image_id": 416104
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "modality": "caption",
+      "category": "umbrella",
+      "image_id": 416104,
+      "caption": "A group of people sitting under umbrellas drinking beer."
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "modality": "image",
+      "category": "umbrella",
+      "image_id": 370711
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "modality": "caption",
+      "category": "umbrella",
+      "image_id": 370711,
+      "caption": "a picture looking in to an umbrella shop"
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "modality": "image",
+      "category": "skateboard",
+      "image_id": 481573
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "modality": "caption",
+      "category": "skateboard",
+      "image_id": 481573,
+      "caption": "A man riding a skateboard on a ramp."
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "modality": "image",
+      "category": "skateboard",
+      "image_id": 393115
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "modality": "caption",
+      "category": "skateboard",
+      "image_id": 393115,
+      "caption": "A man has one foot on his skateboard"
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "modality": "image",
+      "category": "skateboard",
+      "image_id": 362520
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "modality": "caption",
+      "category": "skateboard",
+      "image_id": 362520,
+      "caption": "a person holding onto a skateboard during a jump"
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "modality": "image",
+      "category": "skateboard",
+      "image_id": 300842
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "modality": "caption",
+      "category": "skateboard",
+      "image_id": 300842,
+      "caption": "a person that is standing on a skateboard"
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "modality": "image",
+      "category": "skateboard",
+      "image_id": 549220
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "modality": "caption",
+      "category": "skateboard",
+      "image_id": 549220,
+      "caption": "A small dog standing on top of a skateboard."
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "modality": "image",
+      "category": "skateboard",
+      "image_id": 544052
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "modality": "caption",
+      "category": "skateboard",
+      "image_id": 544052,
+      "caption": "Action figures put on skateboards on the street"
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "modality": "image",
+      "category": "skateboard",
+      "image_id": 370813
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "modality": "caption",
+      "category": "skateboard",
+      "image_id": 370813,
+      "caption": "A person that is standing on a skateboard."
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "modality": "image",
+      "category": "skateboard",
+      "image_id": 22479
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "modality": "caption",
+      "category": "skateboard",
+      "image_id": 22479,
+      "caption": "A person doing a trick on a skateboard"
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "modality": "image",
+      "category": "skateboard",
+      "image_id": 180135
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "modality": "caption",
+      "category": "skateboard",
+      "image_id": 180135,
+      "caption": "a man holding a skateboard and a microphone"
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "modality": "image",
+      "category": "keyboard",
+      "image_id": 68765
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "modality": "caption",
+      "category": "keyboard",
+      "image_id": 68765,
+      "caption": "A keyboard, mouse, and wires on a desk."
+    },
+    {
+      "row": 4,
+      "col": 1,
+      "modality": "image",
+      "category": "keyboard",
+      "image_id": 409630
+    },
+    {
+      "row": 4,
+      "col": 1,
+      "modality": "caption",
+      "category": "keyboard",
+      "image_id": 409630,
+      "caption": "A computer keyboard sitting next to a mouse."
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "modality": "image",
+      "category": "keyboard",
+      "image_id": 245576
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "modality": "caption",
+      "category": "keyboard",
+      "image_id": 245576,
+      "caption": "A cat sniffs the keyboard of a computer."
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "modality": "image",
+      "category": "keyboard",
+      "image_id": 378099
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "modality": "caption",
+      "category": "keyboard",
+      "image_id": 378099,
+      "caption": "A computer mouse and keyboard on a table."
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "modality": "image",
+      "category": "keyboard",
+      "image_id": 108026
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "modality": "caption",
+      "category": "keyboard",
+      "image_id": 108026,
+      "caption": "A computer user types one handed on a keyboard."
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "modality": "image",
+      "category": "keyboard",
+      "image_id": 335658
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "modality": "caption",
+      "category": "keyboard",
+      "image_id": 335658,
+      "caption": "On a desk sits a keyboard and mouse."
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "modality": "image",
+      "category": "keyboard",
+      "image_id": 541664
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "modality": "caption",
+      "category": "keyboard",
+      "image_id": 541664,
+      "caption": "Leggo people positioned near and on a keyboard."
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "modality": "image",
+      "category": "keyboard",
+      "image_id": 239318
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "modality": "caption",
+      "category": "keyboard",
+      "image_id": 239318,
+      "caption": "a laptop on a desk with an extra keyboard"
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "modality": "image",
+      "category": "keyboard",
+      "image_id": 1675
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "modality": "caption",
+      "category": "keyboard",
+      "image_id": 1675,
+      "caption": "A black fluffy cat sitting on top of a computer keyboard."
+    }
+  ],
+  "edges": [
+    {
+      "u": 0,
+      "v": 1,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 0,
+      "v": 2,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 3,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 3,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 2,
+      "v": 4,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 5,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 5,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 4,
+      "v": 6,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 7,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 7,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 6,
+      "v": 8,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 9,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 9,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 8,
+      "v": 10,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 11,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 11,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 10,
+      "v": 12,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 13,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 13,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 12,
+      "v": 14,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 15,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 15,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 14,
+      "v": 16,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 17,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 17,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 18,
+      "v": 19,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 18,
+      "v": 20,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 21,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 20,
+      "v": 21,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 20,
+      "v": 22,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 23,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 22,
+      "v": 23,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 22,
+      "v": 24,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 23,
+      "v": 25,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 24,
+      "v": 25,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 24,
+      "v": 26,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 25,
+      "v": 27,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 26,
+      "v": 27,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 26,
+      "v": 28,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 27,
+      "v": 29,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 28,
+      "v": 29,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 28,
+      "v": 30,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 29,
+      "v": 31,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 30,
+      "v": 31,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 30,
+      "v": 32,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 31,
+      "v": 33,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 32,
+      "v": 33,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 32,
+      "v": 34,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 33,
+      "v": 35,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 34,
+      "v": 35,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 36,
+      "v": 37,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 36,
+      "v": 38,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 37,
+      "v": 39,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 38,
+      "v": 39,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 38,
+      "v": 40,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 39,
+      "v": 41,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 40,
+      "v": 41,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 40,
+      "v": 42,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 41,
+      "v": 43,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 42,
+      "v": 43,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 42,
+      "v": 44,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 43,
+      "v": 45,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 44,
+      "v": 45,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 44,
+      "v": 46,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 45,
+      "v": 47,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 46,
+      "v": 47,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 46,
+      "v": 48,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 47,
+      "v": 49,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 48,
+      "v": 49,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 48,
+      "v": 50,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 49,
+      "v": 51,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 50,
+      "v": 51,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 50,
+      "v": 52,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 51,
+      "v": 53,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 52,
+      "v": 53,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 54,
+      "v": 55,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 54,
+      "v": 56,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 55,
+      "v": 57,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 56,
+      "v": 57,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 56,
+      "v": 58,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 57,
+      "v": 59,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 58,
+      "v": 59,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 58,
+      "v": 60,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 59,
+      "v": 61,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 60,
+      "v": 61,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 60,
+      "v": 62,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 61,
+      "v": 63,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 62,
+      "v": 63,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 62,
+      "v": 64,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 63,
+      "v": 65,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 64,
+      "v": 65,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 64,
+      "v": 66,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 65,
+      "v": 67,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 66,
+      "v": 67,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 66,
+      "v": 68,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 67,
+      "v": 69,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 68,
+      "v": 69,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 68,
+      "v": 70,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 69,
+      "v": 71,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 70,
+      "v": 71,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 72,
+      "v": 73,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 72,
+      "v": 74,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 73,
+      "v": 75,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 74,
+      "v": 75,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 74,
+      "v": 76,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 75,
+      "v": 77,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 76,
+      "v": 77,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 76,
+      "v": 78,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 77,
+      "v": 79,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 78,
+      "v": 79,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 78,
+      "v": 80,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 79,
+      "v": 81,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 80,
+      "v": 81,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 80,
+      "v": 82,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 81,
+      "v": 83,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 82,
+      "v": 83,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 82,
+      "v": 84,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 83,
+      "v": 85,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 84,
+      "v": 85,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 84,
+      "v": 86,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 85,
+      "v": 87,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 86,
+      "v": 87,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 86,
+      "v": 88,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 87,
+      "v": 89,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 88,
+      "v": 89,
+      "distance": 5.0,
+      "is_pair": true
+    }
+  ]
+}

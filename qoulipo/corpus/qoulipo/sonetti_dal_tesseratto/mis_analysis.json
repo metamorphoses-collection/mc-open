@@ -1,0 +1,21 @@
+{
+  "text_id": "sonetti_dal_tesseratto",
+  "N": 16,
+  "MIS_size": 4,
+  "rho": 1.0,
+  "num_optima_capped": 1,
+  "MIS_pages": [
+    "page_003",
+    "page_004",
+    "page_006",
+    "page_013"
+  ],
+  "MIS_atoms": [
+    2,
+    3,
+    5,
+    12
+  ],
+  "graph_file_used": "graph_k8.json",
+  "method": "ILP via PuLP/CBC; MIS_pages match graph node IDs from graph_file_used"
+}

@@ -1,0 +1,1049 @@
+{
+  "version": "udg_v2",
+  "graph": "02_corpus/qoulipo/disputationes_de_graphis/graph_target_udg.json",
+  "N": 70,
+  "E": 101,
+  "edge_breakdown": {
+    "antithesis": 30,
+    "thematic_TT": 25,
+    "frame": 21,
+    "thematic_AA": 25
+  },
+  "antithesis_edges": 30,
+  "other_edges": 71,
+  "edges": [
+    {
+      "u": 0,
+      "v": 1,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 6.221406488898155,
+      "heat_kernel_t2": 0.13989611930118875,
+      "effective_resistance": 0.4226496884313191,
+      "graph_distance": 1
+    },
+    {
+      "u": 0,
+      "v": 2,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 3.397249870093418,
+      "heat_kernel_t2": 0.10164777256335615,
+      "effective_resistance": 0.6905987537252793,
+      "graph_distance": 1
+    },
+    {
+      "u": 0,
+      "v": 60,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 5.652077833329432,
+      "heat_kernel_t2": 0.15099888883300894,
+      "effective_resistance": 0.4806624221078295,
+      "graph_distance": 1
+    },
+    {
+      "u": 0,
+      "v": 61,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 5.652077833329432,
+      "heat_kernel_t2": 0.15099888883300897,
+      "effective_resistance": 0.4806624221078293,
+      "graph_distance": 1
+    },
+    {
+      "u": 1,
+      "v": 3,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 3.3972498700934186,
+      "heat_kernel_t2": 0.10164777256335612,
+      "effective_resistance": 0.69059875372528,
+      "graph_distance": 1
+    },
+    {
+      "u": 1,
+      "v": 60,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 5.6520778333294315,
+      "heat_kernel_t2": 0.1509988888330089,
+      "effective_resistance": 0.4806624221078295,
+      "graph_distance": 1
+    },
+    {
+      "u": 1,
+      "v": 61,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 5.652077833329433,
+      "heat_kernel_t2": 0.15099888883300897,
+      "effective_resistance": 0.4806624221078293,
+      "graph_distance": 1
+    },
+    {
+      "u": 2,
+      "v": 3,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.913477210308013,
+      "heat_kernel_t2": 0.10343332483759278,
+      "effective_resistance": 0.5662422107829856,
+      "graph_distance": 1
+    },
+    {
+      "u": 2,
+      "v": 4,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.4952844088267794,
+      "heat_kernel_t2": 0.08975356178254128,
+      "effective_resistance": 0.7098347331346532,
+      "graph_distance": 1
+    },
+    {
+      "u": 3,
+      "v": 5,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.4952844088267794,
+      "heat_kernel_t2": 0.08975356178254126,
+      "effective_resistance": 0.7098347331346533,
+      "graph_distance": 1
+    },
+    {
+      "u": 4,
+      "v": 5,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.6861366870441623,
+      "heat_kernel_t2": 0.10096591721794078,
+      "effective_resistance": 0.5765375237063128,
+      "graph_distance": 1
+    },
+    {
+      "u": 4,
+      "v": 6,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.455585092627733,
+      "heat_kernel_t2": 0.09099810266789314,
+      "effective_resistance": 0.7111893795719338,
+      "graph_distance": 1
+    },
+    {
+      "u": 5,
+      "v": 7,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.4555850926277345,
+      "heat_kernel_t2": 0.0909981026678931,
+      "effective_resistance": 0.7111893795719334,
+      "graph_distance": 1
+    },
+    {
+      "u": 6,
+      "v": 7,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.681012203254441,
+      "heat_kernel_t2": 0.10293197556936229,
+      "effective_resistance": 0.5770793822812238,
+      "graph_distance": 1
+    },
+    {
+      "u": 6,
+      "v": 8,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.4621717987806204,
+      "heat_kernel_t2": 0.09551469626197731,
+      "effective_resistance": 0.7109184502844763,
+      "graph_distance": 1
+    },
+    {
+      "u": 7,
+      "v": 9,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.4621717987806213,
+      "heat_kernel_t2": 0.09551469626197749,
+      "effective_resistance": 0.710918450284477,
+      "graph_distance": 1
+    },
+    {
+      "u": 8,
+      "v": 9,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.733860667042249,
+      "heat_kernel_t2": 0.11480513550202198,
+      "effective_resistance": 0.5743700894066643,
+      "graph_distance": 1
+    },
+    {
+      "u": 8,
+      "v": 10,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.586120592376636,
+      "heat_kernel_t2": 0.12101297162740657,
+      "effective_resistance": 0.7057707938228133,
+      "graph_distance": 1
+    },
+    {
+      "u": 9,
+      "v": 11,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.586120592376637,
+      "heat_kernel_t2": 0.12101297162740653,
+      "effective_resistance": 0.7057707938228134,
+      "graph_distance": 1
+    },
+    {
+      "u": 10,
+      "v": 11,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 3.258769632519692,
+      "heat_kernel_t2": 0.16149539872960167,
+      "effective_resistance": 0.5358981305879176,
+      "graph_distance": 1
+    },
+    {
+      "u": 10,
+      "v": 63,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.815975268886901,
+      "heat_kernel_t2": 0.1787507256742494,
+      "effective_resistance": 0.6339745326469808,
+      "graph_distance": 1
+    },
+    {
+      "u": 11,
+      "v": 63,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.815975268886901,
+      "heat_kernel_t2": 0.17875072567424938,
+      "effective_resistance": 0.6339745326469792,
+      "graph_distance": 1
+    },
+    {
+      "u": 12,
+      "v": 13,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 3.258769625754782,
+      "heat_kernel_t2": 0.1614958399483692,
+      "effective_resistance": 0.5358983167296463,
+      "graph_distance": 1
+    },
+    {
+      "u": 12,
+      "v": 14,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.586120510314885,
+      "heat_kernel_t2": 0.12101544868153409,
+      "effective_resistance": 0.7057712126417031,
+      "graph_distance": 1
+    },
+    {
+      "u": 12,
+      "v": 62,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.815975267932521,
+      "heat_kernel_t2": 0.1787508720694261,
+      "effective_resistance": 0.6339745791824125,
+      "graph_distance": 1
+    },
+    {
+      "u": 13,
+      "v": 15,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.586120510314885,
+      "heat_kernel_t2": 0.12101544868153416,
+      "effective_resistance": 0.7057712126417037,
+      "graph_distance": 1
+    },
+    {
+      "u": 13,
+      "v": 62,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.815975267932521,
+      "heat_kernel_t2": 0.17875087206942614,
+      "effective_resistance": 0.6339745791824127,
+      "graph_distance": 1
+    },
+    {
+      "u": 14,
+      "v": 15,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.7338597532517115,
+      "heat_kernel_t2": 0.11481659534943102,
+      "effective_resistance": 0.5743730676743395,
+      "graph_distance": 1
+    },
+    {
+      "u": 14,
+      "v": 16,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.4621624645899742,
+      "heat_kernel_t2": 0.09556871231164576,
+      "effective_resistance": 0.7109240810717965,
+      "graph_distance": 1
+    },
+    {
+      "u": 15,
+      "v": 17,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.4621624645899742,
+      "heat_kernel_t2": 0.09556871231164583,
+      "effective_resistance": 0.7109240810717965,
+      "graph_distance": 1
+    },
+    {
+      "u": 16,
+      "v": 17,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.680925966797358,
+      "heat_kernel_t2": 0.10313723110450582,
+      "effective_resistance": 0.5771212641703884,
+      "graph_distance": 1
+    },
+    {
+      "u": 16,
+      "v": 18,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.4548719895672715,
+      "heat_kernel_t2": 0.09175552427525321,
+      "effective_resistance": 0.711267605633802,
+      "graph_distance": 1
+    },
+    {
+      "u": 17,
+      "v": 19,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.454871989567272,
+      "heat_kernel_t2": 0.09175552427525328,
+      "effective_resistance": 0.7112676056338028,
+      "graph_distance": 1
+    },
+    {
+      "u": 18,
+      "v": 19,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.680925966797359,
+      "heat_kernel_t2": 0.10313723110450589,
+      "effective_resistance": 0.577121264170388,
+      "graph_distance": 1
+    },
+    {
+      "u": 18,
+      "v": 20,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.462162464589975,
+      "heat_kernel_t2": 0.09556871231164579,
+      "effective_resistance": 0.7109240810717947,
+      "graph_distance": 1
+    },
+    {
+      "u": 19,
+      "v": 21,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.462162464589976,
+      "heat_kernel_t2": 0.09556871231164583,
+      "effective_resistance": 0.7109240810717955,
+      "graph_distance": 1
+    },
+    {
+      "u": 20,
+      "v": 21,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.7338597532517133,
+      "heat_kernel_t2": 0.11481659534943105,
+      "effective_resistance": 0.5743730676743395,
+      "graph_distance": 1
+    },
+    {
+      "u": 20,
+      "v": 22,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.5861205103148848,
+      "heat_kernel_t2": 0.12101544868153419,
+      "effective_resistance": 0.7057712126417041,
+      "graph_distance": 1
+    },
+    {
+      "u": 21,
+      "v": 23,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.586120510314885,
+      "heat_kernel_t2": 0.12101544868153408,
+      "effective_resistance": 0.7057712126417031,
+      "graph_distance": 1
+    },
+    {
+      "u": 22,
+      "v": 23,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 3.258769625754784,
+      "heat_kernel_t2": 0.16149583994836908,
+      "effective_resistance": 0.5358983167296467,
+      "graph_distance": 1
+    },
+    {
+      "u": 22,
+      "v": 65,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.8159752679325223,
+      "heat_kernel_t2": 0.1787508720694262,
+      "effective_resistance": 0.633974579182411,
+      "graph_distance": 1
+    },
+    {
+      "u": 23,
+      "v": 65,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.8159752679325223,
+      "heat_kernel_t2": 0.17875087206942616,
+      "effective_resistance": 0.6339745791824107,
+      "graph_distance": 1
+    },
+    {
+      "u": 24,
+      "v": 25,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 3.2587696200122025,
+      "heat_kernel_t2": 0.1614964013119744,
+      "effective_resistance": 0.5358986391365559,
+      "graph_distance": 1
+    },
+    {
+      "u": 24,
+      "v": 26,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.586120441656526,
+      "heat_kernel_t2": 0.12101866304933613,
+      "effective_resistance": 0.70577193805725,
+      "graph_distance": 1
+    },
+    {
+      "u": 24,
+      "v": 64,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.815975267113043,
+      "heat_kernel_t2": 0.17875105633295965,
+      "effective_resistance": 0.6339746597841391,
+      "graph_distance": 1
+    },
+    {
+      "u": 25,
+      "v": 27,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.5861204416565258,
+      "heat_kernel_t2": 0.12101866304933619,
+      "effective_resistance": 0.7057719380572499,
+      "graph_distance": 1
+    },
+    {
+      "u": 25,
+      "v": 64,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.8159752671130422,
+      "heat_kernel_t2": 0.1787510563329597,
+      "effective_resistance": 0.6339746597841391,
+      "graph_distance": 1
+    },
+    {
+      "u": 26,
+      "v": 27,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.733859001818687,
+      "heat_kernel_t2": 0.11483164951986247,
+      "effective_resistance": 0.5743782261848892,
+      "graph_distance": 1
+    },
+    {
+      "u": 26,
+      "v": 28,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.4621549463519496,
+      "heat_kernel_t2": 0.09564149357882848,
+      "effective_resistance": 0.7109338338808066,
+      "graph_distance": 1
+    },
+    {
+      "u": 27,
+      "v": 29,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.46215494635195,
+      "heat_kernel_t2": 0.09564149357882855,
+      "effective_resistance": 0.7109338338808062,
+      "graph_distance": 1
+    },
+    {
+      "u": 28,
+      "v": 29,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.680858258624908,
+      "heat_kernel_t2": 0.10341733630316027,
+      "effective_resistance": 0.5771938057250113,
+      "graph_distance": 1
+    },
+    {
+      "u": 28,
+      "v": 30,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.454329821904649,
+      "heat_kernel_t2": 0.0928245234403991,
+      "effective_resistance": 0.7114030971374932,
+      "graph_distance": 1
+    },
+    {
+      "u": 29,
+      "v": 31,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.4543298219046497,
+      "heat_kernel_t2": 0.09282452344039917,
+      "effective_resistance": 0.7114030971374933,
+      "graph_distance": 1
+    },
+    {
+      "u": 30,
+      "v": 31,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.6771259984234375,
+      "heat_kernel_t2": 0.10623430644158968,
+      "effective_resistance": 0.5781323322383858,
+      "graph_distance": 1
+    },
+    {
+      "u": 30,
+      "v": 32,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.439321932187995,
+      "heat_kernel_t2": 0.10423883665710132,
+      "effective_resistance": 0.7128108869075549,
+      "graph_distance": 1
+    },
+    {
+      "u": 31,
+      "v": 33,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.439321932187995,
+      "heat_kernel_t2": 0.10423883665710137,
+      "effective_resistance": 0.7128108869075549,
+      "graph_distance": 1
+    },
+    {
+      "u": 32,
+      "v": 33,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.619355489117642,
+      "heat_kernel_t2": 0.13161147591209732,
+      "effective_resistance": 0.5884561238855,
+      "graph_distance": 1
+    },
+    {
+      "u": 32,
+      "v": 34,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.126206042159889,
+      "heat_kernel_t2": 0.1509035884492132,
+      "effective_resistance": 0.7320506804317221,
+      "graph_distance": 1
+    },
+    {
+      "u": 33,
+      "v": 35,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.1262060421598887,
+      "heat_kernel_t2": 0.15090358844921317,
+      "effective_resistance": 0.7320506804317225,
+      "graph_distance": 1
+    },
+    {
+      "u": 34,
+      "v": 35,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 1.8693183332288346,
+      "heat_kernel_t2": 0.18934386919572077,
+      "effective_resistance": 0.7320506804317217,
+      "graph_distance": 1
+    },
+    {
+      "u": 36,
+      "v": 37,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 3.258769625754782,
+      "heat_kernel_t2": 0.1614958399483692,
+      "effective_resistance": 0.5358983167296469,
+      "graph_distance": 1
+    },
+    {
+      "u": 36,
+      "v": 38,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.586120510314885,
+      "heat_kernel_t2": 0.12101544868153409,
+      "effective_resistance": 0.7057712126417038,
+      "graph_distance": 1
+    },
+    {
+      "u": 36,
+      "v": 66,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.815975267932521,
+      "heat_kernel_t2": 0.1787508720694261,
+      "effective_resistance": 0.633974579182411,
+      "graph_distance": 1
+    },
+    {
+      "u": 37,
+      "v": 39,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.586120510314885,
+      "heat_kernel_t2": 0.12101544868153416,
+      "effective_resistance": 0.7057712126417042,
+      "graph_distance": 1
+    },
+    {
+      "u": 37,
+      "v": 66,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.815975267932521,
+      "heat_kernel_t2": 0.17875087206942614,
+      "effective_resistance": 0.633974579182411,
+      "graph_distance": 1
+    },
+    {
+      "u": 38,
+      "v": 39,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.7338597532517115,
+      "heat_kernel_t2": 0.11481659534943102,
+      "effective_resistance": 0.574373067674339,
+      "graph_distance": 1
+    },
+    {
+      "u": 38,
+      "v": 40,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.4621624645899742,
+      "heat_kernel_t2": 0.09556871231164576,
+      "effective_resistance": 0.710924081071797,
+      "graph_distance": 1
+    },
+    {
+      "u": 39,
+      "v": 41,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.4621624645899742,
+      "heat_kernel_t2": 0.09556871231164583,
+      "effective_resistance": 0.7109240810717976,
+      "graph_distance": 1
+    },
+    {
+      "u": 40,
+      "v": 41,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.680925966797358,
+      "heat_kernel_t2": 0.10313723110450582,
+      "effective_resistance": 0.5771212641703884,
+      "graph_distance": 1
+    },
+    {
+      "u": 40,
+      "v": 42,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.454871989567272,
+      "heat_kernel_t2": 0.09175552427525323,
+      "effective_resistance": 0.7112676056338033,
+      "graph_distance": 1
+    },
+    {
+      "u": 41,
+      "v": 43,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.454871989567272,
+      "heat_kernel_t2": 0.09175552427525327,
+      "effective_resistance": 0.7112676056338035,
+      "graph_distance": 1
+    },
+    {
+      "u": 42,
+      "v": 43,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.680925966797359,
+      "heat_kernel_t2": 0.10313723110450589,
+      "effective_resistance": 0.5771212641703882,
+      "graph_distance": 1
+    },
+    {
+      "u": 42,
+      "v": 44,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.4621624645899756,
+      "heat_kernel_t2": 0.09556871231164576,
+      "effective_resistance": 0.7109240810717972,
+      "graph_distance": 1
+    },
+    {
+      "u": 43,
+      "v": 45,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.462162464589976,
+      "heat_kernel_t2": 0.09556871231164585,
+      "effective_resistance": 0.7109240810717967,
+      "graph_distance": 1
+    },
+    {
+      "u": 44,
+      "v": 45,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.733859753251712,
+      "heat_kernel_t2": 0.11481659534943106,
+      "effective_resistance": 0.5743730676743384,
+      "graph_distance": 1
+    },
+    {
+      "u": 44,
+      "v": 46,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.586120510314883,
+      "heat_kernel_t2": 0.12101544868153409,
+      "effective_resistance": 0.7057712126417042,
+      "graph_distance": 1
+    },
+    {
+      "u": 45,
+      "v": 47,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.5861205103148843,
+      "heat_kernel_t2": 0.12101544868153406,
+      "effective_resistance": 0.7057712126417045,
+      "graph_distance": 1
+    },
+    {
+      "u": 46,
+      "v": 47,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 3.2587696257547805,
+      "heat_kernel_t2": 0.16149583994836905,
+      "effective_resistance": 0.5358983167296458,
+      "graph_distance": 1
+    },
+    {
+      "u": 46,
+      "v": 68,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.8159752679325196,
+      "heat_kernel_t2": 0.17875087206942614,
+      "effective_resistance": 0.6339745791824112,
+      "graph_distance": 1
+    },
+    {
+      "u": 47,
+      "v": 68,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.81597526793252,
+      "heat_kernel_t2": 0.1787508720694261,
+      "effective_resistance": 0.6339745791824112,
+      "graph_distance": 1
+    },
+    {
+      "u": 48,
+      "v": 49,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 3.2587696257547822,
+      "heat_kernel_t2": 0.16149583994836922,
+      "effective_resistance": 0.5358983167296463,
+      "graph_distance": 1
+    },
+    {
+      "u": 48,
+      "v": 50,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.586120510314885,
+      "heat_kernel_t2": 0.12101544868153406,
+      "effective_resistance": 0.7057712126417044,
+      "graph_distance": 1
+    },
+    {
+      "u": 48,
+      "v": 67,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.815975267932521,
+      "heat_kernel_t2": 0.1787508720694262,
+      "effective_resistance": 0.6339745791824112,
+      "graph_distance": 1
+    },
+    {
+      "u": 49,
+      "v": 51,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.586120510314885,
+      "heat_kernel_t2": 0.12101544868153412,
+      "effective_resistance": 0.7057712126417044,
+      "graph_distance": 1
+    },
+    {
+      "u": 49,
+      "v": 67,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.8159752679325205,
+      "heat_kernel_t2": 0.17875087206942625,
+      "effective_resistance": 0.6339745791824114,
+      "graph_distance": 1
+    },
+    {
+      "u": 50,
+      "v": 51,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.7338597532517115,
+      "heat_kernel_t2": 0.11481659534943102,
+      "effective_resistance": 0.5743730676743389,
+      "graph_distance": 1
+    },
+    {
+      "u": 50,
+      "v": 52,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.4621624645899747,
+      "heat_kernel_t2": 0.0955687123116458,
+      "effective_resistance": 0.7109240810717967,
+      "graph_distance": 1
+    },
+    {
+      "u": 51,
+      "v": 53,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.4621624645899747,
+      "heat_kernel_t2": 0.09556871231164583,
+      "effective_resistance": 0.7109240810717972,
+      "graph_distance": 1
+    },
+    {
+      "u": 52,
+      "v": 53,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.680925966797358,
+      "heat_kernel_t2": 0.10313723110450589,
+      "effective_resistance": 0.5771212641703882,
+      "graph_distance": 1
+    },
+    {
+      "u": 52,
+      "v": 54,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.4548719895672715,
+      "heat_kernel_t2": 0.0917555242752532,
+      "effective_resistance": 0.7112676056338031,
+      "graph_distance": 1
+    },
+    {
+      "u": 53,
+      "v": 55,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.454871989567273,
+      "heat_kernel_t2": 0.09175552427525324,
+      "effective_resistance": 0.711267605633803,
+      "graph_distance": 1
+    },
+    {
+      "u": 54,
+      "v": 55,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.6809259667973597,
+      "heat_kernel_t2": 0.10313723110450579,
+      "effective_resistance": 0.5771212641703881,
+      "graph_distance": 1
+    },
+    {
+      "u": 54,
+      "v": 56,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.462162464589976,
+      "heat_kernel_t2": 0.09556871231164578,
+      "effective_resistance": 0.7109240810717972,
+      "graph_distance": 1
+    },
+    {
+      "u": 55,
+      "v": 57,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.4621624645899765,
+      "heat_kernel_t2": 0.09556871231164578,
+      "effective_resistance": 0.7109240810717969,
+      "graph_distance": 1
+    },
+    {
+      "u": 56,
+      "v": 57,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 2.7338597532517133,
+      "heat_kernel_t2": 0.11481659534943096,
+      "effective_resistance": 0.5743730676743393,
+      "graph_distance": 1
+    },
+    {
+      "u": 56,
+      "v": 58,
+      "tag": "thematic_TT",
+      "is_antithesis": false,
+      "communicability": 2.5861205103148857,
+      "heat_kernel_t2": 0.1210154486815341,
+      "effective_resistance": 0.705771212641704,
+      "graph_distance": 1
+    },
+    {
+      "u": 57,
+      "v": 59,
+      "tag": "thematic_AA",
+      "is_antithesis": false,
+      "communicability": 2.586120510314885,
+      "heat_kernel_t2": 0.12101544868153402,
+      "effective_resistance": 0.7057712126417044,
+      "graph_distance": 1
+    },
+    {
+      "u": 58,
+      "v": 59,
+      "tag": "antithesis",
+      "is_antithesis": true,
+      "communicability": 3.258769625754784,
+      "heat_kernel_t2": 0.161495839948369,
+      "effective_resistance": 0.5358983167296467,
+      "graph_distance": 1
+    },
+    {
+      "u": 58,
+      "v": 69,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.8159752679325223,
+      "heat_kernel_t2": 0.178750872069426,
+      "effective_resistance": 0.6339745791824125,
+      "graph_distance": 1
+    },
+    {
+      "u": 59,
+      "v": 69,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 2.8159752679325223,
+      "heat_kernel_t2": 0.17875087206942597,
+      "effective_resistance": 0.6339745791824116,
+      "graph_distance": 1
+    },
+    {
+      "u": 60,
+      "v": 61,
+      "tag": "frame",
+      "is_antithesis": false,
+      "communicability": 5.242026024955951,
+      "heat_kernel_t2": 0.16634783970582798,
+      "effective_resistance": 0.4999999999999998,
+      "graph_distance": 1
+    }
+  ],
+  "summary": {
+    "communicability": {
+      "antithesis_mean": 2.945842722170518,
+      "antithesis_std": 0.6792112466143295,
+      "other_mean": 2.804840270079692,
+      "other_std": 0.7900753184827404,
+      "auroc": 0.7319248826291078
+    },
+    "heat_kernel_t2": {
+      "antithesis_mean": 0.12690536360853164,
+      "antithesis_std": 0.026455970045177735,
+      "other_mean": 0.1254508298818476,
+      "other_std": 0.03388667826529483,
+      "auroc": 0.556338028169014
+    },
+    "effective_resistance": {
+      "antithesis_mean": 0.565441424141491,
+      "antithesis_std": 0.0438464302506605,
+      "other_mean": 0.6765740461373985,
+      "other_std": 0.061631590767314,
+      "auroc": 0.9018779342723005
+    }
+  }
+}

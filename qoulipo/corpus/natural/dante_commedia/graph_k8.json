@@ -1,0 +1,2703 @@
+{
+  "N": 100,
+  "E": 598,
+  "k": 8,
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "density": 0.1208,
+  "nodes": [
+    {
+      "id": "inferno_01"
+    },
+    {
+      "id": "inferno_02"
+    },
+    {
+      "id": "inferno_03"
+    },
+    {
+      "id": "inferno_04"
+    },
+    {
+      "id": "inferno_05"
+    },
+    {
+      "id": "inferno_06"
+    },
+    {
+      "id": "inferno_07"
+    },
+    {
+      "id": "inferno_08"
+    },
+    {
+      "id": "inferno_09"
+    },
+    {
+      "id": "inferno_10"
+    },
+    {
+      "id": "inferno_11"
+    },
+    {
+      "id": "inferno_12"
+    },
+    {
+      "id": "inferno_13"
+    },
+    {
+      "id": "inferno_14"
+    },
+    {
+      "id": "inferno_15"
+    },
+    {
+      "id": "inferno_16"
+    },
+    {
+      "id": "inferno_17"
+    },
+    {
+      "id": "inferno_18"
+    },
+    {
+      "id": "inferno_19"
+    },
+    {
+      "id": "inferno_20"
+    },
+    {
+      "id": "inferno_21"
+    },
+    {
+      "id": "inferno_22"
+    },
+    {
+      "id": "inferno_23"
+    },
+    {
+      "id": "inferno_24"
+    },
+    {
+      "id": "inferno_25"
+    },
+    {
+      "id": "inferno_26"
+    },
+    {
+      "id": "inferno_27"
+    },
+    {
+      "id": "inferno_28"
+    },
+    {
+      "id": "inferno_29"
+    },
+    {
+      "id": "inferno_30"
+    },
+    {
+      "id": "inferno_31"
+    },
+    {
+      "id": "inferno_32"
+    },
+    {
+      "id": "inferno_33"
+    },
+    {
+      "id": "inferno_34"
+    },
+    {
+      "id": "purgatorio_01"
+    },
+    {
+      "id": "purgatorio_02"
+    },
+    {
+      "id": "purgatorio_03"
+    },
+    {
+      "id": "purgatorio_04"
+    },
+    {
+      "id": "purgatorio_05"
+    },
+    {
+      "id": "purgatorio_06"
+    },
+    {
+      "id": "purgatorio_07"
+    },
+    {
+      "id": "purgatorio_08"
+    },
+    {
+      "id": "purgatorio_09"
+    },
+    {
+      "id": "purgatorio_10"
+    },
+    {
+      "id": "purgatorio_11"
+    },
+    {
+      "id": "purgatorio_12"
+    },
+    {
+      "id": "purgatorio_13"
+    },
+    {
+      "id": "purgatorio_14"
+    },
+    {
+      "id": "purgatorio_15"
+    },
+    {
+      "id": "purgatorio_16"
+    },
+    {
+      "id": "purgatorio_17"
+    },
+    {
+      "id": "purgatorio_18"
+    },
+    {
+      "id": "purgatorio_19"
+    },
+    {
+      "id": "purgatorio_20"
+    },
+    {
+      "id": "purgatorio_21"
+    },
+    {
+      "id": "purgatorio_22"
+    },
+    {
+      "id": "purgatorio_23"
+    },
+    {
+      "id": "purgatorio_24"
+    },
+    {
+      "id": "purgatorio_25"
+    },
+    {
+      "id": "purgatorio_26"
+    },
+    {
+      "id": "purgatorio_27"
+    },
+    {
+      "id": "purgatorio_28"
+    },
+    {
+      "id": "purgatorio_29"
+    },
+    {
+      "id": "purgatorio_30"
+    },
+    {
+      "id": "purgatorio_31"
+    },
+    {
+      "id": "purgatorio_32"
+    },
+    {
+      "id": "purgatorio_33"
+    },
+    {
+      "id": "paradiso_01"
+    },
+    {
+      "id": "paradiso_02"
+    },
+    {
+      "id": "paradiso_03"
+    },
+    {
+      "id": "paradiso_04"
+    },
+    {
+      "id": "paradiso_05"
+    },
+    {
+      "id": "paradiso_06"
+    },
+    {
+      "id": "paradiso_07"
+    },
+    {
+      "id": "paradiso_08"
+    },
+    {
+      "id": "paradiso_09"
+    },
+    {
+      "id": "paradiso_10"
+    },
+    {
+      "id": "paradiso_11"
+    },
+    {
+      "id": "paradiso_12"
+    },
+    {
+      "id": "paradiso_13"
+    },
+    {
+      "id": "paradiso_14"
+    },
+    {
+      "id": "paradiso_15"
+    },
+    {
+      "id": "paradiso_16"
+    },
+    {
+      "id": "paradiso_17"
+    },
+    {
+      "id": "paradiso_18"
+    },
+    {
+      "id": "paradiso_19"
+    },
+    {
+      "id": "paradiso_20"
+    },
+    {
+      "id": "paradiso_21"
+    },
+    {
+      "id": "paradiso_22"
+    },
+    {
+      "id": "paradiso_23"
+    },
+    {
+      "id": "paradiso_24"
+    },
+    {
+      "id": "paradiso_25"
+    },
+    {
+      "id": "paradiso_26"
+    },
+    {
+      "id": "paradiso_27"
+    },
+    {
+      "id": "paradiso_28"
+    },
+    {
+      "id": "paradiso_29"
+    },
+    {
+      "id": "paradiso_30"
+    },
+    {
+      "id": "paradiso_31"
+    },
+    {
+      "id": "paradiso_32"
+    },
+    {
+      "id": "paradiso_33"
+    }
+  ],
+  "edges": [
+    {
+      "source": "inferno_01",
+      "target": "inferno_04"
+    },
+    {
+      "source": "inferno_01",
+      "target": "inferno_06"
+    },
+    {
+      "source": "inferno_01",
+      "target": "inferno_13"
+    },
+    {
+      "source": "inferno_01",
+      "target": "inferno_24"
+    },
+    {
+      "source": "inferno_01",
+      "target": "purgatorio_04"
+    },
+    {
+      "source": "inferno_01",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "inferno_01",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "inferno_01",
+      "target": "purgatorio_28"
+    },
+    {
+      "source": "inferno_02",
+      "target": "inferno_03"
+    },
+    {
+      "source": "inferno_02",
+      "target": "inferno_04"
+    },
+    {
+      "source": "inferno_02",
+      "target": "inferno_27"
+    },
+    {
+      "source": "inferno_02",
+      "target": "purgatorio_03"
+    },
+    {
+      "source": "inferno_02",
+      "target": "purgatorio_04"
+    },
+    {
+      "source": "inferno_02",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "inferno_02",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "inferno_02",
+      "target": "paradiso_06"
+    },
+    {
+      "source": "inferno_02",
+      "target": "paradiso_19"
+    },
+    {
+      "source": "inferno_02",
+      "target": "paradiso_25"
+    },
+    {
+      "source": "inferno_03",
+      "target": "inferno_04"
+    },
+    {
+      "source": "inferno_03",
+      "target": "inferno_05"
+    },
+    {
+      "source": "inferno_03",
+      "target": "inferno_09"
+    },
+    {
+      "source": "inferno_03",
+      "target": "inferno_14"
+    },
+    {
+      "source": "inferno_03",
+      "target": "inferno_20"
+    },
+    {
+      "source": "inferno_03",
+      "target": "purgatorio_03"
+    },
+    {
+      "source": "inferno_03",
+      "target": "purgatorio_11"
+    },
+    {
+      "source": "inferno_03",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "inferno_03",
+      "target": "purgatorio_20"
+    },
+    {
+      "source": "inferno_03",
+      "target": "purgatorio_23"
+    },
+    {
+      "source": "inferno_04",
+      "target": "inferno_05"
+    },
+    {
+      "source": "inferno_04",
+      "target": "inferno_06"
+    },
+    {
+      "source": "inferno_04",
+      "target": "inferno_07"
+    },
+    {
+      "source": "inferno_04",
+      "target": "inferno_09"
+    },
+    {
+      "source": "inferno_04",
+      "target": "inferno_11"
+    },
+    {
+      "source": "inferno_04",
+      "target": "inferno_14"
+    },
+    {
+      "source": "inferno_04",
+      "target": "inferno_20"
+    },
+    {
+      "source": "inferno_04",
+      "target": "inferno_29"
+    },
+    {
+      "source": "inferno_04",
+      "target": "inferno_32"
+    },
+    {
+      "source": "inferno_04",
+      "target": "inferno_33"
+    },
+    {
+      "source": "inferno_04",
+      "target": "purgatorio_03"
+    },
+    {
+      "source": "inferno_04",
+      "target": "purgatorio_04"
+    },
+    {
+      "source": "inferno_04",
+      "target": "purgatorio_05"
+    },
+    {
+      "source": "inferno_04",
+      "target": "purgatorio_06"
+    },
+    {
+      "source": "inferno_04",
+      "target": "purgatorio_13"
+    },
+    {
+      "source": "inferno_04",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "inferno_04",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "inferno_04",
+      "target": "purgatorio_27"
+    },
+    {
+      "source": "inferno_04",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "inferno_05",
+      "target": "inferno_06"
+    },
+    {
+      "source": "inferno_05",
+      "target": "inferno_07"
+    },
+    {
+      "source": "inferno_05",
+      "target": "inferno_09"
+    },
+    {
+      "source": "inferno_05",
+      "target": "inferno_11"
+    },
+    {
+      "source": "inferno_05",
+      "target": "inferno_12"
+    },
+    {
+      "source": "inferno_05",
+      "target": "inferno_14"
+    },
+    {
+      "source": "inferno_05",
+      "target": "inferno_18"
+    },
+    {
+      "source": "inferno_05",
+      "target": "inferno_20"
+    },
+    {
+      "source": "inferno_05",
+      "target": "purgatorio_07"
+    },
+    {
+      "source": "inferno_05",
+      "target": "purgatorio_13"
+    },
+    {
+      "source": "inferno_05",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "inferno_06",
+      "target": "inferno_07"
+    },
+    {
+      "source": "inferno_06",
+      "target": "inferno_09"
+    },
+    {
+      "source": "inferno_06",
+      "target": "inferno_11"
+    },
+    {
+      "source": "inferno_06",
+      "target": "inferno_12"
+    },
+    {
+      "source": "inferno_06",
+      "target": "inferno_13"
+    },
+    {
+      "source": "inferno_06",
+      "target": "inferno_14"
+    },
+    {
+      "source": "inferno_06",
+      "target": "inferno_25"
+    },
+    {
+      "source": "inferno_06",
+      "target": "inferno_32"
+    },
+    {
+      "source": "inferno_06",
+      "target": "inferno_34"
+    },
+    {
+      "source": "inferno_06",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "inferno_07",
+      "target": "inferno_11"
+    },
+    {
+      "source": "inferno_07",
+      "target": "inferno_12"
+    },
+    {
+      "source": "inferno_07",
+      "target": "inferno_19"
+    },
+    {
+      "source": "inferno_07",
+      "target": "inferno_25"
+    },
+    {
+      "source": "inferno_07",
+      "target": "inferno_28"
+    },
+    {
+      "source": "inferno_07",
+      "target": "purgatorio_13"
+    },
+    {
+      "source": "inferno_08",
+      "target": "inferno_09"
+    },
+    {
+      "source": "inferno_08",
+      "target": "inferno_10"
+    },
+    {
+      "source": "inferno_08",
+      "target": "inferno_15"
+    },
+    {
+      "source": "inferno_08",
+      "target": "inferno_17"
+    },
+    {
+      "source": "inferno_08",
+      "target": "inferno_19"
+    },
+    {
+      "source": "inferno_08",
+      "target": "inferno_26"
+    },
+    {
+      "source": "inferno_08",
+      "target": "inferno_27"
+    },
+    {
+      "source": "inferno_08",
+      "target": "inferno_29"
+    },
+    {
+      "source": "inferno_08",
+      "target": "inferno_31"
+    },
+    {
+      "source": "inferno_08",
+      "target": "inferno_32"
+    },
+    {
+      "source": "inferno_08",
+      "target": "inferno_34"
+    },
+    {
+      "source": "inferno_08",
+      "target": "purgatorio_01"
+    },
+    {
+      "source": "inferno_08",
+      "target": "purgatorio_04"
+    },
+    {
+      "source": "inferno_08",
+      "target": "purgatorio_05"
+    },
+    {
+      "source": "inferno_08",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_10"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_11"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_12"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_13"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_14"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_16"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_17"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_18"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_20"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_21"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_25"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_28"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_29"
+    },
+    {
+      "source": "inferno_09",
+      "target": "inferno_30"
+    },
+    {
+      "source": "inferno_09",
+      "target": "purgatorio_05"
+    },
+    {
+      "source": "inferno_09",
+      "target": "purgatorio_07"
+    },
+    {
+      "source": "inferno_09",
+      "target": "purgatorio_09"
+    },
+    {
+      "source": "inferno_09",
+      "target": "purgatorio_10"
+    },
+    {
+      "source": "inferno_09",
+      "target": "purgatorio_21"
+    },
+    {
+      "source": "inferno_09",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "inferno_09",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "inferno_10",
+      "target": "inferno_29"
+    },
+    {
+      "source": "inferno_10",
+      "target": "inferno_33"
+    },
+    {
+      "source": "inferno_10",
+      "target": "purgatorio_05"
+    },
+    {
+      "source": "inferno_10",
+      "target": "purgatorio_10"
+    },
+    {
+      "source": "inferno_10",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "inferno_10",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "inferno_11",
+      "target": "inferno_14"
+    },
+    {
+      "source": "inferno_11",
+      "target": "purgatorio_10"
+    },
+    {
+      "source": "inferno_11",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "inferno_12",
+      "target": "inferno_16"
+    },
+    {
+      "source": "inferno_12",
+      "target": "inferno_17"
+    },
+    {
+      "source": "inferno_12",
+      "target": "inferno_18"
+    },
+    {
+      "source": "inferno_12",
+      "target": "inferno_20"
+    },
+    {
+      "source": "inferno_12",
+      "target": "inferno_23"
+    },
+    {
+      "source": "inferno_12",
+      "target": "inferno_25"
+    },
+    {
+      "source": "inferno_12",
+      "target": "inferno_28"
+    },
+    {
+      "source": "inferno_12",
+      "target": "inferno_29"
+    },
+    {
+      "source": "inferno_12",
+      "target": "inferno_30"
+    },
+    {
+      "source": "inferno_12",
+      "target": "inferno_31"
+    },
+    {
+      "source": "inferno_12",
+      "target": "inferno_32"
+    },
+    {
+      "source": "inferno_12",
+      "target": "purgatorio_09"
+    },
+    {
+      "source": "inferno_12",
+      "target": "purgatorio_10"
+    },
+    {
+      "source": "inferno_12",
+      "target": "purgatorio_14"
+    },
+    {
+      "source": "inferno_13",
+      "target": "inferno_14"
+    },
+    {
+      "source": "inferno_13",
+      "target": "inferno_25"
+    },
+    {
+      "source": "inferno_13",
+      "target": "inferno_34"
+    },
+    {
+      "source": "inferno_13",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "inferno_13",
+      "target": "purgatorio_32"
+    },
+    {
+      "source": "inferno_14",
+      "target": "inferno_16"
+    },
+    {
+      "source": "inferno_14",
+      "target": "inferno_18"
+    },
+    {
+      "source": "inferno_14",
+      "target": "inferno_20"
+    },
+    {
+      "source": "inferno_14",
+      "target": "inferno_22"
+    },
+    {
+      "source": "inferno_14",
+      "target": "inferno_25"
+    },
+    {
+      "source": "inferno_14",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "inferno_15",
+      "target": "inferno_16"
+    },
+    {
+      "source": "inferno_15",
+      "target": "inferno_22"
+    },
+    {
+      "source": "inferno_15",
+      "target": "inferno_24"
+    },
+    {
+      "source": "inferno_15",
+      "target": "inferno_26"
+    },
+    {
+      "source": "inferno_15",
+      "target": "inferno_27"
+    },
+    {
+      "source": "inferno_15",
+      "target": "purgatorio_05"
+    },
+    {
+      "source": "inferno_15",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "inferno_15",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "inferno_16",
+      "target": "inferno_22"
+    },
+    {
+      "source": "inferno_16",
+      "target": "inferno_23"
+    },
+    {
+      "source": "inferno_16",
+      "target": "inferno_27"
+    },
+    {
+      "source": "inferno_16",
+      "target": "inferno_32"
+    },
+    {
+      "source": "inferno_16",
+      "target": "inferno_34"
+    },
+    {
+      "source": "inferno_16",
+      "target": "purgatorio_06"
+    },
+    {
+      "source": "inferno_16",
+      "target": "purgatorio_24"
+    },
+    {
+      "source": "inferno_16",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "inferno_16",
+      "target": "purgatorio_27"
+    },
+    {
+      "source": "inferno_17",
+      "target": "inferno_21"
+    },
+    {
+      "source": "inferno_17",
+      "target": "inferno_22"
+    },
+    {
+      "source": "inferno_17",
+      "target": "inferno_24"
+    },
+    {
+      "source": "inferno_17",
+      "target": "inferno_32"
+    },
+    {
+      "source": "inferno_17",
+      "target": "purgatorio_05"
+    },
+    {
+      "source": "inferno_18",
+      "target": "inferno_21"
+    },
+    {
+      "source": "inferno_18",
+      "target": "inferno_22"
+    },
+    {
+      "source": "inferno_18",
+      "target": "inferno_24"
+    },
+    {
+      "source": "inferno_18",
+      "target": "inferno_29"
+    },
+    {
+      "source": "inferno_19",
+      "target": "inferno_21"
+    },
+    {
+      "source": "inferno_19",
+      "target": "inferno_22"
+    },
+    {
+      "source": "inferno_19",
+      "target": "inferno_31"
+    },
+    {
+      "source": "inferno_19",
+      "target": "inferno_32"
+    },
+    {
+      "source": "inferno_19",
+      "target": "purgatorio_04"
+    },
+    {
+      "source": "inferno_19",
+      "target": "purgatorio_12"
+    },
+    {
+      "source": "inferno_19",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "inferno_19",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "inferno_20",
+      "target": "inferno_28"
+    },
+    {
+      "source": "inferno_20",
+      "target": "inferno_30"
+    },
+    {
+      "source": "inferno_20",
+      "target": "inferno_32"
+    },
+    {
+      "source": "inferno_20",
+      "target": "purgatorio_12"
+    },
+    {
+      "source": "inferno_21",
+      "target": "inferno_22"
+    },
+    {
+      "source": "inferno_21",
+      "target": "inferno_23"
+    },
+    {
+      "source": "inferno_21",
+      "target": "inferno_24"
+    },
+    {
+      "source": "inferno_21",
+      "target": "inferno_29"
+    },
+    {
+      "source": "inferno_21",
+      "target": "inferno_34"
+    },
+    {
+      "source": "inferno_21",
+      "target": "purgatorio_12"
+    },
+    {
+      "source": "inferno_22",
+      "target": "inferno_26"
+    },
+    {
+      "source": "inferno_22",
+      "target": "purgatorio_12"
+    },
+    {
+      "source": "inferno_23",
+      "target": "inferno_24"
+    },
+    {
+      "source": "inferno_23",
+      "target": "inferno_32"
+    },
+    {
+      "source": "inferno_23",
+      "target": "inferno_34"
+    },
+    {
+      "source": "inferno_23",
+      "target": "purgatorio_05"
+    },
+    {
+      "source": "inferno_23",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "inferno_24",
+      "target": "inferno_29"
+    },
+    {
+      "source": "inferno_24",
+      "target": "inferno_32"
+    },
+    {
+      "source": "inferno_24",
+      "target": "purgatorio_04"
+    },
+    {
+      "source": "inferno_24",
+      "target": "purgatorio_05"
+    },
+    {
+      "source": "inferno_24",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "inferno_25",
+      "target": "inferno_33"
+    },
+    {
+      "source": "inferno_25",
+      "target": "purgatorio_06"
+    },
+    {
+      "source": "inferno_25",
+      "target": "purgatorio_14"
+    },
+    {
+      "source": "inferno_25",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "inferno_26",
+      "target": "purgatorio_04"
+    },
+    {
+      "source": "inferno_26",
+      "target": "purgatorio_14"
+    },
+    {
+      "source": "inferno_26",
+      "target": "purgatorio_20"
+    },
+    {
+      "source": "inferno_26",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "inferno_26",
+      "target": "purgatorio_29"
+    },
+    {
+      "source": "inferno_26",
+      "target": "paradiso_31"
+    },
+    {
+      "source": "inferno_27",
+      "target": "inferno_32"
+    },
+    {
+      "source": "inferno_27",
+      "target": "inferno_33"
+    },
+    {
+      "source": "inferno_27",
+      "target": "purgatorio_04"
+    },
+    {
+      "source": "inferno_27",
+      "target": "purgatorio_05"
+    },
+    {
+      "source": "inferno_28",
+      "target": "inferno_29"
+    },
+    {
+      "source": "inferno_28",
+      "target": "inferno_30"
+    },
+    {
+      "source": "inferno_28",
+      "target": "inferno_33"
+    },
+    {
+      "source": "inferno_28",
+      "target": "purgatorio_24"
+    },
+    {
+      "source": "inferno_29",
+      "target": "inferno_33"
+    },
+    {
+      "source": "inferno_29",
+      "target": "purgatorio_03"
+    },
+    {
+      "source": "inferno_29",
+      "target": "purgatorio_05"
+    },
+    {
+      "source": "inferno_29",
+      "target": "purgatorio_06"
+    },
+    {
+      "source": "inferno_29",
+      "target": "purgatorio_07"
+    },
+    {
+      "source": "inferno_29",
+      "target": "purgatorio_19"
+    },
+    {
+      "source": "inferno_29",
+      "target": "purgatorio_20"
+    },
+    {
+      "source": "inferno_29",
+      "target": "purgatorio_24"
+    },
+    {
+      "source": "inferno_29",
+      "target": "purgatorio_31"
+    },
+    {
+      "source": "inferno_30",
+      "target": "inferno_33"
+    },
+    {
+      "source": "inferno_30",
+      "target": "purgatorio_09"
+    },
+    {
+      "source": "inferno_30",
+      "target": "paradiso_12"
+    },
+    {
+      "source": "inferno_30",
+      "target": "paradiso_21"
+    },
+    {
+      "source": "inferno_31",
+      "target": "inferno_32"
+    },
+    {
+      "source": "inferno_31",
+      "target": "inferno_34"
+    },
+    {
+      "source": "inferno_31",
+      "target": "purgatorio_09"
+    },
+    {
+      "source": "inferno_31",
+      "target": "purgatorio_10"
+    },
+    {
+      "source": "inferno_31",
+      "target": "purgatorio_27"
+    },
+    {
+      "source": "inferno_31",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "inferno_32",
+      "target": "inferno_34"
+    },
+    {
+      "source": "inferno_32",
+      "target": "purgatorio_12"
+    },
+    {
+      "source": "inferno_33",
+      "target": "purgatorio_06"
+    },
+    {
+      "source": "inferno_33",
+      "target": "purgatorio_14"
+    },
+    {
+      "source": "inferno_33",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "inferno_33",
+      "target": "purgatorio_20"
+    },
+    {
+      "source": "inferno_33",
+      "target": "purgatorio_24"
+    },
+    {
+      "source": "inferno_33",
+      "target": "purgatorio_31"
+    },
+    {
+      "source": "inferno_33",
+      "target": "paradiso_11"
+    },
+    {
+      "source": "inferno_33",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "inferno_34",
+      "target": "purgatorio_05"
+    },
+    {
+      "source": "inferno_34",
+      "target": "purgatorio_10"
+    },
+    {
+      "source": "inferno_34",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "inferno_34",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "inferno_34",
+      "target": "purgatorio_17"
+    },
+    {
+      "source": "purgatorio_01",
+      "target": "purgatorio_02"
+    },
+    {
+      "source": "purgatorio_01",
+      "target": "purgatorio_12"
+    },
+    {
+      "source": "purgatorio_01",
+      "target": "purgatorio_19"
+    },
+    {
+      "source": "purgatorio_01",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "purgatorio_01",
+      "target": "purgatorio_27"
+    },
+    {
+      "source": "purgatorio_01",
+      "target": "paradiso_01"
+    },
+    {
+      "source": "purgatorio_01",
+      "target": "paradiso_02"
+    },
+    {
+      "source": "purgatorio_02",
+      "target": "purgatorio_08"
+    },
+    {
+      "source": "purgatorio_02",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "purgatorio_02",
+      "target": "purgatorio_19"
+    },
+    {
+      "source": "purgatorio_02",
+      "target": "purgatorio_30"
+    },
+    {
+      "source": "purgatorio_02",
+      "target": "paradiso_13"
+    },
+    {
+      "source": "purgatorio_02",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "purgatorio_02",
+      "target": "paradiso_23"
+    },
+    {
+      "source": "purgatorio_03",
+      "target": "purgatorio_04"
+    },
+    {
+      "source": "purgatorio_03",
+      "target": "purgatorio_05"
+    },
+    {
+      "source": "purgatorio_03",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "purgatorio_03",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "purgatorio_03",
+      "target": "purgatorio_31"
+    },
+    {
+      "source": "purgatorio_04",
+      "target": "purgatorio_05"
+    },
+    {
+      "source": "purgatorio_04",
+      "target": "purgatorio_06"
+    },
+    {
+      "source": "purgatorio_04",
+      "target": "purgatorio_10"
+    },
+    {
+      "source": "purgatorio_04",
+      "target": "purgatorio_13"
+    },
+    {
+      "source": "purgatorio_04",
+      "target": "purgatorio_14"
+    },
+    {
+      "source": "purgatorio_04",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "purgatorio_04",
+      "target": "purgatorio_18"
+    },
+    {
+      "source": "purgatorio_04",
+      "target": "purgatorio_25"
+    },
+    {
+      "source": "purgatorio_04",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "purgatorio_04",
+      "target": "purgatorio_28"
+    },
+    {
+      "source": "purgatorio_04",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "purgatorio_05",
+      "target": "purgatorio_06"
+    },
+    {
+      "source": "purgatorio_05",
+      "target": "purgatorio_13"
+    },
+    {
+      "source": "purgatorio_05",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "purgatorio_05",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "purgatorio_05",
+      "target": "purgatorio_27"
+    },
+    {
+      "source": "purgatorio_05",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "purgatorio_06",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "purgatorio_07",
+      "target": "purgatorio_08"
+    },
+    {
+      "source": "purgatorio_07",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "purgatorio_07",
+      "target": "purgatorio_21"
+    },
+    {
+      "source": "purgatorio_07",
+      "target": "purgatorio_30"
+    },
+    {
+      "source": "purgatorio_07",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "purgatorio_08",
+      "target": "purgatorio_09"
+    },
+    {
+      "source": "purgatorio_08",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "purgatorio_08",
+      "target": "purgatorio_17"
+    },
+    {
+      "source": "purgatorio_08",
+      "target": "purgatorio_19"
+    },
+    {
+      "source": "purgatorio_08",
+      "target": "purgatorio_21"
+    },
+    {
+      "source": "purgatorio_08",
+      "target": "purgatorio_22"
+    },
+    {
+      "source": "purgatorio_08",
+      "target": "purgatorio_23"
+    },
+    {
+      "source": "purgatorio_08",
+      "target": "purgatorio_29"
+    },
+    {
+      "source": "purgatorio_08",
+      "target": "purgatorio_30"
+    },
+    {
+      "source": "purgatorio_08",
+      "target": "purgatorio_32"
+    },
+    {
+      "source": "purgatorio_08",
+      "target": "paradiso_12"
+    },
+    {
+      "source": "purgatorio_08",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "purgatorio_08",
+      "target": "paradiso_31"
+    },
+    {
+      "source": "purgatorio_09",
+      "target": "purgatorio_17"
+    },
+    {
+      "source": "purgatorio_09",
+      "target": "purgatorio_19"
+    },
+    {
+      "source": "purgatorio_09",
+      "target": "paradiso_21"
+    },
+    {
+      "source": "purgatorio_10",
+      "target": "purgatorio_13"
+    },
+    {
+      "source": "purgatorio_10",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "purgatorio_10",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "purgatorio_10",
+      "target": "purgatorio_22"
+    },
+    {
+      "source": "purgatorio_10",
+      "target": "purgatorio_27"
+    },
+    {
+      "source": "purgatorio_10",
+      "target": "purgatorio_28"
+    },
+    {
+      "source": "purgatorio_10",
+      "target": "paradiso_12"
+    },
+    {
+      "source": "purgatorio_10",
+      "target": "paradiso_28"
+    },
+    {
+      "source": "purgatorio_11",
+      "target": "purgatorio_13"
+    },
+    {
+      "source": "purgatorio_11",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "purgatorio_11",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "purgatorio_11",
+      "target": "purgatorio_23"
+    },
+    {
+      "source": "purgatorio_11",
+      "target": "paradiso_19"
+    },
+    {
+      "source": "purgatorio_11",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "purgatorio_11",
+      "target": "paradiso_33"
+    },
+    {
+      "source": "purgatorio_12",
+      "target": "purgatorio_25"
+    },
+    {
+      "source": "purgatorio_12",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "purgatorio_12",
+      "target": "purgatorio_27"
+    },
+    {
+      "source": "purgatorio_12",
+      "target": "purgatorio_32"
+    },
+    {
+      "source": "purgatorio_12",
+      "target": "paradiso_10"
+    },
+    {
+      "source": "purgatorio_13",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "purgatorio_13",
+      "target": "purgatorio_16"
+    },
+    {
+      "source": "purgatorio_13",
+      "target": "purgatorio_22"
+    },
+    {
+      "source": "purgatorio_13",
+      "target": "purgatorio_25"
+    },
+    {
+      "source": "purgatorio_13",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "purgatorio_14",
+      "target": "purgatorio_15"
+    },
+    {
+      "source": "purgatorio_14",
+      "target": "purgatorio_24"
+    },
+    {
+      "source": "purgatorio_14",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "purgatorio_15",
+      "target": "purgatorio_17"
+    },
+    {
+      "source": "purgatorio_15",
+      "target": "purgatorio_19"
+    },
+    {
+      "source": "purgatorio_15",
+      "target": "purgatorio_23"
+    },
+    {
+      "source": "purgatorio_15",
+      "target": "purgatorio_25"
+    },
+    {
+      "source": "purgatorio_15",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "purgatorio_15",
+      "target": "purgatorio_27"
+    },
+    {
+      "source": "purgatorio_15",
+      "target": "purgatorio_29"
+    },
+    {
+      "source": "purgatorio_15",
+      "target": "paradiso_13"
+    },
+    {
+      "source": "purgatorio_15",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "purgatorio_15",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "purgatorio_15",
+      "target": "paradiso_23"
+    },
+    {
+      "source": "purgatorio_16",
+      "target": "purgatorio_17"
+    },
+    {
+      "source": "purgatorio_16",
+      "target": "purgatorio_20"
+    },
+    {
+      "source": "purgatorio_16",
+      "target": "purgatorio_21"
+    },
+    {
+      "source": "purgatorio_16",
+      "target": "purgatorio_22"
+    },
+    {
+      "source": "purgatorio_16",
+      "target": "purgatorio_23"
+    },
+    {
+      "source": "purgatorio_16",
+      "target": "purgatorio_27"
+    },
+    {
+      "source": "purgatorio_16",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "purgatorio_16",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "purgatorio_17",
+      "target": "purgatorio_23"
+    },
+    {
+      "source": "purgatorio_17",
+      "target": "paradiso_13"
+    },
+    {
+      "source": "purgatorio_17",
+      "target": "paradiso_21"
+    },
+    {
+      "source": "purgatorio_17",
+      "target": "paradiso_23"
+    },
+    {
+      "source": "purgatorio_17",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "purgatorio_18",
+      "target": "purgatorio_22"
+    },
+    {
+      "source": "purgatorio_18",
+      "target": "purgatorio_25"
+    },
+    {
+      "source": "purgatorio_18",
+      "target": "paradiso_03"
+    },
+    {
+      "source": "purgatorio_18",
+      "target": "paradiso_05"
+    },
+    {
+      "source": "purgatorio_18",
+      "target": "paradiso_10"
+    },
+    {
+      "source": "purgatorio_18",
+      "target": "paradiso_15"
+    },
+    {
+      "source": "purgatorio_18",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "purgatorio_18",
+      "target": "paradiso_26"
+    },
+    {
+      "source": "purgatorio_18",
+      "target": "paradiso_28"
+    },
+    {
+      "source": "purgatorio_19",
+      "target": "purgatorio_29"
+    },
+    {
+      "source": "purgatorio_19",
+      "target": "purgatorio_30"
+    },
+    {
+      "source": "purgatorio_19",
+      "target": "paradiso_03"
+    },
+    {
+      "source": "purgatorio_20",
+      "target": "purgatorio_21"
+    },
+    {
+      "source": "purgatorio_20",
+      "target": "purgatorio_23"
+    },
+    {
+      "source": "purgatorio_20",
+      "target": "paradiso_25"
+    },
+    {
+      "source": "purgatorio_21",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "purgatorio_21",
+      "target": "purgatorio_30"
+    },
+    {
+      "source": "purgatorio_21",
+      "target": "purgatorio_33"
+    },
+    {
+      "source": "purgatorio_21",
+      "target": "paradiso_04"
+    },
+    {
+      "source": "purgatorio_22",
+      "target": "purgatorio_25"
+    },
+    {
+      "source": "purgatorio_22",
+      "target": "purgatorio_27"
+    },
+    {
+      "source": "purgatorio_22",
+      "target": "paradiso_26"
+    },
+    {
+      "source": "purgatorio_23",
+      "target": "purgatorio_29"
+    },
+    {
+      "source": "purgatorio_23",
+      "target": "paradiso_03"
+    },
+    {
+      "source": "purgatorio_23",
+      "target": "paradiso_19"
+    },
+    {
+      "source": "purgatorio_23",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "purgatorio_24",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "purgatorio_24",
+      "target": "paradiso_02"
+    },
+    {
+      "source": "purgatorio_24",
+      "target": "paradiso_11"
+    },
+    {
+      "source": "purgatorio_24",
+      "target": "paradiso_16"
+    },
+    {
+      "source": "purgatorio_24",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "purgatorio_25",
+      "target": "purgatorio_26"
+    },
+    {
+      "source": "purgatorio_25",
+      "target": "purgatorio_27"
+    },
+    {
+      "source": "purgatorio_26",
+      "target": "purgatorio_27"
+    },
+    {
+      "source": "purgatorio_27",
+      "target": "purgatorio_30"
+    },
+    {
+      "source": "purgatorio_27",
+      "target": "purgatorio_32"
+    },
+    {
+      "source": "purgatorio_27",
+      "target": "paradiso_01"
+    },
+    {
+      "source": "purgatorio_27",
+      "target": "paradiso_02"
+    },
+    {
+      "source": "purgatorio_27",
+      "target": "paradiso_12"
+    },
+    {
+      "source": "purgatorio_27",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "purgatorio_27",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "purgatorio_28",
+      "target": "purgatorio_29"
+    },
+    {
+      "source": "purgatorio_28",
+      "target": "purgatorio_32"
+    },
+    {
+      "source": "purgatorio_28",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "purgatorio_28",
+      "target": "paradiso_23"
+    },
+    {
+      "source": "purgatorio_28",
+      "target": "paradiso_31"
+    },
+    {
+      "source": "purgatorio_29",
+      "target": "purgatorio_30"
+    },
+    {
+      "source": "purgatorio_29",
+      "target": "purgatorio_31"
+    },
+    {
+      "source": "purgatorio_29",
+      "target": "purgatorio_32"
+    },
+    {
+      "source": "purgatorio_29",
+      "target": "paradiso_02"
+    },
+    {
+      "source": "purgatorio_29",
+      "target": "paradiso_12"
+    },
+    {
+      "source": "purgatorio_29",
+      "target": "paradiso_15"
+    },
+    {
+      "source": "purgatorio_29",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "purgatorio_29",
+      "target": "paradiso_19"
+    },
+    {
+      "source": "purgatorio_29",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "purgatorio_29",
+      "target": "paradiso_31"
+    },
+    {
+      "source": "purgatorio_30",
+      "target": "purgatorio_32"
+    },
+    {
+      "source": "purgatorio_30",
+      "target": "purgatorio_33"
+    },
+    {
+      "source": "purgatorio_30",
+      "target": "paradiso_06"
+    },
+    {
+      "source": "purgatorio_30",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "purgatorio_30",
+      "target": "paradiso_23"
+    },
+    {
+      "source": "purgatorio_30",
+      "target": "paradiso_27"
+    },
+    {
+      "source": "purgatorio_30",
+      "target": "paradiso_29"
+    },
+    {
+      "source": "purgatorio_30",
+      "target": "paradiso_31"
+    },
+    {
+      "source": "purgatorio_30",
+      "target": "paradiso_32"
+    },
+    {
+      "source": "purgatorio_30",
+      "target": "paradiso_33"
+    },
+    {
+      "source": "purgatorio_31",
+      "target": "paradiso_02"
+    },
+    {
+      "source": "purgatorio_31",
+      "target": "paradiso_03"
+    },
+    {
+      "source": "purgatorio_31",
+      "target": "paradiso_05"
+    },
+    {
+      "source": "purgatorio_31",
+      "target": "paradiso_07"
+    },
+    {
+      "source": "purgatorio_31",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "purgatorio_32",
+      "target": "paradiso_02"
+    },
+    {
+      "source": "purgatorio_32",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "purgatorio_32",
+      "target": "paradiso_21"
+    },
+    {
+      "source": "purgatorio_32",
+      "target": "paradiso_23"
+    },
+    {
+      "source": "purgatorio_32",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "purgatorio_33",
+      "target": "paradiso_07"
+    },
+    {
+      "source": "purgatorio_33",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "purgatorio_33",
+      "target": "paradiso_24"
+    },
+    {
+      "source": "purgatorio_33",
+      "target": "paradiso_25"
+    },
+    {
+      "source": "purgatorio_33",
+      "target": "paradiso_27"
+    },
+    {
+      "source": "purgatorio_33",
+      "target": "paradiso_32"
+    },
+    {
+      "source": "purgatorio_33",
+      "target": "paradiso_33"
+    },
+    {
+      "source": "paradiso_01",
+      "target": "paradiso_02"
+    },
+    {
+      "source": "paradiso_01",
+      "target": "paradiso_10"
+    },
+    {
+      "source": "paradiso_01",
+      "target": "paradiso_13"
+    },
+    {
+      "source": "paradiso_01",
+      "target": "paradiso_15"
+    },
+    {
+      "source": "paradiso_01",
+      "target": "paradiso_17"
+    },
+    {
+      "source": "paradiso_01",
+      "target": "paradiso_19"
+    },
+    {
+      "source": "paradiso_01",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "paradiso_01",
+      "target": "paradiso_23"
+    },
+    {
+      "source": "paradiso_01",
+      "target": "paradiso_27"
+    },
+    {
+      "source": "paradiso_01",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "paradiso_01",
+      "target": "paradiso_33"
+    },
+    {
+      "source": "paradiso_02",
+      "target": "paradiso_03"
+    },
+    {
+      "source": "paradiso_02",
+      "target": "paradiso_16"
+    },
+    {
+      "source": "paradiso_02",
+      "target": "paradiso_17"
+    },
+    {
+      "source": "paradiso_02",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "paradiso_02",
+      "target": "paradiso_24"
+    },
+    {
+      "source": "paradiso_03",
+      "target": "paradiso_05"
+    },
+    {
+      "source": "paradiso_03",
+      "target": "paradiso_08"
+    },
+    {
+      "source": "paradiso_03",
+      "target": "paradiso_09"
+    },
+    {
+      "source": "paradiso_03",
+      "target": "paradiso_11"
+    },
+    {
+      "source": "paradiso_03",
+      "target": "paradiso_15"
+    },
+    {
+      "source": "paradiso_03",
+      "target": "paradiso_17"
+    },
+    {
+      "source": "paradiso_03",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "paradiso_03",
+      "target": "paradiso_19"
+    },
+    {
+      "source": "paradiso_03",
+      "target": "paradiso_21"
+    },
+    {
+      "source": "paradiso_03",
+      "target": "paradiso_24"
+    },
+    {
+      "source": "paradiso_03",
+      "target": "paradiso_25"
+    },
+    {
+      "source": "paradiso_03",
+      "target": "paradiso_26"
+    },
+    {
+      "source": "paradiso_03",
+      "target": "paradiso_28"
+    },
+    {
+      "source": "paradiso_04",
+      "target": "paradiso_05"
+    },
+    {
+      "source": "paradiso_04",
+      "target": "paradiso_07"
+    },
+    {
+      "source": "paradiso_04",
+      "target": "paradiso_10"
+    },
+    {
+      "source": "paradiso_04",
+      "target": "paradiso_11"
+    },
+    {
+      "source": "paradiso_04",
+      "target": "paradiso_14"
+    },
+    {
+      "source": "paradiso_04",
+      "target": "paradiso_15"
+    },
+    {
+      "source": "paradiso_04",
+      "target": "paradiso_26"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_07"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_09"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_10"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_14"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_16"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_17"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_23"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_24"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_25"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_26"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_29"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_32"
+    },
+    {
+      "source": "paradiso_05",
+      "target": "paradiso_33"
+    },
+    {
+      "source": "paradiso_06",
+      "target": "paradiso_07"
+    },
+    {
+      "source": "paradiso_06",
+      "target": "paradiso_09"
+    },
+    {
+      "source": "paradiso_06",
+      "target": "paradiso_11"
+    },
+    {
+      "source": "paradiso_06",
+      "target": "paradiso_16"
+    },
+    {
+      "source": "paradiso_06",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "paradiso_06",
+      "target": "paradiso_25"
+    },
+    {
+      "source": "paradiso_07",
+      "target": "paradiso_11"
+    },
+    {
+      "source": "paradiso_07",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "paradiso_07",
+      "target": "paradiso_24"
+    },
+    {
+      "source": "paradiso_07",
+      "target": "paradiso_25"
+    },
+    {
+      "source": "paradiso_07",
+      "target": "paradiso_27"
+    },
+    {
+      "source": "paradiso_07",
+      "target": "paradiso_32"
+    },
+    {
+      "source": "paradiso_08",
+      "target": "paradiso_12"
+    },
+    {
+      "source": "paradiso_08",
+      "target": "paradiso_13"
+    },
+    {
+      "source": "paradiso_08",
+      "target": "paradiso_21"
+    },
+    {
+      "source": "paradiso_08",
+      "target": "paradiso_26"
+    },
+    {
+      "source": "paradiso_08",
+      "target": "paradiso_28"
+    },
+    {
+      "source": "paradiso_08",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "paradiso_08",
+      "target": "paradiso_31"
+    },
+    {
+      "source": "paradiso_09",
+      "target": "paradiso_16"
+    },
+    {
+      "source": "paradiso_09",
+      "target": "paradiso_17"
+    },
+    {
+      "source": "paradiso_09",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "paradiso_09",
+      "target": "paradiso_23"
+    },
+    {
+      "source": "paradiso_09",
+      "target": "paradiso_25"
+    },
+    {
+      "source": "paradiso_09",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "paradiso_10",
+      "target": "paradiso_11"
+    },
+    {
+      "source": "paradiso_10",
+      "target": "paradiso_14"
+    },
+    {
+      "source": "paradiso_10",
+      "target": "paradiso_15"
+    },
+    {
+      "source": "paradiso_10",
+      "target": "paradiso_17"
+    },
+    {
+      "source": "paradiso_10",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "paradiso_10",
+      "target": "paradiso_23"
+    },
+    {
+      "source": "paradiso_10",
+      "target": "paradiso_26"
+    },
+    {
+      "source": "paradiso_10",
+      "target": "paradiso_28"
+    },
+    {
+      "source": "paradiso_10",
+      "target": "paradiso_29"
+    },
+    {
+      "source": "paradiso_10",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "paradiso_11",
+      "target": "paradiso_14"
+    },
+    {
+      "source": "paradiso_11",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "paradiso_11",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "paradiso_11",
+      "target": "paradiso_25"
+    },
+    {
+      "source": "paradiso_11",
+      "target": "paradiso_29"
+    },
+    {
+      "source": "paradiso_12",
+      "target": "paradiso_13"
+    },
+    {
+      "source": "paradiso_12",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "paradiso_12",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "paradiso_12",
+      "target": "paradiso_31"
+    },
+    {
+      "source": "paradiso_13",
+      "target": "paradiso_19"
+    },
+    {
+      "source": "paradiso_13",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "paradiso_13",
+      "target": "paradiso_28"
+    },
+    {
+      "source": "paradiso_13",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "paradiso_14",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "paradiso_14",
+      "target": "paradiso_24"
+    },
+    {
+      "source": "paradiso_14",
+      "target": "paradiso_27"
+    },
+    {
+      "source": "paradiso_14",
+      "target": "paradiso_28"
+    },
+    {
+      "source": "paradiso_14",
+      "target": "paradiso_29"
+    },
+    {
+      "source": "paradiso_14",
+      "target": "paradiso_32"
+    },
+    {
+      "source": "paradiso_15",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "paradiso_15",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "paradiso_15",
+      "target": "paradiso_26"
+    },
+    {
+      "source": "paradiso_15",
+      "target": "paradiso_29"
+    },
+    {
+      "source": "paradiso_16",
+      "target": "paradiso_17"
+    },
+    {
+      "source": "paradiso_16",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "paradiso_16",
+      "target": "paradiso_24"
+    },
+    {
+      "source": "paradiso_16",
+      "target": "paradiso_25"
+    },
+    {
+      "source": "paradiso_16",
+      "target": "paradiso_27"
+    },
+    {
+      "source": "paradiso_17",
+      "target": "paradiso_18"
+    },
+    {
+      "source": "paradiso_18",
+      "target": "paradiso_19"
+    },
+    {
+      "source": "paradiso_18",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "paradiso_18",
+      "target": "paradiso_21"
+    },
+    {
+      "source": "paradiso_18",
+      "target": "paradiso_23"
+    },
+    {
+      "source": "paradiso_18",
+      "target": "paradiso_24"
+    },
+    {
+      "source": "paradiso_18",
+      "target": "paradiso_25"
+    },
+    {
+      "source": "paradiso_18",
+      "target": "paradiso_26"
+    },
+    {
+      "source": "paradiso_18",
+      "target": "paradiso_27"
+    },
+    {
+      "source": "paradiso_18",
+      "target": "paradiso_29"
+    },
+    {
+      "source": "paradiso_18",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "paradiso_18",
+      "target": "paradiso_31"
+    },
+    {
+      "source": "paradiso_18",
+      "target": "paradiso_32"
+    },
+    {
+      "source": "paradiso_19",
+      "target": "paradiso_20"
+    },
+    {
+      "source": "paradiso_19",
+      "target": "paradiso_21"
+    },
+    {
+      "source": "paradiso_19",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "paradiso_19",
+      "target": "paradiso_31"
+    },
+    {
+      "source": "paradiso_20",
+      "target": "paradiso_22"
+    },
+    {
+      "source": "paradiso_20",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "paradiso_20",
+      "target": "paradiso_31"
+    },
+    {
+      "source": "paradiso_21",
+      "target": "paradiso_26"
+    },
+    {
+      "source": "paradiso_21",
+      "target": "paradiso_28"
+    },
+    {
+      "source": "paradiso_21",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "paradiso_23",
+      "target": "paradiso_24"
+    },
+    {
+      "source": "paradiso_23",
+      "target": "paradiso_25"
+    },
+    {
+      "source": "paradiso_23",
+      "target": "paradiso_27"
+    },
+    {
+      "source": "paradiso_23",
+      "target": "paradiso_29"
+    },
+    {
+      "source": "paradiso_23",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "paradiso_23",
+      "target": "paradiso_33"
+    },
+    {
+      "source": "paradiso_24",
+      "target": "paradiso_25"
+    },
+    {
+      "source": "paradiso_24",
+      "target": "paradiso_32"
+    },
+    {
+      "source": "paradiso_24",
+      "target": "paradiso_33"
+    },
+    {
+      "source": "paradiso_25",
+      "target": "paradiso_27"
+    },
+    {
+      "source": "paradiso_25",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "paradiso_25",
+      "target": "paradiso_32"
+    },
+    {
+      "source": "paradiso_26",
+      "target": "paradiso_28"
+    },
+    {
+      "source": "paradiso_27",
+      "target": "paradiso_31"
+    },
+    {
+      "source": "paradiso_27",
+      "target": "paradiso_33"
+    },
+    {
+      "source": "paradiso_28",
+      "target": "paradiso_30"
+    },
+    {
+      "source": "paradiso_29",
+      "target": "paradiso_30"
+    }
+  ]
+}

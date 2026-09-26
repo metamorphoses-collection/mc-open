@@ -1,0 +1,11 @@
+{
+  "text": "livre_irremplacable_designed",
+  "N": 50,
+  "E": 287,
+  "density": 0.2343,
+  "mis_size": 17,
+  "sa_fidelity": 0.833,
+  "batch_id": "6f174824-eba8-435f-bcc3-b4c102753ca0",
+  "emulator": "EMU_MPS",
+  "shots": 1000
+}

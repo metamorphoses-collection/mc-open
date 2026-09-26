@@ -1,0 +1,38 @@
+{
+  "campaign": "Pari de Nithard III quench QPU",
+  "N": 100,
+  "device": "FRESNEL_CAN1",
+  "embedding_fidelity": 0.8731313131313131,
+  "max_radius_um": 45.019440245298476,
+  "total_shots": 2500,
+  "batches": {
+    "quench_t1us": {
+      "batch_id": "367eaae1-c6e7-46fa-9879-f7286d03f7dc",
+      "T_ns": 1000,
+      "shots": 600,
+      "protocol": "quench",
+      "N": 100
+    },
+    "quench_t2us": {
+      "batch_id": "5a5b1e17-21b8-4342-a7aa-c0bbcbf1acf3",
+      "T_ns": 2000,
+      "shots": 600,
+      "protocol": "quench",
+      "N": 100
+    },
+    "quench_t4us": {
+      "batch_id": "fe7e0925-a51e-40b8-a660-60f4366bde3e",
+      "T_ns": 4000,
+      "shots": 600,
+      "protocol": "quench",
+      "N": 100
+    },
+    "adiabatic_ref": {
+      "batch_id": "588783de-d7a5-450f-981d-04d2ad8db00e",
+      "T_ns": 4000,
+      "shots": 700,
+      "protocol": "adiabatic",
+      "N": 100
+    }
+  }
+}

@@ -1,0 +1,7 @@
+# Les Jumeaux du Graphe -- Text A (English)
+## Nithard at Fontenoy: A Carolingian Chronicle
+### An OuLiPo Text Under Isomorphic Graph Constraint
+
+**Twin of:** *Text B (French) -- Pascal and Probability*
+
+**Hommage to Bernard Marechal**, who taught that constraint liberates.

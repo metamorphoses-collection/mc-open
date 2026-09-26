@@ -1,0 +1,255 @@
+{
+  "page_001": [
+    "#### PAGE 1",
+    "*Threads: BOOK, COLOPHON, IRREPLACEABLE, MIRROR, NUMBER, PARCHMENT*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_002": [
+    "#### PAGE 2",
+    "*Threads: CHRONICLE, FAITH, GAME, INK, NUMBER, TONGUE*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_003": [
+    "#### PAGE 1",
+    "*Threads: CHRONICLE, CONSPIRACY, FAITH, GAME, MIRROR, PARCHMENT*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_004": [
+    "#### PAGE 2",
+    "*Threads: FAITH, GAME, INK, MALIETTE, MIRROR, WAGER*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_005": [
+    "#### PAGE 3",
+    "*Threads: CHRONICLE, GAME, INK, MIRROR, NUMBER, TONGUE*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_006": [
+    "#### PAGE 4",
+    "*Threads: FAITH, GAME, INK, NUMBER, PARCHMENT, SWORD*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_007": [
+    "#### PAGE 5",
+    "*Threads: CHRONICLE, CONSPIRACY, MALIETTE, MIRROR, TONGUE, WAGER*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_008": [
+    "#### PAGE 6",
+    "*Threads: CHRONICLE, FAITH, GAME, MALIETTE, SWORD, TONGUE*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_009": [
+    "#### PAGE 7",
+    "*Threads: INK, MALIETTE, NUMBER, SWORD, TONGUE, WAGER*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_010": [
+    "#### PAGE 8",
+    "*Threads: FAITH, MALIETTE, MIRROR, NUMBER, PARCHMENT, TONGUE*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_011": [
+    "#### PAGE 9",
+    "*Threads: CONSPIRACY, GAME, MALIETTE, MIRROR, NUMBER, SWORD*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_012": [
+    "#### PAGE 10",
+    "#### PAGE 11",
+    "*Threads: GAME, MIRROR, PARCHMENT, SWORD, TONGUE, WAGER*",
+    "*Threads: CONSPIRACY, GAME, INK, MALIETTE, PARCHMENT, TONGUE*",
+    "*Role: MIS (backbone)*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_013": [
+    "#### PAGE 12",
+    "*Threads: CONSPIRACY, FAITH, GAME, NUMBER, TONGUE, WAGER*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_014": [
+    "#### PAGE 13",
+    "*Threads: CONSPIRACY, INK, MIRROR, NUMBER, PARCHMENT, WAGER*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_015": [
+    "#### PAGE 14",
+    "*Threads: CHRONICLE, GAME, MALIETTE, NUMBER, PARCHMENT, WAGER*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_016": [
+    "#### PAGE 15",
+    "*Threads: CONSPIRACY, FAITH, INK, MIRROR, SWORD, TONGUE*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_017": [
+    "#### PAGE 16",
+    "*Threads: CHRONICLE, INK, MALIETTE, MIRROR, PARCHMENT, SWORD*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_018": [
+    "#### PAGE 17",
+    "*Threads: CHRONICLE, FAITH, MIRROR, NUMBER, SWORD, WAGER*",
+    "*Role: MIS (backbone)*"
+  ],
+  "page_019": [
+    "#### PAGE 18",
+    "*Threads: FAITH, NUMBER, PARCHMENT, SWORD, TONGUE, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_020": [
+    "#### PAGE 19",
+    "*Threads: CHRONICLE, FAITH, MALIETTE, SWORD, TONGUE, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_021": [
+    "#### PAGE 20",
+    "*Threads: CHRONICLE, CONSPIRACY, FAITH, GAME, SWORD, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_022": [
+    "#### PAGE 21",
+    "*Threads: CONSPIRACY, FAITH, INK, MIRROR, PARCHMENT, SWORD*",
+    "*Role: non-MIS*"
+  ],
+  "page_023": [
+    "#### PAGE 22",
+    "*Threads: CHRONICLE, CONSPIRACY, INK, NUMBER, SWORD, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_024": [
+    "#### PAGE 23",
+    "*Threads: CONSPIRACY, FAITH, INK, MALIETTE, MIRROR, TONGUE*",
+    "*Role: non-MIS*"
+  ],
+  "page_025": [
+    "#### PAGE 24",
+    "*Threads: INK, MALIETTE, MIRROR, NUMBER, PARCHMENT, SWORD*",
+    "*Role: non-MIS*"
+  ],
+  "page_026": [
+    "#### PAGE 25",
+    "*Threads: CHRONICLE, CONSPIRACY, GAME, INK, NUMBER, TONGUE*",
+    "*Role: non-MIS*"
+  ],
+  "page_027": [
+    "#### PAGE 26",
+    "*Threads: CHRONICLE, FAITH, MALIETTE, NUMBER, TONGUE, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_028": [
+    "#### PAGE 27",
+    "*Threads: CONSPIRACY, FAITH, GAME, SWORD, TONGUE, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_029": [
+    "#### PAGE 28",
+    "*Threads: FAITH, GAME, NUMBER, PARCHMENT, SWORD, TONGUE*",
+    "*Role: non-MIS*"
+  ],
+  "page_030": [
+    "#### PAGE 29",
+    "*Threads: FAITH, GAME, MALIETTE, MIRROR, PARCHMENT, TONGUE*",
+    "*Role: non-MIS*"
+  ],
+  "page_031": [
+    "#### PAGE 30",
+    "*Threads: CHRONICLE, CONSPIRACY, INK, MIRROR, NUMBER, SWORD*",
+    "*Role: non-MIS*"
+  ],
+  "page_032": [
+    "#### PAGE 31",
+    "*Threads: CONSPIRACY, GAME, MALIETTE, PARCHMENT, SWORD, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_033": [
+    "#### PAGE 32",
+    "*Threads: FAITH, INK, MALIETTE, NUMBER, SWORD, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_034": [
+    "#### PAGE 33",
+    "*Threads: CHRONICLE, MALIETTE, MIRROR, PARCHMENT, TONGUE, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_035": [
+    "#### PAGE 34",
+    "*Threads: CHRONICLE, FAITH, INK, MALIETTE, NUMBER, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_036": [
+    "#### PAGE 35",
+    "*Threads: CHRONICLE, FAITH, GAME, MIRROR, SWORD, TONGUE*",
+    "*Role: non-MIS*"
+  ],
+  "page_037": [
+    "#### PAGE 36",
+    "*Threads: CHRONICLE, CONSPIRACY, GAME, MALIETTE, NUMBER, PARCHMENT*",
+    "*Role: non-MIS*"
+  ],
+  "page_038": [
+    "#### PAGE 37",
+    "*Threads: CHRONICLE, CONSPIRACY, INK, MALIETTE, MIRROR, PARCHMENT*",
+    "*Role: non-MIS*"
+  ],
+  "page_039": [
+    "#### PAGE 38",
+    "*Threads: CHRONICLE, GAME, INK, PARCHMENT, SWORD, TONGUE*",
+    "*Role: non-MIS*"
+  ],
+  "page_040": [
+    "#### PAGE 39",
+    "*Threads: CONSPIRACY, MALIETTE, NUMBER, SWORD, TONGUE, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_041": [
+    "#### PAGE 40",
+    "*Threads: CHRONICLE, CONSPIRACY, GAME, INK, MIRROR, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_042": [
+    "#### PAGE 41",
+    "*Threads: CHRONICLE, CONSPIRACY, INK, PARCHMENT, TONGUE, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_043": [
+    "#### PAGE 42",
+    "*Threads: CHRONICLE, FAITH, INK, MIRROR, PARCHMENT, TONGUE*",
+    "*Role: non-MIS*"
+  ],
+  "page_044": [
+    "#### PAGE 43",
+    "*Threads: CHRONICLE, CONSPIRACY, FAITH, INK, MIRROR, PARCHMENT*",
+    "*Role: non-MIS*"
+  ],
+  "page_045": [
+    "#### PAGE 44",
+    "*Threads: CHRONICLE, CONSPIRACY, GAME, MALIETTE, NUMBER, SWORD*",
+    "*Role: non-MIS*"
+  ],
+  "page_046": [
+    "#### PAGE 45",
+    "*Threads: CHRONICLE, FAITH, INK, PARCHMENT, SWORD, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_047": [
+    "#### PAGE 46",
+    "*Threads: MIRROR, NUMBER, PARCHMENT, SWORD, TONGUE, WAGER*",
+    "*Role: non-MIS*"
+  ],
+  "page_048": [
+    "#### PAGE 47",
+    "*Threads: CONSPIRACY, FAITH, GAME, INK, MALIETTE, PARCHMENT*",
+    "*Role: non-MIS*"
+  ],
+  "page_049": [
+    "#### PAGE 48",
+    "*Threads: CONSPIRACY, GAME, INK, MIRROR, NUMBER, TONGUE*",
+    "*Role: non-MIS*"
+  ],
+  "page_050": [
+    "#### PAGE 49",
+    "*Threads: CONSPIRACY, FAITH, GAME, MALIETTE, NUMBER, WAGER*",
+    "*Role: non-MIS*"
+  ]
+}

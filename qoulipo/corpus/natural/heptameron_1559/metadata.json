@@ -1,0 +1,21 @@
+{
+  "text_id": "heptameron_1559",
+  "title": "L'Heptaméron",
+  "author": "Marguerite de Navarre",
+  "lang": "FR",
+  "date": "1559",
+  "canonical_N": 72,
+  "canonical_graph_file": "graph_k8.json",
+  "canonical_E": 422,
+  "canonical_density": 0.1651,
+  "canonical_MIS": 19,
+  "canonical_rho": 0.0526,
+  "canonical_optima": 129,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "NLP_k8",
+  "source_contract": "node_aligned",
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "corpus_role": "natural",
+  "chunking": "nouvelle",
+  "sim_threshold": 0.78
+}

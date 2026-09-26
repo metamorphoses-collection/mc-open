@@ -1,0 +1,349 @@
+{
+  "augustine_conf13 (LA) N=22 k=8": {
+    "display": "augustine_conf13 (LA) N=22 k=8",
+    "N": 22,
+    "density": 0.4113,
+    "stored_edges": 95,
+    "avg_degree": 8.64,
+    "k_star": 9,
+    "k_results": {
+      "k=8": {
+        "recovered": 109,
+        "tp": 46,
+        "fp": 63,
+        "fn": 49,
+        "recall": 0.484,
+        "precision": 0.422,
+        "f1": 0.451,
+        "jaccard": 0.291
+      },
+      "k=9": {
+        "recovered": 119,
+        "tp": 51,
+        "fp": 68,
+        "fn": 44,
+        "recall": 0.537,
+        "precision": 0.429,
+        "f1": 0.477,
+        "jaccard": 0.313
+      },
+      "k=16": {
+        "recovered": 197,
+        "tp": 79,
+        "fp": 118,
+        "fn": 16,
+        "recall": 0.832,
+        "precision": 0.401,
+        "f1": 0.541,
+        "jaccard": 0.371
+      },
+      "k=24": {
+        "recovered": 253,
+        "tp": 95,
+        "fp": 158,
+        "fn": 0,
+        "recall": 1.0,
+        "precision": 0.375,
+        "f1": 0.546,
+        "jaccard": 0.375
+      }
+    },
+    "best_f1": 0.546
+  },
+  "augustine_conf13full (LA) N=38 k=8": {
+    "display": "augustine_conf13full (LA) N=38 k=8",
+    "N": 38,
+    "density": 0.293,
+    "stored_edges": 206,
+    "avg_degree": 10.84,
+    "k_star": 11,
+    "k_results": {
+      "k=8": {
+        "recovered": 202,
+        "tp": 174,
+        "fp": 28,
+        "fn": 32,
+        "recall": 0.845,
+        "precision": 0.861,
+        "f1": 0.853,
+        "jaccard": 0.744
+      },
+      "k=11": {
+        "recovered": 273,
+        "tp": 189,
+        "fp": 84,
+        "fn": 17,
+        "recall": 0.917,
+        "precision": 0.692,
+        "f1": 0.789,
+        "jaccard": 0.652
+      },
+      "k=16": {
+        "recovered": 389,
+        "tp": 205,
+        "fp": 184,
+        "fn": 1,
+        "recall": 0.995,
+        "precision": 0.527,
+        "f1": 0.689,
+        "jaccard": 0.526
+      },
+      "k=24": {
+        "recovered": 554,
+        "tp": 206,
+        "fp": 348,
+        "fn": 0,
+        "recall": 1.0,
+        "precision": 0.372,
+        "f1": 0.542,
+        "jaccard": 0.372
+      }
+    },
+    "best_f1": 0.853
+  },
+  "augustine_conf13full (LA) N=38 k=16": {
+    "display": "augustine_conf13full (LA) N=38 k=16",
+    "N": 38,
+    "density": 0.5619,
+    "stored_edges": 395,
+    "avg_degree": 20.79,
+    "k_star": 21,
+    "k_results": {
+      "k=8": {
+        "recovered": 202,
+        "tp": 198,
+        "fp": 4,
+        "fn": 197,
+        "recall": 0.501,
+        "precision": 0.98,
+        "f1": 0.663,
+        "jaccard": 0.496
+      },
+      "k=16": {
+        "recovered": 389,
+        "tp": 347,
+        "fp": 42,
+        "fn": 48,
+        "recall": 0.878,
+        "precision": 0.892,
+        "f1": 0.885,
+        "jaccard": 0.794
+      },
+      "k=21": {
+        "recovered": 498,
+        "tp": 383,
+        "fp": 115,
+        "fn": 12,
+        "recall": 0.97,
+        "precision": 0.769,
+        "f1": 0.858,
+        "jaccard": 0.751
+      },
+      "k=24": {
+        "recovered": 554,
+        "tp": 391,
+        "fp": 163,
+        "fn": 4,
+        "recall": 0.99,
+        "precision": 0.706,
+        "f1": 0.824,
+        "jaccard": 0.701
+      }
+    },
+    "best_f1": 0.885
+  },
+  "lactantius_demort (LA) N=52 k=8": {
+    "display": "lactantius_demort (LA) N=52 k=8",
+    "N": 52,
+    "density": 0.2323,
+    "stored_edges": 308,
+    "avg_degree": 11.85,
+    "k_star": 12,
+    "k_results": {
+      "k=8": {
+        "recovered": 300,
+        "tp": 243,
+        "fp": 57,
+        "fn": 65,
+        "recall": 0.789,
+        "precision": 0.81,
+        "f1": 0.799,
+        "jaccard": 0.666
+      },
+      "k=12": {
+        "recovered": 438,
+        "tp": 289,
+        "fp": 149,
+        "fn": 19,
+        "recall": 0.938,
+        "precision": 0.66,
+        "f1": 0.775,
+        "jaccard": 0.632
+      },
+      "k=16": {
+        "recovered": 570,
+        "tp": 302,
+        "fp": 268,
+        "fn": 6,
+        "recall": 0.981,
+        "precision": 0.53,
+        "f1": 0.688,
+        "jaccard": 0.524
+      },
+      "k=24": {
+        "recovered": 822,
+        "tp": 307,
+        "fp": 515,
+        "fn": 1,
+        "recall": 0.997,
+        "precision": 0.373,
+        "f1": 0.543,
+        "jaccard": 0.373
+      }
+    },
+    "best_f1": 0.799
+  },
+  "lactantius_demort (LA) N=52 k=16": {
+    "display": "lactantius_demort (LA) N=52 k=16",
+    "N": 52,
+    "density": 0.4472,
+    "stored_edges": 593,
+    "avg_degree": 22.81,
+    "k_star": 23,
+    "k_results": {
+      "k=8": {
+        "recovered": 300,
+        "tp": 295,
+        "fp": 5,
+        "fn": 298,
+        "recall": 0.497,
+        "precision": 0.983,
+        "f1": 0.661,
+        "jaccard": 0.493
+      },
+      "k=16": {
+        "recovered": 570,
+        "tp": 512,
+        "fp": 58,
+        "fn": 81,
+        "recall": 0.863,
+        "precision": 0.898,
+        "f1": 0.88,
+        "jaccard": 0.786
+      },
+      "k=23": {
+        "recovered": 792,
+        "tp": 578,
+        "fp": 214,
+        "fn": 15,
+        "recall": 0.975,
+        "precision": 0.73,
+        "f1": 0.835,
+        "jaccard": 0.716
+      },
+      "k=24": {
+        "recovered": 822,
+        "tp": 581,
+        "fp": 241,
+        "fn": 12,
+        "recall": 0.98,
+        "precision": 0.707,
+        "f1": 0.821,
+        "jaccard": 0.697
+      }
+    },
+    "best_f1": 0.88
+  },
+  "giambullari_65 (IT) N=65 k=8": {
+    "display": "giambullari_65 (IT) N=65 k=8",
+    "N": 155,
+    "density": 0.0181,
+    "stored_edges": 216,
+    "avg_degree": 2.79,
+    "k_star": 3,
+    "k_results": {
+      "k=3": {
+        "recovered": 343,
+        "tp": 69,
+        "fp": 274,
+        "fn": 147,
+        "recall": 0.319,
+        "precision": 0.201,
+        "f1": 0.247,
+        "jaccard": 0.141
+      },
+      "k=8": {
+        "recovered": 883,
+        "tp": 133,
+        "fp": 750,
+        "fn": 83,
+        "recall": 0.616,
+        "precision": 0.151,
+        "f1": 0.242,
+        "jaccard": 0.138
+      },
+      "k=16": {
+        "recovered": 1755,
+        "tp": 173,
+        "fp": 1582,
+        "fn": 43,
+        "recall": 0.801,
+        "precision": 0.099,
+        "f1": 0.176,
+        "jaccard": 0.096
+      },
+      "k=24": {
+        "recovered": 2627,
+        "tp": 194,
+        "fp": 2433,
+        "fn": 22,
+        "recall": 0.898,
+        "precision": 0.074,
+        "f1": 0.136,
+        "jaccard": 0.073
+      }
+    },
+    "best_f1": 0.247
+  },
+  "giambullari_155 (IT) N=155 k=8": {
+    "display": "giambullari_155 (IT) N=155 k=8",
+    "N": 155,
+    "density": 0.0527,
+    "stored_edges": 629,
+    "avg_degree": 8.12,
+    "k_star": 8,
+    "k_results": {
+      "k=8": {
+        "recovered": 883,
+        "tp": 399,
+        "fp": 484,
+        "fn": 230,
+        "recall": 0.634,
+        "precision": 0.452,
+        "f1": 0.528,
+        "jaccard": 0.358
+      },
+      "k=16": {
+        "recovered": 1755,
+        "tp": 505,
+        "fp": 1250,
+        "fn": 124,
+        "recall": 0.803,
+        "precision": 0.288,
+        "f1": 0.424,
+        "jaccard": 0.269
+      },
+      "k=24": {
+        "recovered": 2627,
+        "tp": 558,
+        "fp": 2069,
+        "fn": 71,
+        "recall": 0.887,
+        "precision": 0.212,
+        "f1": 0.343,
+        "jaccard": 0.207
+      }
+    },
+    "best_f1": 0.528
+  }
+}

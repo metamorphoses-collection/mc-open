@@ -1,0 +1,35 @@
+{
+  "text_id": "partition_du_texte",
+  "N": 46,
+  "MIS_size": 11,
+  "rho": 0.0909,
+  "num_optima_capped": 154,
+  "MIS_pages": [
+    "page_005",
+    "page_008",
+    "page_009",
+    "page_012",
+    "page_022",
+    "page_033",
+    "page_034",
+    "page_041",
+    "page_042",
+    "page_049",
+    "page_052"
+  ],
+  "MIS_atoms": [
+    0,
+    3,
+    4,
+    7,
+    16,
+    26,
+    27,
+    33,
+    34,
+    40,
+    43
+  ],
+  "graph_file_used": "graph_k8.json",
+  "method": "ILP via PuLP/CBC; MIS_pages match graph node IDs from graph_file_used"
+}

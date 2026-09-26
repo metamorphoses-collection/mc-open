@@ -1,0 +1,2355 @@
+{
+  "text": "coco_v2like_n100",
+  "version": "v2like_n100",
+  "N": 100,
+  "n_pairs": 40,
+  "R_b_um": 8.0,
+  "within_domino_dist": 5.0,
+  "domino_spacing": 7.0,
+  "block_separation": 14.0,
+  "max_radial_um": 43.846322536787504,
+  "min_dist_um": 5.0,
+  "supercategories": [
+    "transport",
+    "animal",
+    "food",
+    "sports",
+    "kitchen"
+  ],
+  "coords_2d": [
+    [
+      -24.5,
+      -25.5
+    ],
+    [
+      -24.5,
+      -30.5
+    ],
+    [
+      -17.5,
+      -25.5
+    ],
+    [
+      -17.5,
+      -30.5
+    ],
+    [
+      -10.5,
+      -25.5
+    ],
+    [
+      -10.5,
+      -30.5
+    ],
+    [
+      -3.5,
+      -25.5
+    ],
+    [
+      -3.5,
+      -30.5
+    ],
+    [
+      3.5,
+      -25.5
+    ],
+    [
+      3.5,
+      -30.5
+    ],
+    [
+      10.5,
+      -25.5
+    ],
+    [
+      10.5,
+      -30.5
+    ],
+    [
+      17.5,
+      -25.5
+    ],
+    [
+      17.5,
+      -30.5
+    ],
+    [
+      24.5,
+      -25.5
+    ],
+    [
+      24.5,
+      -30.5
+    ],
+    [
+      -24.5,
+      -11.5
+    ],
+    [
+      -24.5,
+      -16.5
+    ],
+    [
+      -17.5,
+      -11.5
+    ],
+    [
+      -17.5,
+      -16.5
+    ],
+    [
+      -10.5,
+      -11.5
+    ],
+    [
+      -10.5,
+      -16.5
+    ],
+    [
+      -3.5,
+      -11.5
+    ],
+    [
+      -3.5,
+      -16.5
+    ],
+    [
+      3.5,
+      -11.5
+    ],
+    [
+      3.5,
+      -16.5
+    ],
+    [
+      10.5,
+      -11.5
+    ],
+    [
+      10.5,
+      -16.5
+    ],
+    [
+      17.5,
+      -11.5
+    ],
+    [
+      17.5,
+      -16.5
+    ],
+    [
+      24.5,
+      -11.5
+    ],
+    [
+      24.5,
+      -16.5
+    ],
+    [
+      -24.5,
+      2.5
+    ],
+    [
+      -24.5,
+      -2.5
+    ],
+    [
+      -17.5,
+      2.5
+    ],
+    [
+      -17.5,
+      -2.5
+    ],
+    [
+      -10.5,
+      2.5
+    ],
+    [
+      -10.5,
+      -2.5
+    ],
+    [
+      -3.5,
+      2.5
+    ],
+    [
+      -3.5,
+      -2.5
+    ],
+    [
+      3.5,
+      2.5
+    ],
+    [
+      3.5,
+      -2.5
+    ],
+    [
+      10.5,
+      2.5
+    ],
+    [
+      10.5,
+      -2.5
+    ],
+    [
+      17.5,
+      2.5
+    ],
+    [
+      17.5,
+      -2.5
+    ],
+    [
+      24.5,
+      2.5
+    ],
+    [
+      24.5,
+      -2.5
+    ],
+    [
+      -24.5,
+      16.5
+    ],
+    [
+      -24.5,
+      11.5
+    ],
+    [
+      -17.5,
+      16.5
+    ],
+    [
+      -17.5,
+      11.5
+    ],
+    [
+      -10.5,
+      16.5
+    ],
+    [
+      -10.5,
+      11.5
+    ],
+    [
+      -3.5,
+      16.5
+    ],
+    [
+      -3.5,
+      11.5
+    ],
+    [
+      3.5,
+      16.5
+    ],
+    [
+      3.5,
+      11.5
+    ],
+    [
+      10.5,
+      16.5
+    ],
+    [
+      10.5,
+      11.5
+    ],
+    [
+      17.5,
+      16.5
+    ],
+    [
+      17.5,
+      11.5
+    ],
+    [
+      24.5,
+      16.5
+    ],
+    [
+      24.5,
+      11.5
+    ],
+    [
+      -24.5,
+      30.5
+    ],
+    [
+      -24.5,
+      25.5
+    ],
+    [
+      -17.5,
+      30.5
+    ],
+    [
+      -17.5,
+      25.5
+    ],
+    [
+      -10.5,
+      30.5
+    ],
+    [
+      -10.5,
+      25.5
+    ],
+    [
+      -3.5,
+      30.5
+    ],
+    [
+      -3.5,
+      25.5
+    ],
+    [
+      3.5,
+      30.5
+    ],
+    [
+      3.5,
+      25.5
+    ],
+    [
+      10.5,
+      30.5
+    ],
+    [
+      10.5,
+      25.5
+    ],
+    [
+      17.5,
+      30.5
+    ],
+    [
+      17.5,
+      25.5
+    ],
+    [
+      24.5,
+      30.5
+    ],
+    [
+      24.5,
+      25.5
+    ],
+    [
+      -30.5,
+      -24.5
+    ],
+    [
+      -30.5,
+      -31.5
+    ],
+    [
+      -30.5,
+      -10.5
+    ],
+    [
+      -30.5,
+      -17.5
+    ],
+    [
+      -30.5,
+      3.5
+    ],
+    [
+      -30.5,
+      -3.5
+    ],
+    [
+      -30.5,
+      17.5
+    ],
+    [
+      -30.5,
+      10.5
+    ],
+    [
+      -30.5,
+      31.5
+    ],
+    [
+      -30.5,
+      24.5
+    ],
+    [
+      30.5,
+      -24.5
+    ],
+    [
+      30.5,
+      -31.5
+    ],
+    [
+      30.5,
+      -10.5
+    ],
+    [
+      30.5,
+      -17.5
+    ],
+    [
+      30.5,
+      3.5
+    ],
+    [
+      30.5,
+      -3.5
+    ],
+    [
+      30.5,
+      17.5
+    ],
+    [
+      30.5,
+      10.5
+    ],
+    [
+      30.5,
+      31.5
+    ],
+    [
+      30.5,
+      24.5
+    ]
+  ],
+  "node_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99
+  ],
+  "atom_meta": [
+    {
+      "row": 0,
+      "col": 0,
+      "modality": "image",
+      "category": "bicycle",
+      "supercategory": "transport",
+      "image_id": 109055,
+      "atom_role": "image"
+    },
+    {
+      "row": 0,
+      "col": 0,
+      "modality": "caption",
+      "category": "bicycle",
+      "supercategory": "transport",
+      "image_id": 109055,
+      "caption": "A cat that is sitting in between bikes.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "modality": "image",
+      "category": "motorcycle",
+      "supercategory": "transport",
+      "image_id": 524108,
+      "atom_role": "image"
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "modality": "caption",
+      "category": "motorcycle",
+      "supercategory": "transport",
+      "image_id": 524108,
+      "caption": "A street with many motor bikes parked together.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "modality": "image",
+      "category": "car",
+      "supercategory": "transport",
+      "image_id": 260925,
+      "atom_role": "image"
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "modality": "caption",
+      "category": "car",
+      "supercategory": "transport",
+      "image_id": 260925,
+      "caption": "A cat sitting on the hood of a car.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "modality": "image",
+      "category": "bus",
+      "supercategory": "transport",
+      "image_id": 253002,
+      "atom_role": "image"
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "modality": "caption",
+      "category": "bus",
+      "supercategory": "transport",
+      "image_id": 253002,
+      "caption": "an image of a side symbol on a bus",
+      "atom_role": "caption"
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "modality": "image",
+      "category": "train",
+      "supercategory": "transport",
+      "image_id": 78170,
+      "atom_role": "image"
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "modality": "caption",
+      "category": "train",
+      "supercategory": "transport",
+      "image_id": 78170,
+      "caption": "People sitting by the windows in a train.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "modality": "image",
+      "category": "airplane",
+      "supercategory": "transport",
+      "image_id": 272136,
+      "atom_role": "image"
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "modality": "caption",
+      "category": "airplane",
+      "supercategory": "transport",
+      "image_id": 272136,
+      "caption": "An air hanger with an old fighter plane inside.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "modality": "image",
+      "category": "truck",
+      "supercategory": "transport",
+      "image_id": 301061,
+      "atom_role": "image"
+    },
+    {
+      "row": 0,
+      "col": 6,
+      "modality": "caption",
+      "category": "truck",
+      "supercategory": "transport",
+      "image_id": 301061,
+      "caption": "A man pulls an elephant out of a truck.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "modality": "image",
+      "category": "boat",
+      "supercategory": "transport",
+      "image_id": 445722,
+      "atom_role": "image"
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "modality": "caption",
+      "category": "boat",
+      "supercategory": "transport",
+      "image_id": 445722,
+      "caption": "a big boat with some luggage inside of it",
+      "atom_role": "caption"
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "modality": "image",
+      "category": "cat",
+      "supercategory": "animal",
+      "image_id": 524280,
+      "atom_role": "image"
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "modality": "caption",
+      "category": "cat",
+      "supercategory": "animal",
+      "image_id": 524280,
+      "caption": "A brown cat stares at something in the field",
+      "atom_role": "caption"
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "modality": "image",
+      "category": "dog",
+      "supercategory": "animal",
+      "image_id": 181969,
+      "atom_role": "image"
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "modality": "caption",
+      "category": "dog",
+      "supercategory": "animal",
+      "image_id": 181969,
+      "caption": "A puppy all curled up taking a nap.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "modality": "image",
+      "category": "bird",
+      "supercategory": "animal",
+      "image_id": 147498,
+      "atom_role": "image"
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "modality": "caption",
+      "category": "bird",
+      "supercategory": "animal",
+      "image_id": 147498,
+      "caption": "A flock of birds flies over a beach.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "modality": "image",
+      "category": "horse",
+      "supercategory": "animal",
+      "image_id": 552371,
+      "atom_role": "image"
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "modality": "caption",
+      "category": "horse",
+      "supercategory": "animal",
+      "image_id": 552371,
+      "caption": "Close up of two horses inside of the fence",
+      "atom_role": "caption"
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "modality": "image",
+      "category": "sheep",
+      "supercategory": "animal",
+      "image_id": 364322,
+      "atom_role": "image"
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "modality": "caption",
+      "category": "sheep",
+      "supercategory": "animal",
+      "image_id": 364322,
+      "caption": "A flock of very cute sheep in a grassy field.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "modality": "image",
+      "category": "cow",
+      "supercategory": "animal",
+      "image_id": 412887,
+      "atom_role": "image"
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "modality": "caption",
+      "category": "cow",
+      "supercategory": "animal",
+      "image_id": 412887,
+      "caption": "The face of a dairy cow in a pen.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "modality": "image",
+      "category": "elephant",
+      "supercategory": "animal",
+      "image_id": 267191,
+      "atom_role": "image"
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "modality": "caption",
+      "category": "elephant",
+      "supercategory": "animal",
+      "image_id": 267191,
+      "caption": "A man that is on the back of a elephant.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "modality": "image",
+      "category": "bear",
+      "supercategory": "animal",
+      "image_id": 285,
+      "atom_role": "image"
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "modality": "caption",
+      "category": "bear",
+      "supercategory": "animal",
+      "image_id": 285,
+      "caption": "The large brown bear has a black nose.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "modality": "image",
+      "category": "apple",
+      "supercategory": "food",
+      "image_id": 406570,
+      "atom_role": "image"
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "modality": "caption",
+      "category": "apple",
+      "supercategory": "food",
+      "image_id": 406570,
+      "caption": "A couple of large piles of different fruits.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "modality": "image",
+      "category": "banana",
+      "supercategory": "food",
+      "image_id": 459887,
+      "atom_role": "image"
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "modality": "caption",
+      "category": "banana",
+      "supercategory": "food",
+      "image_id": 459887,
+      "caption": "A bunch of bananas in a metal bowl.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "modality": "image",
+      "category": "sandwich",
+      "supercategory": "food",
+      "image_id": 369370,
+      "atom_role": "image"
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "modality": "caption",
+      "category": "sandwich",
+      "supercategory": "food",
+      "image_id": 369370,
+      "caption": "A sandwich on a plate served with garnish.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "modality": "image",
+      "category": "donut",
+      "supercategory": "food",
+      "image_id": 66926,
+      "atom_role": "image"
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "modality": "caption",
+      "category": "donut",
+      "supercategory": "food",
+      "image_id": 66926,
+      "caption": "A box filled with lots of glazed donuts.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "modality": "image",
+      "category": "pizza",
+      "supercategory": "food",
+      "image_id": 340015,
+      "atom_role": "image"
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "modality": "caption",
+      "category": "pizza",
+      "supercategory": "food",
+      "image_id": 340015,
+      "caption": "A pizza is covered with olives sausages and tomato.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "modality": "image",
+      "category": "cake",
+      "supercategory": "food",
+      "image_id": 131379,
+      "atom_role": "image"
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "modality": "caption",
+      "category": "cake",
+      "supercategory": "food",
+      "image_id": 131379,
+      "caption": "The top of a pie looks all crusty and good.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "modality": "image",
+      "category": "orange",
+      "supercategory": "food",
+      "image_id": 185599,
+      "atom_role": "image"
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "modality": "caption",
+      "category": "orange",
+      "supercategory": "food",
+      "image_id": 185599,
+      "caption": "A detailed close up view of ripe fruit.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "modality": "image",
+      "category": "carrot",
+      "supercategory": "food",
+      "image_id": 397681,
+      "atom_role": "image"
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "modality": "caption",
+      "category": "carrot",
+      "supercategory": "food",
+      "image_id": 397681,
+      "caption": "Many pictures of different turnips and turnip like foods",
+      "atom_role": "caption"
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "modality": "image",
+      "category": "frisbee",
+      "supercategory": "sports",
+      "image_id": 52891,
+      "atom_role": "image"
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "modality": "caption",
+      "category": "frisbee",
+      "supercategory": "sports",
+      "image_id": 52891,
+      "caption": "A shaggy dog is at the beach with a frisbee.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "modality": "image",
+      "category": "skateboard",
+      "supercategory": "sports",
+      "image_id": 481573,
+      "atom_role": "image"
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "modality": "caption",
+      "category": "skateboard",
+      "supercategory": "sports",
+      "image_id": 481573,
+      "caption": "A man riding a skateboard on a ramp.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "modality": "image",
+      "category": "surfboard",
+      "supercategory": "sports",
+      "image_id": 127517,
+      "atom_role": "image"
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "modality": "caption",
+      "category": "surfboard",
+      "supercategory": "sports",
+      "image_id": 127517,
+      "caption": "a row of surf boards placed in the sand",
+      "atom_role": "caption"
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "modality": "image",
+      "category": "baseball bat",
+      "supercategory": "sports",
+      "image_id": 57232,
+      "atom_role": "image"
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "modality": "caption",
+      "category": "baseball bat",
+      "supercategory": "sports",
+      "image_id": 57232,
+      "caption": "A picture of some toys and a box.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "modality": "image",
+      "category": "tennis racket",
+      "supercategory": "sports",
+      "image_id": 179285,
+      "atom_role": "image"
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "modality": "caption",
+      "category": "tennis racket",
+      "supercategory": "sports",
+      "image_id": 179285,
+      "caption": "A tennis ball sitting on a tennis racket.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "modality": "image",
+      "category": "kite",
+      "supercategory": "sports",
+      "image_id": 521719,
+      "atom_role": "image"
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "modality": "caption",
+      "category": "kite",
+      "supercategory": "sports",
+      "image_id": 521719,
+      "caption": "A close up of several wind kites hanging.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "modality": "image",
+      "category": "snowboard",
+      "supercategory": "sports",
+      "image_id": 304817,
+      "atom_role": "image"
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "modality": "caption",
+      "category": "snowboard",
+      "supercategory": "sports",
+      "image_id": 304817,
+      "caption": "a close up of a snow board in a bush",
+      "atom_role": "caption"
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "modality": "image",
+      "category": "skis",
+      "supercategory": "sports",
+      "image_id": 52591,
+      "atom_role": "image"
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "modality": "caption",
+      "category": "skis",
+      "supercategory": "sports",
+      "image_id": 52591,
+      "caption": "A girl posing with ski equipment in the snow",
+      "atom_role": "caption"
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "modality": "image",
+      "category": "fork",
+      "supercategory": "kitchen",
+      "image_id": 504711,
+      "atom_role": "image"
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "modality": "caption",
+      "category": "fork",
+      "supercategory": "kitchen",
+      "image_id": 504711,
+      "caption": "a piece of chocolate cake and a fork on a plate",
+      "atom_role": "caption"
+    },
+    {
+      "row": 4,
+      "col": 1,
+      "modality": "image",
+      "category": "knife",
+      "supercategory": "kitchen",
+      "image_id": 209142,
+      "atom_role": "image"
+    },
+    {
+      "row": 4,
+      "col": 1,
+      "modality": "caption",
+      "category": "knife",
+      "supercategory": "kitchen",
+      "image_id": 209142,
+      "caption": "A bowl of green vegetables are mixed together.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "modality": "image",
+      "category": "spoon",
+      "supercategory": "kitchen",
+      "image_id": 129113,
+      "atom_role": "image"
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "modality": "caption",
+      "category": "spoon",
+      "supercategory": "kitchen",
+      "image_id": 129113,
+      "caption": "a big spoon that is laying on a table",
+      "atom_role": "caption"
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "modality": "image",
+      "category": "bowl",
+      "supercategory": "kitchen",
+      "image_id": 123321,
+      "atom_role": "image"
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "modality": "caption",
+      "category": "bowl",
+      "supercategory": "kitchen",
+      "image_id": 123321,
+      "caption": "A bowl of broccoli with sauce over it.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "modality": "image",
+      "category": "cup",
+      "supercategory": "kitchen",
+      "image_id": 331569,
+      "atom_role": "image"
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "modality": "caption",
+      "category": "cup",
+      "supercategory": "kitchen",
+      "image_id": 331569,
+      "caption": "Two strawberries sit on a plate next to a milkshake.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "modality": "image",
+      "category": "wine glass",
+      "supercategory": "kitchen",
+      "image_id": 85089,
+      "atom_role": "image"
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "modality": "caption",
+      "category": "wine glass",
+      "supercategory": "kitchen",
+      "image_id": 85089,
+      "caption": "A bunch of people that are holding wine glasses.",
+      "atom_role": "caption"
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "modality": "image",
+      "category": "bottle",
+      "supercategory": "kitchen",
+      "image_id": 340697,
+      "atom_role": "image"
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "modality": "caption",
+      "category": "bottle",
+      "supercategory": "kitchen",
+      "image_id": 340697,
+      "caption": "a close up of many drinks in a fridge",
+      "atom_role": "caption"
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "modality": "image",
+      "category": "microwave",
+      "supercategory": "kitchen",
+      "image_id": 199681,
+      "atom_role": "image"
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "modality": "caption",
+      "category": "microwave",
+      "supercategory": "kitchen",
+      "image_id": 199681,
+      "caption": "A stuffed animal is inside of a microwave.",
+      "atom_role": "caption"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "umbrella",
+      "supercategory": "frame",
+      "image_id": 530854,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "scissors",
+      "supercategory": "frame",
+      "image_id": 419098,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "vase",
+      "supercategory": "frame",
+      "image_id": 348488,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "clock",
+      "supercategory": "frame",
+      "image_id": 164363,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "book",
+      "supercategory": "frame",
+      "image_id": 520077,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "laptop",
+      "supercategory": "frame",
+      "image_id": 494427,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "keyboard",
+      "supercategory": "frame",
+      "image_id": 68765,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "remote",
+      "supercategory": "frame",
+      "image_id": 402765,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "fire hydrant",
+      "supercategory": "frame",
+      "image_id": 344909,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "stop sign",
+      "supercategory": "frame",
+      "image_id": 252332,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "traffic light",
+      "supercategory": "frame",
+      "image_id": 289222,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "backpack",
+      "supercategory": "frame",
+      "image_id": 351810,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "handbag",
+      "supercategory": "frame",
+      "image_id": 250137,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "tie",
+      "supercategory": "frame",
+      "image_id": 67315,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "suitcase",
+      "supercategory": "frame",
+      "image_id": 389315,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "tv",
+      "supercategory": "frame",
+      "image_id": 342367,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "chair",
+      "supercategory": "frame",
+      "image_id": 82180,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "couch",
+      "supercategory": "frame",
+      "image_id": 253433,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "bed",
+      "supercategory": "frame",
+      "image_id": 39769,
+      "atom_role": "frame"
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "modality": "frame_image",
+      "category": "toilet",
+      "supercategory": "frame",
+      "image_id": 323202,
+      "atom_role": "frame"
+    }
+  ],
+  "edges": [
+    {
+      "u": 0,
+      "v": 1,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 0,
+      "v": 2,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 80,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 3,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 81,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 3,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 2,
+      "v": 4,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 5,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 5,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 4,
+      "v": 6,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 7,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 7,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 6,
+      "v": 8,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 9,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 9,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 8,
+      "v": 10,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 11,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 11,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 10,
+      "v": 12,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 13,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 13,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 12,
+      "v": 14,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 15,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 15,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 14,
+      "v": 90,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 91,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 17,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 16,
+      "v": 18,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 82,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 19,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 83,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 19,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 18,
+      "v": 20,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 21,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 20,
+      "v": 21,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 20,
+      "v": 22,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 23,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 22,
+      "v": 23,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 22,
+      "v": 24,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 23,
+      "v": 25,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 24,
+      "v": 25,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 24,
+      "v": 26,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 25,
+      "v": 27,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 26,
+      "v": 27,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 26,
+      "v": 28,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 27,
+      "v": 29,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 28,
+      "v": 29,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 28,
+      "v": 30,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 29,
+      "v": 31,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 30,
+      "v": 31,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 30,
+      "v": 92,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 31,
+      "v": 93,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 32,
+      "v": 33,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 32,
+      "v": 34,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 32,
+      "v": 84,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 33,
+      "v": 35,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 33,
+      "v": 85,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 34,
+      "v": 35,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 34,
+      "v": 36,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 35,
+      "v": 37,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 36,
+      "v": 37,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 36,
+      "v": 38,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 37,
+      "v": 39,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 38,
+      "v": 39,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 38,
+      "v": 40,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 39,
+      "v": 41,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 40,
+      "v": 41,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 40,
+      "v": 42,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 41,
+      "v": 43,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 42,
+      "v": 43,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 42,
+      "v": 44,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 43,
+      "v": 45,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 44,
+      "v": 45,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 44,
+      "v": 46,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 45,
+      "v": 47,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 46,
+      "v": 47,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 46,
+      "v": 94,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 47,
+      "v": 95,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 48,
+      "v": 49,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 48,
+      "v": 50,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 48,
+      "v": 86,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 49,
+      "v": 51,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 49,
+      "v": 87,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 50,
+      "v": 51,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 50,
+      "v": 52,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 51,
+      "v": 53,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 52,
+      "v": 53,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 52,
+      "v": 54,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 53,
+      "v": 55,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 54,
+      "v": 55,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 54,
+      "v": 56,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 55,
+      "v": 57,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 56,
+      "v": 57,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 56,
+      "v": 58,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 57,
+      "v": 59,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 58,
+      "v": 59,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 58,
+      "v": 60,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 59,
+      "v": 61,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 60,
+      "v": 61,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 60,
+      "v": 62,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 61,
+      "v": 63,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 62,
+      "v": 63,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 62,
+      "v": 96,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 63,
+      "v": 97,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 64,
+      "v": 65,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 64,
+      "v": 66,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 64,
+      "v": 88,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 65,
+      "v": 67,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 65,
+      "v": 89,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 66,
+      "v": 67,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 66,
+      "v": 68,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 67,
+      "v": 69,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 68,
+      "v": 69,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 68,
+      "v": 70,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 69,
+      "v": 71,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 70,
+      "v": 71,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 70,
+      "v": 72,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 71,
+      "v": 73,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 72,
+      "v": 73,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 72,
+      "v": 74,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 73,
+      "v": 75,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 74,
+      "v": 75,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 74,
+      "v": 76,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 75,
+      "v": 77,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 76,
+      "v": 77,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 76,
+      "v": 78,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 77,
+      "v": 79,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 78,
+      "v": 79,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 78,
+      "v": 98,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 79,
+      "v": 99,
+      "distance": 6.082762530298219,
+      "is_pair": false
+    },
+    {
+      "u": 80,
+      "v": 81,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 80,
+      "v": 83,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 82,
+      "v": 83,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 82,
+      "v": 85,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 84,
+      "v": 85,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 84,
+      "v": 87,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 86,
+      "v": 87,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 86,
+      "v": 89,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 88,
+      "v": 89,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 90,
+      "v": 91,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 90,
+      "v": 93,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 92,
+      "v": 93,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 92,
+      "v": 95,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 94,
+      "v": 95,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 94,
+      "v": 97,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 96,
+      "v": 97,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 96,
+      "v": 99,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 98,
+      "v": 99,
+      "distance": 7.0,
+      "is_pair": false
+    }
+  ]
+}

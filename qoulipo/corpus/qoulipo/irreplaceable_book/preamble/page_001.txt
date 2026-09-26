@@ -1,0 +1,4 @@
+# Le Livre Irremplacable (v2)
+## An OuLiPo Text Under Graph-Theoretic Constraint (rho = 1.0)
+
+**Hommage to Bernard Marechal**, who taught that constraint liberates.

@@ -1,0 +1,9 @@
+{
+  "batch_id": "c4d5c185-777b-41a3-bc9a-ae32c6058a9d",
+  "name": "stanze_b2",
+  "status": "CANCELED",
+  "total_shots": 0,
+  "n_unique_bitstrings": 0,
+  "corpus_text": "qoulipo/venticinque_stanze",
+  "counts": {}
+}

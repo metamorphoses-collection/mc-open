@@ -1,0 +1,16 @@
+{
+  "text_id": "king_7x7_49",
+  "title": "King 7\u00d77 (= Il castello king-only, a=5 Rb=8)",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 49,
+  "canonical_E": 156,
+  "canonical_density": 0.1327,
+  "canonical_MIS": 16,
+  "canonical_rho": 1.0,
+  "canonical_optima": 1,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.25,
+  "blockade_um": 8.0
+}

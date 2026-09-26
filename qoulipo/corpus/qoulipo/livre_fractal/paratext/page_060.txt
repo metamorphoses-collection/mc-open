@@ -1,0 +1,13 @@
+### Afterword: The Self-Similar Constraint
+
+This text was written under a formal constraint derived from fractal geometry. The constraint is:
+
+1. **15 threads** (5 macro + 10 micro) are distributed across 50 pages, 5 per page.
+2. **Macro-threads** (COASTLINE, SCALE, FRACTAL, CARTOGRAPHY, TIDE) control inter-chapter connectivity. Each chapter carries 2 macro-threads; adjacent chapters share 1.
+3. **Micro-threads** (GRANITE, KELP, COMPASS, STORM, CHALK, SALT, DUNE, ANCHOR, SEXTANT, VESSEL) control intra-chapter position via a cyclic sliding window with chapter-specific offsets.
+4. The resulting similarity graph is **self-similar**: the circulant structure within each chapter mirrors the cyclic structure across chapters.
+5. Each page is approximately 370 words, with 2-3 thread keywords per sentence.
+
+The fractal dimension of the text — measured by the graph density and community structure — should reflect the fractal dimension of the coast it describes. The constraint shapes the writing as the tide shapes the shore: relentlessly, at every scale, without regard for the writer's convenience.
+
+*Written under constraint, in the spirit of the OuLiPo, for the Qoulipo project.*

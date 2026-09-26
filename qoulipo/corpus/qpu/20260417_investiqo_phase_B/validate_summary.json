@@ -1,0 +1,80 @@
+{
+  "device": "FRESNEL_CAN1",
+  "account": "investiqo",
+  "n_texts": 4,
+  "n_batches_per_text": 2,
+  "shots_per_batch": 1000,
+  "pulse": {
+    "T_ramp_ns": 4000,
+    "Omega_rad_per_us": 3.3025,
+    "Delta_neg_rad_per_us": -9.9074,
+    "Delta_pos_rad_per_us": 9.9074,
+    "R_b_um": 8.0
+  },
+  "texts": [
+    {
+      "text_id": "venticinque_stanze",
+      "N": 25,
+      "E": 72,
+      "d": 0.24,
+      "kind": "udg_king_5x5",
+      "sa_fidelity": 1.0,
+      "geometry": {
+        "n_atoms": 25,
+        "max_radial_um": 14.142,
+        "min_atom_distance_um": 5.0,
+        "fits_min_atom_distance": true,
+        "fits_max_radial": true,
+        "fits_max_atoms": true
+      }
+    },
+    {
+      "text_id": "pari_de_nithard_II",
+      "N": 65,
+      "E": 631,
+      "d": 0.3034,
+      "kind": "sa_embed",
+      "sa_fidelity": 0.7586538461538461,
+      "geometry": {
+        "n_atoms": 65,
+        "max_radial_um": 39.446,
+        "min_atom_distance_um": 5.5,
+        "fits_min_atom_distance": true,
+        "fits_max_radial": true,
+        "fits_max_atoms": true
+      }
+    },
+    {
+      "text_id": "dante_inferno",
+      "N": 34,
+      "E": 185,
+      "d": 0.3298,
+      "kind": "sa_embed",
+      "sa_fidelity": 0.7825311942959001,
+      "geometry": {
+        "n_atoms": 34,
+        "max_radial_um": 27.049,
+        "min_atom_distance_um": 5.5,
+        "fits_min_atom_distance": true,
+        "fits_max_radial": true,
+        "fits_max_atoms": true
+      }
+    },
+    {
+      "text_id": "ausonius_epigrammata",
+      "N": 27,
+      "E": 163,
+      "d": 0.4644,
+      "kind": "sa_embed",
+      "sa_fidelity": 0.698005698005698,
+      "geometry": {
+        "n_atoms": 27,
+        "max_radial_um": 18.033,
+        "min_atom_distance_um": 5.5,
+        "fits_min_atom_distance": true,
+        "fits_max_radial": true,
+        "fits_max_atoms": true
+      }
+    }
+  ]
+}

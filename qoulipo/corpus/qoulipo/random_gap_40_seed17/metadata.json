@@ -1,0 +1,16 @@
+{
+  "text_id": "random_gap_40_seed17",
+  "title": "random UDG N=40 with 1.5*R_b gap, seed=17",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 40,
+  "canonical_E": 50,
+  "canonical_density": 0.0641,
+  "canonical_MIS": 19,
+  "canonical_rho": 0.6316,
+  "canonical_optima": 40,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.5128,
+  "blockade_um": 8.0
+}

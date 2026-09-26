@@ -1,0 +1,995 @@
+{
+  "title": "Le Livre Irremplacable — rho=1.0",
+  "target_property": "rigidity_1.0",
+  "mechanism": "double_domination",
+  "threads": [
+    "WAGER",
+    "CHRONICLE",
+    "CONSPIRACY",
+    "TONGUE",
+    "NUMBER",
+    "FAITH",
+    "SWORD",
+    "PARCHMENT",
+    "MALIETTE",
+    "GAME",
+    "MIRROR",
+    "INK"
+  ],
+  "N": 50,
+  "threads_per_page": 6,
+  "num_threads": 12,
+  "edge_criterion": "overlap >= 4 of 6",
+  "target_mis": 17,
+  "mis_nodes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "assignments": {
+    "0": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "FAITH",
+        "GAME",
+        "MIRROR",
+        "PARCHMENT"
+      ],
+      "indices": [
+        1,
+        2,
+        5,
+        7,
+        9,
+        10
+      ],
+      "role": "MIS"
+    },
+    "1": {
+      "threads": [
+        "FAITH",
+        "GAME",
+        "INK",
+        "MALIETTE",
+        "MIRROR",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        5,
+        8,
+        9,
+        10,
+        11
+      ],
+      "role": "MIS"
+    },
+    "2": {
+      "threads": [
+        "CHRONICLE",
+        "GAME",
+        "INK",
+        "MIRROR",
+        "NUMBER",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        3,
+        4,
+        9,
+        10,
+        11
+      ],
+      "role": "MIS"
+    },
+    "3": {
+      "threads": [
+        "FAITH",
+        "GAME",
+        "INK",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "indices": [
+        4,
+        5,
+        6,
+        7,
+        9,
+        11
+      ],
+      "role": "MIS"
+    },
+    "4": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "MALIETTE",
+        "MIRROR",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        8,
+        10
+      ],
+      "role": "MIS"
+    },
+    "5": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "GAME",
+        "MALIETTE",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        3,
+        5,
+        6,
+        8,
+        9
+      ],
+      "role": "MIS"
+    },
+    "6": {
+      "threads": [
+        "INK",
+        "MALIETTE",
+        "NUMBER",
+        "SWORD",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        3,
+        4,
+        6,
+        8,
+        11
+      ],
+      "role": "MIS"
+    },
+    "7": {
+      "threads": [
+        "FAITH",
+        "MALIETTE",
+        "MIRROR",
+        "NUMBER",
+        "PARCHMENT",
+        "TONGUE"
+      ],
+      "indices": [
+        3,
+        4,
+        5,
+        7,
+        8,
+        10
+      ],
+      "role": "MIS"
+    },
+    "8": {
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "MALIETTE",
+        "MIRROR",
+        "NUMBER",
+        "SWORD"
+      ],
+      "indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        10
+      ],
+      "role": "MIS"
+    },
+    "9": {
+      "threads": [
+        "GAME",
+        "MIRROR",
+        "PARCHMENT",
+        "SWORD",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        3,
+        6,
+        7,
+        9,
+        10
+      ],
+      "role": "MIS"
+    },
+    "10": {
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "INK",
+        "MALIETTE",
+        "PARCHMENT",
+        "TONGUE"
+      ],
+      "indices": [
+        2,
+        3,
+        7,
+        8,
+        9,
+        11
+      ],
+      "role": "MIS"
+    },
+    "11": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "GAME",
+        "NUMBER",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        9
+      ],
+      "role": "MIS"
+    },
+    "12": {
+      "threads": [
+        "CONSPIRACY",
+        "INK",
+        "MIRROR",
+        "NUMBER",
+        "PARCHMENT",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        4,
+        7,
+        10,
+        11
+      ],
+      "role": "MIS"
+    },
+    "13": {
+      "threads": [
+        "CHRONICLE",
+        "GAME",
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        4,
+        7,
+        8,
+        9
+      ],
+      "role": "MIS"
+    },
+    "14": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "INK",
+        "MIRROR",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        2,
+        3,
+        5,
+        6,
+        10,
+        11
+      ],
+      "role": "MIS"
+    },
+    "15": {
+      "threads": [
+        "CHRONICLE",
+        "INK",
+        "MALIETTE",
+        "MIRROR",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "indices": [
+        1,
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "role": "MIS"
+    },
+    "16": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "MIRROR",
+        "NUMBER",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        4,
+        5,
+        6,
+        10
+      ],
+      "role": "MIS"
+    },
+    "17": {
+      "threads": [
+        "FAITH",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "role": "non-MIS"
+    },
+    "18": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "MALIETTE",
+        "SWORD",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        3,
+        5,
+        6,
+        8
+      ],
+      "role": "non-MIS"
+    },
+    "19": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "FAITH",
+        "GAME",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        2,
+        5,
+        6,
+        9
+      ],
+      "role": "non-MIS"
+    },
+    "20": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "INK",
+        "MIRROR",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "indices": [
+        2,
+        5,
+        6,
+        7,
+        10,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "21": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "INK",
+        "NUMBER",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        2,
+        4,
+        6,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "22": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "INK",
+        "MALIETTE",
+        "MIRROR",
+        "TONGUE"
+      ],
+      "indices": [
+        2,
+        3,
+        5,
+        8,
+        10,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "23": {
+      "threads": [
+        "INK",
+        "MALIETTE",
+        "MIRROR",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "indices": [
+        4,
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "24": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "GAME",
+        "INK",
+        "NUMBER",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        9,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "25": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "MALIETTE",
+        "NUMBER",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        8
+      ],
+      "role": "non-MIS"
+    },
+    "26": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "GAME",
+        "SWORD",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        3,
+        5,
+        6,
+        9
+      ],
+      "role": "non-MIS"
+    },
+    "27": {
+      "threads": [
+        "FAITH",
+        "GAME",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "role": "non-MIS"
+    },
+    "28": {
+      "threads": [
+        "FAITH",
+        "GAME",
+        "MALIETTE",
+        "MIRROR",
+        "PARCHMENT",
+        "TONGUE"
+      ],
+      "indices": [
+        3,
+        5,
+        7,
+        8,
+        9,
+        10
+      ],
+      "role": "non-MIS"
+    },
+    "29": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "INK",
+        "MIRROR",
+        "NUMBER",
+        "SWORD"
+      ],
+      "indices": [
+        1,
+        2,
+        4,
+        6,
+        10,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "30": {
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "MALIETTE",
+        "PARCHMENT",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        6,
+        7,
+        8,
+        9
+      ],
+      "role": "non-MIS"
+    },
+    "31": {
+      "threads": [
+        "FAITH",
+        "INK",
+        "MALIETTE",
+        "NUMBER",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        4,
+        5,
+        6,
+        8,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "32": {
+      "threads": [
+        "CHRONICLE",
+        "MALIETTE",
+        "MIRROR",
+        "PARCHMENT",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        3,
+        7,
+        8,
+        10
+      ],
+      "role": "non-MIS"
+    },
+    "33": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "INK",
+        "MALIETTE",
+        "NUMBER",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        4,
+        5,
+        8,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "34": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "GAME",
+        "MIRROR",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        3,
+        5,
+        6,
+        9,
+        10
+      ],
+      "role": "non-MIS"
+    },
+    "35": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "GAME",
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT"
+      ],
+      "indices": [
+        1,
+        2,
+        4,
+        7,
+        8,
+        9
+      ],
+      "role": "non-MIS"
+    },
+    "36": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "INK",
+        "MALIETTE",
+        "MIRROR",
+        "PARCHMENT"
+      ],
+      "indices": [
+        1,
+        2,
+        7,
+        8,
+        10,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "37": {
+      "threads": [
+        "CHRONICLE",
+        "GAME",
+        "INK",
+        "PARCHMENT",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        3,
+        6,
+        7,
+        9,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "38": {
+      "threads": [
+        "CONSPIRACY",
+        "MALIETTE",
+        "NUMBER",
+        "SWORD",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        3,
+        4,
+        6,
+        8
+      ],
+      "role": "non-MIS"
+    },
+    "39": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "GAME",
+        "INK",
+        "MIRROR",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        2,
+        9,
+        10,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "40": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "INK",
+        "PARCHMENT",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "41": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "INK",
+        "MIRROR",
+        "PARCHMENT",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        3,
+        5,
+        7,
+        10,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "42": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "FAITH",
+        "INK",
+        "MIRROR",
+        "PARCHMENT"
+      ],
+      "indices": [
+        1,
+        2,
+        5,
+        7,
+        10,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "43": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "GAME",
+        "MALIETTE",
+        "NUMBER",
+        "SWORD"
+      ],
+      "indices": [
+        1,
+        2,
+        4,
+        6,
+        8,
+        9
+      ],
+      "role": "non-MIS"
+    },
+    "44": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "INK",
+        "PARCHMENT",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        5,
+        6,
+        7,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "45": {
+      "threads": [
+        "MIRROR",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        3,
+        4,
+        6,
+        7,
+        10
+      ],
+      "role": "non-MIS"
+    },
+    "46": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "GAME",
+        "INK",
+        "MALIETTE",
+        "PARCHMENT"
+      ],
+      "indices": [
+        2,
+        5,
+        7,
+        8,
+        9,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "47": {
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "INK",
+        "MIRROR",
+        "NUMBER",
+        "TONGUE"
+      ],
+      "indices": [
+        2,
+        3,
+        4,
+        9,
+        10,
+        11
+      ],
+      "role": "non-MIS"
+    },
+    "48": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "GAME",
+        "MALIETTE",
+        "NUMBER",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        4,
+        5,
+        8,
+        9
+      ],
+      "role": "non-MIS"
+    },
+    "49": {
+      "threads": [
+        "GAME",
+        "MALIETTE",
+        "MIRROR",
+        "NUMBER",
+        "PARCHMENT",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        4,
+        7,
+        8,
+        9,
+        10
+      ],
+      "role": "non-MIS"
+    }
+  }
+}

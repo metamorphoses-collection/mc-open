@@ -1,0 +1,18 @@
+### La Contrainte
+
+Ce texte est la moitié d'une paire isomorphe. Le Texte A (anglais, histoire carolingienne) et le Texte B (français, mathématiques) partagent la MÊME table d'assignation thématique. Les deux utilisent 10 fils, 5 par page, sur 30 pages. Si la densité de mots-clés est suffisante, les plongements E5-large produiront le MÊME graphe de similarité pour les deux textes — prouvant ainsi que la structure du graphe est indépendante du contenu, de la langue et du genre.
+
+Les 10 fils portent un vocabulaire DIFFÉRENT dans chaque langue :
+
+| # | Fil | Texte A (anglais) | Texte B (français) |
+|---|-----|--------------------|--------------------|
+| 1 | WAGER | risk, bet, gamble | probabilité, risque, pari, hasard |
+| 2 | CHRONICLE | history, record, witness | démonstration, preuve, théorème |
+| 3 | CONSPIRACY | plot, forgery, scheme | conjecture, paradoxe, erreur |
+| 4 | TONGUE | language, oath, vernacular | notation, symbole, langage |
+| 5 | NUMBER | count, calculate, tally | nombre, calcul, combinatoire |
+| 6 | FAITH | belief, doubt, prayer | axiome, hypothèse, certitude |
+| 7 | SWORD | battle, war, weapon | réfutation, contradiction, critique |
+| 8 | PARCHMENT | manuscript, scroll, copy | publication, article, manuscrit |
+| 9 | MALIETTE | teacher, lesson, school | séminaire, cours, enseignement |
+| 10 | GAME | constraint, rule, play | contrainte, règle, structure |

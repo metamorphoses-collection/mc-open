@@ -1,0 +1,24 @@
+{
+  "text": "augustine_conf13",
+  "primary_k": 8,
+  "variants": {
+    "k8": {
+      "k": 8,
+      "N": 38,
+      "E": 206,
+      "density": 0.293,
+      "MIS": 9,
+      "rho": 0.333,
+      "n_solutions": 5
+    },
+    "k16": {
+      "k": 16,
+      "N": 38,
+      "E": 395,
+      "density": 0.5619,
+      "MIS": 5,
+      "rho": 0.0,
+      "n_solutions": 54
+    }
+  }
+}

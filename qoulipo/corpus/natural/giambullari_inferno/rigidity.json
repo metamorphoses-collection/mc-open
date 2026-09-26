@@ -1,0 +1,43 @@
+{
+  "text": "giambullari_inferno",
+  "primary_k": 8,
+  "canonical_variant": "k8",
+  "variants": {
+    "k8": {
+      "k": 8,
+      "N": 151,
+      "E": 866,
+      "density": 0.0765,
+      "MIS": 41,
+      "rho": 0.878,
+      "core_size": 36,
+      "n_solutions": 24,
+      "source": "certified 2026-04-27 via per-vertex ILP-exclusion; matches graph_k8.json",
+      "label": "Giambullari 151 (k=8) -- canonical, paper Table I row"
+    },
+    "k8_abridged65": {
+      "k": 8,
+      "N": 65,
+      "E": 250,
+      "density": 0.1202,
+      "MIS": 20,
+      "rho": 0.4,
+      "n_solutions": 66,
+      "note": "Central-chapter abridgement used on the QPU run (see Section 5); not the canonical rigidity row."
+    },
+    "k8_full155_archived": {
+      "k": 8,
+      "N": 155,
+      "E": 639,
+      "density": 0.0535,
+      "MIS": 49,
+      "rho": 0.3265,
+      "n_solutions": 500,
+      "core_size": 16,
+      "Cov": 0.927,
+      "Var": 1.038,
+      "Fid": 0.987,
+      "note": "Earlier chunking (N=155, archived at paratext/graph_k8_full155_archived.json); superseded by k8 (N=151)."
+    }
+  }
+}

@@ -1,0 +1,1722 @@
+{
+  "metadata": {
+    "N": 100,
+    "threads_per_page": 5,
+    "num_threads": 10,
+    "threads": [
+      "PARI",
+      "CHRONIQUE",
+      "COMPLOT",
+      "LANGUE",
+      "NOMBRE",
+      "FOI",
+      "EPEE",
+      "PARCHEMIN",
+      "MALIETTE",
+      "JEU"
+    ],
+    "connected_ge3": "116/261"
+  },
+  "assignments": [
+    {
+      "page": 1,
+      "thread_indices": [
+        0,
+        1,
+        4,
+        6,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "NOMBRE",
+        "EPEE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 2,
+      "thread_indices": [
+        1,
+        2,
+        3,
+        4,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 3,
+      "thread_indices": [
+        0,
+        1,
+        6,
+        7,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "EPEE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    {
+      "page": 4,
+      "thread_indices": [
+        0,
+        3,
+        5,
+        6,
+        8
+      ],
+      "threads": [
+        "PARI",
+        "LANGUE",
+        "FOI",
+        "EPEE",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 5,
+      "thread_indices": [
+        2,
+        4,
+        6,
+        7,
+        8
+      ],
+      "threads": [
+        "COMPLOT",
+        "NOMBRE",
+        "EPEE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 6,
+      "thread_indices": [
+        0,
+        2,
+        3,
+        4,
+        5
+      ],
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "FOI"
+      ]
+    },
+    {
+      "page": 7,
+      "thread_indices": [
+        1,
+        2,
+        4,
+        5,
+        7
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN"
+      ]
+    },
+    {
+      "page": 8,
+      "thread_indices": [
+        0,
+        1,
+        2,
+        6,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "EPEE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 9,
+      "thread_indices": [
+        0,
+        3,
+        4,
+        5,
+        8
+      ],
+      "threads": [
+        "PARI",
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 10,
+      "thread_indices": [
+        0,
+        1,
+        4,
+        6,
+        8
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "NOMBRE",
+        "EPEE",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 11,
+      "thread_indices": [
+        3,
+        4,
+        5,
+        7,
+        8
+      ],
+      "threads": [
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 12,
+      "thread_indices": [
+        0,
+        1,
+        3,
+        4,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "NOMBRE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 13,
+      "thread_indices": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "EPEE"
+      ]
+    },
+    {
+      "page": 14,
+      "thread_indices": [
+        2,
+        3,
+        5,
+        8,
+        9
+      ],
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "FOI",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 15,
+      "thread_indices": [
+        1,
+        2,
+        4,
+        5,
+        9
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "FOI",
+        "JEU"
+      ]
+    },
+    {
+      "page": 16,
+      "thread_indices": [
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 17,
+      "thread_indices": [
+        0,
+        5,
+        6,
+        8,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "FOI",
+        "EPEE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 18,
+      "thread_indices": [
+        0,
+        2,
+        3,
+        5,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "LANGUE",
+        "FOI",
+        "JEU"
+      ]
+    },
+    {
+      "page": 19,
+      "thread_indices": [
+        1,
+        3,
+        5,
+        7,
+        9
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "LANGUE",
+        "FOI",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    {
+      "page": 20,
+      "thread_indices": [
+        0,
+        1,
+        2,
+        6,
+        7
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "EPEE",
+        "PARCHEMIN"
+      ]
+    },
+    {
+      "page": 21,
+      "thread_indices": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN"
+      ]
+    },
+    {
+      "page": 22,
+      "thread_indices": [
+        1,
+        5,
+        6,
+        8,
+        9
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "EPEE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 23,
+      "thread_indices": [
+        0,
+        1,
+        6,
+        7,
+        8
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "EPEE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 24,
+      "thread_indices": [
+        1,
+        2,
+        5,
+        6,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "EPEE",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 25,
+      "thread_indices": [
+        4,
+        6,
+        7,
+        8,
+        9
+      ],
+      "threads": [
+        "NOMBRE",
+        "EPEE",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 26,
+      "thread_indices": [
+        0,
+        4,
+        7,
+        8,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 27,
+      "thread_indices": [
+        1,
+        4,
+        5,
+        6,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "NOMBRE",
+        "FOI",
+        "EPEE",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 28,
+      "thread_indices": [
+        1,
+        3,
+        4,
+        5,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 29,
+      "thread_indices": [
+        0,
+        1,
+        4,
+        7,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "NOMBRE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    {
+      "page": 30,
+      "thread_indices": [
+        1,
+        4,
+        5,
+        6,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "NOMBRE",
+        "FOI",
+        "EPEE",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 31,
+      "thread_indices": [
+        1,
+        2,
+        3,
+        7,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 32,
+      "thread_indices": [
+        0,
+        2,
+        4,
+        8,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "NOMBRE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 33,
+      "thread_indices": [
+        0,
+        1,
+        2,
+        6,
+        7
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "EPEE",
+        "PARCHEMIN"
+      ]
+    },
+    {
+      "page": 34,
+      "thread_indices": [
+        0,
+        3,
+        4,
+        8,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "LANGUE",
+        "NOMBRE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 35,
+      "thread_indices": [
+        1,
+        4,
+        6,
+        7,
+        9
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "NOMBRE",
+        "EPEE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    {
+      "page": 36,
+      "thread_indices": [
+        1,
+        2,
+        4,
+        7,
+        9
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    {
+      "page": 37,
+      "thread_indices": [
+        1,
+        4,
+        6,
+        8,
+        9
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "NOMBRE",
+        "EPEE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 38,
+      "thread_indices": [
+        2,
+        5,
+        6,
+        7,
+        9
+      ],
+      "threads": [
+        "COMPLOT",
+        "FOI",
+        "EPEE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    {
+      "page": 39,
+      "thread_indices": [
+        0,
+        1,
+        5,
+        7,
+        8
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "FOI",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 40,
+      "thread_indices": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "NOMBRE",
+        "FOI"
+      ]
+    },
+    {
+      "page": 41,
+      "thread_indices": [
+        0,
+        3,
+        6,
+        8,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "LANGUE",
+        "EPEE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 42,
+      "thread_indices": [
+        0,
+        1,
+        2,
+        3,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 43,
+      "thread_indices": [
+        1,
+        2,
+        3,
+        5,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "FOI",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 44,
+      "thread_indices": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN"
+      ]
+    },
+    {
+      "page": 45,
+      "thread_indices": [
+        3,
+        6,
+        7,
+        8,
+        9
+      ],
+      "threads": [
+        "LANGUE",
+        "EPEE",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 46,
+      "thread_indices": [
+        0,
+        1,
+        3,
+        5,
+        6
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "FOI",
+        "EPEE"
+      ]
+    },
+    {
+      "page": 47,
+      "thread_indices": [
+        3,
+        5,
+        6,
+        7,
+        9
+      ],
+      "threads": [
+        "LANGUE",
+        "FOI",
+        "EPEE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    {
+      "page": 48,
+      "thread_indices": [
+        0,
+        1,
+        3,
+        5,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "FOI",
+        "JEU"
+      ]
+    },
+    {
+      "page": 49,
+      "thread_indices": [
+        1,
+        3,
+        5,
+        6,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "LANGUE",
+        "FOI",
+        "EPEE",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 50,
+      "thread_indices": [
+        1,
+        2,
+        3,
+        7,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 51,
+      "thread_indices": [
+        0,
+        3,
+        4,
+        6,
+        7
+      ],
+      "threads": [
+        "PARI",
+        "LANGUE",
+        "NOMBRE",
+        "EPEE",
+        "PARCHEMIN"
+      ]
+    },
+    {
+      "page": 52,
+      "thread_indices": [
+        0,
+        1,
+        5,
+        7,
+        8
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "FOI",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 53,
+      "thread_indices": [
+        0,
+        1,
+        6,
+        7,
+        8
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "EPEE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 54,
+      "thread_indices": [
+        1,
+        2,
+        3,
+        6,
+        7
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "EPEE",
+        "PARCHEMIN"
+      ]
+    },
+    {
+      "page": 55,
+      "thread_indices": [
+        0,
+        2,
+        3,
+        6,
+        8
+      ],
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "LANGUE",
+        "EPEE",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 56,
+      "thread_indices": [
+        2,
+        3,
+        4,
+        6,
+        7
+      ],
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "EPEE",
+        "PARCHEMIN"
+      ]
+    },
+    {
+      "page": 57,
+      "thread_indices": [
+        1,
+        2,
+        7,
+        8,
+        9
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 58,
+      "thread_indices": [
+        0,
+        2,
+        3,
+        5,
+        8
+      ],
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "LANGUE",
+        "FOI",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 59,
+      "thread_indices": [
+        0,
+        4,
+        6,
+        7,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "EPEE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    {
+      "page": 60,
+      "thread_indices": [
+        1,
+        2,
+        6,
+        7,
+        9
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "EPEE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    {
+      "page": 61,
+      "thread_indices": [
+        0,
+        1,
+        3,
+        7,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    {
+      "page": 62,
+      "thread_indices": [
+        0,
+        1,
+        4,
+        7,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "NOMBRE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    {
+      "page": 63,
+      "thread_indices": [
+        1,
+        2,
+        5,
+        6,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "EPEE",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 64,
+      "thread_indices": [
+        1,
+        3,
+        4,
+        5,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 65,
+      "thread_indices": [
+        0,
+        4,
+        5,
+        6,
+        7
+      ],
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "FOI",
+        "EPEE",
+        "PARCHEMIN"
+      ]
+    },
+    {
+      "page": 66,
+      "thread_indices": [
+        0,
+        1,
+        4,
+        7,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "NOMBRE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    {
+      "page": 67,
+      "thread_indices": [
+        1,
+        2,
+        3,
+        4,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 68,
+      "thread_indices": [
+        1,
+        2,
+        3,
+        5,
+        9
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "FOI",
+        "JEU"
+      ]
+    },
+    {
+      "page": 69,
+      "thread_indices": [
+        4,
+        5,
+        7,
+        8,
+        9
+      ],
+      "threads": [
+        "NOMBRE",
+        "FOI",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 70,
+      "thread_indices": [
+        0,
+        4,
+        5,
+        8,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "FOI",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 71,
+      "thread_indices": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "FOI"
+      ]
+    },
+    {
+      "page": 72,
+      "thread_indices": [
+        2,
+        4,
+        7,
+        8,
+        9
+      ],
+      "threads": [
+        "COMPLOT",
+        "NOMBRE",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 73,
+      "thread_indices": [
+        3,
+        5,
+        6,
+        8,
+        9
+      ],
+      "threads": [
+        "LANGUE",
+        "FOI",
+        "EPEE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 74,
+      "thread_indices": [
+        0,
+        2,
+        4,
+        7,
+        8
+      ],
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "NOMBRE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 75,
+      "thread_indices": [
+        0,
+        4,
+        6,
+        7,
+        8
+      ],
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "EPEE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 76,
+      "thread_indices": [
+        1,
+        2,
+        4,
+        5,
+        9
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "FOI",
+        "JEU"
+      ]
+    },
+    {
+      "page": 77,
+      "thread_indices": [
+        0,
+        4,
+        6,
+        7,
+        8
+      ],
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "EPEE",
+        "PARCHEMIN",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 78,
+      "thread_indices": [
+        0,
+        1,
+        2,
+        4,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "NOMBRE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 79,
+      "thread_indices": [
+        1,
+        2,
+        3,
+        5,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "FOI",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 80,
+      "thread_indices": [
+        0,
+        4,
+        5,
+        6,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "FOI",
+        "EPEE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 81,
+      "thread_indices": [
+        0,
+        3,
+        5,
+        8,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "LANGUE",
+        "FOI",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 82,
+      "thread_indices": [
+        4,
+        5,
+        6,
+        8,
+        9
+      ],
+      "threads": [
+        "NOMBRE",
+        "FOI",
+        "EPEE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 83,
+      "thread_indices": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "FOI",
+        "EPEE"
+      ]
+    },
+    {
+      "page": 84,
+      "thread_indices": [
+        0,
+        2,
+        5,
+        6,
+        7
+      ],
+      "threads": [
+        "PARI",
+        "COMPLOT",
+        "FOI",
+        "EPEE",
+        "PARCHEMIN"
+      ]
+    },
+    {
+      "page": 85,
+      "thread_indices": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "threads": [
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "EPEE",
+        "PARCHEMIN"
+      ]
+    },
+    {
+      "page": 86,
+      "thread_indices": [
+        0,
+        1,
+        3,
+        6,
+        8
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "EPEE",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 87,
+      "thread_indices": [
+        2,
+        3,
+        6,
+        7,
+        9
+      ],
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "EPEE",
+        "PARCHEMIN",
+        "JEU"
+      ]
+    },
+    {
+      "page": 88,
+      "thread_indices": [
+        0,
+        1,
+        3,
+        5,
+        6
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "LANGUE",
+        "FOI",
+        "EPEE"
+      ]
+    },
+    {
+      "page": 89,
+      "thread_indices": [
+        0,
+        3,
+        4,
+        5,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "JEU"
+      ]
+    },
+    {
+      "page": 90,
+      "thread_indices": [
+        1,
+        4,
+        5,
+        6,
+        9
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "NOMBRE",
+        "FOI",
+        "EPEE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 91,
+      "thread_indices": [
+        0,
+        1,
+        2,
+        5,
+        7
+      ],
+      "threads": [
+        "PARI",
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "PARCHEMIN"
+      ]
+    },
+    {
+      "page": 92,
+      "thread_indices": [
+        0,
+        4,
+        7,
+        8,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "PARCHEMIN",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 93,
+      "thread_indices": [
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "threads": [
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "EPEE",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 94,
+      "thread_indices": [
+        1,
+        4,
+        6,
+        8,
+        9
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "NOMBRE",
+        "EPEE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 95,
+      "thread_indices": [
+        0,
+        4,
+        6,
+        8,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "NOMBRE",
+        "EPEE",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 96,
+      "thread_indices": [
+        0,
+        3,
+        5,
+        8,
+        9
+      ],
+      "threads": [
+        "PARI",
+        "LANGUE",
+        "FOI",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 97,
+      "thread_indices": [
+        1,
+        2,
+        5,
+        8,
+        9
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "MALIETTE",
+        "JEU"
+      ]
+    },
+    {
+      "page": 98,
+      "thread_indices": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "FOI",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 99,
+      "thread_indices": [
+        1,
+        2,
+        3,
+        4,
+        8
+      ],
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "MALIETTE"
+      ]
+    },
+    {
+      "page": 100,
+      "thread_indices": [
+        2,
+        3,
+        4,
+        6,
+        7
+      ],
+      "threads": [
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "EPEE",
+        "PARCHEMIN"
+      ]
+    }
+  ]
+}

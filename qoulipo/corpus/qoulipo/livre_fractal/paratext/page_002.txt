@@ -1,0 +1,9 @@
+### The Constraint
+
+This text obeys a fractal rule derived from graph theory:
+
+> **The similarity graph is self-similar across resolutions. At the chapter level (5 nodes), the graph forms a cycle C5. Within each chapter (10 pages), the graph forms a circulant C(10,{1,2}), which is isomorphic to the chapter-level cycle. Zoom into any chapter and you see the same structure as the whole book.**
+
+The mechanism: 5 macro-threads (COASTLINE, SCALE, FRACTAL, CARTOGRAPHY, TIDE) control inter-chapter connectivity. 10 micro-threads (GRANITE, KELP, COMPASS, STORM, CHALK, SALT, DUNE, ANCHOR, SEXTANT, VESSEL) control intra-chapter position. Each page carries 2 macro + 3 micro = 5 threads. A sliding window with chapter-specific offsets ensures that adjacent pages share 4 threads, pages at distance 2 share 3, and distant pages share 2 or fewer.
+
+Pipeline: intfloat/multilingual-e5-large (1024-dim), cosine sim threshold 0.78, ~370 words/page, 2-3 thread keywords per sentence.

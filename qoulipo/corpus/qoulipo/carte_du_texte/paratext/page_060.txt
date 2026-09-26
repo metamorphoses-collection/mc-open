@@ -1,0 +1,7 @@
+### Postface: The Constraint as Map
+
+This text is a map. Each page occupies a position on a 5x10 grid, and the thematic threads that connect adjacent pages are the roads between places. The reader who reads left-to-right crosses the landscape east-to-west; the reader who reads top-to-bottom descends from the mountain to the sea. The MIS backbone — the 23 pages that form a checkerboard pattern on the grid — is the set of landmarks: the places you must visit to see the whole territory.
+
+The constraint is geographical: adjacent pages share at least 3 of their 5 threads, creating the thematic proximity that the embedding model will detect as high similarity. Non-adjacent pages share at most 2 threads, creating the thematic distance that the model will detect as dissimilarity. The resulting graph is planar — embeddable in the plane without crossings — and directly encodable on a neutral-atom quantum processor.
+
+The text is a territory. The map is the text. The constraint is the border. And the reader is the traveler who makes the map real by walking it.

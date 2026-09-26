@@ -1,0 +1,44 @@
+{
+  "campaign": "Pari III noiseless EMU_MPS quench (200 shots/duration)",
+  "N": 100,
+  "E": 691,
+  "fidelity": 0.873,
+  "backend": "EMU_MPS",
+  "noise": null,
+  "submitted": "2026-04-27",
+  "batches": {
+    "quench_t1000ns": {
+      "batch_id": "a6914ef5-fde6-4f6c-982f-9f865d9f2f43",
+      "T_ns": 1000,
+      "shots": 200,
+      "status": "DONE",
+      "valid_count": 1,
+      "valid_frac": 0.005,
+      "best_IS": 4,
+      "approx_ratio": 0.154,
+      "mean_HW": 13.6
+    },
+    "quench_t2000ns": {
+      "batch_id": "6e6ce0a8-3b60-4c01-97da-6dc5e7d48dd5",
+      "T_ns": 2000,
+      "shots": 200,
+      "status": "DONE",
+      "valid_count": 2,
+      "valid_frac": 0.01,
+      "best_IS": 6,
+      "approx_ratio": 0.231,
+      "mean_HW": 13.3
+    },
+    "quench_t4000ns": {
+      "batch_id": "4570d83e-334b-4e34-91bd-4200e17d714e",
+      "T_ns": 4000,
+      "shots": 200,
+      "status": "DONE",
+      "valid_count": 0,
+      "valid_frac": 0.0,
+      "best_IS": 0,
+      "approx_ratio": 0.0,
+      "mean_HW": 14.4
+    }
+  }
+}

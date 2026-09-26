@@ -1,0 +1,21 @@
+{
+  "folder": "ausonius_engineered",
+  "corpus_kind": "natural",
+  "title": "Technopaegnion + Griphus + Cento Nuptialis (Aldine 1517)",
+  "lang": "LA",
+  "N": 10,
+  "MIS_size": 2,
+  "MIS_pages": [
+    "griphus_poem",
+    "technopaegnion_B_monosyllabi_exordio_libero"
+  ],
+  "MIS_words": 452,
+  "full_words": 3211,
+  "summary_words": 234,
+  "cos_mis_summary": 0.85205078125,
+  "cos_mis_full": 0.89111328125,
+  "cos_summary_full": 0.8984375,
+  "interpretation": "intermediate",
+  "mis_sequence_preview": "Tergemina eſt Hecate,tria uirginis ora Dianæ.\nTris Charites,tria Fata,triplex uox,trina elementa.\nTris in Trinacria Sirenes,omnia trina.\nTris uolucres,tris ſemideæ,tris ſemipuellæ.\nTer tribus ad palmam iuſſæ certare camœnæ\nOre,manu,flatu,buxo,fide,uoce canentes.\nTris ſophiæ partes,tria punica bella,trimeſtres\nAnnorũ,cœliq́; uices,noctiſq́; per umbram\nTer gemini uigiles,ter clara inſtantis Eoi\nSigna canit ſerus deprenſo Marte ſatelles,\nEt qui conceptus triplicatæ ueſpere noctis\nIuſſa quater terni...",
+  "summary": "## SUMMARY\n\nAusonius summo cum honore Paulinum alloquitur, excusans ludicra sua opuscula quae componere iussus est. Scribit se Centonem Nuptialem confecisse - poematis Vergiliani versus variis de locis collectos in novam formam de nuptiis narrandam composuisse. Imperator Valentinianus ipse tale ludum praescripserat, rogans ut Ausonius similem faceret. Quamvis piguerit Vergilianum carmen tam ioculari materia dehonestasse, necessarium fuit imperatoris voluntati obtemperare.\n\nCento ipse nuptias describit: convivium festum cum epulis opimis, chorus cantans, processio sponsae pulcherrimae Helenae ornatus gerentis, adventus sponsi formosi ut Lucifer apparentis, munera donata, epithalamium cantatum, ingressus in thalamum nuptialem. Venus et Iuno novos coniuges sollicitant ad consummationem. Virgo timore tremit et gratiam petit, sed sponsus moras praecipitat.\n\nPost Centonem sequuntur alia ludicra: Grippus de Ternario Numero, catalogus rerum per numerum tres divisarum - deos, virtutes, artes, historias comprehendens. Orpheus tripodas cecinit; Geryones triplices, Chimaera triplex; ter bibendum secundum mysticum morem. Centum triginta versus hos Ausonius inter prandium uno die complevit.\n\nDeinde versus monosyllabis terminati: de membris hominum (dens, vox, frons, cor), de deis monosyllabis nominatis (Fas, Ops, Dis, Sol, Mars, Pax), de cibis nostris (sal, glans, frux, puls), de fabulis et historiis variis. Claudit interrogationibus et responsionibus ludicris de vocabulis et rebus grammaticis.\n\nAusonius constantem excusationem facit - haec omnia esse nugas, friuola, gerras Siculis vaniora. Tamen sperat Paulinum indulgentissimum defensorem fore. Rogat ut amicus benigne legat quod poeta paulo hilarior inter bibendum celebriter composuit, et sic iudicet materiam et tempus convenire."
+}

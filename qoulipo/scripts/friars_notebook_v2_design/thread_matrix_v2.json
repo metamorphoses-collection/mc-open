@@ -1,0 +1,651 @@
+{
+  "version": "v2",
+  "N": 20,
+  "target_graph": "regular_dodecahedron",
+  "num_edges": 30,
+  "density": 0.1579,
+  "expected_MIS": 8,
+  "expected_n_optima": 5,
+  "expected_rho": 0.0,
+  "T_motifs": 30,
+  "m_motifs_per_page": 3,
+  "tau_edge_threshold": 1,
+  "registers": {
+    "1": "confession",
+    "2": "ledger entry",
+    "3": "sonnet",
+    "4": "mathematical demonstration",
+    "5": "letter (to Leonardo)",
+    "6": "workshop inventory",
+    "7": "dream",
+    "8": "recipe (egg tempera and gold leaf)",
+    "9": "sermon fragment",
+    "10": "architectural specification",
+    "11": "travel diary",
+    "12": "wager / probability problem",
+    "13": "dialogue (Platonic manner)",
+    "14": "prayer",
+    "15": "astrological note",
+    "16": "epitaph",
+    "17": "musical proportion table",
+    "18": "library catalogue",
+    "19": "vision",
+    "20": "last page (unfinished)"
+  },
+  "motifs": {
+    "e01": {
+      "pages": [
+        1,
+        9
+      ],
+      "title": "The Rose Window",
+      "keywords": [
+        "rose-window",
+        "twelve-petal",
+        "Sext-hour",
+        "counting-the-points"
+      ]
+    },
+    "e02": {
+      "pages": [
+        1,
+        10
+      ],
+      "title": "The Host Inscribed",
+      "keywords": [
+        "inscribed-square",
+        "elevation-wafer",
+        "nested-circles",
+        "three-breaths"
+      ]
+    },
+    "e03": {
+      "pages": [
+        1,
+        11
+      ],
+      "title": "Breviary Marks",
+      "keywords": [
+        "Psalm-103",
+        "pricked-margin",
+        "five-bodies",
+        "breviary-corner"
+      ]
+    },
+    "e04": {
+      "pages": [
+        2,
+        11
+      ],
+      "title": "Mule-Train Account",
+      "keywords": [
+        "pack-mule",
+        "Milan-road",
+        "carriage-fee",
+        "scudi"
+      ]
+    },
+    "e05": {
+      "pages": [
+        2,
+        12
+      ],
+      "title": "Monte dei Paschi Entry",
+      "keywords": [
+        "Monte-dei-Paschi",
+        "Siena-bank",
+        "compound-interest",
+        "florin"
+      ]
+    },
+    "e06": {
+      "pages": [
+        2,
+        16
+      ],
+      "title": "The Closing Balance",
+      "keywords": [
+        "final-reckoning",
+        "debit-column",
+        "credit-column",
+        "balanced-book"
+      ]
+    },
+    "e07": {
+      "pages": [
+        3,
+        10
+      ],
+      "title": "Sansepolcro Keystone",
+      "keywords": [
+        "keystone",
+        "sandstone-ashlar",
+        "Borgo-arch",
+        "stonemason-mark"
+      ]
+    },
+    "e08": {
+      "pages": [
+        3,
+        14
+      ],
+      "title": "The Gold-Leaf Angel",
+      "keywords": [
+        "gold-leaf",
+        "gilded-halo",
+        "angel-panel",
+        "illumined-margin"
+      ]
+    },
+    "e09": {
+      "pages": [
+        3,
+        15
+      ],
+      "title": "Saturn's Quartering",
+      "keywords": [
+        "Saturn",
+        "quartering",
+        "seventh-house",
+        "orbital-arc"
+      ]
+    },
+    "e10": {
+      "pages": [
+        4,
+        14
+      ],
+      "title": "Euclid VI.30",
+      "keywords": [
+        "division-extreme-mean",
+        "Euclid-VI.30",
+        "golden-section",
+        "phi-ratio"
+      ]
+    },
+    "e11": {
+      "pages": [
+        4,
+        16
+      ],
+      "title": "Demonstration Interrupted",
+      "keywords": [
+        "Q.E.D.",
+        "demonstration-broken",
+        "Euclid-lemma",
+        "proof-margin"
+      ]
+    },
+    "e12": {
+      "pages": [
+        4,
+        18
+      ],
+      "title": "Manuscript V.27",
+      "keywords": [
+        "folio-V.27",
+        "vellum-codex",
+        "manuscript-hand",
+        "codex-shelf"
+      ]
+    },
+    "e13": {
+      "pages": [
+        5,
+        9
+      ],
+      "title": "Leonardo's Lamp",
+      "keywords": [
+        "Leonardo",
+        "oil-lamp",
+        "chiaroscuro-studio",
+        "studio-flame"
+      ]
+    },
+    "e14": {
+      "pages": [
+        5,
+        13
+      ],
+      "title": "The Milan Conversation",
+      "keywords": [
+        "Milan-walk",
+        "Sforza-court",
+        "conversation-at-dusk",
+        "dialogue-street"
+      ]
+    },
+    "e15": {
+      "pages": [
+        5,
+        17
+      ],
+      "title": "The String Ratio",
+      "keywords": [
+        "gut-string",
+        "2:3-fifth",
+        "Pythagorean-tuning",
+        "monochord"
+      ]
+    },
+    "e16": {
+      "pages": [
+        6,
+        12
+      ],
+      "title": "The Apprentice's Bet",
+      "keywords": [
+        "apprentice",
+        "wager-pot",
+        "dice-throw",
+        "triple-six"
+      ]
+    },
+    "e17": {
+      "pages": [
+        6,
+        17
+      ],
+      "title": "Brush and Lute",
+      "keywords": [
+        "sable-brush",
+        "lute-fret",
+        "workshop-lute",
+        "varnish-lute"
+      ]
+    },
+    "e18": {
+      "pages": [
+        6,
+        19
+      ],
+      "title": "The Tempera Vision",
+      "keywords": [
+        "egg-yolk",
+        "tempera-jar",
+        "binder-recipe",
+        "pigment-grind"
+      ]
+    },
+    "e19": {
+      "pages": [
+        7,
+        13
+      ],
+      "title": "Jacob's Ladder",
+      "keywords": [
+        "Jacob-ladder",
+        "ladder-rungs",
+        "ascending-angels",
+        "oneiric-step"
+      ]
+    },
+    "e20": {
+      "pages": [
+        7,
+        15
+      ],
+      "title": "The Seven Planets",
+      "keywords": [
+        "seven-planets",
+        "planetary-hour",
+        "Venus-dream",
+        "Mars-augury"
+      ]
+    },
+    "e21": {
+      "pages": [
+        7,
+        20
+      ],
+      "title": "The Dodecahedron Unfinished",
+      "keywords": [
+        "dodecahedron-dream",
+        "twelve-face",
+        "aether-fifth",
+        "unfinished-vision"
+      ]
+    },
+    "e22": {
+      "pages": [
+        8,
+        18
+      ],
+      "title": "The Pigment Catalogue",
+      "keywords": [
+        "lapis-lazuli",
+        "malachite-green",
+        "cinnabar-vermilion",
+        "pigment-receipt"
+      ]
+    },
+    "e23": {
+      "pages": [
+        8,
+        19
+      ],
+      "title": "The Gilder's Vision",
+      "keywords": [
+        "gold-leaf-gilder",
+        "bole-red",
+        "agate-burnisher",
+        "gilding-light"
+      ]
+    },
+    "e24": {
+      "pages": [
+        8,
+        20
+      ],
+      "title": "Recipe Broken Off",
+      "keywords": [
+        "yolk-measure",
+        "vinegar-drop",
+        "recipe-breaks",
+        "ingredient-list"
+      ]
+    },
+    "e25": {
+      "pages": [
+        9,
+        12
+      ],
+      "title": "Pascal Before Pascal",
+      "keywords": [
+        "probability-of-salvation",
+        "wager-for-soul",
+        "infinite-gain",
+        "finite-stake"
+      ]
+    },
+    "e26": {
+      "pages": [
+        10,
+        13
+      ],
+      "title": "The Borgo Facade",
+      "keywords": [
+        "borgo-facade",
+        "pilaster-order",
+        "entablature-line",
+        "proportional-elevation"
+      ]
+    },
+    "e27": {
+      "pages": [
+        11,
+        14
+      ],
+      "title": "The Franciscan Road",
+      "keywords": [
+        "Franciscan-rule-road",
+        "wayside-shrine",
+        "pilgrim-step",
+        "tertiary-cord"
+      ]
+    },
+    "e28": {
+      "pages": [
+        15,
+        18
+      ],
+      "title": "The Almagest Margin",
+      "keywords": [
+        "Ptolemy-Almagest",
+        "star-chart",
+        "margin-note",
+        "zodiac-table"
+      ]
+    },
+    "e29": {
+      "pages": [
+        16,
+        19
+      ],
+      "title": "The Tomb of Light",
+      "keywords": [
+        "tomb-inscription",
+        "light-beam-tomb",
+        "stone-lettering",
+        "last-light"
+      ]
+    },
+    "e30": {
+      "pages": [
+        17,
+        20
+      ],
+      "title": "The Unfinished Fugue",
+      "keywords": [
+        "fugue-subject",
+        "counterpoint-line",
+        "interval-9:8",
+        "broken-cadence"
+      ]
+    }
+  },
+  "page_motifs": {
+    "1": [
+      "e01",
+      "e02",
+      "e03"
+    ],
+    "2": [
+      "e04",
+      "e05",
+      "e06"
+    ],
+    "3": [
+      "e07",
+      "e08",
+      "e09"
+    ],
+    "4": [
+      "e10",
+      "e11",
+      "e12"
+    ],
+    "5": [
+      "e13",
+      "e14",
+      "e15"
+    ],
+    "6": [
+      "e16",
+      "e17",
+      "e18"
+    ],
+    "7": [
+      "e19",
+      "e20",
+      "e21"
+    ],
+    "8": [
+      "e22",
+      "e23",
+      "e24"
+    ],
+    "9": [
+      "e01",
+      "e13",
+      "e25"
+    ],
+    "10": [
+      "e02",
+      "e07",
+      "e26"
+    ],
+    "11": [
+      "e03",
+      "e04",
+      "e27"
+    ],
+    "12": [
+      "e05",
+      "e16",
+      "e25"
+    ],
+    "13": [
+      "e14",
+      "e19",
+      "e26"
+    ],
+    "14": [
+      "e08",
+      "e10",
+      "e27"
+    ],
+    "15": [
+      "e09",
+      "e20",
+      "e28"
+    ],
+    "16": [
+      "e06",
+      "e11",
+      "e29"
+    ],
+    "17": [
+      "e15",
+      "e17",
+      "e30"
+    ],
+    "18": [
+      "e12",
+      "e22",
+      "e28"
+    ],
+    "19": [
+      "e18",
+      "e23",
+      "e29"
+    ],
+    "20": [
+      "e21",
+      "e24",
+      "e30"
+    ]
+  },
+  "designed_edges": [
+    [
+      1,
+      9
+    ],
+    [
+      1,
+      10
+    ],
+    [
+      1,
+      11
+    ],
+    [
+      2,
+      11
+    ],
+    [
+      2,
+      12
+    ],
+    [
+      2,
+      16
+    ],
+    [
+      3,
+      10
+    ],
+    [
+      3,
+      14
+    ],
+    [
+      3,
+      15
+    ],
+    [
+      4,
+      14
+    ],
+    [
+      4,
+      16
+    ],
+    [
+      4,
+      18
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      5,
+      13
+    ],
+    [
+      5,
+      17
+    ],
+    [
+      6,
+      12
+    ],
+    [
+      6,
+      17
+    ],
+    [
+      6,
+      19
+    ],
+    [
+      7,
+      13
+    ],
+    [
+      7,
+      15
+    ],
+    [
+      7,
+      20
+    ],
+    [
+      8,
+      18
+    ],
+    [
+      8,
+      19
+    ],
+    [
+      8,
+      20
+    ],
+    [
+      9,
+      12
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      11,
+      14
+    ],
+    [
+      15,
+      18
+    ],
+    [
+      16,
+      19
+    ],
+    [
+      17,
+      20
+    ]
+  ]
+}

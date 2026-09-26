@@ -1,0 +1,16 @@
+{
+  "text_id": "ext_king_sqrt5_6x6_no_corner_35",
+  "title": "ext-king-\u221a5 6\u00d76 minus 1 corner (a=5 Rb=11.5)",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 35,
+  "canonical_E": 231,
+  "canonical_density": 0.3882,
+  "canonical_MIS": 6,
+  "canonical_rho": 0.0,
+  "canonical_optima": 9,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.2298,
+  "blockade_um": 11.5
+}

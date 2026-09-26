@@ -1,0 +1,27 @@
+{
+  "folder": "ausonius_epigrammata",
+  "corpus_kind": "natural",
+  "title": "Epigrammata (from Opera, Aldine 1517)",
+  "lang": "LA",
+  "N": 27,
+  "MIS_size": 8,
+  "MIS_pages": [
+    "epigram_page_378",
+    "epigram_page_385",
+    "epigram_page_386",
+    "epigram_page_389",
+    "epigram_page_390",
+    "epigram_page_392",
+    "epigram_page_397",
+    "epigram_page_398"
+  ],
+  "MIS_words": 1245,
+  "full_words": 4515,
+  "summary_words": 367,
+  "cos_mis_summary": 0.943359375,
+  "cos_mis_full": 0.9794921875,
+  "cos_summary_full": 0.94921875,
+  "interpretation": "MIS and summary highly aligned",
+  "mis_sequence_preview": "AVSONII PAEONII\nEPIGRAMMATON\nLIBER.\n\nHœbe potẽs numeris, præſes Tritoia bellis,\nP Tu quoq; ab aerio præceps uictoria lapſu,\nCome ſerenatam duplici diademate frõtem\nSerta ferẽs, q̃ dona togæ, q̃ præmia pugnæ.\nBellandi ſandiq; potens Auguſtus honorem\nBis meret, ut geminet titulos, qui prælia muſis\nTemperat, & geticum moderatur Apolline martem.\nArma inter, Cimbrosq; truces, ſurtoq; nocẽtes\nSauromatas. quantum ceſſat de tempore belli,\nIndulget latijs tantum inter caſtra camœnis.\nVix poſuit uolucres ...",
+  "summary": "AVSONII PAEONII EPIGRAMMATON LIBER\n\nAusonius salutat Minervam, Victoriam et Musas, collaudans Imperatorem Augustum qui bella et studia coniungit. Inter arma Cimbrosque truces quantumcumque temporis a bello cessat, tantum Latinis Musis in castris indulget. Vix depositas sagittas, mox ad calamos Musarum manum fert, otium nescit; mutata arundine carmen meditatur de bellis horribilibus Martis Odrysi Thracumque. Narcisum Augusti celebratur a poeta superbo, nec Homerus Romanus ei deficit.\n\nDeinde ipsius Ausonii epigrammata variis nugis certant, quae Stoicus aut Epicurus agit. Modo regula veterum morum salva maneat, ludat sobria musa permissis iocis. Blanditur Valentiniano de fera quae sagitta una occiditur, mortes duas connectente. Danubius Nilum alloquitur, nuntius Valens victoriam de Suevis referre cupiens. Imagines complures commemorantur: Gratianus leonem sagitta occidit; Rhetor Rufus mutus effigitur; Dea Echo invisibilis pingi non potest. Occasio et Paenitentia describuntur, quarum Occasio volucris fugax est, tergo calva ne teneatur, Metanoea vero comitatur eos quos Occasio praeterierit.\n\nEpitaphia et sententiae vitae moresque describunt: Anitia puella omnia vitae munia ante quintum lustrum complevit; Galla senescit, quae tempus floris neglexit; Felix homo sepultus aeternum ver agit sine lacrimis. Alia epigrammata varios mores tangunt: uxor mariti venenum miscens ipsa salutis causa facta est; Agathocles rex fictilibus cenabat, originem humilem recordans. Bucula aerea Myronis tam viva videtur ut tauros fallat gregemque decipiat.\n\nAliis epigrammatis Venus, Cupido, Narcissus, Hermaphroditus, aliique dei heroesque tractantur. Apollo Daphnem persequitur; Hylas a Naiadibus rapitur; Echo Narcissum deflet. Sabina artifex texturas et carmina pariter efficit. Dodra potio ex novem rebus constat: ius, aqua, vinum, sal, oleum, panis, mel, piper, herba.\n\nMulta alia mordaciter describuntur: Polygito scabiosus in thermis obscene se movet; Marcus ambas mulieres amat quae eum odiunt; Eunus medicus male ominatur; Lais anus Veneri speculum dedicat; Semiuiri et pathici ridenter vituperantur. Verba graeca interdum admiscentur, auctoresque Graeci imitantur. Nomina falsa corriguntur: Chrestus et Acindynus mutatis litteris vera nomina adipiscuntur. Libero Patri plurima nomina tribuuntur apud diversas gentes: Bacchus, Osiris, Phanaces, Dionysus, Liber, Adoneus, Pantheus.\n\nTandem versus paschales sancta solennia Christi salutiferi celebrant. Magnus pater rerum cui omnia serviunt, et noxii tremunt et pii celebrant votis. Cursus brevis huius aevi caduci commemoratur, animaeque piorum invitantur ad cultum aeternum et reverentiam iugem. Sic Ausonius varias res, sacras et profanas, graves et leves, in hoc epigrammaton libro mirifica varietate miscet."
+}

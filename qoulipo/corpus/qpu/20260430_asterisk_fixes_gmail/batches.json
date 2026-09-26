@@ -1,0 +1,58 @@
+{
+  "campaign": "asterisk_fixes_gmail",
+  "device": "FRESNEL_CAN1",
+  "account": "gmail",
+  "total_shots_requested": 2250,
+  "total_shots_succeeded": 2250,
+  "batches": {
+    "galileo_dialogo_k16": {
+      "batch_id": "eb5da03a-45e9-47e9-bee9-7dd30d083351",
+      "shots": 1000,
+      "N": 65,
+      "E": 736,
+      "density": 0.3538,
+      "kind": "sa_embed",
+      "asterisk_killed": "*",
+      "device": "FRESNEL_CAN1",
+      "account": "gmail",
+      "T_ramp_ns": 4000,
+      "R_b_um": 8.0,
+      "sa_fidelity": 0.7110576923076923,
+      "n_layout_traps": 144,
+      "submitted_at": "2026-04-30 08:36:51"
+    },
+    "venticinque_stanze_topup": {
+      "batch_id": "b4826e23-ad2e-42bc-a908-6bca6703843f",
+      "shots": 500,
+      "N": 25,
+      "E": 72,
+      "density": 0.24,
+      "kind": "udg_king_5x5",
+      "asterisk_killed": "\\dagger",
+      "device": "FRESNEL_CAN1",
+      "account": "gmail",
+      "T_ramp_ns": 4000,
+      "R_b_um": 8.0,
+      "sa_fidelity": 1.0,
+      "n_layout_traps": 60,
+      "submitted_at": "2026-04-30 08:36:54"
+    },
+    "castello_49_king7x7_topup": {
+      "batch_id": "318bd166-d6ef-4c17-8ca0-378559a19a8f",
+      "shots": 750,
+      "N": 49,
+      "E": 156,
+      "density": 0.1327,
+      "kind": "udg_king_7x7",
+      "asterisk_killed": "\\ddagger (shot-count part only)",
+      "device": "FRESNEL_CAN1",
+      "account": "gmail",
+      "T_ramp_ns": 4000,
+      "R_b_um": 8.0,
+      "sa_fidelity": 1.0,
+      "n_layout_traps": 109,
+      "submitted_at": "2026-04-30 08:36:56"
+    }
+  },
+  "submitted_at": "2026-04-30 08:36:56"
+}

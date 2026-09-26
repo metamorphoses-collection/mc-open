@@ -1,0 +1,15 @@
+{
+  "text": "ausonius_engineered",
+  "primary_k": 8,
+  "variants": {
+    "k8": {
+      "k": 8,
+      "N": 10,
+      "E": 44,
+      "density": 0.9778,
+      "MIS": 2,
+      "rho": 1.0,
+      "n_solutions": 1
+    }
+  }
+}

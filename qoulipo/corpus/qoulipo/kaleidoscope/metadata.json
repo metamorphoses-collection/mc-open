@@ -1,0 +1,21 @@
+{
+  "text_id": "kaleidoscope",
+  "title": "The Kaleidoscope",
+  "lang": "EN",
+  "canonical_N": 51,
+  "canonical_graph_file": "graph_target.json",
+  "canonical_E": 51,
+  "canonical_density": 0.04,
+  "canonical_MIS": 17,
+  "canonical_rho": 0.0,
+  "canonical_optima": 129140163,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "designed_K3_unions",
+  "type": "qoulipo_engineered",
+  "designed_property": "Maximal degeneracy via 17 disjoint K3 cliques (3^17 ≈ 1.3e8 valid backbones)",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv",
+  "register_target": "2D, exact",
+  "canonical_optima_note": "Exact: 3^17 = 129,140,163 (17 disjoint K3 cliques, each contributing 3 independent choices). verify.py's 500-cap enumeration counted up to 500.",
+  "source_contract": "node_aligned"
+}

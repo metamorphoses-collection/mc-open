@@ -1,0 +1,12 @@
+{
+  "text_id": "dante_commedia",
+  "title": "Dante - Divina Commedia (Italian, complete, 100 cantos)",
+  "lang": "it",
+  "canonical_N": 100,
+  "canonical_E": 598,
+  "canonical_graph_file": "graph_k8.json",
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "k": 8,
+  "source": "Project Gutenberg eBook 1000 (Italian, Complete Commedia)",
+  "split_method": "regex Canto N + body-length filter > 1000 chars"
+}

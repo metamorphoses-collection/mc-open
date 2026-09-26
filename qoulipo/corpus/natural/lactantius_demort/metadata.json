@@ -1,0 +1,21 @@
+{
+  "text_id": "lactantius_demort",
+  "title": "De mortibus persecutorum",
+  "author": "Lactantius",
+  "lang": "LA",
+  "date": "c. 320",
+  "canonical_N": 52,
+  "canonical_graph_file": "graph_k8.json",
+  "canonical_E": 308,
+  "canonical_density": 0.2323,
+  "canonical_MIS": 13,
+  "canonical_rho": 0.0,
+  "canonical_optima": 84,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "NLP_k8",
+  "source_contract": "node_aligned",
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "corpus_role": "natural",
+  "chunking": "chapter",
+  "sim_threshold": 0.78
+}

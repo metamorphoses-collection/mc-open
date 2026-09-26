@@ -1,0 +1,122 @@
+[
+  {
+    "label": "Giambullari 151",
+    "text_id": "giambullari_inferno",
+    "N": 151,
+    "E": 866,
+    "density": 0.0765,
+    "alpha": 41,
+    "C": 0.921,
+    "V": 1.097,
+    "T": 1.0,
+    "F": 1.005
+  },
+  {
+    "label": "Galileo 65",
+    "text_id": "galileo_dialogo",
+    "N": 65,
+    "E": 165,
+    "density": 0.0793,
+    "alpha": 23,
+    "C": 0.913,
+    "V": 0.958,
+    "T": 1.0,
+    "F": 0.935
+  },
+  {
+    "label": "Dante 34",
+    "text_id": "dante_inferno",
+    "N": 34,
+    "E": 185,
+    "density": 0.3298,
+    "alpha": 9,
+    "C": 0.915,
+    "V": 1.103,
+    "T": 1.0,
+    "F": 1.005
+  },
+  {
+    "label": "Boethius 72",
+    "text_id": "boethius_consolatio",
+    "N": 72,
+    "E": 372,
+    "density": 0.1455,
+    "alpha": 14,
+    "C": 0.928,
+    "V": 1.046,
+    "T": 1.0,
+    "F": 0.985
+  },
+  {
+    "label": "Heptameron 72 (k=8)",
+    "text_id": "heptameron_1559",
+    "N": 72,
+    "E": 422,
+    "density": 0.1651,
+    "alpha": 19,
+    "C": 0.983,
+    "V": 1.048,
+    "T": 1.0,
+    "F": 1.015
+  },
+  {
+    "label": "Augustine 38",
+    "text_id": "augustine_conf13",
+    "N": 38,
+    "E": 206,
+    "density": 0.293,
+    "alpha": 9,
+    "C": 0.909,
+    "V": 1.06,
+    "T": 1.0,
+    "F": 0.982
+  },
+  {
+    "label": "Lactantius 52",
+    "text_id": "lactantius_demort",
+    "N": 52,
+    "E": 308,
+    "density": 0.2323,
+    "alpha": 13,
+    "C": 0.904,
+    "V": 1.078,
+    "T": 1.0,
+    "F": 0.987
+  },
+  {
+    "label": "Ausonius Epigrammata 27",
+    "text_id": "ausonius_epigrammata",
+    "N": 27,
+    "E": 163,
+    "density": 0.4644,
+    "alpha": 8,
+    "C": 0.9,
+    "V": 1.136,
+    "T": 1.0,
+    "F": 1.011
+  },
+  {
+    "label": "Ausonius Engineered 10",
+    "text_id": "ausonius_engineered",
+    "N": 10,
+    "E": 44,
+    "density": 0.9778,
+    "alpha": 2,
+    "C": 0.88,
+    "V": 1.45,
+    "T": 1.0,
+    "F": 1.13
+  },
+  {
+    "label": "Ausonius Mosella 8",
+    "text_id": "ausonius_mosella",
+    "N": 8,
+    "E": 28,
+    "density": 1.0,
+    "alpha": 1,
+    "C": 0.906,
+    "V": 0.0,
+    "T": 1.0,
+    "F": 0.0
+  }
+]

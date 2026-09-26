@@ -1,0 +1,361 @@
+{
+  "title": "La Partition du Texte",
+  "subtitle": "The Score of the Text / The Partition of the Text",
+  "design": "H",
+  "constraint": "Double constraint: graph-theoretic (5 of 10 threads per page) + prosodic (5 poetic forms cycling every 10 pages)",
+  "threads": [
+    "WAGER",
+    "CHRONICLE",
+    "CONSPIRACY",
+    "TONGUE",
+    "NUMBER",
+    "FAITH",
+    "SWORD",
+    "PARCHMENT",
+    "MALIETTE",
+    "GAME"
+  ],
+  "threads_fr": [
+    "PARI",
+    "CHRONIQUE",
+    "COMPLOT",
+    "LANGUE",
+    "NOMBRE",
+    "FOI",
+    "\u00c9P\u00c9E",
+    "PARCHEMIN",
+    "MALIETTE",
+    "JEU"
+  ],
+  "N": 50,
+  "threads_per_page": 5,
+  "thread_pool_size": 10,
+  "target_density": "0.45-0.55 (hard zone)",
+  "prosodic_forms": {
+    "pages_01_10": "ALEXANDRINE (French, 12-syllable lines, caesura at 6)",
+    "pages_11_20": "SONNET (English, iambic pentameter, ABAB CDCD EFEF GG)",
+    "pages_21_30": "TERZA_RIMA (English, loose iambic, ABA BCB CDC...)",
+    "pages_31_40": "HAIKU_SEQUENCE (English, 5-7-5 syllable tercets)",
+    "pages_41_50": "FREE_VERSE_ANAPHORA (English, Whitman-style, repeated opening phrase)"
+  },
+  "literary_conceit": "The text IS a musical score: each form is a different instrument. Reading across forms gives one melody; reading by thread gives another. The graph structure is the harmony.",
+  "assignments": {
+    "1": {
+      "threads": ["WAGER", "CHRONICLE", "TONGUE", "FAITH", "PARCHMENT"],
+      "indices": [0, 1, 3, 5, 7],
+      "form": "ALEXANDRINE",
+      "language": "FR"
+    },
+    "2": {
+      "threads": ["WAGER", "CONSPIRACY", "NUMBER", "MALIETTE", "GAME"],
+      "indices": [0, 2, 4, 8, 9],
+      "form": "ALEXANDRINE",
+      "language": "FR"
+    },
+    "3": {
+      "threads": ["CHRONICLE", "TONGUE", "FAITH", "SWORD", "PARCHMENT"],
+      "indices": [1, 3, 5, 6, 7],
+      "form": "ALEXANDRINE",
+      "language": "FR"
+    },
+    "4": {
+      "threads": ["WAGER", "CONSPIRACY", "NUMBER", "SWORD", "GAME"],
+      "indices": [0, 2, 4, 6, 9],
+      "form": "ALEXANDRINE",
+      "language": "FR"
+    },
+    "5": {
+      "threads": ["CHRONICLE", "CONSPIRACY", "FAITH", "PARCHMENT", "MALIETTE"],
+      "indices": [1, 2, 5, 7, 8],
+      "form": "ALEXANDRINE",
+      "language": "FR"
+    },
+    "6": {
+      "threads": ["WAGER", "TONGUE", "NUMBER", "FAITH", "GAME"],
+      "indices": [0, 3, 4, 5, 9],
+      "form": "ALEXANDRINE",
+      "language": "FR"
+    },
+    "7": {
+      "threads": ["CHRONICLE", "CONSPIRACY", "SWORD", "PARCHMENT", "MALIETTE"],
+      "indices": [1, 2, 6, 7, 8],
+      "form": "ALEXANDRINE",
+      "language": "FR"
+    },
+    "8": {
+      "threads": ["WAGER", "NUMBER", "FAITH", "MALIETTE", "GAME"],
+      "indices": [0, 4, 5, 8, 9],
+      "form": "ALEXANDRINE",
+      "language": "FR"
+    },
+    "9": {
+      "threads": ["CHRONICLE", "TONGUE", "SWORD", "PARCHMENT", "GAME"],
+      "indices": [1, 3, 6, 7, 9],
+      "form": "ALEXANDRINE",
+      "language": "FR"
+    },
+    "10": {
+      "threads": ["WAGER", "CONSPIRACY", "NUMBER", "FAITH", "SWORD"],
+      "indices": [0, 2, 4, 5, 6],
+      "form": "ALEXANDRINE",
+      "language": "FR"
+    },
+    "11": {
+      "threads": ["CHRONICLE", "TONGUE", "FAITH", "MALIETTE", "GAME"],
+      "indices": [1, 3, 5, 8, 9],
+      "form": "SONNET",
+      "language": "EN"
+    },
+    "12": {
+      "threads": ["WAGER", "CONSPIRACY", "SWORD", "PARCHMENT", "MALIETTE"],
+      "indices": [0, 2, 6, 7, 8],
+      "form": "SONNET",
+      "language": "EN"
+    },
+    "13": {
+      "threads": ["CHRONICLE", "NUMBER", "FAITH", "SWORD", "GAME"],
+      "indices": [1, 4, 5, 6, 9],
+      "form": "SONNET",
+      "language": "EN"
+    },
+    "14": {
+      "threads": ["WAGER", "CONSPIRACY", "TONGUE", "PARCHMENT", "MALIETTE"],
+      "indices": [0, 2, 3, 7, 8],
+      "form": "SONNET",
+      "language": "EN"
+    },
+    "15": {
+      "threads": ["CHRONICLE", "NUMBER", "FAITH", "PARCHMENT", "GAME"],
+      "indices": [1, 4, 5, 7, 9],
+      "form": "SONNET",
+      "language": "EN"
+    },
+    "16": {
+      "threads": ["WAGER", "CONSPIRACY", "TONGUE", "SWORD", "MALIETTE"],
+      "indices": [0, 2, 3, 6, 8],
+      "form": "SONNET",
+      "language": "EN"
+    },
+    "17": {
+      "threads": ["CHRONICLE", "NUMBER", "SWORD", "MALIETTE", "GAME"],
+      "indices": [1, 4, 6, 8, 9],
+      "form": "SONNET",
+      "language": "EN"
+    },
+    "18": {
+      "threads": ["WAGER", "CONSPIRACY", "TONGUE", "FAITH", "PARCHMENT"],
+      "indices": [0, 2, 3, 5, 7],
+      "form": "SONNET",
+      "language": "EN"
+    },
+    "19": {
+      "threads": ["CHRONICLE", "NUMBER", "SWORD", "PARCHMENT", "GAME"],
+      "indices": [1, 4, 6, 7, 9],
+      "form": "SONNET",
+      "language": "EN"
+    },
+    "20": {
+      "threads": ["WAGER", "CONSPIRACY", "FAITH", "MALIETTE", "GAME"],
+      "indices": [0, 2, 5, 8, 9],
+      "form": "SONNET",
+      "language": "EN"
+    },
+    "21": {
+      "threads": ["CHRONICLE", "TONGUE", "NUMBER", "SWORD", "PARCHMENT"],
+      "indices": [1, 3, 4, 6, 7],
+      "form": "TERZA_RIMA",
+      "language": "EN"
+    },
+    "22": {
+      "threads": ["WAGER", "FAITH", "SWORD", "PARCHMENT", "GAME"],
+      "indices": [0, 5, 6, 7, 9],
+      "form": "TERZA_RIMA",
+      "language": "EN"
+    },
+    "23": {
+      "threads": ["CONSPIRACY", "TONGUE", "NUMBER", "MALIETTE", "GAME"],
+      "indices": [2, 3, 4, 8, 9],
+      "form": "TERZA_RIMA",
+      "language": "EN"
+    },
+    "24": {
+      "threads": ["WAGER", "CHRONICLE", "FAITH", "SWORD", "MALIETTE"],
+      "indices": [0, 1, 5, 6, 8],
+      "form": "TERZA_RIMA",
+      "language": "EN"
+    },
+    "25": {
+      "threads": ["CONSPIRACY", "TONGUE", "NUMBER", "PARCHMENT", "GAME"],
+      "indices": [2, 3, 4, 7, 9],
+      "form": "TERZA_RIMA",
+      "language": "EN"
+    },
+    "26": {
+      "threads": ["WAGER", "CHRONICLE", "SWORD", "MALIETTE", "GAME"],
+      "indices": [0, 1, 6, 8, 9],
+      "form": "TERZA_RIMA",
+      "language": "EN"
+    },
+    "27": {
+      "threads": ["CONSPIRACY", "TONGUE", "NUMBER", "FAITH", "PARCHMENT"],
+      "indices": [2, 3, 4, 5, 7],
+      "form": "TERZA_RIMA",
+      "language": "EN"
+    },
+    "28": {
+      "threads": ["WAGER", "CHRONICLE", "SWORD", "PARCHMENT", "GAME"],
+      "indices": [0, 1, 6, 7, 9],
+      "form": "TERZA_RIMA",
+      "language": "EN"
+    },
+    "29": {
+      "threads": ["CONSPIRACY", "TONGUE", "FAITH", "SWORD", "MALIETTE"],
+      "indices": [2, 3, 5, 6, 8],
+      "form": "TERZA_RIMA",
+      "language": "EN"
+    },
+    "30": {
+      "threads": ["WAGER", "CHRONICLE", "NUMBER", "PARCHMENT", "MALIETTE"],
+      "indices": [0, 1, 4, 7, 8],
+      "form": "TERZA_RIMA",
+      "language": "EN"
+    },
+    "31": {
+      "threads": ["CONSPIRACY", "TONGUE", "FAITH", "SWORD", "GAME"],
+      "indices": [2, 3, 5, 6, 9],
+      "form": "HAIKU_SEQUENCE",
+      "language": "EN"
+    },
+    "32": {
+      "threads": ["WAGER", "CHRONICLE", "NUMBER", "PARCHMENT", "GAME"],
+      "indices": [0, 1, 4, 7, 9],
+      "form": "HAIKU_SEQUENCE",
+      "language": "EN"
+    },
+    "33": {
+      "threads": ["CONSPIRACY", "FAITH", "SWORD", "PARCHMENT", "MALIETTE"],
+      "indices": [2, 5, 6, 7, 8],
+      "form": "HAIKU_SEQUENCE",
+      "language": "EN"
+    },
+    "34": {
+      "threads": ["WAGER", "CHRONICLE", "TONGUE", "NUMBER", "GAME"],
+      "indices": [0, 1, 3, 4, 9],
+      "form": "HAIKU_SEQUENCE",
+      "language": "EN"
+    },
+    "35": {
+      "threads": ["CONSPIRACY", "FAITH", "SWORD", "MALIETTE", "GAME"],
+      "indices": [2, 5, 6, 8, 9],
+      "form": "HAIKU_SEQUENCE",
+      "language": "EN"
+    },
+    "36": {
+      "threads": ["WAGER", "CHRONICLE", "TONGUE", "NUMBER", "PARCHMENT"],
+      "indices": [0, 1, 3, 4, 7],
+      "form": "HAIKU_SEQUENCE",
+      "language": "EN"
+    },
+    "37": {
+      "threads": ["CONSPIRACY", "NUMBER", "FAITH", "PARCHMENT", "GAME"],
+      "indices": [2, 4, 5, 7, 9],
+      "form": "HAIKU_SEQUENCE",
+      "language": "EN"
+    },
+    "38": {
+      "threads": ["WAGER", "CHRONICLE", "TONGUE", "PARCHMENT", "MALIETTE"],
+      "indices": [0, 1, 3, 7, 8],
+      "form": "HAIKU_SEQUENCE",
+      "language": "EN"
+    },
+    "39": {
+      "threads": ["CONSPIRACY", "NUMBER", "SWORD", "PARCHMENT", "MALIETTE"],
+      "indices": [2, 4, 6, 7, 8],
+      "form": "HAIKU_SEQUENCE",
+      "language": "EN"
+    },
+    "40": {
+      "threads": ["WAGER", "CHRONICLE", "FAITH", "PARCHMENT", "GAME"],
+      "indices": [0, 1, 5, 7, 9],
+      "form": "HAIKU_SEQUENCE",
+      "language": "EN"
+    },
+    "41": {
+      "threads": ["CONSPIRACY", "TONGUE", "SWORD", "PARCHMENT", "GAME"],
+      "indices": [2, 3, 6, 7, 9],
+      "form": "FREE_VERSE_ANAPHORA",
+      "language": "EN"
+    },
+    "42": {
+      "threads": ["WAGER", "NUMBER", "FAITH", "SWORD", "MALIETTE"],
+      "indices": [0, 4, 5, 6, 8],
+      "form": "FREE_VERSE_ANAPHORA",
+      "language": "EN"
+    },
+    "43": {
+      "threads": ["CHRONICLE", "CONSPIRACY", "TONGUE", "MALIETTE", "GAME"],
+      "indices": [1, 2, 3, 8, 9],
+      "form": "FREE_VERSE_ANAPHORA",
+      "language": "EN"
+    },
+    "44": {
+      "threads": ["WAGER", "NUMBER", "SWORD", "PARCHMENT", "GAME"],
+      "indices": [0, 4, 6, 7, 9],
+      "form": "FREE_VERSE_ANAPHORA",
+      "language": "EN"
+    },
+    "45": {
+      "threads": ["CHRONICLE", "CONSPIRACY", "TONGUE", "FAITH", "MALIETTE"],
+      "indices": [1, 2, 3, 5, 8],
+      "form": "FREE_VERSE_ANAPHORA",
+      "language": "EN"
+    },
+    "46": {
+      "threads": ["WAGER", "NUMBER", "FAITH", "SWORD", "PARCHMENT"],
+      "indices": [0, 4, 5, 6, 7],
+      "form": "FREE_VERSE_ANAPHORA",
+      "language": "EN"
+    },
+    "47": {
+      "threads": ["CHRONICLE", "CONSPIRACY", "PARCHMENT", "MALIETTE", "GAME"],
+      "indices": [1, 2, 7, 8, 9],
+      "form": "FREE_VERSE_ANAPHORA",
+      "language": "EN"
+    },
+    "48": {
+      "threads": ["TONGUE", "NUMBER", "FAITH", "SWORD", "MALIETTE"],
+      "indices": [3, 4, 5, 6, 8],
+      "form": "FREE_VERSE_ANAPHORA",
+      "language": "EN"
+    },
+    "49": {
+      "threads": ["CHRONICLE", "CONSPIRACY", "TONGUE", "PARCHMENT", "GAME"],
+      "indices": [1, 2, 3, 7, 9],
+      "form": "FREE_VERSE_ANAPHORA",
+      "language": "EN"
+    },
+    "50": {
+      "threads": ["WAGER", "TONGUE", "FAITH", "SWORD", "MALIETTE"],
+      "indices": [0, 3, 5, 6, 8],
+      "form": "FREE_VERSE_ANAPHORA",
+      "language": "EN"
+    }
+  },
+  "thread_counts": {
+    "WAGER": 25,
+    "CHRONICLE": 25,
+    "CONSPIRACY": 25,
+    "TONGUE": 25,
+    "NUMBER": 25,
+    "FAITH": 25,
+    "SWORD": 25,
+    "PARCHMENT": 25,
+    "MALIETTE": 25,
+    "GAME": 25
+  },
+  "balance": "PERFECT (each thread appears exactly 25 times)",
+  "embedder": "intfloat/multilingual-e5-large",
+  "recommended_k": 16,
+  "recommended_threshold": 0.78,
+  "words_per_page": 370
+}

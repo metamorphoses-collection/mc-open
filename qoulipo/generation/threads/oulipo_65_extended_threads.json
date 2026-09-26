@@ -1,0 +1,1057 @@
+{
+  "threads": [
+    "WAGER",
+    "CHRONICLE",
+    "CONSPIRACY",
+    "TONGUE",
+    "NUMBER",
+    "FAITH",
+    "SWORD",
+    "PARCHMENT",
+    "MALIETTE",
+    "GAME"
+  ],
+  "N": 65,
+  "assignments": {
+    "1": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "PARCHMENT",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "2": {
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "MALIETTE",
+        "NUMBER",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        4,
+        8,
+        9
+      ]
+    },
+    "3": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "PARCHMENT",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    "4": {
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "NUMBER",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        4,
+        6,
+        9
+      ]
+    },
+    "5": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "FAITH",
+        "MALIETTE",
+        "PARCHMENT"
+      ],
+      "indices": [
+        1,
+        2,
+        5,
+        7,
+        8
+      ]
+    },
+    "6": {
+      "threads": [
+        "FAITH",
+        "GAME",
+        "NUMBER",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        3,
+        4,
+        5,
+        9
+      ]
+    },
+    "7": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "MALIETTE",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "indices": [
+        1,
+        2,
+        6,
+        7,
+        8
+      ]
+    },
+    "8": {
+      "threads": [
+        "FAITH",
+        "GAME",
+        "MALIETTE",
+        "NUMBER",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        4,
+        5,
+        8,
+        9
+      ]
+    },
+    "9": {
+      "threads": [
+        "CHRONICLE",
+        "GAME",
+        "PARCHMENT",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        3,
+        6,
+        7,
+        9
+      ]
+    },
+    "10": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "NUMBER",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        4,
+        5,
+        6
+      ]
+    },
+    "11": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "GAME",
+        "MALIETTE",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        3,
+        5,
+        8,
+        9
+      ]
+    },
+    "12": {
+      "threads": [
+        "CONSPIRACY",
+        "MALIETTE",
+        "PARCHMENT",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        6,
+        7,
+        8
+      ]
+    },
+    "13": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "GAME",
+        "NUMBER",
+        "SWORD"
+      ],
+      "indices": [
+        1,
+        4,
+        5,
+        6,
+        9
+      ]
+    },
+    "14": {
+      "threads": [
+        "CONSPIRACY",
+        "MALIETTE",
+        "PARCHMENT",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        3,
+        7,
+        8
+      ]
+    },
+    "15": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "GAME",
+        "NUMBER",
+        "PARCHMENT"
+      ],
+      "indices": [
+        1,
+        4,
+        5,
+        7,
+        9
+      ]
+    },
+    "16": {
+      "threads": [
+        "CONSPIRACY",
+        "MALIETTE",
+        "SWORD",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        3,
+        6,
+        8
+      ]
+    },
+    "17": {
+      "threads": [
+        "CHRONICLE",
+        "GAME",
+        "MALIETTE",
+        "NUMBER",
+        "SWORD"
+      ],
+      "indices": [
+        1,
+        4,
+        6,
+        8,
+        9
+      ]
+    },
+    "18": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "PARCHMENT",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        3,
+        5,
+        7
+      ]
+    },
+    "19": {
+      "threads": [
+        "CHRONICLE",
+        "GAME",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "indices": [
+        1,
+        4,
+        6,
+        7,
+        9
+      ]
+    },
+    "20": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "GAME",
+        "MALIETTE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        5,
+        8,
+        9
+      ]
+    },
+    "21": {
+      "threads": [
+        "CHRONICLE",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        3,
+        4,
+        6,
+        7
+      ]
+    },
+    "22": {
+      "threads": [
+        "FAITH",
+        "GAME",
+        "PARCHMENT",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        5,
+        6,
+        7,
+        9
+      ]
+    },
+    "23": {
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "MALIETTE",
+        "NUMBER",
+        "TONGUE"
+      ],
+      "indices": [
+        2,
+        3,
+        4,
+        8,
+        9
+      ]
+    },
+    "24": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "MALIETTE",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        5,
+        6,
+        8
+      ]
+    },
+    "25": {
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "NUMBER",
+        "PARCHMENT",
+        "TONGUE"
+      ],
+      "indices": [
+        2,
+        3,
+        4,
+        7,
+        9
+      ]
+    },
+    "26": {
+      "threads": [
+        "CHRONICLE",
+        "GAME",
+        "MALIETTE",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        6,
+        8,
+        9
+      ]
+    },
+    "27": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "NUMBER",
+        "PARCHMENT",
+        "TONGUE"
+      ],
+      "indices": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ]
+    },
+    "28": {
+      "threads": [
+        "CHRONICLE",
+        "GAME",
+        "PARCHMENT",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        6,
+        7,
+        9
+      ]
+    },
+    "29": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "MALIETTE",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        2,
+        3,
+        5,
+        6,
+        8
+      ]
+    },
+    "30": {
+      "threads": [
+        "CHRONICLE",
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        4,
+        7,
+        8
+      ]
+    },
+    "31": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "GAME",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        2,
+        3,
+        5,
+        6,
+        9
+      ]
+    },
+    "32": {
+      "threads": [
+        "CHRONICLE",
+        "GAME",
+        "MALIETTE",
+        "NUMBER",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        4,
+        8,
+        9
+      ]
+    },
+    "33": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "MALIETTE",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "indices": [
+        2,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "34": {
+      "threads": [
+        "CHRONICLE",
+        "GAME",
+        "NUMBER",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        3,
+        4,
+        9
+      ]
+    },
+    "35": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "GAME",
+        "MALIETTE",
+        "SWORD"
+      ],
+      "indices": [
+        2,
+        5,
+        6,
+        8,
+        9
+      ]
+    },
+    "36": {
+      "threads": [
+        "CHRONICLE",
+        "MALIETTE",
+        "NUMBER",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        3,
+        4,
+        8
+      ]
+    },
+    "37": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "GAME",
+        "NUMBER",
+        "PARCHMENT"
+      ],
+      "indices": [
+        2,
+        4,
+        5,
+        7,
+        9
+      ]
+    },
+    "38": {
+      "threads": [
+        "CHRONICLE",
+        "MALIETTE",
+        "PARCHMENT",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        3,
+        7,
+        8
+      ]
+    },
+    "39": {
+      "threads": [
+        "CONSPIRACY",
+        "MALIETTE",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD"
+      ],
+      "indices": [
+        2,
+        4,
+        6,
+        7,
+        8
+      ]
+    },
+    "40": {
+      "threads": [
+        "CHRONICLE",
+        "FAITH",
+        "GAME",
+        "PARCHMENT",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        5,
+        7,
+        9
+      ]
+    },
+    "41": {
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "PARCHMENT",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        2,
+        3,
+        6,
+        7,
+        9
+      ]
+    },
+    "42": {
+      "threads": [
+        "FAITH",
+        "MALIETTE",
+        "NUMBER",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        4,
+        5,
+        6,
+        8
+      ]
+    },
+    "43": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "GAME",
+        "MALIETTE",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        2,
+        3,
+        8,
+        9
+      ]
+    },
+    "44": {
+      "threads": [
+        "GAME",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        4,
+        6,
+        7,
+        9
+      ]
+    },
+    "45": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "FAITH",
+        "MALIETTE",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        2,
+        3,
+        5,
+        8
+      ]
+    },
+    "46": {
+      "threads": [
+        "FAITH",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "47": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "GAME",
+        "MALIETTE",
+        "PARCHMENT"
+      ],
+      "indices": [
+        1,
+        2,
+        7,
+        8,
+        9
+      ]
+    },
+    "48": {
+      "threads": [
+        "FAITH",
+        "MALIETTE",
+        "NUMBER",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        3,
+        4,
+        5,
+        6,
+        8
+      ]
+    },
+    "49": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "GAME",
+        "PARCHMENT",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        2,
+        3,
+        7,
+        9
+      ]
+    },
+    "50": {
+      "threads": [
+        "FAITH",
+        "MALIETTE",
+        "SWORD",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        3,
+        5,
+        6,
+        8
+      ]
+    },
+    "51": {
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "NUMBER",
+        "PARCHMENT",
+        "TONGUE"
+      ],
+      "indices": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ]
+    },
+    "52": {
+      "threads": [
+        "GAME",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        3,
+        4,
+        6,
+        7,
+        9
+      ]
+    },
+    "53": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "FAITH",
+        "GAME",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        2,
+        3,
+        5,
+        9
+      ]
+    },
+    "54": {
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "NUMBER",
+        "PARCHMENT",
+        "TONGUE"
+      ],
+      "indices": [
+        2,
+        3,
+        4,
+        7,
+        9
+      ]
+    },
+    "55": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "FAITH",
+        "NUMBER",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    "56": {
+      "threads": [
+        "FAITH",
+        "GAME",
+        "PARCHMENT",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        5,
+        6,
+        7,
+        9
+      ]
+    },
+    "57": {
+      "threads": [
+        "CONSPIRACY",
+        "MALIETTE",
+        "PARCHMENT",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        6,
+        7,
+        8
+      ]
+    },
+    "58": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "FAITH",
+        "PARCHMENT",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        2,
+        3,
+        5,
+        7
+      ]
+    },
+    "59": {
+      "threads": [
+        "CHRONICLE",
+        "GAME",
+        "NUMBER",
+        "SWORD",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        4,
+        6,
+        9
+      ]
+    },
+    "60": {
+      "threads": [
+        "FAITH",
+        "GAME",
+        "MALIETTE",
+        "PARCHMENT",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        5,
+        7,
+        8,
+        9
+      ]
+    },
+    "61": {
+      "threads": [
+        "CONSPIRACY",
+        "GAME",
+        "SWORD",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        2,
+        3,
+        6,
+        9
+      ]
+    },
+    "62": {
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "NUMBER",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "63": {
+      "threads": [
+        "CHRONICLE",
+        "NUMBER",
+        "PARCHMENT",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        1,
+        3,
+        4,
+        6,
+        7
+      ]
+    },
+    "64": {
+      "threads": [
+        "CHRONICLE",
+        "MALIETTE",
+        "NUMBER",
+        "TONGUE",
+        "WAGER"
+      ],
+      "indices": [
+        0,
+        1,
+        3,
+        4,
+        8
+      ]
+    },
+    "65": {
+      "threads": [
+        "FAITH",
+        "MALIETTE",
+        "NUMBER",
+        "SWORD",
+        "TONGUE"
+      ],
+      "indices": [
+        3,
+        4,
+        5,
+        6,
+        8
+      ]
+    }
+  }
+}

@@ -1,0 +1,4 @@
+# La Carte du Texte
+## A Planar OuLiPo Text on a 5x10 Grid
+
+**Hommage to Bernard Marechal**, who taught that every map is also a territory.

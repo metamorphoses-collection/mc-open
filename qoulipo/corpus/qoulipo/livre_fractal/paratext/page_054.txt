@@ -1,0 +1,13 @@
+#### PAGE 45 — The Basque Measurement
+*Threads: TIDE, COASTLINE, DUNE, ANCHOR, SEXTANT*
+*Voice: Pascal*
+
+South of Arcachon, the dune coast continues for a hundred kilometers — the longest uninterrupted beach in Europe, straight as a ruler on the map, boring to the cartographer, invisible to the sextant because there are no landmarks. And then the dunes end. The coast rises. The Pyrenees begin their westward march to the sea, and the Basque country introduces a new geology, a new fractal, a new measurement problem.
+
+The Basque coast is flysch — alternating layers of hard sandstone and soft marl, tilted nearly vertical by the collision of the Iberian and European tectonic plates. The layers erode differentially: the hard sandstone stands as ridges; the soft marl wears away as grooves. The coastline is a corrugated surface, a geological washboard, with a regularity that is almost periodic but not quite. The dunes have vanished. The anchor must find rock, not sand.
+
+The sextant is useful again. The Basque coast has landmarks: the lighthouse at Biarritz, the rock of the Virgin, the headlands of Saint-Jean-de-Luz and Hendaye. The sextant bearing from the anchorage at Saint-Jean-de-Luz to the Spanish coast at Fuenterrabia is 182 degrees — almost due south, across the mouth of the bay. The tidal range is moderate — about four meters — but the steep coast means that the tide does not expose vast flats as at Arcachon. The high-water coastline and the low-water coastline are close together, and both are fractal.
+
+I, Pascal, attempt to measure the Basque coast. The dune coast to the north was easy to measure at coarse resolution (a straight line) and hard at fine resolution (each grain of sand). The Basque coast is the opposite: easy at fine resolution (the flysch layers provide a natural ruler) and hard at coarse resolution (the headlands and bays create a complex plan view). The sextant bearings change rapidly as the vessel rounds each headland. The anchorage at Saint-Jean-de-Luz is sheltered but small, its boundaries defined by the fractal flysch.
+
+The Basque measurement teaches me something new about the fractal: it depends on the geology. The dune coast and the flysch coast have different fractal dimensions not because of different erosive forces (the same Atlantic tide and storm act on both) but because of different substrates. The measurement reveals the geology, and the geology determines the measurement.

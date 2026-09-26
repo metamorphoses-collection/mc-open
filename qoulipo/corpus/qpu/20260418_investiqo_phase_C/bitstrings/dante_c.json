@@ -1,0 +1,9 @@
+{
+  "batch_id": "77b1b12b-7b71-4cc0-ae2f-b0e3d5005e4d",
+  "name": "dante_c",
+  "status": "CANCELED",
+  "total_shots": 0,
+  "n_unique_bitstrings": 0,
+  "corpus_text": "natural/dante_inferno",
+  "counts": {}
+}

@@ -1,0 +1,38 @@
+Page 10 — Architectural specification for the rebuilding of the chapel of the
+Visitation at Sansepolcro, submitted to the chapter by Brother Luca
+
+In the name of God, and for the glory of the Blessed Virgin, the following
+specification is submitted.
+
+First, the proportions of the apse are to be governed by the inscribed-
+square of the altar-slab within the nested-circles of the chancel. The
+central circle, which stands over the elevation-wafer at the consecration,
+shall be three-breaths in diameter — that is, one braccio and two punti of
+the Sansepolcro measure, which the master mason counts as three-breaths
+of a standing man. The inscribed-square set within that central circle,
+and the further nested-circles set about the inscribed-square, together
+establish the modular unit of the apse. The elevation-wafer at the high
+altar is placed at the centre of the inscribed-square; the nested-circles
+radiate from the elevation-wafer outwards; each three-breaths of the
+deacon's walk marks one of the nested-circles.
+
+Second, the keystone of the Borgo-arch over the nave. The keystone shall
+be cut from sandstone-ashlar of the quarry east of Sansepolcro, the same
+sandstone-ashlar that supplied the keystone of the prior Borgo-arch. The
+stonemason-mark of the master, a small cross, is to be cut upon the
+underside of the keystone; every Borgo-arch voussoir is to carry its own
+stonemason-mark in the same place. The sandstone-ashlar is chosen for
+its weathering, the keystone for the Borgo-arch being the single stone
+that carries the thrust of the two sides. The Borgo-arch springs shall
+be no less than nine braccia; the keystone sandstone-ashlar must match
+the springs in bed.
+
+Third, the façade. The borgo-facade proportional-elevation is to follow
+the pilaster-order of the Urbino school, with three entablature-line
+heights marked upon the borgo-facade: base, mezzanine, cornice. The
+pilaster-order is to be Doric below, Ionic above, in the proportional-
+elevation that the school teaches. The entablature-line between the two
+orders governs the borgo-facade's measure; the proportional-elevation of
+the borgo-facade is the pilaster-order's entablature-line scaled by five.
+
+So submitted, fr. Luca, sacristan.

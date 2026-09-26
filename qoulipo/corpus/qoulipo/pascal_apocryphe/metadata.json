@@ -1,0 +1,23 @@
+{
+  "text_id": "pascal_apocryphe",
+  "title": "Les Aventures de Pascal: un roman apocryphe",
+  "lang": "FR",
+  "canonical_N": 40,
+  "canonical_graph_file": "../pascal_menil_bilayer/graph_bilayer.json",
+  "canonical_E": 240,
+  "canonical_density": 0.3077,
+  "canonical_MIS": 6,
+  "canonical_rho": 0.0,
+  "canonical_optima": 500,
+  "canonical_optima_cap_reached": true,
+  "graph_mode": "exact_bilayer_UBG_component",
+  "role_in_bilayer": "pascal",
+  "type": "qoulipo_engineered_layer",
+  "note": "This 20-page layer is one half of the 5x4x2 king bilayer (the canonical compute instance). The combined 40-atom bilayer graph lives at ../pascal_menil_bilayer/. This layer's graph_k8.json is the NLP graph on this layer's 20 pages, retained for embedder-validation experiments.",
+  "components_of": "pascal_menil_bilayer",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv",
+  "accent_restoration_note": "Accent restoration: first-pass automated via curated word-level dictionary (corpus/_restore_accents.py); covers ~70 common forms. Native French review recommended before final publication; many proper nouns and ambiguous past-participles remain unaccented or may need correction.",
+  "flagship_status": "flagship (per GPT-5.5 audit, 2026-04-26)",
+  "source_contract": "component"
+}

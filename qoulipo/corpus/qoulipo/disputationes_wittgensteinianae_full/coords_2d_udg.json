@@ -1,0 +1,1554 @@
+{
+  "text": "disputationes_wittgensteinianae_full",
+  "version": "v2like_n70",
+  "N": 70,
+  "n_pairs": 30,
+  "R_b_um": 8.0,
+  "within_domino_dist": 5.0,
+  "domino_spacing": 7.0,
+  "block_separation": 14.0,
+  "max_radial_um": 38.55985276032521,
+  "min_dist_um": 5.0,
+  "coords_2d": [
+    [
+      -17.5,
+      -25.571428571428573
+    ],
+    [
+      -17.5,
+      -30.571428571428573
+    ],
+    [
+      -10.5,
+      -25.571428571428573
+    ],
+    [
+      -10.5,
+      -30.571428571428573
+    ],
+    [
+      -3.5,
+      -25.571428571428573
+    ],
+    [
+      -3.5,
+      -30.571428571428573
+    ],
+    [
+      3.5,
+      -25.571428571428573
+    ],
+    [
+      3.5,
+      -30.571428571428573
+    ],
+    [
+      10.5,
+      -25.571428571428573
+    ],
+    [
+      10.5,
+      -30.571428571428573
+    ],
+    [
+      17.5,
+      -25.571428571428573
+    ],
+    [
+      17.5,
+      -30.571428571428573
+    ],
+    [
+      -17.5,
+      -11.571428571428573
+    ],
+    [
+      -17.5,
+      -16.571428571428573
+    ],
+    [
+      -10.5,
+      -11.571428571428573
+    ],
+    [
+      -10.5,
+      -16.571428571428573
+    ],
+    [
+      -3.5,
+      -11.571428571428573
+    ],
+    [
+      -3.5,
+      -16.571428571428573
+    ],
+    [
+      3.5,
+      -11.571428571428573
+    ],
+    [
+      3.5,
+      -16.571428571428573
+    ],
+    [
+      10.5,
+      -11.571428571428573
+    ],
+    [
+      10.5,
+      -16.571428571428573
+    ],
+    [
+      17.5,
+      -11.571428571428573
+    ],
+    [
+      17.5,
+      -16.571428571428573
+    ],
+    [
+      -17.5,
+      2.428571428571427
+    ],
+    [
+      -17.5,
+      -2.571428571428573
+    ],
+    [
+      -10.5,
+      2.428571428571427
+    ],
+    [
+      -10.5,
+      -2.571428571428573
+    ],
+    [
+      -3.5,
+      2.428571428571427
+    ],
+    [
+      -3.5,
+      -2.571428571428573
+    ],
+    [
+      3.5,
+      2.428571428571427
+    ],
+    [
+      3.5,
+      -2.571428571428573
+    ],
+    [
+      10.5,
+      2.428571428571427
+    ],
+    [
+      10.5,
+      -2.571428571428573
+    ],
+    [
+      17.5,
+      2.428571428571427
+    ],
+    [
+      17.5,
+      -2.571428571428573
+    ],
+    [
+      -17.5,
+      16.428571428571427
+    ],
+    [
+      -17.5,
+      11.428571428571427
+    ],
+    [
+      -10.5,
+      16.428571428571427
+    ],
+    [
+      -10.5,
+      11.428571428571427
+    ],
+    [
+      -3.5,
+      16.428571428571427
+    ],
+    [
+      -3.5,
+      11.428571428571427
+    ],
+    [
+      3.5,
+      16.428571428571427
+    ],
+    [
+      3.5,
+      11.428571428571427
+    ],
+    [
+      10.5,
+      16.428571428571427
+    ],
+    [
+      10.5,
+      11.428571428571427
+    ],
+    [
+      17.5,
+      16.428571428571427
+    ],
+    [
+      17.5,
+      11.428571428571427
+    ],
+    [
+      -17.5,
+      30.428571428571427
+    ],
+    [
+      -17.5,
+      25.428571428571427
+    ],
+    [
+      -10.5,
+      30.428571428571427
+    ],
+    [
+      -10.5,
+      25.428571428571427
+    ],
+    [
+      -3.5,
+      30.428571428571427
+    ],
+    [
+      -3.5,
+      25.428571428571427
+    ],
+    [
+      3.5,
+      30.428571428571427
+    ],
+    [
+      3.5,
+      25.428571428571427
+    ],
+    [
+      10.5,
+      30.428571428571427
+    ],
+    [
+      10.5,
+      25.428571428571427
+    ],
+    [
+      17.5,
+      30.428571428571427
+    ],
+    [
+      17.5,
+      25.428571428571427
+    ],
+    [
+      -23.5,
+      -25.571428571428573
+    ],
+    [
+      -23.5,
+      -30.571428571428573
+    ],
+    [
+      -23.5,
+      -11.571428571428573
+    ],
+    [
+      -23.5,
+      -16.571428571428573
+    ],
+    [
+      -23.5,
+      2.428571428571427
+    ],
+    [
+      23.5,
+      2.428571428571427
+    ],
+    [
+      23.5,
+      16.428571428571427
+    ],
+    [
+      23.5,
+      11.428571428571427
+    ],
+    [
+      23.5,
+      30.428571428571427
+    ],
+    [
+      23.5,
+      25.428571428571427
+    ]
+  ],
+  "node_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "atom_meta": [
+    {
+      "row": 0,
+      "col": 0,
+      "role": "sic",
+      "quaestio": "I",
+      "block": 0,
+      "pid": 3
+    },
+    {
+      "row": 0,
+      "col": 0,
+      "role": "non",
+      "quaestio": "I",
+      "block": 0,
+      "pid": 4
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "role": "sic",
+      "quaestio": "VII",
+      "block": 1,
+      "pid": 16
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "role": "non",
+      "quaestio": "VII",
+      "block": 1,
+      "pid": 17
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "role": "sic",
+      "quaestio": "XIII",
+      "block": 2,
+      "pid": 29
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "role": "non",
+      "quaestio": "XIII",
+      "block": 2,
+      "pid": 30
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "role": "sic",
+      "quaestio": "XIX",
+      "block": 3,
+      "pid": 42
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "role": "non",
+      "quaestio": "XIX",
+      "block": 3,
+      "pid": 43
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "role": "sic",
+      "quaestio": "XXV",
+      "block": 4,
+      "pid": 55
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "role": "non",
+      "quaestio": "XXV",
+      "block": 4,
+      "pid": 56
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "role": "sic",
+      "quaestio": "II",
+      "block": 0,
+      "pid": 5
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "role": "non",
+      "quaestio": "II",
+      "block": 0,
+      "pid": 6
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "role": "sic",
+      "quaestio": "III",
+      "block": 0,
+      "pid": 7
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "role": "non",
+      "quaestio": "III",
+      "block": 0,
+      "pid": 8
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "role": "sic",
+      "quaestio": "VIII",
+      "block": 1,
+      "pid": 18
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "role": "non",
+      "quaestio": "VIII",
+      "block": 1,
+      "pid": 19
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "role": "sic",
+      "quaestio": "XIV",
+      "block": 2,
+      "pid": 31
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "role": "non",
+      "quaestio": "XIV",
+      "block": 2,
+      "pid": 32
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "role": "sic",
+      "quaestio": "XX",
+      "block": 3,
+      "pid": 44
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "role": "non",
+      "quaestio": "XX",
+      "block": 3,
+      "pid": 45
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "role": "sic",
+      "quaestio": "XXVI",
+      "block": 4,
+      "pid": 57
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "role": "non",
+      "quaestio": "XXVI",
+      "block": 4,
+      "pid": 58
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "role": "sic",
+      "quaestio": "IV",
+      "block": 0,
+      "pid": 9
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "role": "non",
+      "quaestio": "IV",
+      "block": 0,
+      "pid": 10
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "role": "sic",
+      "quaestio": "V",
+      "block": 0,
+      "pid": 11
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "role": "non",
+      "quaestio": "V",
+      "block": 0,
+      "pid": 12
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "role": "sic",
+      "quaestio": "IX",
+      "block": 1,
+      "pid": 20
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "role": "non",
+      "quaestio": "IX",
+      "block": 1,
+      "pid": 21
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "role": "sic",
+      "quaestio": "XV",
+      "block": 2,
+      "pid": 33
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "role": "non",
+      "quaestio": "XV",
+      "block": 2,
+      "pid": 34
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "role": "sic",
+      "quaestio": "XXI",
+      "block": 3,
+      "pid": 46
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "role": "non",
+      "quaestio": "XXI",
+      "block": 3,
+      "pid": 47
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "role": "sic",
+      "quaestio": "XXVII",
+      "block": 4,
+      "pid": 59
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "role": "non",
+      "quaestio": "XXVII",
+      "block": 4,
+      "pid": 60
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "role": "sic",
+      "quaestio": "VI",
+      "block": 0,
+      "pid": 13
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "role": "non",
+      "quaestio": "VI",
+      "block": 0,
+      "pid": 14
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "role": "sic",
+      "quaestio": "X",
+      "block": 1,
+      "pid": 22
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "role": "non",
+      "quaestio": "X",
+      "block": 1,
+      "pid": 23
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "role": "sic",
+      "quaestio": "XI",
+      "block": 1,
+      "pid": 24
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "role": "non",
+      "quaestio": "XI",
+      "block": 1,
+      "pid": 25
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "role": "sic",
+      "quaestio": "XVI",
+      "block": 2,
+      "pid": 35
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "role": "non",
+      "quaestio": "XVI",
+      "block": 2,
+      "pid": 36
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "role": "sic",
+      "quaestio": "XXII",
+      "block": 3,
+      "pid": 48
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "role": "non",
+      "quaestio": "XXII",
+      "block": 3,
+      "pid": 49
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "role": "sic",
+      "quaestio": "XXVIII",
+      "block": 4,
+      "pid": 61
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "role": "non",
+      "quaestio": "XXVIII",
+      "block": 4,
+      "pid": 62
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "role": "sic",
+      "quaestio": "XII",
+      "block": 1,
+      "pid": 26
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "role": "non",
+      "quaestio": "XII",
+      "block": 1,
+      "pid": 27
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "role": "sic",
+      "quaestio": "XVII",
+      "block": 2,
+      "pid": 37
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "role": "non",
+      "quaestio": "XVII",
+      "block": 2,
+      "pid": 38
+    },
+    {
+      "row": 4,
+      "col": 1,
+      "role": "sic",
+      "quaestio": "XVIII",
+      "block": 2,
+      "pid": 39
+    },
+    {
+      "row": 4,
+      "col": 1,
+      "role": "non",
+      "quaestio": "XVIII",
+      "block": 2,
+      "pid": 40
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "role": "sic",
+      "quaestio": "XXIII",
+      "block": 3,
+      "pid": 50
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "role": "non",
+      "quaestio": "XXIII",
+      "block": 3,
+      "pid": 51
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "role": "sic",
+      "quaestio": "XXIV",
+      "block": 3,
+      "pid": 52
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "role": "non",
+      "quaestio": "XXIV",
+      "block": 3,
+      "pid": 53
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "role": "sic",
+      "quaestio": "XXIX",
+      "block": 4,
+      "pid": 63
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "role": "non",
+      "quaestio": "XXIX",
+      "block": 4,
+      "pid": 64
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "role": "sic",
+      "quaestio": "XXX",
+      "block": 4,
+      "pid": 65
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "role": "non",
+      "quaestio": "XXX",
+      "block": 4,
+      "pid": 66
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "block": -1,
+      "pid": 1
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "block": -1,
+      "pid": 2
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "block": -1,
+      "pid": 15
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "block": -1,
+      "pid": 28
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "block": -1,
+      "pid": 41
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "block": -1,
+      "pid": 54
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "block": -1,
+      "pid": 67
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "block": -1,
+      "pid": 68
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "block": -1,
+      "pid": 69
+    },
+    {
+      "row": -1,
+      "col": -1,
+      "role": "frame",
+      "quaestio": null,
+      "block": -1,
+      "pid": 70
+    }
+  ],
+  "edges": [
+    {
+      "u": 0,
+      "v": 1,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 0,
+      "v": 2,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 60,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 0,
+      "v": 61,
+      "distance": 7.810249675906654,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 3,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 60,
+      "distance": 7.810249675906654,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 61,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 3,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 2,
+      "v": 4,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 5,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 5,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 4,
+      "v": 6,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 7,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 7,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 6,
+      "v": 8,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 9,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 9,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 8,
+      "v": 10,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 11,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 11,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 12,
+      "v": 13,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 12,
+      "v": 14,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 62,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 63,
+      "distance": 7.810249675906654,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 15,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 62,
+      "distance": 7.810249675906654,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 63,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 15,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 14,
+      "v": 16,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 17,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 17,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 16,
+      "v": 18,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 19,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 19,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 18,
+      "v": 20,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 21,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 20,
+      "v": 21,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 20,
+      "v": 22,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 23,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 22,
+      "v": 23,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 24,
+      "v": 25,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 24,
+      "v": 26,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 24,
+      "v": 64,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 25,
+      "v": 27,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 25,
+      "v": 64,
+      "distance": 7.810249675906654,
+      "is_pair": false
+    },
+    {
+      "u": 26,
+      "v": 27,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 26,
+      "v": 28,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 27,
+      "v": 29,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 28,
+      "v": 29,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 28,
+      "v": 30,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 29,
+      "v": 31,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 30,
+      "v": 31,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 30,
+      "v": 32,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 31,
+      "v": 33,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 32,
+      "v": 33,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 32,
+      "v": 34,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 33,
+      "v": 35,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 34,
+      "v": 35,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 34,
+      "v": 65,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 35,
+      "v": 65,
+      "distance": 7.810249675906654,
+      "is_pair": false
+    },
+    {
+      "u": 36,
+      "v": 37,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 36,
+      "v": 38,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 37,
+      "v": 39,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 38,
+      "v": 39,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 38,
+      "v": 40,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 39,
+      "v": 41,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 40,
+      "v": 41,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 40,
+      "v": 42,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 41,
+      "v": 43,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 42,
+      "v": 43,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 42,
+      "v": 44,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 43,
+      "v": 45,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 44,
+      "v": 45,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 44,
+      "v": 46,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 45,
+      "v": 47,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 46,
+      "v": 47,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 46,
+      "v": 66,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 46,
+      "v": 67,
+      "distance": 7.810249675906654,
+      "is_pair": false
+    },
+    {
+      "u": 47,
+      "v": 66,
+      "distance": 7.810249675906654,
+      "is_pair": false
+    },
+    {
+      "u": 47,
+      "v": 67,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 48,
+      "v": 49,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 48,
+      "v": 50,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 49,
+      "v": 51,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 50,
+      "v": 51,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 50,
+      "v": 52,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 51,
+      "v": 53,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 52,
+      "v": 53,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 52,
+      "v": 54,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 53,
+      "v": 55,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 54,
+      "v": 55,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 54,
+      "v": 56,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 55,
+      "v": 57,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 56,
+      "v": 57,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 56,
+      "v": 58,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 57,
+      "v": 59,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 58,
+      "v": 59,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 58,
+      "v": 68,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 58,
+      "v": 69,
+      "distance": 7.810249675906654,
+      "is_pair": false
+    },
+    {
+      "u": 59,
+      "v": 68,
+      "distance": 7.810249675906654,
+      "is_pair": false
+    },
+    {
+      "u": 59,
+      "v": 69,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 60,
+      "v": 61,
+      "distance": 5.0,
+      "is_pair": false
+    },
+    {
+      "u": 62,
+      "v": 63,
+      "distance": 5.0,
+      "is_pair": false
+    },
+    {
+      "u": 66,
+      "v": 67,
+      "distance": 5.0,
+      "is_pair": false
+    },
+    {
+      "u": 68,
+      "v": 69,
+      "distance": 5.0,
+      "is_pair": false
+    }
+  ]
+}

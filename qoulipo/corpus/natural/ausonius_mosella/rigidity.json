@@ -1,0 +1,15 @@
+{
+  "text": "ausonius_mosella",
+  "primary_k": 8,
+  "variants": {
+    "k8": {
+      "k": 8,
+      "N": 8,
+      "E": 28,
+      "density": 1.0,
+      "MIS": 1,
+      "rho": 0.0,
+      "n_solutions": 8
+    }
+  }
+}

@@ -1,0 +1,672 @@
+{
+  "text_id": "pari_de_nithard_II",
+  "title": "Le Pari de Nithard II",
+  "lang": "FR",
+  "canonical_N": 65,
+  "canonical_graph_file": "graph_designed.json",
+  "canonical_E": 631,
+  "canonical_density": 0.3034,
+  "canonical_MIS": 8,
+  "canonical_rho": 0.25,
+  "canonical_optima": 255,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "designed_knn",
+  "type": "qoulipo_engineered",
+  "designed_property": "Hard zone (d=0.303), QPU-eligible",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv (QOuLiPo: What a quantum computer sees when it reads a book)",
+  "threads_per_page": {
+    "page_001": {
+      "title": "## Page 0",
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "LANGUE",
+        "MALIETTE",
+        "PARI"
+      ]
+    },
+    "page_002": {
+      "title": "## Page 1",
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "MALIETTE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_003": {
+      "title": "## Page 2",
+      "threads": [
+        "FOI",
+        "MALIETTE",
+        "NOMBRE",
+        "PARCHEMIN",
+        "ÉPÉE"
+      ]
+    },
+    "page_004": {
+      "title": "## Page 3",
+      "threads": [
+        "COMPLOT",
+        "FOI",
+        "LANGUE",
+        "MALIETTE",
+        "PARI"
+      ]
+    },
+    "page_005": {
+      "title": "## Page 4",
+      "threads": [
+        "COMPLOT",
+        "FOI",
+        "NOMBRE",
+        "PARCHEMIN",
+        "PARI"
+      ]
+    },
+    "page_006": {
+      "title": "## Page 5",
+      "threads": [
+        "JEU",
+        "LANGUE",
+        "NOMBRE",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_007": {
+      "title": "## Page 6",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "JEU",
+        "ÉPÉE"
+      ]
+    },
+    "page_008": {
+      "title": "## Page 7",
+      "threads": [
+        "FOI",
+        "JEU",
+        "LANGUE",
+        "MALIETTE",
+        "PARI"
+      ]
+    },
+    "page_009": {
+      "title": "## Page 8",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_010": {
+      "title": "## Page 9",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "JEU",
+        "ÉPÉE"
+      ]
+    },
+    "page_011": {
+      "title": "## Page 10",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "JEU",
+        "ÉPÉE"
+      ]
+    },
+    "page_012": {
+      "title": "## Page 11",
+      "threads": [
+        "COMPLOT",
+        "JEU",
+        "MALIETTE",
+        "PARCHEMIN",
+        "PARI"
+      ]
+    },
+    "page_013": {
+      "title": "## Page 12",
+      "threads": [
+        "COMPLOT",
+        "FOI",
+        "MALIETTE",
+        "NOMBRE",
+        "ÉPÉE"
+      ]
+    },
+    "page_014": {
+      "title": "## Page 13",
+      "threads": [
+        "COMPLOT",
+        "MALIETTE",
+        "NOMBRE",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_015": {
+      "title": "## Page 14",
+      "threads": [
+        "COMPLOT",
+        "FOI",
+        "LANGUE",
+        "MALIETTE",
+        "PARI"
+      ]
+    },
+    "page_016": {
+      "title": "## Page 15",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "JEU",
+        "ÉPÉE"
+      ]
+    },
+    "page_017": {
+      "title": "## Page 16",
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "LANGUE",
+        "MALIETTE",
+        "PARI"
+      ]
+    },
+    "page_018": {
+      "title": "## Page 17",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_019": {
+      "title": "## Page 18",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "JEU",
+        "ÉPÉE"
+      ]
+    },
+    "page_020": {
+      "title": "## Page 19",
+      "threads": [
+        "FOI",
+        "LANGUE",
+        "NOMBRE",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_021": {
+      "title": "## Page 20",
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "LANGUE",
+        "MALIETTE",
+        "PARI"
+      ]
+    },
+    "page_022": {
+      "title": "## Page 21",
+      "threads": [
+        "FOI",
+        "LANGUE",
+        "NOMBRE",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_023": {
+      "title": "## Page 22",
+      "threads": [
+        "CHRONIQUE",
+        "JEU",
+        "MALIETTE",
+        "PARCHEMIN",
+        "PARI"
+      ]
+    },
+    "page_024": {
+      "title": "## Page 23",
+      "threads": [
+        "FOI",
+        "JEU",
+        "MALIETTE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_025": {
+      "title": "## Page 24",
+      "threads": [
+        "COMPLOT",
+        "MALIETTE",
+        "PARCHEMIN",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_026": {
+      "title": "## Page 25",
+      "threads": [
+        "JEU",
+        "LANGUE",
+        "NOMBRE",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_027": {
+      "title": "## Page 26",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_028": {
+      "title": "## Page 27",
+      "threads": [
+        "FOI",
+        "JEU",
+        "MALIETTE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_029": {
+      "title": "## Page 28",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "JEU",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_030": {
+      "title": "## Page 29",
+      "threads": [
+        "JEU",
+        "LANGUE",
+        "MALIETTE",
+        "PARCHEMIN",
+        "ÉPÉE"
+      ]
+    },
+    "page_031": {
+      "title": "## Page 30",
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "LANGUE",
+        "MALIETTE",
+        "PARI"
+      ]
+    },
+    "page_032": {
+      "title": "## Page 31",
+      "threads": [
+        "COMPLOT",
+        "MALIETTE",
+        "PARCHEMIN",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_033": {
+      "title": "## Page 32",
+      "threads": [
+        "JEU",
+        "LANGUE",
+        "MALIETTE",
+        "PARCHEMIN",
+        "ÉPÉE"
+      ]
+    },
+    "page_034": {
+      "title": "## Page 33",
+      "threads": [
+        "COMPLOT",
+        "MALIETTE",
+        "NOMBRE",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_035": {
+      "title": "## Page 34",
+      "threads": [
+        "JEU",
+        "LANGUE",
+        "PARCHEMIN",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_036": {
+      "title": "## Page 35",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "JEU",
+        "ÉPÉE"
+      ]
+    },
+    "page_037": {
+      "title": "## Page 36",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_038": {
+      "title": "## Page 37",
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "LANGUE",
+        "MALIETTE",
+        "PARI"
+      ]
+    },
+    "page_039": {
+      "title": "## Page 38",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_040": {
+      "title": "## Page 39",
+      "threads": [
+        "FOI",
+        "NOMBRE",
+        "PARCHEMIN",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_041": {
+      "title": "## Page 40",
+      "threads": [
+        "FOI",
+        "MALIETTE",
+        "NOMBRE",
+        "PARCHEMIN",
+        "ÉPÉE"
+      ]
+    },
+    "page_042": {
+      "title": "## Page 41",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_043": {
+      "title": "## Page 42",
+      "threads": [
+        "FOI",
+        "JEU",
+        "MALIETTE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_044": {
+      "title": "## Page 43",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "MALIETTE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_045": {
+      "title": "## Page 44",
+      "threads": [
+        "FOI",
+        "JEU",
+        "MALIETTE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_046": {
+      "title": "## Page 45",
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "JEU",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_047": {
+      "title": "## Page 46",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_048": {
+      "title": "## Page 47",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_049": {
+      "title": "## Page 48",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_050": {
+      "title": "## Page 49",
+      "threads": [
+        "FOI",
+        "JEU",
+        "MALIETTE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_051": {
+      "title": "## Page 50",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "JEU",
+        "ÉPÉE"
+      ]
+    },
+    "page_052": {
+      "title": "## Page 51",
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "LANGUE",
+        "MALIETTE",
+        "PARI"
+      ]
+    },
+    "page_053": {
+      "title": "## Page 52",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "JEU",
+        "ÉPÉE"
+      ]
+    },
+    "page_054": {
+      "title": "## Page 53",
+      "threads": [
+        "JEU",
+        "LANGUE",
+        "MALIETTE",
+        "PARCHEMIN",
+        "ÉPÉE"
+      ]
+    },
+    "page_055": {
+      "title": "## Page 54",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "JEU",
+        "ÉPÉE"
+      ]
+    },
+    "page_056": {
+      "title": "## Page 55",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_057": {
+      "title": "## Page 56",
+      "threads": [
+        "COMPLOT",
+        "JEU",
+        "MALIETTE",
+        "NOMBRE",
+        "PARI"
+      ]
+    },
+    "page_058": {
+      "title": "## Page 57",
+      "threads": [
+        "FOI",
+        "NOMBRE",
+        "PARCHEMIN",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_059": {
+      "title": "## Page 58",
+      "threads": [
+        "CHRONIQUE",
+        "FOI",
+        "LANGUE",
+        "MALIETTE",
+        "PARI"
+      ]
+    },
+    "page_060": {
+      "title": "## Page 59",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "NOMBRE",
+        "PARCHEMIN"
+      ]
+    },
+    "page_061": {
+      "title": "## Page 60",
+      "threads": [
+        "JEU",
+        "LANGUE",
+        "NOMBRE",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_062": {
+      "title": "## Page 61",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "LANGUE",
+        "MALIETTE",
+        "NOMBRE"
+      ]
+    },
+    "page_063": {
+      "title": "## Page 62",
+      "threads": [
+        "CHRONIQUE",
+        "COMPLOT",
+        "FOI",
+        "JEU",
+        "ÉPÉE"
+      ]
+    },
+    "page_064": {
+      "title": "## Page 63",
+      "threads": [
+        "FOI",
+        "NOMBRE",
+        "PARCHEMIN",
+        "PARI",
+        "ÉPÉE"
+      ]
+    },
+    "page_065": {
+      "title": "## Page 64",
+      "threads": [
+        "COMPLOT",
+        "FOI",
+        "JEU",
+        "MALIETTE",
+        "NOMBRE"
+      ]
+    }
+  },
+  "literary_status": "Source pages contain literary content only; per-page thread allocations and voice/role/form metadata are recorded above in threads_per_page (not in source/).",
+  "source_contract": "node_aligned"
+}

@@ -1,0 +1,18 @@
+### The Constraint
+
+This text is one half of an isomorphic pair. Text A (English, Carolingian history) and Text B (French, mathematics) share the IDENTICAL thread assignment table. Both use 10 threads, 5 per page, across 30 pages. If the keyword density is sufficient, E5-large embeddings will produce the SAME similarity graph for both texts -- proving that graph structure is independent of content, language, and genre.
+
+The 10 threads carry DIFFERENT vocabulary in each language:
+
+| # | Thread | Text A (English) | Text B (French) |
+|---|--------|-------------------|-----------------|
+| 1 | WAGER | risk, bet, gamble, stake | probabilite, risque, pari, hasard |
+| 2 | CHRONICLE | history, record, witness | demonstration, preuve, theoreme |
+| 3 | CONSPIRACY | plot, forgery, scheme | conjecture, paradoxe, erreur |
+| 4 | TONGUE | language, oath, vernacular | notation, symbole, langage |
+| 5 | NUMBER | count, calculate, tally | nombre, calcul, combinatoire |
+| 6 | FAITH | belief, doubt, prayer | axiome, hypothese, certitude |
+| 7 | SWORD | battle, war, weapon | refutation, contradiction, critique |
+| 8 | PARCHMENT | manuscript, scroll, copy | publication, article, manuscrit |
+| 9 | MALIETTE | teacher, lesson, school | seminaire, cours, enseignement |
+| 10 | GAME | constraint, rule, play | contrainte, regle, structure |

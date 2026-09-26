@@ -1,0 +1,16 @@
+{
+  "text_id": "king_5x5_25",
+  "title": "King 5\u00d75 (= venticinque, a=5 Rb=8)",
+  "lang": "TBW",
+  "literary_status": "TBW",
+  "canonical_N": 25,
+  "canonical_E": 72,
+  "canonical_density": 0.24,
+  "canonical_MIS": 9,
+  "canonical_rho": 1.0,
+  "canonical_optima": 1,
+  "graph_mode": "exact_2D_UDG_with_spectral_gap",
+  "type": "qoulipo_engineered",
+  "spectral_gap_factor": 1.25,
+  "blockade_um": 8.0
+}

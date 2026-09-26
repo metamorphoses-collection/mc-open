@@ -1,0 +1,28 @@
+{
+  "campaign": "Pari III NOISY EMU_MPS quench T=4\u00b5s (FRESNEL noise model)",
+  "N": 100,
+  "E": 691,
+  "fidelity": 0.873,
+  "backend": "EMU_MPS",
+  "noise": {
+    "p_false_pos": 0.025,
+    "p_false_neg": 0.1,
+    "relaxation_rate": 0.01,
+    "dephasing_rate": 0.2222,
+    "state_prep_error": 0.0
+  },
+  "submitted": "2026-04-27 20:04 UTC",
+  "completed": "2026-04-28 00:01 UTC (~4h wall time)",
+  "batches": {
+    "noisy_t4000ns": {
+      "batch_id": "83f3b36f-c0d8-4788-bc98-8157e6dea4bd",
+      "T_ns": 4000,
+      "shots_requested": 200,
+      "status": "DONE",
+      "has_result": false,
+      "errors": null,
+      "total_shots_returned": 0,
+      "interpretation": "silent resource-exhaustion failure (bond-dimension/Krylov ceiling); \u00a76.2 fork second-leg DNF"
+    }
+  }
+}

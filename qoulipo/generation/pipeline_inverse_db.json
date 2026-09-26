@@ -1,0 +1,1461 @@
+{
+  "model": "intfloat/multilingual-e5-large-instruct",
+  "overlap_threshold": 4,
+  "engineered": [
+    {
+      "type": "engineered",
+      "file": "kaleidoscope.md",
+      "display": "kaleidoscope (EN) N=51 k=2",
+      "lang": "EN",
+      "N": 51,
+      "density": 0.04,
+      "designed_edges": 51,
+      "avg_degree": 2.0,
+      "k_star": 2,
+      "best_f1": 1.0,
+      "k_results": {
+        "k=2*": {
+          "recovered": 51,
+          "tp": 51,
+          "fp": 0,
+          "fn": 0,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0,
+          "jaccard": 1.0
+        },
+        "k=8": {
+          "recovered": 274,
+          "tp": 51,
+          "fp": 223,
+          "fn": 0,
+          "recall": 1.0,
+          "precision": 0.186,
+          "f1": 0.314,
+          "jaccard": 0.186
+        },
+        "k=16": {
+          "recovered": 522,
+          "tp": 51,
+          "fp": 471,
+          "fn": 0,
+          "recall": 1.0,
+          "precision": 0.098,
+          "f1": 0.178,
+          "jaccard": 0.098
+        },
+        "k=24": {
+          "recovered": 737,
+          "tp": 51,
+          "fp": 686,
+          "fn": 0,
+          "recall": 1.0,
+          "precision": 0.069,
+          "f1": 0.129,
+          "jaccard": 0.069
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "livre_irremplacable.md",
+      "display": "livre_irremplacable (FR) N=50 k=11",
+      "lang": "FR",
+      "N": 50,
+      "density": 0.2343,
+      "designed_edges": 287,
+      "avg_degree": 11.48,
+      "k_star": 11,
+      "best_f1": 0.627,
+      "k_results": {
+        "k=8": {
+          "recovered": 248,
+          "tp": 152,
+          "fp": 96,
+          "fn": 135,
+          "recall": 0.53,
+          "precision": 0.613,
+          "f1": 0.568,
+          "jaccard": 0.397
+        },
+        "k=11*": {
+          "recovered": 335,
+          "tp": 195,
+          "fp": 140,
+          "fn": 92,
+          "recall": 0.679,
+          "precision": 0.582,
+          "f1": 0.627,
+          "jaccard": 0.457
+        },
+        "k=16": {
+          "recovered": 475,
+          "tp": 234,
+          "fp": 241,
+          "fn": 53,
+          "recall": 0.815,
+          "precision": 0.493,
+          "f1": 0.614,
+          "jaccard": 0.443
+        },
+        "k=24": {
+          "recovered": 694,
+          "tp": 274,
+          "fp": 420,
+          "fn": 13,
+          "recall": 0.955,
+          "precision": 0.395,
+          "f1": 0.559,
+          "jaccard": 0.388
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "livre_irremplacable_v2.md",
+      "display": "livre_irremplacable_v2 (FR) N=50 k=11",
+      "lang": "FR",
+      "N": 50,
+      "density": 0.2343,
+      "designed_edges": 287,
+      "avg_degree": 11.48,
+      "k_star": 11,
+      "best_f1": 0.675,
+      "k_results": {
+        "k=8": {
+          "recovered": 256,
+          "tp": 174,
+          "fp": 82,
+          "fn": 113,
+          "recall": 0.606,
+          "precision": 0.68,
+          "f1": 0.641,
+          "jaccard": 0.472
+        },
+        "k=11*": {
+          "recovered": 341,
+          "tp": 212,
+          "fp": 129,
+          "fn": 75,
+          "recall": 0.739,
+          "precision": 0.622,
+          "f1": 0.675,
+          "jaccard": 0.51
+        },
+        "k=16": {
+          "recovered": 478,
+          "tp": 241,
+          "fp": 237,
+          "fn": 46,
+          "recall": 0.84,
+          "precision": 0.504,
+          "f1": 0.63,
+          "jaccard": 0.46
+        },
+        "k=24": {
+          "recovered": 691,
+          "tp": 273,
+          "fp": 418,
+          "fn": 14,
+          "recall": 0.951,
+          "precision": 0.395,
+          "f1": 0.558,
+          "jaccard": 0.387
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "piege_du_lecteur.md",
+      "display": "piege_du_lecteur (FR) N=50 k=2",
+      "lang": "FR",
+      "N": 50,
+      "density": 0.0253,
+      "designed_edges": 31,
+      "avg_degree": 1.24,
+      "k_star": 2,
+      "best_f1": 0.396,
+      "k_results": {
+        "k=2*": {
+          "recovered": 75,
+          "tp": 21,
+          "fp": 54,
+          "fn": 10,
+          "recall": 0.677,
+          "precision": 0.28,
+          "f1": 0.396,
+          "jaccard": 0.247
+        },
+        "k=8": {
+          "recovered": 264,
+          "tp": 29,
+          "fp": 235,
+          "fn": 2,
+          "recall": 0.935,
+          "precision": 0.11,
+          "f1": 0.197,
+          "jaccard": 0.109
+        },
+        "k=16": {
+          "recovered": 486,
+          "tp": 31,
+          "fp": 455,
+          "fn": 0,
+          "recall": 1.0,
+          "precision": 0.064,
+          "f1": 0.12,
+          "jaccard": 0.064
+        },
+        "k=24": {
+          "recovered": 688,
+          "tp": 31,
+          "fp": 657,
+          "fn": 0,
+          "recall": 1.0,
+          "precision": 0.045,
+          "f1": 0.086,
+          "jaccard": 0.045
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "livre_fractal.md",
+      "display": "livre_fractal (EN) N=50 k=4",
+      "lang": "EN",
+      "N": 50,
+      "density": 0.0816,
+      "designed_edges": 100,
+      "avg_degree": 4.0,
+      "k_star": 4,
+      "best_f1": 0.282,
+      "k_results": {
+        "k=4*": {
+          "recovered": 148,
+          "tp": 35,
+          "fp": 113,
+          "fn": 65,
+          "recall": 0.35,
+          "precision": 0.236,
+          "f1": 0.282,
+          "jaccard": 0.164
+        },
+        "k=8": {
+          "recovered": 291,
+          "tp": 55,
+          "fp": 236,
+          "fn": 45,
+          "recall": 0.55,
+          "precision": 0.189,
+          "f1": 0.281,
+          "jaccard": 0.164
+        },
+        "k=16": {
+          "recovered": 556,
+          "tp": 82,
+          "fp": 474,
+          "fn": 18,
+          "recall": 0.82,
+          "precision": 0.147,
+          "f1": 0.25,
+          "jaccard": 0.143
+        },
+        "k=24": {
+          "recovered": 771,
+          "tp": 90,
+          "fp": 681,
+          "fn": 10,
+          "recall": 0.9,
+          "precision": 0.117,
+          "f1": 0.207,
+          "jaccard": 0.115
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "proces_de_nithard.md",
+      "display": "proces_de_nithard (FR) N=50 k=2",
+      "lang": "FR",
+      "N": 50,
+      "density": 0.0302,
+      "designed_edges": 37,
+      "avg_degree": 1.48,
+      "k_star": 2,
+      "best_f1": 0.093,
+      "k_results": {
+        "k=2*": {
+          "recovered": 77,
+          "tp": 5,
+          "fp": 72,
+          "fn": 32,
+          "recall": 0.135,
+          "precision": 0.065,
+          "f1": 0.088,
+          "jaccard": 0.046
+        },
+        "k=8": {
+          "recovered": 291,
+          "tp": 15,
+          "fp": 276,
+          "fn": 22,
+          "recall": 0.405,
+          "precision": 0.052,
+          "f1": 0.091,
+          "jaccard": 0.048
+        },
+        "k=16": {
+          "recovered": 545,
+          "tp": 27,
+          "fp": 518,
+          "fn": 10,
+          "recall": 0.73,
+          "precision": 0.05,
+          "f1": 0.093,
+          "jaccard": 0.049
+        },
+        "k=24": {
+          "recovered": 772,
+          "tp": 30,
+          "fp": 742,
+          "fn": 7,
+          "recall": 0.811,
+          "precision": 0.039,
+          "f1": 0.074,
+          "jaccard": 0.039
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "partition_du_texte.md",
+      "display": "partition_du_texte (FR) N=50 k=4",
+      "lang": "FR",
+      "N": 50,
+      "density": 0.0865,
+      "designed_edges": 106,
+      "avg_degree": 4.24,
+      "k_star": 4,
+      "best_f1": 0.643,
+      "k_results": {
+        "k=4*": {
+          "recovered": 124,
+          "tp": 74,
+          "fp": 50,
+          "fn": 32,
+          "recall": 0.698,
+          "precision": 0.597,
+          "f1": 0.643,
+          "jaccard": 0.474
+        },
+        "k=8": {
+          "recovered": 238,
+          "tp": 88,
+          "fp": 150,
+          "fn": 18,
+          "recall": 0.83,
+          "precision": 0.37,
+          "f1": 0.512,
+          "jaccard": 0.344
+        },
+        "k=16": {
+          "recovered": 482,
+          "tp": 103,
+          "fp": 379,
+          "fn": 3,
+          "recall": 0.972,
+          "precision": 0.214,
+          "f1": 0.35,
+          "jaccard": 0.212
+        },
+        "k=24": {
+          "recovered": 709,
+          "tp": 106,
+          "fp": 603,
+          "fn": 0,
+          "recall": 1.0,
+          "precision": 0.15,
+          "f1": 0.26,
+          "jaccard": 0.15
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "oulipo_nithard_pascal_v1_original.md",
+      "display": "oulipo_nithard_pascal_v1_original (EN) N=50 k=4",
+      "lang": "EN",
+      "N": 50,
+      "density": 0.0841,
+      "designed_edges": 103,
+      "avg_degree": 4.12,
+      "k_star": 4,
+      "best_f1": 0.259,
+      "k_results": {
+        "k=4*": {
+          "recovered": 140,
+          "tp": 29,
+          "fp": 111,
+          "fn": 74,
+          "recall": 0.282,
+          "precision": 0.207,
+          "f1": 0.239,
+          "jaccard": 0.136
+        },
+        "k=8": {
+          "recovered": 252,
+          "tp": 46,
+          "fp": 206,
+          "fn": 57,
+          "recall": 0.447,
+          "precision": 0.183,
+          "f1": 0.259,
+          "jaccard": 0.149
+        },
+        "k=16": {
+          "recovered": 481,
+          "tp": 71,
+          "fp": 410,
+          "fn": 32,
+          "recall": 0.689,
+          "precision": 0.148,
+          "f1": 0.243,
+          "jaccard": 0.138
+        },
+        "k=24": {
+          "recovered": 718,
+          "tp": 86,
+          "fp": 632,
+          "fn": 17,
+          "recall": 0.835,
+          "precision": 0.12,
+          "f1": 0.21,
+          "jaccard": 0.117
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "oulipo_nithard_pascal.md",
+      "display": "oulipo_nithard_pascal (EN) N=65 k=6",
+      "lang": "EN",
+      "N": 65,
+      "density": 0.088,
+      "designed_edges": 183,
+      "avg_degree": 5.63,
+      "k_star": 6,
+      "best_f1": 0.254,
+      "k_results": {
+        "k=6*": {
+          "recovered": 267,
+          "tp": 52,
+          "fp": 215,
+          "fn": 131,
+          "recall": 0.284,
+          "precision": 0.195,
+          "f1": 0.231,
+          "jaccard": 0.131
+        },
+        "k=8": {
+          "recovered": 339,
+          "tp": 65,
+          "fp": 274,
+          "fn": 118,
+          "recall": 0.355,
+          "precision": 0.192,
+          "f1": 0.249,
+          "jaccard": 0.142
+        },
+        "k=16": {
+          "recovered": 661,
+          "tp": 107,
+          "fp": 554,
+          "fn": 76,
+          "recall": 0.585,
+          "precision": 0.162,
+          "f1": 0.254,
+          "jaccard": 0.145
+        },
+        "k=24": {
+          "recovered": 972,
+          "tp": 138,
+          "fp": 834,
+          "fn": 45,
+          "recall": 0.754,
+          "precision": 0.142,
+          "f1": 0.239,
+          "jaccard": 0.136
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "incarnate_graph_50_en.md",
+      "display": "incarnate_graph_50_en (EN) N=50 k=8",
+      "lang": "EN",
+      "N": 50,
+      "density": 0.1673,
+      "designed_edges": 205,
+      "avg_degree": 8.2,
+      "k_star": 8,
+      "best_f1": 0.646,
+      "k_results": {
+        "k=8*": {
+          "recovered": 247,
+          "tp": 146,
+          "fp": 101,
+          "fn": 59,
+          "recall": 0.712,
+          "precision": 0.591,
+          "f1": 0.646,
+          "jaccard": 0.477
+        },
+        "k=16": {
+          "recovered": 476,
+          "tp": 192,
+          "fp": 284,
+          "fn": 13,
+          "recall": 0.937,
+          "precision": 0.403,
+          "f1": 0.564,
+          "jaccard": 0.393
+        },
+        "k=24": {
+          "recovered": 700,
+          "tp": 201,
+          "fp": 499,
+          "fn": 4,
+          "recall": 0.98,
+          "precision": 0.287,
+          "f1": 0.444,
+          "jaccard": 0.286
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "incarnate_graph_50p_en.md",
+      "display": "incarnate_graph_50p_en (EN) N=50 k=8",
+      "lang": "EN",
+      "N": 50,
+      "density": 0.1673,
+      "designed_edges": 205,
+      "avg_degree": 8.2,
+      "k_star": 8,
+      "best_f1": 0.641,
+      "k_results": {
+        "k=8*": {
+          "recovered": 244,
+          "tp": 144,
+          "fp": 100,
+          "fn": 61,
+          "recall": 0.702,
+          "precision": 0.59,
+          "f1": 0.641,
+          "jaccard": 0.472
+        },
+        "k=16": {
+          "recovered": 475,
+          "tp": 192,
+          "fp": 283,
+          "fn": 13,
+          "recall": 0.937,
+          "precision": 0.404,
+          "f1": 0.565,
+          "jaccard": 0.393
+        },
+        "k=24": {
+          "recovered": 705,
+          "tp": 201,
+          "fp": 504,
+          "fn": 4,
+          "recall": 0.98,
+          "precision": 0.285,
+          "f1": 0.442,
+          "jaccard": 0.283
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "oulipo_udg_50pages.md",
+      "display": "oulipo_udg_50pages (FR) N=50 k=8",
+      "lang": "FR",
+      "N": 50,
+      "density": 0.1673,
+      "designed_edges": 205,
+      "avg_degree": 8.2,
+      "k_star": 8,
+      "best_f1": 0.629,
+      "k_results": {
+        "k=8*": {
+          "recovered": 240,
+          "tp": 140,
+          "fp": 100,
+          "fn": 65,
+          "recall": 0.683,
+          "precision": 0.583,
+          "f1": 0.629,
+          "jaccard": 0.459
+        },
+        "k=16": {
+          "recovered": 471,
+          "tp": 190,
+          "fp": 281,
+          "fn": 15,
+          "recall": 0.927,
+          "precision": 0.403,
+          "f1": 0.562,
+          "jaccard": 0.391
+        },
+        "k=24": {
+          "recovered": 689,
+          "tp": 203,
+          "fp": 486,
+          "fn": 2,
+          "recall": 0.99,
+          "precision": 0.295,
+          "f1": 0.454,
+          "jaccard": 0.294
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "oulipo_udg_50pages_en.md",
+      "display": "oulipo_udg_50pages_en (EN) N=50 k=8",
+      "lang": "EN",
+      "N": 50,
+      "density": 0.1673,
+      "designed_edges": 205,
+      "avg_degree": 8.2,
+      "k_star": 8,
+      "best_f1": 0.646,
+      "k_results": {
+        "k=8*": {
+          "recovered": 247,
+          "tp": 146,
+          "fp": 101,
+          "fn": 59,
+          "recall": 0.712,
+          "precision": 0.591,
+          "f1": 0.646,
+          "jaccard": 0.477
+        },
+        "k=16": {
+          "recovered": 476,
+          "tp": 192,
+          "fp": 284,
+          "fn": 13,
+          "recall": 0.937,
+          "precision": 0.403,
+          "f1": 0.564,
+          "jaccard": 0.393
+        },
+        "k=24": {
+          "recovered": 700,
+          "tp": 201,
+          "fp": 499,
+          "fn": 4,
+          "recall": 0.98,
+          "precision": 0.287,
+          "f1": 0.444,
+          "jaccard": 0.286
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "oulipo_udg65_text.md",
+      "display": "oulipo_udg65_text (EN) N=65 k=13",
+      "lang": "EN",
+      "N": 65,
+      "density": 0.2019,
+      "designed_edges": 420,
+      "avg_degree": 12.92,
+      "k_star": 13,
+      "best_f1": 0.746,
+      "k_results": {
+        "k=8": {
+          "recovered": 338,
+          "tp": 267,
+          "fp": 71,
+          "fn": 153,
+          "recall": 0.636,
+          "precision": 0.79,
+          "f1": 0.704,
+          "jaccard": 0.544
+        },
+        "k=13*": {
+          "recovered": 526,
+          "tp": 353,
+          "fp": 173,
+          "fn": 67,
+          "recall": 0.84,
+          "precision": 0.671,
+          "f1": 0.746,
+          "jaccard": 0.595
+        },
+        "k=16": {
+          "recovered": 624,
+          "tp": 377,
+          "fp": 247,
+          "fn": 43,
+          "recall": 0.898,
+          "precision": 0.604,
+          "f1": 0.722,
+          "jaccard": 0.565
+        },
+        "k=24": {
+          "recovered": 920,
+          "tp": 408,
+          "fp": 512,
+          "fn": 12,
+          "recall": 0.971,
+          "precision": 0.443,
+          "f1": 0.609,
+          "jaccard": 0.438
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "nithards_wager_65p_en.md",
+      "display": "nithards_wager_65p_en (EN) N=65 k=9",
+      "lang": "EN",
+      "N": 65,
+      "density": 0.1332,
+      "designed_edges": 277,
+      "avg_degree": 8.52,
+      "k_star": 9,
+      "best_f1": 0.764,
+      "k_results": {
+        "k=8": {
+          "recovered": 317,
+          "tp": 227,
+          "fp": 90,
+          "fn": 50,
+          "recall": 0.819,
+          "precision": 0.716,
+          "f1": 0.764,
+          "jaccard": 0.619
+        },
+        "k=9*": {
+          "recovered": 354,
+          "tp": 238,
+          "fp": 116,
+          "fn": 39,
+          "recall": 0.859,
+          "precision": 0.672,
+          "f1": 0.754,
+          "jaccard": 0.606
+        },
+        "k=16": {
+          "recovered": 620,
+          "tp": 268,
+          "fp": 352,
+          "fn": 9,
+          "recall": 0.968,
+          "precision": 0.432,
+          "f1": 0.598,
+          "jaccard": 0.426
+        },
+        "k=24": {
+          "recovered": 933,
+          "tp": 274,
+          "fp": 659,
+          "fn": 3,
+          "recall": 0.989,
+          "precision": 0.294,
+          "f1": 0.453,
+          "jaccard": 0.293
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "oulipo_65_hardzone.md",
+      "display": "oulipo_65_hardzone (FR) N=65 k=9",
+      "lang": "FR",
+      "N": 65,
+      "density": 0.1332,
+      "designed_edges": 277,
+      "avg_degree": 8.52,
+      "k_star": 9,
+      "best_f1": 0.747,
+      "k_results": {
+        "k=8": {
+          "recovered": 320,
+          "tp": 223,
+          "fp": 97,
+          "fn": 54,
+          "recall": 0.805,
+          "precision": 0.697,
+          "f1": 0.747,
+          "jaccard": 0.596
+        },
+        "k=9*": {
+          "recovered": 354,
+          "tp": 234,
+          "fp": 120,
+          "fn": 43,
+          "recall": 0.845,
+          "precision": 0.661,
+          "f1": 0.742,
+          "jaccard": 0.589
+        },
+        "k=16": {
+          "recovered": 627,
+          "tp": 270,
+          "fp": 357,
+          "fn": 7,
+          "recall": 0.975,
+          "precision": 0.431,
+          "f1": 0.597,
+          "jaccard": 0.426
+        },
+        "k=24": {
+          "recovered": 929,
+          "tp": 276,
+          "fp": 653,
+          "fn": 1,
+          "recall": 0.996,
+          "precision": 0.297,
+          "f1": 0.458,
+          "jaccard": 0.297
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "oulipo_65_hardzone_en.md",
+      "display": "oulipo_65_hardzone_en (EN) N=65 k=9",
+      "lang": "EN",
+      "N": 65,
+      "density": 0.1332,
+      "designed_edges": 277,
+      "avg_degree": 8.52,
+      "k_star": 9,
+      "best_f1": 0.771,
+      "k_results": {
+        "k=8": {
+          "recovered": 322,
+          "tp": 231,
+          "fp": 91,
+          "fn": 46,
+          "recall": 0.834,
+          "precision": 0.717,
+          "f1": 0.771,
+          "jaccard": 0.628
+        },
+        "k=9*": {
+          "recovered": 357,
+          "tp": 242,
+          "fp": 115,
+          "fn": 35,
+          "recall": 0.874,
+          "precision": 0.678,
+          "f1": 0.763,
+          "jaccard": 0.617
+        },
+        "k=16": {
+          "recovered": 617,
+          "tp": 268,
+          "fp": 349,
+          "fn": 9,
+          "recall": 0.968,
+          "precision": 0.434,
+          "f1": 0.6,
+          "jaccard": 0.428
+        },
+        "k=24": {
+          "recovered": 932,
+          "tp": 273,
+          "fp": 659,
+          "fn": 4,
+          "recall": 0.986,
+          "precision": 0.293,
+          "f1": 0.452,
+          "jaccard": 0.292
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "oulipo_65_hardzone_en_v2.md",
+      "display": "oulipo_65_hardzone_en_v2 (EN) N=65 k=9",
+      "lang": "EN",
+      "N": 65,
+      "density": 0.1332,
+      "designed_edges": 277,
+      "avg_degree": 8.52,
+      "k_star": 9,
+      "best_f1": 0.727,
+      "k_results": {
+        "k=8": {
+          "recovered": 317,
+          "tp": 216,
+          "fp": 101,
+          "fn": 61,
+          "recall": 0.78,
+          "precision": 0.681,
+          "f1": 0.727,
+          "jaccard": 0.571
+        },
+        "k=9*": {
+          "recovered": 350,
+          "tp": 228,
+          "fp": 122,
+          "fn": 49,
+          "recall": 0.823,
+          "precision": 0.651,
+          "f1": 0.727,
+          "jaccard": 0.571
+        },
+        "k=16": {
+          "recovered": 607,
+          "tp": 267,
+          "fp": 340,
+          "fn": 10,
+          "recall": 0.964,
+          "precision": 0.44,
+          "f1": 0.604,
+          "jaccard": 0.433
+        },
+        "k=24": {
+          "recovered": 917,
+          "tp": 276,
+          "fp": 641,
+          "fn": 1,
+          "recall": 0.996,
+          "precision": 0.301,
+          "f1": 0.462,
+          "jaccard": 0.301
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "nithards_wager_100p_en.md",
+      "display": "nithards_wager_100p_en (EN) N=100 k=10",
+      "lang": "EN",
+      "N": 100,
+      "density": 0.099,
+      "designed_edges": 490,
+      "avg_degree": 9.8,
+      "k_star": 10,
+      "best_f1": 0.493,
+      "k_results": {
+        "k=8": {
+          "recovered": 529,
+          "tp": 250,
+          "fp": 279,
+          "fn": 240,
+          "recall": 0.51,
+          "precision": 0.473,
+          "f1": 0.491,
+          "jaccard": 0.325
+        },
+        "k=10*": {
+          "recovered": 657,
+          "tp": 283,
+          "fp": 374,
+          "fn": 207,
+          "recall": 0.578,
+          "precision": 0.431,
+          "f1": 0.493,
+          "jaccard": 0.328
+        },
+        "k=16": {
+          "recovered": 1023,
+          "tp": 354,
+          "fp": 669,
+          "fn": 136,
+          "recall": 0.722,
+          "precision": 0.346,
+          "f1": 0.468,
+          "jaccard": 0.305
+        },
+        "k=24": {
+          "recovered": 1488,
+          "tp": 409,
+          "fp": 1079,
+          "fn": 81,
+          "recall": 0.835,
+          "precision": 0.275,
+          "f1": 0.414,
+          "jaccard": 0.261
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "oulipo_100_hardzone.md",
+      "display": "oulipo_100_hardzone (FR) N=100 k=19",
+      "lang": "FR",
+      "N": 100,
+      "density": 0.1875,
+      "designed_edges": 928,
+      "avg_degree": 18.56,
+      "k_star": 19,
+      "best_f1": 0.547,
+      "k_results": {
+        "k=8": {
+          "recovered": 562,
+          "tp": 327,
+          "fp": 235,
+          "fn": 601,
+          "recall": 0.352,
+          "precision": 0.582,
+          "f1": 0.439,
+          "jaccard": 0.281
+        },
+        "k=16": {
+          "recovered": 1085,
+          "tp": 542,
+          "fp": 543,
+          "fn": 386,
+          "recall": 0.584,
+          "precision": 0.5,
+          "f1": 0.538,
+          "jaccard": 0.368
+        },
+        "k=19*": {
+          "recovered": 1263,
+          "tp": 599,
+          "fp": 664,
+          "fn": 329,
+          "recall": 0.645,
+          "precision": 0.474,
+          "f1": 0.547,
+          "jaccard": 0.376
+        },
+        "k=24": {
+          "recovered": 1579,
+          "tp": 673,
+          "fp": 906,
+          "fn": 255,
+          "recall": 0.725,
+          "precision": 0.426,
+          "f1": 0.537,
+          "jaccard": 0.367
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "oulipo_v2_100pages_revised.md",
+      "display": "oulipo_v2_100pages_revised (EN) N=100 k=8",
+      "lang": "EN",
+      "N": 100,
+      "density": 0.0804,
+      "designed_edges": 398,
+      "avg_degree": 7.96,
+      "k_star": 8,
+      "best_f1": 0.34,
+      "k_results": {
+        "k=8*": {
+          "recovered": 501,
+          "tp": 153,
+          "fp": 348,
+          "fn": 245,
+          "recall": 0.384,
+          "precision": 0.305,
+          "f1": 0.34,
+          "jaccard": 0.205
+        },
+        "k=16": {
+          "recovered": 971,
+          "tp": 207,
+          "fp": 764,
+          "fn": 191,
+          "recall": 0.52,
+          "precision": 0.213,
+          "f1": 0.302,
+          "jaccard": 0.178
+        },
+        "k=24": {
+          "recovered": 1423,
+          "tp": 257,
+          "fp": 1166,
+          "fn": 141,
+          "recall": 0.646,
+          "precision": 0.181,
+          "f1": 0.282,
+          "jaccard": 0.164
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "jumeaux_en.md",
+      "display": "jumeaux_en (EN) N=30 k=2",
+      "lang": "EN",
+      "N": 30,
+      "density": 0.0851,
+      "designed_edges": 37,
+      "avg_degree": 2.47,
+      "k_star": 2,
+      "best_f1": 0.487,
+      "k_results": {
+        "k=2*": {
+          "recovered": 41,
+          "tp": 19,
+          "fp": 22,
+          "fn": 18,
+          "recall": 0.514,
+          "precision": 0.463,
+          "f1": 0.487,
+          "jaccard": 0.322
+        },
+        "k=8": {
+          "recovered": 147,
+          "tp": 32,
+          "fp": 115,
+          "fn": 5,
+          "recall": 0.865,
+          "precision": 0.218,
+          "f1": 0.348,
+          "jaccard": 0.211
+        },
+        "k=16": {
+          "recovered": 270,
+          "tp": 37,
+          "fp": 233,
+          "fn": 0,
+          "recall": 1.0,
+          "precision": 0.137,
+          "f1": 0.241,
+          "jaccard": 0.137
+        },
+        "k=24": {
+          "recovered": 387,
+          "tp": 37,
+          "fp": 350,
+          "fn": 0,
+          "recall": 1.0,
+          "precision": 0.096,
+          "f1": 0.175,
+          "jaccard": 0.096
+        }
+      },
+      "parent": null
+    },
+    {
+      "type": "engineered",
+      "file": "jumeaux_fr.md",
+      "display": "jumeaux_fr (FR) N=30 k=2",
+      "lang": "FR",
+      "N": 30,
+      "density": 0.0851,
+      "designed_edges": 37,
+      "avg_degree": 2.47,
+      "k_star": 2,
+      "best_f1": 0.487,
+      "k_results": {
+        "k=2*": {
+          "recovered": 41,
+          "tp": 19,
+          "fp": 22,
+          "fn": 18,
+          "recall": 0.514,
+          "precision": 0.463,
+          "f1": 0.487,
+          "jaccard": 0.322
+        },
+        "k=8": {
+          "recovered": 154,
+          "tp": 32,
+          "fp": 122,
+          "fn": 5,
+          "recall": 0.865,
+          "precision": 0.208,
+          "f1": 0.335,
+          "jaccard": 0.201
+        },
+        "k=16": {
+          "recovered": 278,
+          "tp": 34,
+          "fp": 244,
+          "fn": 3,
+          "recall": 0.919,
+          "precision": 0.122,
+          "f1": 0.216,
+          "jaccard": 0.121
+        },
+        "k=24": {
+          "recovered": 392,
+          "tp": 37,
+          "fp": 355,
+          "fn": 0,
+          "recall": 1.0,
+          "precision": 0.094,
+          "f1": 0.172,
+          "jaccard": 0.094
+        }
+      },
+      "parent": "jumeaux_en.md"
+    },
+    {
+      "type": "engineered",
+      "file": "oulipo_v2b_100pages_fr_revised.md",
+      "display": "oulipo_v2b_100pages_fr_revised (FR) N=100 k=8",
+      "lang": "FR",
+      "N": 100,
+      "density": 0.0804,
+      "designed_edges": 398,
+      "avg_degree": 7.96,
+      "k_star": 8,
+      "best_f1": 0.411,
+      "k_results": {
+        "k=8*": {
+          "recovered": 532,
+          "tp": 191,
+          "fp": 341,
+          "fn": 207,
+          "recall": 0.48,
+          "precision": 0.359,
+          "f1": 0.411,
+          "jaccard": 0.258
+        },
+        "k=16": {
+          "recovered": 1020,
+          "tp": 269,
+          "fp": 751,
+          "fn": 129,
+          "recall": 0.676,
+          "precision": 0.264,
+          "f1": 0.379,
+          "jaccard": 0.234
+        },
+        "k=24": {
+          "recovered": 1490,
+          "tp": 322,
+          "fp": 1168,
+          "fn": 76,
+          "recall": 0.809,
+          "precision": 0.216,
+          "f1": 0.341,
+          "jaccard": 0.206
+        }
+      },
+      "parent": "oulipo_v2_100pages_revised.md"
+    }
+  ],
+  "natural": [
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/augustine/graph_Augustine_Conf13.json",
+      "display": "augustine_conf13 (LA) N=22 k=8",
+      "lang": "LA",
+      "N": 22,
+      "density": 0.4113,
+      "stored_edges": 95,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/lactantius/graph_lactantius_demort_k8.json",
+      "display": "lactantius_demort (LA) N=52 k=8",
+      "lang": "LA",
+      "N": 52,
+      "density": 0.2323,
+      "stored_edges": 308,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/lactantius/graph_Lactantius_DeMort_k16.json",
+      "display": "lactantius_demort (LA) N=52 k=16",
+      "lang": "LA",
+      "N": 52,
+      "density": 0.4472,
+      "stored_edges": 593,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/giambullari/graph_giambullari_65.json",
+      "display": "giambullari_65 (IT) N=65 k=8",
+      "lang": "IT",
+      "N": 65,
+      "density": 0.1038,
+      "stored_edges": 216,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/galileo/graph_galileo_65_k8.json",
+      "display": "galileo_65 (IT) N=65 k=8",
+      "lang": "IT",
+      "N": 65,
+      "density": 0.1313,
+      "stored_edges": 273,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/galileo/graph_galileo_65.json",
+      "display": "galileo_65 (IT) N=65 k=16",
+      "lang": "IT",
+      "N": 65,
+      "density": 0.249,
+      "stored_edges": 518,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/galileo/graph_Galileo_Dialogo.json",
+      "display": "galileo_dialogo (IT) N=74 k=8",
+      "lang": "IT",
+      "N": 74,
+      "density": 0.1088,
+      "stored_edges": 294,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/galileo/graph_Galileo_Dialogo_k12.json",
+      "display": "galileo_dialogo (IT) N=74 k=12",
+      "lang": "IT",
+      "N": 74,
+      "density": 0.1573,
+      "stored_edges": 425,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/galileo/graph_Galileo_Dialogo_k16.json",
+      "display": "galileo_dialogo (IT) N=74 k=16",
+      "lang": "IT",
+      "N": 74,
+      "density": 0.2096,
+      "stored_edges": 566,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/heptameron/graph_heptameron_1559_k8.json",
+      "display": "heptameron (FR) N=72 k=8",
+      "lang": "FR",
+      "N": 72,
+      "density": 0.1651,
+      "stored_edges": 422,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/heptameron/graph_heptameron_1559_k16.json",
+      "display": "heptameron (FR) N=72 k=16",
+      "lang": "FR",
+      "N": 72,
+      "density": 0.3306,
+      "stored_edges": 845,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/boethius/graph_boethius_consolatio_k8.json",
+      "display": "boethius_consolatio (LA) N=72 k=8",
+      "lang": "LA",
+      "N": 72,
+      "density": 0.1455,
+      "stored_edges": 372,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/boethius/graph_boethius_consolatio_k16.json",
+      "display": "boethius_consolatio (LA) N=72 k=16",
+      "lang": "LA",
+      "N": 72,
+      "density": 0.2629,
+      "stored_edges": 672,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/dante/graph_dante_59_k8.json",
+      "display": "dante_commedia (IT) N=59 k=8",
+      "lang": "IT",
+      "N": 59,
+      "density": 0.0432,
+      "stored_edges": 74,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/montaigne/graph_montaigne_65_k8.json",
+      "display": "montaigne_essais (FR) N=65 k=8",
+      "lang": "FR",
+      "N": 65,
+      "density": 0.0514,
+      "stored_edges": 107,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/montaigne/graph_montaigne_65_k16.json",
+      "display": "montaigne_essais (FR) N=65 k=16",
+      "lang": "FR",
+      "N": 65,
+      "density": 0.0519,
+      "stored_edges": 108,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    },
+    {
+      "type": "natural",
+      "file": "3_MIS/classical/graphs/augustine/graph_Augustine_Conf7_13.json",
+      "display": "augustine_conf7_13 (LA) N=132 k=8",
+      "lang": "LA",
+      "N": 132,
+      "density": 0.0633,
+      "stored_edges": 547,
+      "has_text": false,
+      "note": "graph file has no inline text; only invariants recorded"
+    }
+  ],
+  "summary": {
+    "n_engineered": 24,
+    "n_natural": 17,
+    "mean_engineered_f1": 0.555,
+    "mean_natural_f1": null
+  }
+}

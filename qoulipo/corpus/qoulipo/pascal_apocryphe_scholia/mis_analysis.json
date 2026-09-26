@@ -1,0 +1,23 @@
+{
+  "text_id": "pascal_apocryphe_scholia",
+  "N": 20,
+  "MIS_size": 5,
+  "rho": 0.0,
+  "num_optima_capped": 5,
+  "MIS_pages": [
+    "page_05",
+    "page_08",
+    "page_13",
+    "page_15",
+    "page_19"
+  ],
+  "MIS_atoms": [
+    4,
+    7,
+    12,
+    14,
+    18
+  ],
+  "graph_file_used": "graph_k8.json",
+  "method": "ILP via PuLP/CBC; MIS_pages match graph node IDs from graph_file_used"
+}

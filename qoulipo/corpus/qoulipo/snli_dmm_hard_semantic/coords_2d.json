@@ -1,0 +1,1458 @@
+{
+  "text": "SNLI hard semantic DMM test: 30 pairs (10 contradiction + 10 entailment + 10 neutral) all at 5 um, DMM amplitude encodes label",
+  "version": "snli_dmm_hard",
+  "N": 60,
+  "n_pairs": 30,
+  "R_b_um": 8.0,
+  "within_domino_dist": 5.0,
+  "domino_spacing_x": 7.0,
+  "domino_spacing_y": 11.0,
+  "max_radial_um": 32.17530108639234,
+  "min_dist_um": 5.0,
+  "coords_2d": [
+    [
+      -17.5,
+      -22.0
+    ],
+    [
+      -17.5,
+      -17.0
+    ],
+    [
+      -17.5,
+      -11.0
+    ],
+    [
+      -17.5,
+      -6.0
+    ],
+    [
+      -17.5,
+      0.0
+    ],
+    [
+      -17.5,
+      5.0
+    ],
+    [
+      -17.5,
+      11.0
+    ],
+    [
+      -17.5,
+      16.0
+    ],
+    [
+      -17.5,
+      22.0
+    ],
+    [
+      -17.5,
+      27.0
+    ],
+    [
+      -10.5,
+      -22.0
+    ],
+    [
+      -10.5,
+      -17.0
+    ],
+    [
+      -10.5,
+      -11.0
+    ],
+    [
+      -10.5,
+      -6.0
+    ],
+    [
+      -10.5,
+      0.0
+    ],
+    [
+      -10.5,
+      5.0
+    ],
+    [
+      -10.5,
+      11.0
+    ],
+    [
+      -10.5,
+      16.0
+    ],
+    [
+      -10.5,
+      22.0
+    ],
+    [
+      -10.5,
+      27.0
+    ],
+    [
+      -3.5,
+      -22.0
+    ],
+    [
+      -3.5,
+      -17.0
+    ],
+    [
+      -3.5,
+      -11.0
+    ],
+    [
+      -3.5,
+      -6.0
+    ],
+    [
+      -3.5,
+      0.0
+    ],
+    [
+      -3.5,
+      5.0
+    ],
+    [
+      -3.5,
+      11.0
+    ],
+    [
+      -3.5,
+      16.0
+    ],
+    [
+      -3.5,
+      22.0
+    ],
+    [
+      -3.5,
+      27.0
+    ],
+    [
+      3.5,
+      -22.0
+    ],
+    [
+      3.5,
+      -17.0
+    ],
+    [
+      3.5,
+      -11.0
+    ],
+    [
+      3.5,
+      -6.0
+    ],
+    [
+      3.5,
+      0.0
+    ],
+    [
+      3.5,
+      5.0
+    ],
+    [
+      3.5,
+      11.0
+    ],
+    [
+      3.5,
+      16.0
+    ],
+    [
+      3.5,
+      22.0
+    ],
+    [
+      3.5,
+      27.0
+    ],
+    [
+      10.5,
+      -22.0
+    ],
+    [
+      10.5,
+      -17.0
+    ],
+    [
+      10.5,
+      -11.0
+    ],
+    [
+      10.5,
+      -6.0
+    ],
+    [
+      10.5,
+      0.0
+    ],
+    [
+      10.5,
+      5.0
+    ],
+    [
+      10.5,
+      11.0
+    ],
+    [
+      10.5,
+      16.0
+    ],
+    [
+      10.5,
+      22.0
+    ],
+    [
+      10.5,
+      27.0
+    ],
+    [
+      17.5,
+      -22.0
+    ],
+    [
+      17.5,
+      -17.0
+    ],
+    [
+      17.5,
+      -11.0
+    ],
+    [
+      17.5,
+      -6.0
+    ],
+    [
+      17.5,
+      0.0
+    ],
+    [
+      17.5,
+      5.0
+    ],
+    [
+      17.5,
+      11.0
+    ],
+    [
+      17.5,
+      16.0
+    ],
+    [
+      17.5,
+      22.0
+    ],
+    [
+      17.5,
+      27.0
+    ]
+  ],
+  "node_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "atom_meta": [
+    {
+      "role": "sic",
+      "pair_idx": 0,
+      "label": "contradiction",
+      "text_preview": "A person with hat, long shirt, and jeans is standing in a stand of trees with no underbrush, bent over and examining the base of a tree, whi"
+    },
+    {
+      "role": "non",
+      "pair_idx": 0,
+      "label": "contradiction",
+      "text_preview": "The man in jeans and a hat is standing on the path looking at the trees."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 1,
+      "label": "entailment",
+      "text_preview": "One girl rides a horse while a woman appears to lead them across a park while two other horses walk in the near background, with a street an"
+    },
+    {
+      "role": "non",
+      "pair_idx": 1,
+      "label": "entailment",
+      "text_preview": "A woman leads a girl on a horse while two other horses stay off in the background."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 2,
+      "label": "neutral",
+      "text_preview": "Two very young boys and an adult are playing with big preschool Legos and a red dish-shaped play cushion that's filled with balls on a white"
+    },
+    {
+      "role": "non",
+      "pair_idx": 2,
+      "label": "neutral",
+      "text_preview": "Two boys and their father are playing with big preschool Legos and a red cushion."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 3,
+      "label": "contradiction",
+      "text_preview": "Two young men dressed in summer clothing of shorts and tank tops stand in front of a matching pair of pseudo rickshaws for transportation as"
+    },
+    {
+      "role": "non",
+      "pair_idx": 3,
+      "label": "contradiction",
+      "text_preview": "two young men dressed in winter clothes work by pulling rickshaws for others."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 4,
+      "label": "entailment",
+      "text_preview": "There are four canoes in the background, beautiful green grass, with three kids standing at the shore of the lake, that is crystal and crisp"
+    },
+    {
+      "role": "non",
+      "pair_idx": 4,
+      "label": "entailment",
+      "text_preview": "Three children stand near a clear lake and some canoes, while a fourth child sits in a kayak holding a paddle, dressed in red."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 5,
+      "label": "neutral",
+      "text_preview": "The Houston Texans quarterback is executing a play-action play with the running back against the NFC North-worst Minnesota Vikings, who are "
+    },
+    {
+      "role": "non",
+      "pair_idx": 5,
+      "label": "neutral",
+      "text_preview": "The Houston Texan quarterback is about to execute a trick play for a touchdown against the Minesota Vikings"
+    },
+    {
+      "role": "sic",
+      "pair_idx": 6,
+      "label": "contradiction",
+      "text_preview": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair ab"
+    },
+    {
+      "role": "non",
+      "pair_idx": 6,
+      "label": "contradiction",
+      "text_preview": "Photographers capture a male skateboarder performing tricks inside an abandoned building."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 7,
+      "label": "entailment",
+      "text_preview": "A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a p"
+    },
+    {
+      "role": "non",
+      "pair_idx": 7,
+      "label": "entailment",
+      "text_preview": "A black haired male stands on the street flipping a pankcake."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 8,
+      "label": "neutral",
+      "text_preview": "One girl rides a horse while a woman appears to lead them across a park while two other horses walk in the near background, with a street an"
+    },
+    {
+      "role": "non",
+      "pair_idx": 8,
+      "label": "neutral",
+      "text_preview": "A mother and daughter go horse back riding in an urban park."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 9,
+      "label": "contradiction",
+      "text_preview": "Two Middle Eastern men are in a kitchen while one is shirtless with a chest full of hair and a mustache is preparing fish and the other in a"
+    },
+    {
+      "role": "non",
+      "pair_idx": 9,
+      "label": "contradiction",
+      "text_preview": "Middle Eastern men are preparing pasta for dinner while staring at a camera."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 10,
+      "label": "entailment",
+      "text_preview": "Two Middle Eastern men are in a kitchen while one is shirtless with a chest full of hair and a mustache is preparing fish and the other in a"
+    },
+    {
+      "role": "non",
+      "pair_idx": 10,
+      "label": "entailment",
+      "text_preview": "Middle Eastern men are preparing fish in a kitchen."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 11,
+      "label": "neutral",
+      "text_preview": "A woman holding a pink balloon and wearing a fuzzy pink tiara, and a man with his head tilted slightly forward and smiling with his mouth wi"
+    },
+    {
+      "role": "non",
+      "pair_idx": 11,
+      "label": "neutral",
+      "text_preview": "An engaged couple stand next to each other, one holding a balloon, the other with his mouth open."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 12,
+      "label": "contradiction",
+      "text_preview": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair ab"
+    },
+    {
+      "role": "non",
+      "pair_idx": 12,
+      "label": "contradiction",
+      "text_preview": "A man is taking the picture of a skateboarder who is being taken by aliens."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 13,
+      "label": "entailment",
+      "text_preview": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair ab"
+    },
+    {
+      "role": "non",
+      "pair_idx": 13,
+      "label": "entailment",
+      "text_preview": "People take photos outdoors while a man performs exciting skateboarding tricks."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 14,
+      "label": "neutral",
+      "text_preview": "Three girls, outside on a lawn, pay attention to a small brown and white dog; the smallest girl, wearing a pink and white hat, has her hand "
+    },
+    {
+      "role": "non",
+      "pair_idx": 14,
+      "label": "neutral",
+      "text_preview": "Three girls out on the lawn are playing with a dog."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 15,
+      "label": "contradiction",
+      "text_preview": "A young man in a gray tee-shirt and gray sweatpants stands by a metal tiered shelf in an industrial kitchen, holding the top edge of the met"
+    },
+    {
+      "role": "non",
+      "pair_idx": 15,
+      "label": "contradiction",
+      "text_preview": "A man in all black stands in an industrial kitchen."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 16,
+      "label": "entailment",
+      "text_preview": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair ab"
+    },
+    {
+      "role": "non",
+      "pair_idx": 16,
+      "label": "entailment",
+      "text_preview": "A man photographs a skateboarder doing tricks."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 17,
+      "label": "neutral",
+      "text_preview": "There is one woman riding a bike and a man who is riding on a Segway personal transportation device while carrying a pole that blind people "
+    },
+    {
+      "role": "non",
+      "pair_idx": 17,
+      "label": "neutral",
+      "text_preview": "There is a woman riding on a bike and a man who is riding on a segway in the middle of the road."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 18,
+      "label": "contradiction",
+      "text_preview": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of"
+    },
+    {
+      "role": "non",
+      "pair_idx": 18,
+      "label": "contradiction",
+      "text_preview": "Two adults run across the street to get away from a red shirted person chasing them."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 19,
+      "label": "entailment",
+      "text_preview": "A man in a red shirt sits in a chair at a laundromat; the red hue of his shirt is repeated in the color of a tote bag suspended from the han"
+    },
+    {
+      "role": "non",
+      "pair_idx": 19,
+      "label": "entailment",
+      "text_preview": "A man sits at the laundromat and there is red all around him."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 20,
+      "label": "neutral",
+      "text_preview": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair ab"
+    },
+    {
+      "role": "non",
+      "pair_idx": 20,
+      "label": "neutral",
+      "text_preview": "A male skateboarder performs tricks outdoors for professional photographers."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 21,
+      "label": "contradiction",
+      "text_preview": "A dark-haired man in blue jeans and a light green polo is standing next to a man with khaki cargo shorts and a blue polo as they pose for a "
+    },
+    {
+      "role": "non",
+      "pair_idx": 21,
+      "label": "contradiction",
+      "text_preview": "A dark-haired man in a dress is taking pictures of the man in green cargo shorts."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 22,
+      "label": "entailment",
+      "text_preview": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair ab"
+    },
+    {
+      "role": "non",
+      "pair_idx": 22,
+      "label": "entailment",
+      "text_preview": "A man is taking the picture of a skateboarder who is performing a trick."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 23,
+      "label": "neutral",
+      "text_preview": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of"
+    },
+    {
+      "role": "non",
+      "pair_idx": 23,
+      "label": "neutral",
+      "text_preview": "Two adults walk across the street to get away from a red shirted person who is chasing them."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 24,
+      "label": "contradiction",
+      "text_preview": "This is a closeup of a young, innocent-looking boy with tousled hair who is holding with both hands what seems to be a plastic, green and or"
+    },
+    {
+      "role": "non",
+      "pair_idx": 24,
+      "label": "contradiction",
+      "text_preview": "A boy is holding a blue and red beach ball."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 25,
+      "label": "entailment",
+      "text_preview": "A man in a military uniform stands next to what appears to be a military k-9 dog, with a loudspeaker in the foreground, and other military p"
+    },
+    {
+      "role": "non",
+      "pair_idx": 25,
+      "label": "entailment",
+      "text_preview": "A military man stands next to a dog."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 26,
+      "label": "neutral",
+      "text_preview": "A child wearing bluish baggy shorts and shirt with a striped baseball hat, taking a picture with a camera placed on tripod stand in a grassy"
+    },
+    {
+      "role": "non",
+      "pair_idx": 26,
+      "label": "neutral",
+      "text_preview": "A child wearing baggy shorts is taking a picture for a photography album they are making."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 27,
+      "label": "contradiction",
+      "text_preview": "A man in a pink polo shirt sitting on a large yellow bench talking to a group of three other men while a woman wearing green sunglasses and "
+    },
+    {
+      "role": "non",
+      "pair_idx": 27,
+      "label": "contradiction",
+      "text_preview": "A man is talking to three men about a woman who is looking off to the left."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 28,
+      "label": "entailment",
+      "text_preview": "A man in a kilt tossing a log outside in front of some trees and bales of hay while many people look on, 7 of which are in front of a safety"
+    },
+    {
+      "role": "non",
+      "pair_idx": 28,
+      "label": "entailment",
+      "text_preview": "People watch as a man in a kilt tosses bales of hay."
+    },
+    {
+      "role": "sic",
+      "pair_idx": 29,
+      "label": "neutral",
+      "text_preview": "A man in a military uniform stands next to what appears to be a military k-9 dog, with a loudspeaker in the foreground, and other military p"
+    },
+    {
+      "role": "non",
+      "pair_idx": 29,
+      "label": "neutral",
+      "text_preview": "A military man stands next to his dog."
+    }
+  ],
+  "edges": [
+    {
+      "u": 0,
+      "v": 1,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 0,
+      "v": 10,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 2,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 1,
+      "v": 11,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 2,
+      "v": 3,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 2,
+      "v": 12,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 4,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 3,
+      "v": 13,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 4,
+      "v": 5,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 4,
+      "v": 14,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 6,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 5,
+      "v": 15,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 6,
+      "v": 7,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 6,
+      "v": 16,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 8,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 7,
+      "v": 17,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 8,
+      "v": 9,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 8,
+      "v": 18,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 9,
+      "v": 19,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 10,
+      "v": 11,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 10,
+      "v": 20,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 12,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 11,
+      "v": 21,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 12,
+      "v": 13,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 12,
+      "v": 22,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 14,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 13,
+      "v": 23,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 14,
+      "v": 15,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 14,
+      "v": 24,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 16,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 15,
+      "v": 25,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 16,
+      "v": 17,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 16,
+      "v": 26,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 18,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 17,
+      "v": 27,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 18,
+      "v": 19,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 18,
+      "v": 28,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 19,
+      "v": 29,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 20,
+      "v": 21,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 20,
+      "v": 30,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 22,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 21,
+      "v": 31,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 22,
+      "v": 23,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 22,
+      "v": 32,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 23,
+      "v": 24,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 23,
+      "v": 33,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 24,
+      "v": 25,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 24,
+      "v": 34,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 25,
+      "v": 26,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 25,
+      "v": 35,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 26,
+      "v": 27,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 26,
+      "v": 36,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 27,
+      "v": 28,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 27,
+      "v": 37,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 28,
+      "v": 29,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 28,
+      "v": 38,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 29,
+      "v": 39,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 30,
+      "v": 31,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 30,
+      "v": 40,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 31,
+      "v": 32,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 31,
+      "v": 41,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 32,
+      "v": 33,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 32,
+      "v": 42,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 33,
+      "v": 34,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 33,
+      "v": 43,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 34,
+      "v": 35,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 34,
+      "v": 44,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 35,
+      "v": 36,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 35,
+      "v": 45,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 36,
+      "v": 37,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 36,
+      "v": 46,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 37,
+      "v": 38,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 37,
+      "v": 47,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 38,
+      "v": 39,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 38,
+      "v": 48,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 39,
+      "v": 49,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 40,
+      "v": 41,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 40,
+      "v": 50,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 41,
+      "v": 42,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 41,
+      "v": 51,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 42,
+      "v": 43,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 42,
+      "v": 52,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 43,
+      "v": 44,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 43,
+      "v": 53,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 44,
+      "v": 45,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 44,
+      "v": 54,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 45,
+      "v": 46,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 45,
+      "v": 55,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 46,
+      "v": 47,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 46,
+      "v": 56,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 47,
+      "v": 48,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 47,
+      "v": 57,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 48,
+      "v": 49,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 48,
+      "v": 58,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 49,
+      "v": 59,
+      "distance": 7.0,
+      "is_pair": false
+    },
+    {
+      "u": 50,
+      "v": 51,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 51,
+      "v": 52,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 52,
+      "v": 53,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 53,
+      "v": 54,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 54,
+      "v": 55,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 55,
+      "v": 56,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 56,
+      "v": 57,
+      "distance": 5.0,
+      "is_pair": true
+    },
+    {
+      "u": 57,
+      "v": 58,
+      "distance": 6.0,
+      "is_pair": false
+    },
+    {
+      "u": 58,
+      "v": 59,
+      "distance": 5.0,
+      "is_pair": true
+    }
+  ],
+  "pair_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      14,
+      15
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      22,
+      23
+    ],
+    [
+      24,
+      25
+    ],
+    [
+      26,
+      27
+    ],
+    [
+      28,
+      29
+    ],
+    [
+      30,
+      31
+    ],
+    [
+      32,
+      33
+    ],
+    [
+      34,
+      35
+    ],
+    [
+      36,
+      37
+    ],
+    [
+      38,
+      39
+    ],
+    [
+      40,
+      41
+    ],
+    [
+      42,
+      43
+    ],
+    [
+      44,
+      45
+    ],
+    [
+      46,
+      47
+    ],
+    [
+      48,
+      49
+    ],
+    [
+      50,
+      51
+    ],
+    [
+      52,
+      53
+    ],
+    [
+      54,
+      55
+    ],
+    [
+      56,
+      57
+    ],
+    [
+      58,
+      59
+    ]
+  ],
+  "pair_labels": [
+    "contradiction",
+    "entailment",
+    "neutral",
+    "contradiction",
+    "entailment",
+    "neutral",
+    "contradiction",
+    "entailment",
+    "neutral",
+    "contradiction",
+    "entailment",
+    "neutral",
+    "contradiction",
+    "entailment",
+    "neutral",
+    "contradiction",
+    "entailment",
+    "neutral",
+    "contradiction",
+    "entailment",
+    "neutral",
+    "contradiction",
+    "entailment",
+    "neutral",
+    "contradiction",
+    "entailment",
+    "neutral",
+    "contradiction",
+    "entailment",
+    "neutral"
+  ]
+}

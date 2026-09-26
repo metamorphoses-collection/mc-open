@@ -1,0 +1,13 @@
+{
+  "text": "piege_du_lecteur",
+  "N": 50,
+  "E": 197,
+  "density": 0.1608,
+  "mis_ilp": 20,
+  "mis_greedy": 14,
+  "gap": 6,
+  "is_planar": false,
+  "batch_id": "5319ec04-9ca3-496d-9e61-2bbc430b975b",
+  "emulator": "EMU_MPS",
+  "shots": 1000
+}

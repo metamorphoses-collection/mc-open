@@ -1,0 +1,24 @@
+{
+  "N": 25,
+  "num_edges": 48,
+  "density": 0.16,
+  "min_pair_distance_um": 6.5,
+  "max_radius_um": 21.963,
+  "edge_distance_min_um": 6.5,
+  "edge_distance_max_um": 6.5,
+  "nonedge_distance_min_um": 9.192,
+  "spectral_gap_factor": 1.3132,
+  "MIS_size": 10,
+  "rigidity": 0.8,
+  "num_optima_capped": 3,
+  "blockade_um": 7.0,
+  "ell_um": 6.5,
+  "gates": {
+    "G1_spectral_gap_geq_1.20": true,
+    "G2_rho_geq_0.20": true,
+    "G3_optima_leq_100": true,
+    "G4_density_in_band": true,
+    "G5_FRESNEL_fits": true
+  },
+  "all_gates_pass": true
+}

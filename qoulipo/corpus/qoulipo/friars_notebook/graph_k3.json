@@ -1,0 +1,198 @@
+{
+  "text_id": "friars_notebook",
+  "version": "v2",
+  "k": 3,
+  "threshold": 0.78,
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "N": 20,
+  "E": 41,
+  "density": 0.2158,
+  "nodes": [
+    "page_001",
+    "page_002",
+    "page_003",
+    "page_004",
+    "page_005",
+    "page_006",
+    "page_007",
+    "page_008",
+    "page_009",
+    "page_010",
+    "page_011",
+    "page_012",
+    "page_013",
+    "page_014",
+    "page_015",
+    "page_016",
+    "page_017",
+    "page_018",
+    "page_019",
+    "page_020"
+  ],
+  "edges": [
+    {
+      "source": "page_001",
+      "target": "page_003"
+    },
+    {
+      "source": "page_001",
+      "target": "page_009"
+    },
+    {
+      "source": "page_001",
+      "target": "page_010"
+    },
+    {
+      "source": "page_001",
+      "target": "page_011"
+    },
+    {
+      "source": "page_001",
+      "target": "page_013"
+    },
+    {
+      "source": "page_001",
+      "target": "page_014"
+    },
+    {
+      "source": "page_001",
+      "target": "page_015"
+    },
+    {
+      "source": "page_001",
+      "target": "page_016"
+    },
+    {
+      "source": "page_001",
+      "target": "page_017"
+    },
+    {
+      "source": "page_001",
+      "target": "page_018"
+    },
+    {
+      "source": "page_001",
+      "target": "page_020"
+    },
+    {
+      "source": "page_002",
+      "target": "page_006"
+    },
+    {
+      "source": "page_002",
+      "target": "page_011"
+    },
+    {
+      "source": "page_002",
+      "target": "page_012"
+    },
+    {
+      "source": "page_002",
+      "target": "page_016"
+    },
+    {
+      "source": "page_003",
+      "target": "page_007"
+    },
+    {
+      "source": "page_003",
+      "target": "page_015"
+    },
+    {
+      "source": "page_004",
+      "target": "page_014"
+    },
+    {
+      "source": "page_004",
+      "target": "page_016"
+    },
+    {
+      "source": "page_004",
+      "target": "page_020"
+    },
+    {
+      "source": "page_005",
+      "target": "page_009"
+    },
+    {
+      "source": "page_005",
+      "target": "page_013"
+    },
+    {
+      "source": "page_005",
+      "target": "page_017"
+    },
+    {
+      "source": "page_006",
+      "target": "page_008"
+    },
+    {
+      "source": "page_006",
+      "target": "page_012"
+    },
+    {
+      "source": "page_006",
+      "target": "page_017"
+    },
+    {
+      "source": "page_006",
+      "target": "page_018"
+    },
+    {
+      "source": "page_006",
+      "target": "page_019"
+    },
+    {
+      "source": "page_007",
+      "target": "page_009"
+    },
+    {
+      "source": "page_007",
+      "target": "page_013"
+    },
+    {
+      "source": "page_007",
+      "target": "page_015"
+    },
+    {
+      "source": "page_007",
+      "target": "page_020"
+    },
+    {
+      "source": "page_008",
+      "target": "page_018"
+    },
+    {
+      "source": "page_008",
+      "target": "page_019"
+    },
+    {
+      "source": "page_009",
+      "target": "page_012"
+    },
+    {
+      "source": "page_009",
+      "target": "page_014"
+    },
+    {
+      "source": "page_010",
+      "target": "page_011"
+    },
+    {
+      "source": "page_010",
+      "target": "page_013"
+    },
+    {
+      "source": "page_010",
+      "target": "page_016"
+    },
+    {
+      "source": "page_016",
+      "target": "page_018"
+    },
+    {
+      "source": "page_019",
+      "target": "page_020"
+    }
+  ]
+}

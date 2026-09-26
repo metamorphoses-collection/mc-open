@@ -1,0 +1,21 @@
+{
+  "text_id": "sonetti_dal_tesseratto",
+  "title": "Sonetti dal Tesseratto",
+  "lang": "IT",
+  "canonical_N": 16,
+  "canonical_graph_file": "graph_k8.json",
+  "canonical_E": 79,
+  "canonical_density": 0.6583,
+  "canonical_MIS": 4,
+  "canonical_rho": 1.0,
+  "canonical_optima": 1,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "NLP_k8_clean_source",
+  "type": "qoulipo_engineered",
+  "designed_property": "Tesseract-themed sonnet cycle (16 sonnets evoking the vertices of a 4-cube); canonical graph is NLP k=8 over multilingual-e5 embeddings.",
+  "project": "QOuLiPo",
+  "source_clean_for_embedding": true,
+  "literary_review_status": "Italian sonnets generated 2026-04-26 (Claude Sonnet, strict 14-line Petrarchan form). Quality: recognizable sonnets with hendecasyllabic approximation, ABBA/ABBA + CDC/DCD or CDE/CDE schemes. Native poet review still recommended for prosody refinement.",
+  "flagship_status": "NOT a flagship piece (per GPT-5.5 audit, 2026-04-26).",
+  "source_contract": "node_aligned"
+}

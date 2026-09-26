@@ -1,0 +1,25 @@
+### Bipartite Graph Properties
+
+| Property | Value |
+|----------|-------|
+| N (pages) | 50 |
+| Group A (Prosecution) | Pages 1-25 |
+| Group B (Defense) | Pages 26-50 |
+| Thread pool | 12 |
+| Threads per page | 5 |
+| Edge criterion | cosine sim >= 0.78 |
+| Non-edge criterion | cosine sim < 0.78 |
+| Target graph | Bipartite |
+| Target MIS | 25 |
+| MIS/N | 0.500 |
+| Chromatic number | 2 |
+| Recommended k | 8 |
+| Recommended threshold | 0.78 |
+
+### How Bipartiteness Is Enforced
+
+**Intra-group suppression**: Each prosecution page makes a distinct forensic argument (carbon dating, ink analysis, handwriting, etc.) using specialized vocabulary. Each defense page makes a distinct devotional argument (oral tradition, material witness, community faith, etc.) using specialized vocabulary. Two prosecution pages may share 2-3 threads but their specific sub-vocabulary diverges, keeping cosine similarity below the threshold.
+
+**Inter-group promotion**: Prosecution and defense pages address the same physical evidence (the bones, the inscription, the carbon dates, the parchment) from opposite perspectives. This shared evidentiary vocabulary pushes cosine similarity above the threshold, even when thread overlap is only 2. Pages with 3 shared threads consistently cross the threshold due to heavy keyword reinforcement.
+
+**Literary enforcement**: The Prosecutor uses forensic vocabulary throughout (contamination, anomaly, inconsistency, fabrication, protocol, chain of custody). The Defender uses devotional vocabulary throughout (devotion, tradition, sanctity, heritage, community, grace). These voice-specific vocabularies create orthogonal semantic dimensions that separate pages within each group while the shared trial vocabulary (bones, inscription, carbon, sarcophagus) connects pages across groups.

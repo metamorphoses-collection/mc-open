@@ -1,0 +1,21 @@
+{
+  "text_id": "galileo_dialogo",
+  "title": "Dialogo sopra i due massimi sistemi del mondo",
+  "author": "Galileo Galilei",
+  "lang": "IT",
+  "date": "1632",
+  "canonical_N": 65,
+  "canonical_graph_file": "graph_k8.json",
+  "canonical_E": 165,
+  "canonical_density": 0.0793,
+  "canonical_MIS": 23,
+  "canonical_rho": 0.3913,
+  "canonical_optima": 475,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "NLP_k8",
+  "source_contract": "chunked_400word_window",
+  "embedder": "intfloat/multilingual-e5-large-instruct",
+  "corpus_role": "natural",
+  "chunking": "400-word chunk (top-65 by degree)",
+  "sim_threshold": 0.78
+}

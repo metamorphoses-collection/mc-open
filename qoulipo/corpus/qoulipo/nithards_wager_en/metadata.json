@@ -1,0 +1,564 @@
+{
+  "text_id": "nithards_wager_en",
+  "title": "Nithard's Wager",
+  "lang": "EN",
+  "canonical_N": 50,
+  "canonical_graph_file": "graph_designed.json",
+  "canonical_E": 374,
+  "canonical_density": 0.3053,
+  "canonical_MIS": 14,
+  "canonical_rho": 0.5714,
+  "canonical_optima": 6,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "designed_knn",
+  "type": "qoulipo_engineered",
+  "designed_property": "Hard zone (d=0.305 at k=16)",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv (QOuLiPo: What a quantum computer sees when it reads a book)",
+  "threads_per_page": {
+    "page_001": {
+      "title": "## Version 2b (Revised) -- 100 pages under graph-theory constraint"
+    },
+    "page_002": {
+      "title": "#### PAGE 1 -- The Opening of the Maliettes",
+      "threads": [
+        "WAGER",
+        "FAITH",
+        "SWORD",
+        "PARCHMENT",
+        "GAME"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_003": {
+      "title": "#### PAGE 2 -- Fontenoy in the Rain",
+      "threads": [
+        "CHRONICLE",
+        "TONGUE",
+        "FAITH",
+        "SWORD",
+        "GAME"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_004": {
+      "title": "#### PAGE 3 -- The Monks' Codex",
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "FAITH",
+        "PARCHMENT",
+        "MALIETTE"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_005": {
+      "title": "#### PAGE 4 -- The Graph of Betrayals",
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "NUMBER",
+        "SWORD",
+        "MALIETTE"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_006": {
+      "title": "#### PAGE 5 -- The Vernacular as Constraint",
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "CONSPIRACY",
+        "TONGUE",
+        "GAME"
+      ],
+      "voice": "PASCAL"
+    },
+    "page_007": {
+      "title": "#### PAGE 6 -- The Professor Counts the Silences",
+      "threads": [
+        "CHRONICLE",
+        "NUMBER",
+        "FAITH",
+        "PARCHMENT",
+        "GAME"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_008": {
+      "title": "#### PAGE 7 -- The Bones of the Graph",
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "CONSPIRACY",
+        "NUMBER",
+        "PARCHMENT"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_009": {
+      "title": "#### PAGE 8 -- The Wager of the Maliettes",
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "FAITH",
+        "SWORD",
+        "MALIETTE"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_010": {
+      "title": "#### PAGE 9 -- The Probability of the Sacred",
+      "threads": [
+        "WAGER",
+        "TONGUE",
+        "NUMBER",
+        "FAITH",
+        "PARCHMENT"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_011": {
+      "title": "#### PAGE 10 -- The Tongue in the Vellum",
+      "threads": [
+        "TONGUE",
+        "NUMBER",
+        "FAITH",
+        "PARCHMENT",
+        "MALIETTE"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_012": {
+      "title": "#### PAGE 11 -- The Infinity of the Gain",
+      "threads": [
+        "WAGER",
+        "NUMBER",
+        "FAITH",
+        "SWORD",
+        "GAME"
+      ],
+      "voice": "PASCAL"
+    },
+    "page_013": {
+      "title": "#### PAGE 12 -- The Workshop of Forgeries",
+      "threads": [
+        "CONSPIRACY",
+        "NUMBER",
+        "PARCHMENT",
+        "MALIETTE",
+        "GAME"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_014": {
+      "title": "#### PAGE 13 -- The Belief Carried",
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "FAITH",
+        "MALIETTE",
+        "GAME"
+      ],
+      "voice": "PASCAL"
+    },
+    "page_015": {
+      "title": "#### PAGE 14 -- The Enumeration of Frauds",
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "NUMBER",
+        "PARCHMENT",
+        "GAME"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_016": {
+      "title": "#### PAGE 15 -- Faith Under Constraint",
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "FAITH",
+        "PARCHMENT",
+        "GAME"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_017": {
+      "title": "#### PAGE 16 -- The Vellum and the Blade",
+      "threads": [
+        "TONGUE",
+        "FAITH",
+        "SWORD",
+        "PARCHMENT",
+        "MALIETTE"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_018": {
+      "title": "#### PAGE 17 -- The Nithardosaurus Watches",
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "NUMBER",
+        "FAITH",
+        "GAME"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_019": {
+      "title": "#### PAGE 18 -- Port-Royal Burns",
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "FAITH",
+        "SWORD",
+        "PARCHMENT"
+      ],
+      "voice": "PASCAL"
+    },
+    "page_020": {
+      "title": "#### PAGE 19 -- The Stake of the Vellum",
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "NUMBER",
+        "FAITH",
+        "PARCHMENT"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_021": {
+      "title": "#### PAGE 20 -- The Oath of the Blade",
+      "threads": [
+        "WAGER",
+        "TONGUE",
+        "FAITH",
+        "SWORD",
+        "PARCHMENT"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_022": {
+      "title": "#### PAGE 21 -- The Conspiracy of the Game",
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "SWORD",
+        "PARCHMENT",
+        "GAME"
+      ],
+      "voice": "PASCAL"
+    },
+    "page_023": {
+      "title": "#### PAGE 22 -- The Chronicle Carried",
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "TONGUE",
+        "SWORD",
+        "MALIETTE"
+      ],
+      "voice": "PASCAL"
+    },
+    "page_024": {
+      "title": "#### PAGE 23 -- The Vernacular of Chimeras",
+      "threads": [
+        "CONSPIRACY",
+        "TONGUE",
+        "NUMBER",
+        "PARCHMENT",
+        "MALIETTE"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_025": {
+      "title": "#### PAGE 24 -- The Risk of Vertices",
+      "threads": [
+        "WAGER",
+        "NUMBER",
+        "SWORD",
+        "MALIETTE",
+        "GAME"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_026": {
+      "title": "#### PAGE 25 -- The Chronicler's Sestina",
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "NUMBER",
+        "PARCHMENT",
+        "GAME"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_027": {
+      "title": "#### PAGE 26 -- The Relic of the Tongue",
+      "threads": [
+        "CONSPIRACY",
+        "TONGUE",
+        "FAITH",
+        "PARCHMENT",
+        "GAME"
+      ],
+      "voice": "PASCAL"
+    },
+    "page_028": {
+      "title": "#### PAGE 27 -- The Calculation of the Forge",
+      "threads": [
+        "TONGUE",
+        "NUMBER",
+        "SWORD",
+        "MALIETTE",
+        "GAME"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_029": {
+      "title": "#### PAGE 28 -- The Chronicle of Vertices",
+      "threads": [
+        "CHRONICLE",
+        "TONGUE",
+        "NUMBER",
+        "SWORD",
+        "GAME"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_030": {
+      "title": "#### PAGE 29 -- The Bones Enumerated",
+      "threads": [
+        "CONSPIRACY",
+        "NUMBER",
+        "FAITH",
+        "SWORD",
+        "PARCHMENT"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_031": {
+      "title": "#### PAGE 30 -- Invention in the Reliquary",
+      "threads": [
+        "CONSPIRACY",
+        "FAITH",
+        "PARCHMENT",
+        "MALIETTE",
+        "GAME"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_032": {
+      "title": "#### PAGE 31 -- The Ambulant Parchment",
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "TONGUE",
+        "PARCHMENT",
+        "GAME"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_033": {
+      "title": "#### PAGE 32 -- The Cavalry of Numbers",
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "NUMBER",
+        "SWORD",
+        "MALIETTE"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_034": {
+      "title": "#### PAGE 33 -- The Lipogram of Battles",
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "TONGUE",
+        "SWORD",
+        "GAME"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_035": {
+      "title": "#### PAGE 34 -- The Number in the Prayer",
+      "threads": [
+        "TONGUE",
+        "NUMBER",
+        "FAITH",
+        "MALIETTE",
+        "GAME"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_036": {
+      "title": "#### PAGE 35 -- The Codex in the Maliette",
+      "threads": [
+        "CHRONICLE",
+        "SWORD",
+        "PARCHMENT",
+        "MALIETTE",
+        "GAME"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_037": {
+      "title": "#### PAGE 36 -- The Workshop's Wager",
+      "threads": [
+        "WAGER",
+        "FAITH",
+        "SWORD",
+        "MALIETTE",
+        "GAME"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_038": {
+      "title": "#### PAGE 37 -- The Chance of Blades",
+      "threads": [
+        "WAGER",
+        "NUMBER",
+        "FAITH",
+        "SWORD",
+        "MALIETTE"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_039": {
+      "title": "#### PAGE 38 -- The Chronicle of Grace",
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "FAITH",
+        "PARCHMENT",
+        "GAME"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_040": {
+      "title": "#### PAGE 39 -- The Architecture of Risk",
+      "threads": [
+        "WAGER",
+        "NUMBER",
+        "SWORD",
+        "PARCHMENT",
+        "MALIETTE"
+      ],
+      "voice": "PASCAL"
+    },
+    "page_041": {
+      "title": "#### PAGE 40 -- The Chimera of Strasbourg",
+      "threads": [
+        "CHRONICLE",
+        "TONGUE",
+        "SWORD",
+        "MALIETTE",
+        "GAME"
+      ],
+      "voice": "PASCAL"
+    },
+    "page_042": {
+      "title": "#### PAGE 41 -- The Faith Carried",
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "TONGUE",
+        "FAITH",
+        "MALIETTE"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_043": {
+      "title": "#### PAGE 42 -- The Oath on the Vellum",
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "TONGUE",
+        "SWORD",
+        "PARCHMENT"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_044": {
+      "title": "#### PAGE 43 -- The Linguistic Conspiracy",
+      "threads": [
+        "CHRONICLE",
+        "CONSPIRACY",
+        "TONGUE",
+        "NUMBER",
+        "SWORD"
+      ],
+      "voice": "PASCAL"
+    },
+    "page_045": {
+      "title": "#### PAGE 44 -- The Latin of Prayer",
+      "threads": [
+        "TONGUE",
+        "NUMBER",
+        "FAITH",
+        "SWORD",
+        "PARCHMENT"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_046": {
+      "title": "#### PAGE 45 -- The Conspiracy of Rules",
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "TONGUE",
+        "SWORD",
+        "GAME"
+      ],
+      "voice": "PROFESSOR"
+    },
+    "page_047": {
+      "title": "#### PAGE 46 -- The Charge of Words",
+      "threads": [
+        "WAGER",
+        "CHRONICLE",
+        "TONGUE",
+        "SWORD",
+        "GAME"
+      ],
+      "voice": "PASCAL"
+    },
+    "page_048": {
+      "title": "#### PAGE 47 -- The Calculation of Forgeries",
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "NUMBER",
+        "SWORD",
+        "PARCHMENT"
+      ],
+      "voice": "PASCAL"
+    },
+    "page_049": {
+      "title": "#### PAGE 48 -- The Game of the Copyists",
+      "threads": [
+        "WAGER",
+        "CONSPIRACY",
+        "TONGUE",
+        "PARCHMENT",
+        "GAME"
+      ],
+      "voice": "NITHARD"
+    },
+    "page_050": {
+      "title": "#### PAGE 49 -- Ink and Blade",
+      "threads": [
+        "WAGER",
+        "TONGUE",
+        "SWORD",
+        "PARCHMENT",
+        "GAME"
+      ],
+      "voice": "NITHARD"
+    }
+  },
+  "literary_status": "Source pages contain literary content only; per-page thread allocations and voice/role/form metadata are recorded above in threads_per_page (not in source/).",
+  "source_contract": "node_aligned"
+}

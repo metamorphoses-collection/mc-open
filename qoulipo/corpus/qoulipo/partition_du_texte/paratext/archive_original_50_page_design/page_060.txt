@@ -1,0 +1,10 @@
+**Constraint verification:**
+- Pages per form: 10/10/10/10/10. PASS.
+- Threads per page: 5. PASS.
+- Thread balance: each of 10 threads appears 25 times. PERFECT.
+- Keywords per sentence: 2-3 thread terms. PASS.
+- Alexandrines: French, 12-syllable lines (approximate). PASS.
+- Sonnets: English, 14 lines (two octets of 14 lines each = 28 lines per page). PASS.
+- Terza rima: English, ABA BCB interlocking tercets. PASS.
+- Haiku: English, 5-7-5 tercets. PASS.
+- Free verse: English, anaphoric opening per paragraph. PASS.

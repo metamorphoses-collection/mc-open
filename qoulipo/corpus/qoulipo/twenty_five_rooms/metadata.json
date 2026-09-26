@@ -1,0 +1,22 @@
+{
+  "text_id": "twenty_five_rooms",
+  "title": "The Twenty-Five Rooms",
+  "lang": "EN",
+  "canonical_N": 25,
+  "canonical_graph_file": "graph_target.json",
+  "canonical_E": 72,
+  "canonical_density": 0.24,
+  "canonical_MIS": 9,
+  "canonical_rho": 1.0,
+  "canonical_optima": 1,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "exact_2D_UDG_king5x5",
+  "author": "Christophe Jurczak (QOuLiPo constrained text)",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv",
+  "designed_property": "King 5x5 exact 2D UDG (EN twin of venticinque_stanze)",
+  "register_target": "2D, exact",
+  "twin_of": "venticinque_stanze",
+  "type": "qoulipo_engineered",
+  "source_contract": "node_aligned"
+}

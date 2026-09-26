@@ -1,0 +1,23 @@
+{
+  "text_id": "jumeaux_fr",
+  "title": "Les Jumeaux du Graphe (French)",
+  "lang": "FR",
+  "canonical_N": 30,
+  "canonical_graph_file": "graph_target_shared.json",
+  "canonical_E": 38,
+  "canonical_density": 0.0874,
+  "canonical_MIS": 14,
+  "canonical_rho": 0.0,
+  "canonical_optima": 21,
+  "canonical_optima_cap_reached": false,
+  "graph_mode": "designed_shared_isomorphic",
+  "type": "qoulipo_engineered",
+  "designed_property": "Shared designed graph across EN+FR (isomorphic by construction; same edge list)",
+  "project": "QOuLiPo",
+  "paper": "Jurczak 2026, arXiv",
+  "register_target": "2D embedding requires SA",
+  "twin_of": "jumeaux_en",
+  "accent_restoration_note": "Accent restoration: first-pass automated via curated word-level dictionary (corpus/_restore_accents.py); covers ~70 common forms. Native French review recommended before final publication; many proper nouns and ambiguous past-participles remain unaccented or may need correction.",
+  "graph_status": "Canonical graph is graph_target_shared.json — a designed sparse edge list shared across the EN and FR variants by construction (cross-lingual isomorphism). graph_k8.json is an NLP validation artifact only.",
+  "source_contract": "node_aligned"
+}
