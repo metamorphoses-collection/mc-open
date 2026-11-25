@@ -24,7 +24,7 @@ qgf/
     synthetic/             cycle-parity scores on constructed windows
 ```
 
-## Figures and quoted numbers
+## Figures and main results
 
 | Item | Where | What it reproduces |
 | --- | --- | --- |
