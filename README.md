@@ -13,6 +13,7 @@ manuscript → print).
 |---|---|---|
 | [`editions/`](editions/) | MC Editions: diplomatic Latin texts with English translation, apparatus, IIIF manifests and **TEI P5** — Bavarius, *Musa Catholica* (1622); Capilupi, *Centones ex Virgilio* (c. 1555); Ross, *Christiados libri XIII* (1653) — and the tools used to establish them | texts & data CC BY 4.0 · code MIT |
 | [`qoulipo/`](qoulipo/) | QOuLiPo: literary text-graphs for Maximum Independent Set on neutral-atom quantum hardware — corpus, generation pipeline, analysis scripts, paper source | CC BY 4.0 · code MIT |
+| [`qgf/`](qgf/) | Registers, hardware bitstrings, emulation and figure sources for the paper *The page is already a lattice* (Folio, mosaic, die-link, and the derived nine-copy measurements of Figure 3) | data CC BY 4.0 · code MIT |
 | [`orsini/`](orsini/) | Orsini concordance: the Roman Republican coins of Orsini's *Familiae Romanae* (1577) linked to modern references — mirror of the Zenodo release v2.0 | CC BY 4.0 |
 | [`gis/paestum/`](gis/paestum/) | A georeferenced GIS of ancient Poseidonia / Paestum (EPSG:32633), an interactive web map, and the collection's GPS-placed site photographs | vectors © OpenStreetMap contributors, ODbL · photographs CC BY 4.0 · code MIT |
 | [`gis/surius-vade-vade/`](gis/surius-vade-vade/) | Roads, routes and the Mautern / Favianis site for the late-Roman Norican frontier | Itiner-e CC BY 4.0 · OSM ODbL · own routes CC BY 4.0 |
