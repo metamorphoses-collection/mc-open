@@ -1,4 +1,4 @@
-"""One palette for every figure of the EPJ QT paper (24 Nov 2026, CJ: 'put a bit of coherence in the colors in the graphs').
+"""One colour palette shared by every figure of the paper.
 
 Anchored on Fig. 1 (encodings_objects.png), whose register colours were already set: the same colour means the same thing
 in every figure. Colour-blind check (Machado 2009 protan/deutan simulation): EVENT, INK, NEUTRAL and SECOND stay separated

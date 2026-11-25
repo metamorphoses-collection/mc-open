@@ -1,5 +1,5 @@
 # PREFLIGHT-EXEMPT: figure script; reads saved results and register coordinates only, submits nothing.
-"""EPJ Fig. 3: the press state of nine copies, from the derived contrasts and window loci in data/ninecopy/."""
+"""Fig. 3: the press state of nine copies, from the derived contrasts and window loci in data/ninecopy/."""
 import json, numpy as np, matplotlib
 matplotlib.use("Agg"); import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
@@ -67,6 +67,6 @@ fig.legend([Line2D([], [], ls="none", marker="o", ms=7, mfc=EVENT, mec="k"), Lin
             "$F_6$, two-atom locus", "$F_6$, five-atom locus"],
            fontsize=8.3, loc="lower center", bbox_to_anchor=(0.5, -0.135), ncol=4, frameon=False, columnspacing=1.1, handletextpad=0.3)
 plt.tight_layout()
-out = HERE / "epj_p4_press.png"
+out = HERE / "fig3_nine_copies.png"
 plt.savefig(out, dpi=220, bbox_inches="tight")
 print("saved", out, "F6 two-atom", dict(zip(names, np.round(F2, 3))), "five-atom", dict(zip(names, np.round(F5, 3))))

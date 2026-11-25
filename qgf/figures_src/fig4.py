@@ -1,5 +1,5 @@
 # PREFLIGHT-EXEMPT: figure script; reads saved results only, submits nothing.
-"""EPJ Fig. 4: each register's response on Ruby against its chi=600 emulation.
+"""Fig. 4: each register's response on Ruby against its chi=600 emulation.
 Rows: First Folio window, Marseille mosaic, Tarentine die-link register.
 Photographs and the Eucharisticos page-image row used in earlier drafts are not loaded; they are not in this deposit.
 The published figure is the three-row dynamics panel."""

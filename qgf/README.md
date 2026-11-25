@@ -1,6 +1,6 @@
 # qgf — historical objects as native registers
 
-Data and analysis code for the paper *The page is already a lattice: historical objects as native registers on neutral-atom quantum processors* (Jurczak, submitted to *EPJ Quantum Technology*).
+Data and analysis code for the paper *The page is already a lattice: historical objects as native registers on neutral-atom quantum processors* (C. Jurczak, 2026).
 
 The folder holds what is needed to reproduce the paper's figures, tables and quoted numbers: the registers, the hardware bitstrings and emulator traces used in the figures, the derived measurements behind the tables, the analysis and figure scripts, and a public copy of the supplement. Page photographs, transcriptions and manuscript images are not stored here. The nine-copy deposit is limited to the derived contrasts, intervals and site loci of Figure 3, with short library labels.
 

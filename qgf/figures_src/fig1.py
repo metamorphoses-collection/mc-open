@@ -1,5 +1,5 @@
 # PREFLIGHT-EXEMPT: figure script; reads deposited registers only, submits nothing.
-"""Register panels for EPJ Fig. 1 (Folio window, Marseille mosaic, die-link graph).
+"""Register panels for Fig. 1 (Folio window, Marseille mosaic, die-link graph).
 The published figure also uses photographs of a Folio page, the pavement, three coins, and two
 Eucharisticos copies. Those images are not in this deposit, and this script does not load them."""
 import json, numpy as np, matplotlib

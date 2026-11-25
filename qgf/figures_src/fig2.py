@@ -1,5 +1,5 @@
 # PREFLIGHT-EXEMPT: figure script; reads saved results only, submits nothing.
-"""EPJ Fig. 2: (a) emulated light cone over 240 Folio windows; (b) hardware light cone, four windows on Ruby; (c) P3 river:
+"""Fig. 2: (a) emulated light cone over 240 Folio windows; (b) hardware light cone, four windows on Ruby; (c) P3 river:
 S_across for the twelve whole/split block pairs, three 1000-shot passes and the 3000-shot pool, with the parametric-null interval."""
 import json, numpy as np, networkx as nx, matplotlib
 matplotlib.use("Agg"); import matplotlib.pyplot as plt
@@ -97,5 +97,5 @@ a.set_ylabel(r"$S_{\rm across}$"); a.set_title("(c)", fontsize=11, loc="left")
 [sp.set_visible(False) for sp in (a.spines["top"], a.spines["right"])]
 a.legend(fontsize=8, loc="upper center", bbox_to_anchor=(0.5, -0.16), ncol=3, frameon=False, columnspacing=1.0, handletextpad=0.3)
 print("median S whole %.2e split %.2e ratio %.0f" % (mw, ms_, mw / ms_))
-out = HERE / "epj_cone_river.png"
+out = HERE / "fig2_cone_river.png"
 plt.savefig(out, dpi=220, bbox_inches="tight"); print("saved", out)
