@@ -1,12 +1,6 @@
-"""Addressability on a humanities case (mosaics), fixed before running; descriptive demonstration, no pass rule.
-Four 4 x 5 tessera patches (N <= 20, one tessera missing as a defect), each with a coloured figure of 5-8 tesserae. Exact state vector
-(torch, GPU), units J_NN = 1 at unit spacing, V = r^-6, from the all-ground state:
-  GLOBAL  = what Ruby does today: one global drive, Omega = 0.3, delta = 0 (antiferromagnetic quench), the register knows only positions;
-  LOCAL   = local addressing: the same drive plus a per-atom detuning delta_i = 1.0 * colour_i (figure tesserae detuned).
-Eight patches: four with interior figures, four with figures on the edges (so figure and neighbour count do not coincide); also
-the correlation with the figure after regressing out the static field. Readout <n_i> at t = 40 (J units). Reported per patch and condition: correlation of <n_i> with the figure (colour) and with the figure's
-outline (figure tesserae touching background); the classical interaction field F_i = sum_j r^-6 for comparison. Figure: colours |
-GLOBAL <n> | LOCAL <n> per patch."""
+"""Local-addressing simulation on a 20-atom triangular patch: a detuning is applied to one interior site and the occupation response is compared with the same detuning applied uniformly."""
+from pathlib import Path
+import sys
 import json, sys, numpy as np, torch
 dev = "cuda" if torch.cuda.is_available() else "cpu"
 R, C = 4, 5
@@ -45,4 +39,5 @@ for name, P in PATCHES.items():
     out[name] = dict(cells=cells, colour=col.tolist(), outline=outline.tolist(), n_global=nG.tolist(), n_local=nL.tolist(), field=F.tolist(),
                      corr=dict(global_vs_figure=cc(nG, col), local_vs_figure=cc(nL, col), global_vs_outline=cc(nG, outline), local_vs_outline=cc(nL, outline), field_vs_figure=cc(F, col), global_vs_figure_given_field=partial(nG, F, col), local_vs_figure_given_field=partial(nL, F, col)))
     print(name, {k: round(v, 2) for k, v in out[name]["corr"].items()}, flush=True)
-json.dump(out, open(sys.argv[1], "w"))
+out_path = sys.argv[1] if len(sys.argv) > 1 else str(Path(__file__).resolve().parents[1] / 'data/mosaic/addressing.json')
+json.dump(out, open(out_path, "w")); print('wrote', out_path)

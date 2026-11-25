@@ -1,7 +1,0 @@
-  RRWP                 MAE 0.474 ± 0.026
-  RRWP+field           MAE 0.018 ± 0.002
-  RRWP+quench          MAE 0.091 ± 0.010
-  RRWP+field+quench    MAE 0.038 ± 0.004
-  RRWP+quench beats RRWP+field: 0/15, p=1.0000, ΔMAE +0.0727
-  RRWP+field+quench beats RRWP+field: 0/15, p=1.0000, ΔMAE +0.0199
-  RRWP+field beats RRWP: 15/15, p=0.0000, ΔMAE -0.4559

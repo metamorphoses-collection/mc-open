@@ -1,0 +1,27 @@
+{
+  "note": "Neighbour-count MAE matches Table 3. Cell values and held-out group MAEs are in cv_errors.json. The dislocation AUROC row is the Table 3 value; mosaic_100.json holds the features and labels needed to recompute it.",
+  "neighbours_MAE": {
+    "Folio, 240 windows": {
+      "RRWP": 0.474,
+      "RRWP+quench": 0.091,
+      "RRWP+field": 0.018
+    },
+    "Mosaics G1, 100 windows": {
+      "RRWP": 0.161,
+      "RRWP+quench": 0.097,
+      "RRWP+field": 0.027
+    },
+    "Mosaics G3, 101 windows": {
+      "RRWP": 0.414,
+      "RRWP+quench": 0.147,
+      "RRWP+field": 0.032
+    }
+  },
+  "dislocation_AUROC": {
+    "Mosaics G1": {
+      "RRWP": 0.845,
+      "RRWP+quench": 0.867,
+      "RRWP+field": 0.893
+    }
+  }
+}

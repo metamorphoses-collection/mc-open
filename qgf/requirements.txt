@@ -1,0 +1,6 @@
+numpy
+matplotlib
+networkx
+scipy
+scikit-learn
+# torch is optional; needed only for analysis/mosaic_addressing.py
